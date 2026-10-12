@@ -21,7 +21,49 @@ export const author = {
 export const nav: { label: string; href: string }[] = [
   { label: "Women's Health", href: '/womens-health/' },
   { label: 'Reviews', href: '/#latest-reviews' },
-  { label: 'How We Review', href: '/#how-we-review' },
+  { label: 'How We Review', href: '/editorial-policy/' },
+];
+
+export const footerLinks: { label: string; href: string }[] = [
+  { label: 'About Us', href: '/about/' },
+  { label: 'Editorial Policy', href: '/editorial-policy/' },
+  { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
+  { label: 'Medical Disclaimer', href: '/medical-disclaimer/' },
+  { label: 'Privacy Policy', href: '/privacy-policy/' },
+  { label: 'Terms of Use', href: '/terms-of-use/' },
+  { label: 'Contact', href: '/contact/' },
+];
+
+// The five criteria every product review is scored on (0 to 10 each).
+export const reviewCriteria = [
+  {
+    name: 'Ingredients',
+    text: 'Is each ingredient backed by research for the use the label suggests? Is the dose disclosed and in a sensible range?',
+  },
+  {
+    name: 'Transparency',
+    text: 'Does the manufacturer show a full label, explain who makes the product, and avoid claims it cannot support?',
+  },
+  {
+    name: 'Value',
+    text: 'What does a realistic month of use cost compared with similar products?',
+  },
+  {
+    name: 'Guarantee',
+    text: 'How long is the refund window, what are the conditions, and is it easy to use?',
+  },
+  {
+    name: 'Customer feedback',
+    text: 'What are buyers saying in public, both good and bad? We summarize patterns and never invent quotes.',
+  },
+];
+
+export const promises = [
+  'We never publish fake testimonials, made-up ratings, or invented "user results."',
+  'We never claim a supplement cures, treats, or prevents a disease.',
+  'We never use fake countdowns or "only 3 left" pressure.',
+  'Every review lists real downsides, not just selling points.',
+  'We do not run lab tests or clinical trials, and we will not pretend we did.',
 ];
 
 export const disclaimers = {

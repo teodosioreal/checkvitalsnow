@@ -1,0 +1,82 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, reviewCriteria, promises } from '../data/site';
+---
+
+<PageLayout
+  title="Editorial Policy: How We Review | CheckVitalsNow"
+  description="How CheckVitalsNow researches, scores, and updates supplement reviews: our sources, our five rating criteria, and the rules we never break."
+  h1="Editorial Policy: How We Review Supplements"
+>
+  <p>
+    Supplement marketing is loud, and many "reviews" online are sales pages in disguise. This page explains exactly how
+    we work, so you can judge our reviews for yourself.
+  </p>
+
+  <h2>What our reviews are based on</h2>
+  <p>
+    Every review is based on the official formula, the ingredient research, the manufacturer's policies, and publicly
+    available customer feedback. In practice, that means we check:
+  </p>
+  <ul>
+    <li>The product label and the manufacturer's official website.</li>
+    <li>
+      Published research on the key ingredients, preferably from primary sources such as PubMed, the National Institutes
+      of Health (NIH), and peer-reviewed journals.
+    </li>
+    <li>The price, the refund or money-back terms, and where the product is officially sold.</li>
+    <li>Public customer feedback, both positive and negative.</li>
+  </ul>
+  <p>
+    We do not run lab tests or clinical trials, and we do not claim personal results we did not have. When we have not
+    been able to confirm a detail, such as an ingredient amount, we say so.
+  </p>
+
+  <h2>How we score products</h2>
+  <p>Product reviews score each supplement from 0 to 10 on the same five criteria, so one review can be compared with another:</p>
+  <ol>
+    {
+      reviewCriteria.map((c) => (
+        <li>
+          <strong>{c.name}:</strong> {c.text}
+        </li>
+      ))
+    }
+  </ol>
+  <p>
+    Comparison lists, such as our <a href="/best/bladder-supplements-for-women/">best bladder supplements for women</a>,
+    use criteria and weights that fit the question the list answers. Those criteria and weights are always published on
+    the list itself, and the #1 pick has to be defensible by them.
+  </p>
+
+  <h2>Health claims and safety</h2>
+  <p>
+    Dietary supplements are not approved by the FDA to diagnose, treat, cure, or prevent any disease, and we never say
+    they do. We describe what manufacturers claim as their claims, report what the research does and does not show, and
+    include a safety section that says who should talk to a doctor first. Every health guide includes the warning signs
+    that mean you should see a doctor.
+  </p>
+
+  <h2>Our rules</h2>
+  <ul>
+    {promises.map((p) => <li>{p}</li>)}
+    <li>
+      If we show customer testimonials, they come from the manufacturer's own materials and are clearly labeled as such.
+      We cannot verify them, and we say so.
+    </li>
+  </ul>
+
+  <h2>Affiliate links and independence</h2>
+  <p>
+    {site.name} earns commissions from some links. Commissions never decide a product's score, and products without an
+    affiliate link can appear in our lists when they deserve to. See our <a href="/affiliate-disclosure/">affiliate
+    disclosure</a> for details.
+  </p>
+
+  <h2>Updates and corrections</h2>
+  <p>
+    Formulas, prices, and guarantees change. Each page shows when it was last updated, and we revise pages when we learn
+    that something has changed. If you find an error, please tell us through our <a href="/contact/">contact page</a>,
+    and we will check it and correct it.
+  </p>
+</PageLayout>

@@ -1,0 +1,53 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, disclaimers } from '../data/site';
+---
+
+<PageLayout
+  title="Affiliate Disclosure | CheckVitalsNow"
+  description="How CheckVitalsNow earns money through affiliate links, how those links work, and why commissions never decide what we say about a product."
+  h1="Affiliate Disclosure"
+>
+  <blockquote>{disclaimers.affiliate}</blockquote>
+
+  <h2>What this means</h2>
+  <p>
+    {site.name} is free to read. To pay for it, some links on our site are affiliate links. When you click one and buy
+    something, the seller or an affiliate network may pay us a commission. You do not pay more because you used our link.
+  </p>
+  <p>
+    We work with affiliate networks such as Digistore24 and with individual sellers. Which links are affiliate links can
+    change over time.
+  </p>
+
+  <h2>How to recognize affiliate links</h2>
+  <ul>
+    <li>Every page with affiliate links shows a disclosure at the top, before the first link.</li>
+    <li>
+      Affiliate links on our site go through a short address that starts with <code>/go/</code>, which then sends you to
+      the seller's website.
+    </li>
+    <li>Buttons such as "Check Price on Official Website" are usually affiliate links.</li>
+  </ul>
+
+  <h2>Our independence</h2>
+  <p>
+    A commission never decides a product's score or its place in a list. Every review lists real downsides and a safety
+    section, and we include products without affiliate links in our comparisons when they deserve a place. You can read
+    how we score products in our <a href="/editorial-policy/">editorial policy</a>.
+  </p>
+
+  <h2>Prices and offers</h2>
+  <p>
+    Prices, discounts, bonuses, and guarantees are set by the seller and can change at any time. Always confirm the
+    current terms on the seller's official website before you buy. Your purchase is a contract between you and the
+    seller, not {site.name}.
+  </p>
+
+  <h2>Why we tell you this</h2>
+  <p>
+    The U.S. Federal Trade Commission requires websites to disclose material connections with the brands they write
+    about. We also think you deserve to know how the site makes money. Questions? Reach us through our
+    <a href="/contact/">contact page</a>.
+  </p>
+</PageLayout>

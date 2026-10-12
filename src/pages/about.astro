@@ -1,0 +1,69 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title="About Us | CheckVitalsNow"
+  description="Who we are, what we cover, how we make money, and the standards behind every CheckVitalsNow supplement review and health guide."
+  h1="About CheckVitalsNow"
+  updated={false}
+  pageType="AboutPage"
+>
+  <p>
+    You saw an ad for a supplement. The page looked convincing, the reviews were glowing, and a timer was counting down.
+    {site.name} exists for the moment right after that, when you want a straight answer before you pay.
+  </p>
+  <p>
+    We are an independent website that reviews dietary supplements and publishes practical health guides for readers in
+    the United States. We look at what is actually in a product, what published research says about those ingredients,
+    what it costs, how the guarantee works, and who should skip it.
+  </p>
+
+  <h2>What you will find here</h2>
+  <ul>
+    <li><strong>Product reviews:</strong> one supplement at a time, with real pros and cons and a safety section.</li>
+    <li><strong>Comparison lists:</strong> several products ranked on criteria we publish on the same page.</li>
+    <li>
+      <strong>Health guides:</strong> plain-language articles, such as our <a href="/womens-health/">women's health</a>
+      section, based on government, medical, and academic sources.
+    </li>
+  </ul>
+
+  <h2>Who is behind the site</h2>
+  {
+    owner.name ? (
+      <p>
+        {site.name} is owned and operated by {owner.name}. Content is written and edited by the {site.name} editorial
+        team.
+      </p>
+    ) : (
+      <p>Content is written and edited by the {site.name} editorial team.</p>
+    )
+  }
+  <p>
+    We are not doctors, and nothing on this site is medical advice. That is why we lean on primary sources, such as the
+    National Institutes of Health and peer-reviewed studies, link to them, and tell you when the evidence is thin. Please
+    read our <a href="/medical-disclaimer/">medical disclaimer</a>.
+  </p>
+
+  <h2>How we make money</h2>
+  <p>
+    Some links on this site are affiliate links. If you buy through one, we may earn a commission at no extra cost to
+    you. That is how we keep the site free. A commission never decides what we say about a product, and every review
+    lists real downsides. The details are in our <a href="/affiliate-disclosure/">affiliate disclosure</a>.
+  </p>
+
+  <h2>Our standards</h2>
+  <p>
+    We never publish fake testimonials or made-up ratings, we never claim a supplement cures or treats a disease, and we
+    do not pretend to have lab-tested products we have not tested. Read the full
+    <a href="/editorial-policy/">editorial policy</a> to see how we research, score, and update our reviews.
+  </p>
+
+  <h2>Get in touch</h2>
+  <p>
+    Spotted a mistake or have a question about a review? Visit our <a href="/contact/">contact page</a>.
+  </p>
+</PageLayout>

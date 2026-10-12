@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { site, disclaimers } from '../data/site';
+import { site, disclaimers, reviewCriteria as steps, promises } from '../data/site';
 
 const articles = (await getCollection('articles')).sort((a, b) => a.data.h1.localeCompare(b.data.h1)).slice(0, 6);
 
@@ -42,28 +42,6 @@ const whatWeCover = [
   },
 ];
 
-const steps = [
-  {
-    name: 'Ingredients',
-    text: 'Is each ingredient backed by research for the use the label suggests? Is the dose disclosed and in a sensible range?',
-  },
-  {
-    name: 'Transparency',
-    text: 'Does the manufacturer show a full label, explain who makes the product, and avoid claims it cannot support?',
-  },
-  {
-    name: 'Value',
-    text: 'What does a realistic month of use cost compared with similar products?',
-  },
-  {
-    name: 'Guarantee',
-    text: 'How long is the refund window, what are the conditions, and is it easy to use?',
-  },
-  {
-    name: 'Customer feedback',
-    text: 'What are buyers saying in public, both good and bad? We summarize patterns and never invent quotes.',
-  },
-];
 
 const reviews = [
   {
@@ -83,13 +61,6 @@ const reviews = [
   },
 ];
 
-const promises = [
-  'We never publish fake testimonials, made-up ratings, or invented "user results."',
-  'We never claim a supplement cures, treats, or prevents a disease.',
-  'We never use fake countdowns or "only 3 left" pressure.',
-  'Every review lists real downsides, not just selling points.',
-  'We do not run lab tests or clinical trials, and we will not pretend we did.',
-];
 ---
 
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
