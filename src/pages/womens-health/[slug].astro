@@ -7,6 +7,7 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import FAQ from '../../components/FAQ.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
 import { site, categories, author } from '../../data/site';
+import { unsplash } from '../../lib/unsplash';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => data.category === 'womens-health');
@@ -20,9 +21,6 @@ const category = categories[data.category];
 const url = new URL(Astro.url.pathname, site.url).href;
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
 const iso = (d: Date) => d.toISOString().slice(0, 10);
-// Unsplash requires hotlinking; imgix params resize and convert on their CDN.
-const unsplash = (raw: string, w: number) =>
-  `${raw}${raw.includes('?') ? '&' : '?'}w=${w}&h=${Math.round((w * 9) / 16)}&fit=crop&crop=entropy&fm=webp&q=70`;
 
 const jsonLd: Record<string, unknown>[] = [
   {

@@ -1,0 +1,55 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { unsplash } from '../lib/unsplash';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+  /** Heading level for the title, so cards fit the page outline. */
+  level?: 'h2' | 'h3';
+  /** Larger card that shows the first takeaway and a "Read the guide" link. */
+  featured?: boolean;
+}
+
+const { article, level = 'h3', featured = false } = Astro.props;
+const { data } = article;
+const href = `/${data.category}/${article.id}/`;
+const Heading = level;
+---
+
+<li
+  class:list={[
+    'flex flex-col overflow-hidden rounded-xl border',
+    featured ? 'border-brand-100 bg-brand-50' : 'border-line bg-paper',
+  ]}
+>
+  {
+    data.cover && (
+      <a href={href} tabindex="-1" aria-hidden="true" class="block">
+        <img
+          src={unsplash(data.cover.url, 640)}
+          srcset={[400, 640, 800].map((w) => `${unsplash(data.cover!.url, w)} ${w}w`).join(', ')}
+          sizes="(min-width: 1024px) 380px, (min-width: 640px) 50vw, 100vw"
+          width="640"
+          height="360"
+          alt=""
+          loading="lazy"
+          decoding="async"
+          class="aspect-video w-full bg-soft object-cover"
+        />
+      </a>
+    )
+  }
+  <div class="flex flex-1 flex-col p-6">
+    <Heading class:list={['font-bold', featured ? 'text-2xl' : 'text-xl']}>
+      <a href={href} class="text-brand-900 no-underline hover:text-brand-700">{data.h1}</a>
+    </Heading>
+    <p class:list={['mt-2 text-base', !featured && 'text-muted']}>{featured ? data.keyTakeaways[0] : data.description}</p>
+    {
+      featured && (
+        <a href={href} class="mt-auto pt-4 text-base font-semibold">
+          Read the guide →
+        </a>
+      )
+    }
+  </div>
+</li>

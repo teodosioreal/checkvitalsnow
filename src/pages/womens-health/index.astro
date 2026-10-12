@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
 import { site, categories } from '../../data/site';
 
 const category = categories['womens-health'];
@@ -34,16 +35,7 @@ const jsonLd = [
   <section class="container-page py-12">
     <ul class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {
-        articles.map((a) => (
-          <li class="rounded-xl border border-line bg-paper p-6">
-            <h2 class="text-xl font-bold">
-              <a href={`/womens-health/${a.id}/`} class="text-brand-900 no-underline hover:text-brand-700">
-                {a.data.h1}
-              </a>
-            </h2>
-            <p class="mt-2 text-base text-muted">{a.data.description}</p>
-          </li>
-        ))
+        articles.map((a) => <ArticleCard article={a} level="h2" />)
       }
     </ul>
   </section>
