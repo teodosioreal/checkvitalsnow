@@ -2,7 +2,7 @@
 // listed in scripts/product-images.json and saves it as WebP in src/assets/products/.
 //
 // - Skips products whose image already exists, so it is safe to run again.
-// - Uses og:image, or the first <img> matching the optional `match` regex.
+// - Uses og:image, or the largest <img> matching the optional `match` regex (min 300px).
 // - Tries each page in order and uses the first one that returns an image.
 // - Writes src/assets/products/SOURCES.md with the page and image URL of every
 //   photo, so each one can be checked before it goes on the site.
@@ -24,29 +24,48 @@ const meta = (html, prop) =>
 
 const decode = (s) => s.replace(/&amp;/g, '&');
 
-// Fallback for pages without og:image: first <img> whose src or alt matches `match`.
-function matchImg(html, match) {
-  if (!match) return null;
+// Fallback for pages without og:image: matching <img> tags (src, srcset, or alt match
+// `match`), largest srcset candidate first. Tiny WordPress thumbnails are skipped.
+function matchImgs(html, match) {
+  if (!match) return [];
   const re = new RegExp(match, 'i');
+  const found = [];
   for (const tag of html.match(/<img\b[^>]*>/gi) ?? []) {
     const src = tag.match(/\s(?:data-src|src)=["']([^"']+)["']/i)?.[1];
     const alt = tag.match(/\salt=["']([^"']*)["']/i)?.[1] ?? '';
-    if (src && !src.startsWith('data:') && (re.test(src) || re.test(alt))) return src;
+    const srcset = tag.match(/\s(?:data-srcset|srcset)=["']([^"']+)["']/i)?.[1] ?? '';
+    if (!re.test(`${src} ${srcset} ${alt}`)) continue;
+    const options = srcset
+      .split(',')
+      .map((c) => c.trim().split(/\s+/))
+      .filter(([u]) => u)
+      .map(([u, w]) => ({ u, w: parseInt(w) || 0 }));
+    if (src && !src.startsWith('data:')) options.push({ u: src, w: Number(src.match(/-(\d+)x\d+\.\w+$/)?.[1] ?? 1000) });
+    found.push(...options.filter((o) => o.w >= 300));
   }
-  return null;
+  return found.sort((a, b) => b.w - a.w).map((o) => o.u);
 }
 
 async function fromPage(page, match) {
   const res = await fetch(page, { headers, redirect: 'follow' });
   if (!res.ok) throw new Error(`page ${res.status}`);
   const html = await res.text();
-  const found = meta(html, 'og:image:secure_url') ?? meta(html, 'og:image') ?? meta(html, 'twitter:image') ?? matchImg(html, match);
-  if (!found) throw new Error('no og:image or matching <img>');
-  const image = new URL(decode(found), res.url).href;
-  const img = await fetch(image, { headers });
-  if (!img.ok) throw new Error(`image ${img.status}`);
+  const og = meta(html, 'og:image:secure_url') ?? meta(html, 'og:image') ?? meta(html, 'twitter:image');
+  const candidates = [...(og ? [og] : []), ...matchImgs(html, match)];
+  if (!candidates.length) throw new Error('no og:image or matching <img>');
+  let image, buffer;
+  for (const c of candidates) {
+    image = new URL(decode(c), res.url).href;
+    const img = await fetch(image, { headers });
+    if (!img.ok) continue;
+    buffer = Buffer.from(await img.arrayBuffer());
+    const { width = 0 } = await sharp(buffer).metadata().catch(() => ({}));
+    if (width >= 300) break;
+    buffer = undefined;
+  }
+  if (!buffer) throw new Error('no image of at least 300px');
   const title = html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.replace(/\s+/g, ' ').trim() ?? '';
-  return { finalUrl: res.url, image, title, buffer: Buffer.from(await img.arrayBuffer()) };
+  return { finalUrl: res.url, image, title, buffer };
 }
 
 mkdirSync(DIR, { recursive: true });
