@@ -39,6 +39,7 @@ sources:
   - title: "Urinary Incontinence: Causes, Types & Treatment, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
 promo: femipro
+compareList: bladder-supplements-for-women
 related:
   - kegel-exercises-for-women
   - bladder-irritants-foods-and-drinks

@@ -14,11 +14,20 @@ const promos = {
   },
 } as const;
 
+const lists = {
+  'bladder-supplements-for-women': {
+    href: '/best/bladder-supplements-for-women/',
+    text: 'Comparing options? See how it stacks up against 4 other bladder supplements in our top 5',
+  },
+} as const;
+
 interface Props {
   product: keyof typeof promos;
+  compare?: keyof typeof lists;
 }
 
 const promo = promos[Astro.props.product];
+const list = Astro.props.compare ? lists[Astro.props.compare] : undefined;
 ---
 
 <aside class="mt-12 overflow-hidden rounded-2xl border border-brand-100 bg-brand-50" aria-labelledby={`promo-${Astro.props.product}`}>
@@ -35,6 +44,15 @@ const promo = promos[Astro.props.product];
         class="mt-5 inline-flex items-center rounded-lg bg-brand-700 px-5 py-3 text-base font-semibold text-white no-underline hover:bg-brand-900"
         >{promo.button} →</a
       >
+      {
+        list && (
+          <p class="mt-4 text-base">
+            <a href={list.href} class="font-semibold">
+              {list.text} →
+            </a>
+          </p>
+        )
+      }
     </div>
   </div>
 </aside>

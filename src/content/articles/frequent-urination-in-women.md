@@ -37,6 +37,7 @@ sources:
   - title: "Bladder control: Lifestyle strategies ease problems, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
 promo: femipro
+compareList: bladder-supplements-for-women
 related:
   - bladder-irritants-foods-and-drinks
   - why-do-i-leak-urine-when-i-sneeze

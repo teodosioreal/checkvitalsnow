@@ -7,6 +7,7 @@ import ScoreRing from '../../components/ScoreRing.astro';
 import GradeBadge from '../../components/GradeBadge.astro';
 import { author, site } from '../../data/site';
 import femiproBottle from '../../assets/reviews/femipro/femipro-bottle.png';
+import everlyImage from '../../assets/products/everly-pumpkin-seed-oil-saw-palmetto.webp';
 
 // Scores come from the weighted criteria published in "How we ranked them" below.
 const criteria = [
@@ -73,19 +74,6 @@ const products = [
     bottomLine: 'A better fit for women whose main problem is repeat UTIs, not leakage or urgency.',
   },
   {
-    id: 'utiva',
-    name: 'Utiva Cranberry PACs',
-    bestFor: 'Best single-ingredient cranberry',
-    scores: { scope: 3, evidence: 7, transparency: 9, guarantee: 4, access: 8 },
-    focus: 'Urinary tract health (UTI prevention)',
-    keyIngredients: 'Cranberry extract standardized to 36 mg of proanthocyanidins (PACs)',
-    where: 'Online retailers',
-    why: 'A simple, clearly dosed cranberry supplement. NCCIH reports cranberry may lower the risk of repeat UTIs in some women, though findings are inconsistent.',
-    pros: ['Clearly standardized cranberry dose', 'One capsule a day', 'Simple formula, easy to evaluate'],
-    cons: ['Cranberry only; no bladder-control or probiotic ingredients', 'Not a treatment for an active UTI', 'Check with your doctor if you take blood thinners'],
-    bottomLine: 'Good for women who only want cranberry and like a single, clearly labeled ingredient.',
-  },
-  {
     id: 'confitrol24',
     name: 'Confitrol24',
     bestFor: 'Best-studied herbal blend for urgency',
@@ -98,16 +86,40 @@ const products = [
     cons: ['Bladder only; no urinary tract or microbiome support', 'Not women-specific', 'Sold mainly online', 'Guarantee terms not confirmed'],
     bottomLine: 'Worth a look if bladder urgency is your only concern and you value ingredient research over an all-in-one formula.',
   },
+  {
+    id: 'everly',
+    name: 'Everly Pumpkin Seed Oil with Saw Palmetto',
+    bestFor: 'Best pumpkin seed oil option',
+    image: everlyImage,
+    imageAlt: 'Everly Pumpkin Seed Oil with Saw Palmetto pouch, 60 softgels',
+    scores: { scope: 5, evidence: 5, transparency: 6, guarantee: 4, access: 5 },
+    focus: 'Bladder comfort, plus menopause, hair, and sleep support (per the label)',
+    keyIngredients: 'Cold-pressed virgin pumpkin seed oil with saw palmetto, 3,000 mg per serving (60 softgels)',
+    where: 'Online',
+    why: 'Everly pairs cold-pressed pumpkin seed oil with saw palmetto. A small human study found pumpkin seed oil improved overactive bladder scores over 12 weeks, and a placebo-controlled trial in Japanese women found saw palmetto extract helped some urinary symptoms. The research is still early, and the label spreads its claims across bladder, hair, menopause, and sleep.',
+    pros: [
+      'Both key ingredients have some human research on urinary symptoms',
+      'Total amount per serving shown on the front of the pack',
+      'Gluten-free, non-GMO, and lab tested, according to the label',
+    ],
+    cons: [
+      'Split between pumpkin seed oil and saw palmetto not shown on the front label',
+      'Evidence for bladder symptoms is small and early',
+      'No urinary tract or microbiome support',
+      'Guarantee and retailers not confirmed',
+    ],
+    bottomLine: 'An option for women who specifically want pumpkin seed oil, but it is less focused on bladder health than the products above.',
+  },
 ].map((p) => ({ ...p, score: total(p.scores as Scores), grade: grade(total(p.scores as Scores)) }));
 
 const faq = [
   {
     q: 'What is the best supplement for bladder control in women?',
-    a: 'There is no supplement proven to fix bladder control. For women who want one product that covers bladder, urinary tract, and microbiome support together, FemiPro is our top pick. If urgency is your only concern, Confitrol24 and AZO Bladder Control have more focused formulas. Pelvic floor exercises and medical care have the strongest evidence of all.',
+    a: 'There is no supplement proven to fix bladder control. For women who want one product that covers bladder, urinary tract, and microbiome support together, FemiPro is our top pick. If urgency is your only concern, Confitrol24 and AZO Bladder Control have more focused formulas, and Everly is an option if you want pumpkin seed oil. Pelvic floor exercises and medical care have the strongest evidence of all.',
   },
   {
     q: 'Do bladder supplements really work?',
-    a: 'Evidence is modest. Some ingredients, such as the Urox herbal blend, pumpkin seed and soy germ extracts, cranberry, and D-mannose, have human studies for specific uses, but effects are usually small and no supplement replaces medical treatment.',
+    a: 'Evidence is modest. Some ingredients, such as the Urox herbal blend, pumpkin seed extracts and oil, saw palmetto, cranberry, and D-mannose, have human studies for specific uses, but effects are usually small and no supplement replaces medical treatment.',
   },
   {
     q: 'How long do bladder supplements take to work?',
@@ -269,6 +281,7 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
             </h3>
             <div class="mt-4 flex flex-wrap items-center justify-center gap-8 sm:justify-start">
               {i === 0 && <Image src={femiproBottle} alt="FemiPro supplement bottle" width={130} densities={[1, 2]} />}
+              {p.image && <Image src={p.image} alt={p.imageAlt ?? p.name} width={150} densities={[1, 2]} class="rounded-lg" />}
               <ScoreRing score={p.score} />
               <GradeBadge grade={p.grade} />
             </div>
@@ -369,7 +382,7 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
     <ul class="bullets">
       <li><strong>Leaks when you sneeze, cough, or laugh:</strong> start with <a href="/womens-health/kegel-exercises-for-women/">pelvic floor exercises</a>. Read <a href="/womens-health/why-do-i-leak-urine-when-i-sneeze/">why it happens</a>.</li>
       <li><strong>Urgency and frequent trips:</strong> a bladder-focused formula plus <a href="/womens-health/frequent-urination-in-women/">bladder training</a> and fewer <a href="/womens-health/bladder-irritants-foods-and-drinks/">bladder irritants</a>.</li>
-      <li><strong>Repeat UTIs:</strong> cranberry or D-mannose products, and a talk with your doctor.</li>
+      <li><strong>Repeat UTIs:</strong> D-mannose or cranberry products, and a talk with your doctor.</li>
       <li><strong>Several of these at once:</strong> an all-in-one formula like our top pick may be simpler.</li>
     </ul>
     <h3>Check safety first</h3>
@@ -413,6 +426,9 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
       <li><a href="https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know" rel="noopener" target="_blank">Diabetes and Dietary Supplements (berberine safety), NCCIH</a></li>
       <li><a href="https://www.pharmavite.com/news/2026/04/uqora-launches-cutting-edge-urinary-health-products-at-target/" rel="noopener" target="_blank">Uqora launches urinary health products at Target, Pharmavite</a></li>
       <li><a href="https://www.azoproducts.com/products/azo-bladder-control" rel="noopener" target="_blank">AZO Bladder Control, AZO</a></li>
+      <li><a href="https://pubmed.ncbi.nlm.nih.gov/24872936/" rel="noopener" target="_blank">Pumpkin Seed Oil Extracted From Cucurbita maxima Improves Urinary Disorder in Human Overactive Bladder, PubMed</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8953103/" rel="noopener" target="_blank">Saw Palmetto Fruit Extract on Urinary Symptoms in Japanese Female Subjects: randomized, placebo-controlled study, PMC</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/saw-palmetto" rel="noopener" target="_blank">Saw Palmetto: Usefulness and Safety, NCCIH</a></li>
     </ol>
   </section>
 </ReviewLayout>

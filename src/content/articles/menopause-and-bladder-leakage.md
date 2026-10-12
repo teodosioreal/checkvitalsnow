@@ -39,6 +39,7 @@ sources:
   - title: "Kegel Exercises, NIDDK"
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"
 promo: femipro
+compareList: bladder-supplements-for-women
 related:
   - perimenopause-symptoms
   - why-do-i-leak-urine-when-i-sneeze

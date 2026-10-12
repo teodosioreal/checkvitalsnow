@@ -38,6 +38,7 @@ sources:
   - title: "Kegel exercises - self-care, MedlinePlus"
     url: "https://medlineplus.gov/ency/patientinstructions/000141.htm"
 promo: femipro
+compareList: bladder-supplements-for-women
 related:
   - why-do-i-leak-urine-when-i-sneeze
   - menopause-and-bladder-leakage
