@@ -1,7 +1,7 @@
 ---
-title: "How to Lower Cortisol Naturally: What Really Helps"
+title: "How to Lower Cortisol Naturally: Habits That Can Help"
 description: "Cortisol is your main stress hormone. Learn what it does, signs of chronic stress, and the evidence-based daily habits that help your body handle stress."
-h1: "How to Lower Cortisol Naturally: What Actually Helps With Stress"
+h1: "How to Lower Cortisol Naturally: Everyday Habits That Can Help With Stress"
 category: womens-health
 primaryKeyword: "how to lower cortisol naturally"
 secondaryKeywords:
@@ -133,8 +133,8 @@ Talk to a doctor or mental health professional if:
 
 **Get help right away** if you have thoughts of harming yourself. In the U.S., you can call or text **988** to reach the Suicide & Crisis Lifeline.
 
-## Where supplements fit
+## Start with one habit this week
 
-You will see plenty of supplements sold for stress and "adrenal support." The habits above have far better backing than any of them, and some supplements interact with prescription medicines. If you are thinking about one, ask your doctor or pharmacist first, especially if you take medicine for anxiety, depression, or blood pressure.
+Trying to change everything at once is its own source of stress. Pick one habit from the list, such as a fixed bedtime or a ten-minute walk after lunch, and keep it for a week before adding another. Small, steady changes are easier to keep.
 
 Stress often travels with other problems. If you are also running on empty, read [why you might feel tired all the time](/womens-health/why-am-i-always-tired/).

@@ -147,8 +147,8 @@ See a doctor if:
 
 Get help right away if you have thoughts of harming yourself.
 
-## What about menopause supplements?
+## Keep a simple symptom log
 
-Supplements for "hormone balance" are marketed hard to women in their 40s. None replaces the treatments above, and some interact with prescription medicines. Track your symptoms for a few cycles and bring that record to your doctor. It will tell you more than any label.
+A few months of notes can make your next appointment far more useful. Write down your period dates, hot flashes, sleep, and mood, along with anything that seems to set symptoms off. Patterns show up quickly, and your doctor gets a clearer picture than memory alone can give.
 
-If bladder changes are part of your perimenopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) covers what helps.
+If bladder changes are part of your perimenopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) covers what can help.

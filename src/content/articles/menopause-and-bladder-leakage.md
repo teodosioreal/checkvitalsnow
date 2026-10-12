@@ -134,4 +134,4 @@ Don't assume bladder changes are just part of getting older. Many women feel muc
 
 Bladder changes are common after menopause, but they are not something you simply have to live with. Vaginal estrogen, pelvic floor training, and bladder habits have the best evidence, and a doctor can help you choose.
 
-Be wary of supplements marketed for "midlife bladder support." They are not a treatment for menopause or incontinence. For a step-by-step start, see our [Kegel guide](/womens-health/kegel-exercises-for-women/), and for the wider picture, our guide to [perimenopause symptoms](/womens-health/perimenopause-symptoms/).
+For a step-by-step start, see our [Kegel guide](/womens-health/kegel-exercises-for-women/), and for the wider picture, our guide to [perimenopause symptoms](/womens-health/perimenopause-symptoms/).

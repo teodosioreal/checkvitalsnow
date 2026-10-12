@@ -117,7 +117,7 @@ Fiber also helps keep your bowels regular, which takes pressure off the bladder.
 
 ## When it's more than something you ate
 
-Diet changes help many women, but they won't fix every cause of bladder symptoms. See a doctor if:
+Diet changes help many women, but they won't resolve every cause of bladder symptoms. See a doctor if:
 
 - You have pain or burning when you urinate
 - You see blood in your urine
@@ -131,4 +131,4 @@ These may point to an infection, interstitial cystitis, or another condition tha
 
 Finding your triggers works best alongside [bladder training](/womens-health/frequent-urination-in-women/) and [pelvic floor exercises](/womens-health/kegel-exercises-for-women/). If urgency hangs on after a few weeks of careful changes, it is worth a visit to your doctor.
 
-Leaking when you cough or sneeze is a different problem from urgency, with different fixes. Our guide to [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) covers it.
+Leaking when you cough or sneeze is a different problem from urgency, with different solutions. Our guide to [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) covers it.

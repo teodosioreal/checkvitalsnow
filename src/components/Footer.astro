@@ -1,7 +1,6 @@
 ---
 import { site, footerLinks } from '../data/site';
 import MedicalDisclaimer from './MedicalDisclaimer.astro';
-import FDADisclaimer from './FDADisclaimer.astro';
 
 const year = new Date().getFullYear();
 ---
@@ -25,7 +24,6 @@ const year = new Date().getFullYear();
     </nav>
     <div class="mt-6 max-w-3xl space-y-3">
       <MedicalDisclaimer />
-      <FDADisclaimer />
     </div>
     <p class="mt-8">&copy; {year} {site.name}. All rights reserved.</p>
   </div>

@@ -1,7 +1,7 @@
 ---
 title: "Leaking Urine When You Sneeze? Causes and What Helps"
 description: "Leaking urine when you sneeze, cough, or laugh is usually stress incontinence. Learn why it happens to women and the steps that can help."
-h1: "Why Do I Leak Urine When I Sneeze? Causes and What Actually Helps"
+h1: "Why Do I Leak Urine When I Sneeze? Causes and What Can Help"
 category: womens-health
 primaryKeyword: "leaking urine when sneezing"
 secondaryKeywords:
@@ -147,4 +147,4 @@ These can point to an infection, a prolapse, or another condition that needs tre
 
 Most women who stick with pelvic floor training notice fewer leaks within a few months, and "the knack" can help sooner. Pair the exercises with the habits above, and keep a simple note of when you leak so you can see progress.
 
-Ads for bladder pills will promise faster results. None of them treats incontinence, so talk to your doctor before trying one. If urgency is part of your problem too, read our guide to [frequent urination](/womens-health/frequent-urination-in-women/).
+Be cautious with anything that promises to stop leaks fast. Steady practice and a doctor's advice are the safer route. If urgency is part of your problem too, read our guide to [frequent urination](/womens-health/frequent-urination-in-women/).

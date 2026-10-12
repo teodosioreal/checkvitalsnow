@@ -156,8 +156,8 @@ Make an appointment if:
 
 Seek care right away if you have a racing heart, chest pain, fainting, or thoughts of harming yourself.
 
-## Be wary of "hormone balancing" products
+## Getting the right answer
 
-Ads for "hormone balancing" supplements often list the same symptoms you just read. Because those symptoms have so many possible causes, a pill chosen from an ad can delay the test that finds the real one. Get the diagnosis first, then ask your doctor whether any supplement makes sense for you.
+Because the same symptoms have so many possible causes, guessing rarely works. Bring your symptom diary to your appointment, mention any medicines you take, and ask which tests make sense for you. A clear diagnosis is the first step toward the right treatment.
 
 If one symptom stands out, our guides on [constant tiredness](/womens-health/why-am-i-always-tired/) and [perimenopause](/womens-health/perimenopause-symptoms/) go deeper.

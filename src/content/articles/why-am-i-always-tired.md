@@ -108,7 +108,7 @@ Start with the basics. They help with almost every cause:
 - **Keep a regular sleep schedule**, even on weekends.
 - **Put screens away** an hour before bed.
 - **Limit caffeine** after midday and go easy on alcohol.
-- **Move every day.** Even a short walk can boost energy over time.
+- **Move every day.** Even a short walk can help your energy over time.
 - **Eat regular meals** with protein, whole grains, fruits, and vegetables. Include iron-rich foods such as lean meat, fish, eggs, beans, and iron-fortified cereals.
 - **Pair iron-rich foods with vitamin C** (like fruit or peppers) to help absorption, and avoid drinking coffee or tea with iron-rich meals.
 - **Drink enough water.**
@@ -127,8 +127,8 @@ Your doctor may order blood tests to check for anemia, iron levels, thyroid func
 
 **Get emergency care** if fatigue comes with chest pain, shortness of breath, a fast or irregular heartbeat, feeling like you might faint, confusion, severe headache, or thoughts of harming yourself.
 
-## Do energy supplements help?
+## Finding your answer
 
-Fatigue gets better when the cause is found and treated, whether that is low iron, an underactive thyroid, poor sleep, or stress. A supplement sold for women's energy can't tell you which one it is, and iron you don't need can do harm. A blood test is a better first step than any bottle.
+Fatigue usually improves once the cause is found, whether that is low iron, an underactive thyroid, poor sleep, or stress. Before your appointment, write down how long you have felt this way, how you sleep, what your periods are like, and any medicines you take. That short list helps your doctor choose the right tests.
 
 If stress or hormones seem to be part of the picture, read our guides on [lowering cortisol](/womens-health/how-to-lower-cortisol-naturally/) and [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/).

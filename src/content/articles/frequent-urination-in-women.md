@@ -45,7 +45,7 @@ related:
 
 You plan your errands around bathrooms. You check where the restroom is the moment you walk into a store. At night you wake up once, twice, sometimes more, to go again. And often, when you get there, not much comes out.
 
-**Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to fix. Others need a doctor.
+**Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to address. Others need a doctor.
 
 ## What counts as frequent urination?
 
@@ -138,4 +138,4 @@ Also make an appointment if frequent urination is affecting your sleep, work, or
 
 Start with the free steps: a bladder diary for three or four days, a look at what you drink, and bladder training. If you have any of the warning signs above, book a checkup first, since an infection or high blood sugar needs treatment.
 
-Pills sold for "bladder support" don't treat overactive bladder or infections. For help with the drinks side, see our list of [bladder irritants](/womens-health/bladder-irritants-foods-and-drinks/), and if leaks are part of the problem, our [Kegel guide](/womens-health/kegel-exercises-for-women/).
+For help with the drinks side, see our list of [bladder irritants](/womens-health/bladder-irritants-foods-and-drinks/), and if leaks are part of the problem, our [Kegel guide](/womens-health/kegel-exercises-for-women/).

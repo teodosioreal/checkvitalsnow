@@ -143,8 +143,8 @@ Talk to your doctor if:
 - You have sudden, severe back pain
 - You have risk factors such as early menopause, a family history of osteoporosis, or long-term steroid use
 
-## Do you need a supplement?
+## Small steps that add up
 
-Most of what protects bone after menopause is free or cheap: food, movement, not smoking, and testing on time. A calcium or vitamin D supplement can fill a gap when your diet falls short, but more is not better. Ask your doctor how much you need in total, from food and pills combined, before you add one.
+Most of what protects bone after menopause is free or low cost: calcium-rich meals, regular walks and strength work, a safer home, and a bone density test at the right time. None of it is dramatic, but these are the steps health agencies recommend to protect your bones over the years.
 
-If menopause has brought other changes, our guides to [perimenopause symptoms](/womens-health/perimenopause-symptoms/) and [bladder changes after menopause](/womens-health/menopause-and-bladder-leakage/) cover what to expect and what helps.
+If menopause has brought other changes, our guides to [perimenopause symptoms](/womens-health/perimenopause-symptoms/) and [bladder changes after menopause](/womens-health/menopause-and-bladder-leakage/) cover what to expect.

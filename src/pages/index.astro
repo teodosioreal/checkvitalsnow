@@ -9,6 +9,7 @@ const byId = (id: string) => all.find((a) => a.id === id);
 // Homepage shelves, grouped the way readers usually look for help.
 const topics = [
   {
+    id: 'bladder-health',
     title: 'Bladder health',
     intro: 'Leaks, urgency, and too many bathroom trips are common, and most of the first steps are free.',
     ids: [
@@ -20,16 +21,32 @@ const topics = [
     ],
   },
   {
+    id: 'hormones-and-menopause',
     title: 'Hormones and menopause',
     intro: 'What changes in your 40s and 50s, what is normal, and when to get checked.',
     ids: ['perimenopause-symptoms', 'signs-of-hormonal-imbalance-in-women', 'bone-health-after-menopause'],
   },
   {
+    id: 'energy-and-stress',
     title: 'Energy and stress',
     intro: 'Why you might feel drained all the time, and the habits that help your body recover.',
     ids: ['why-am-i-always-tired', 'how-to-lower-cortisol-naturally'],
   },
 ].map((t) => ({ ...t, articles: t.ids.map(byId).filter((a): a is (typeof all)[number] => Boolean(a)) }));
+
+// "Start here" picks: one guide from each topic.
+const featured = ['why-do-i-leak-urine-when-i-sneeze', 'perimenopause-symptoms', 'why-am-i-always-tired']
+  .map(byId)
+  .filter((a): a is (typeof all)[number] => Boolean(a));
+
+const sitePages = [
+  { label: 'About us', href: '/about/', text: 'Who we are and what we cover.' },
+  { label: 'How we write', href: '/editorial-policy/', text: 'Our sources, our process, and how we fix mistakes.' },
+  { label: 'Medical disclaimer', href: '/medical-disclaimer/', text: 'Why our guides are not a substitute for your doctor.' },
+  { label: 'Privacy policy', href: '/privacy-policy/', text: 'What data the site collects and your choices.' },
+  { label: 'Terms of use', href: '/terms-of-use/', text: 'The rules for using this website.' },
+  { label: 'Contact', href: '/contact/', text: 'Report an error or suggest a topic.' },
+];
 
 const title = "CheckVitalsNow: Women's Health Guides You Can Trust";
 const description =
@@ -67,31 +84,70 @@ const jsonLd = [
         </p>
         <p>
           {site.name} publishes clear, sourced guides for women who want to understand what is going on in their bodies
-          and what actually helps. Every guide links its medical sources and tells you when it is time to see a doctor.
+          and what may help. Every guide links its medical sources and tells you when it is time to see a doctor.
         </p>
       </div>
-      <div class="mt-8 flex flex-wrap gap-3">
-        <a
-          href="/womens-health/"
-          class="inline-flex items-center rounded-lg bg-brand-700 px-5 py-3 text-base font-semibold text-white no-underline hover:bg-brand-900"
-          >Browse all guides</a
-        >
-        <a
-          href="/editorial-policy/"
-          class="inline-flex items-center rounded-lg border border-brand-700 px-5 py-3 text-base font-semibold text-brand-700 no-underline hover:bg-brand-100"
-          >How we write our guides</a
-        >
-      </div>
+      <nav aria-label="Topics" class="mt-8">
+        <p class="text-sm font-semibold text-muted">Jump to a topic:</p>
+        <ul class="mt-3 flex flex-wrap gap-3">
+          {
+            topics.map((t) => (
+              <li>
+                <a
+                  href={`#${t.id}`}
+                  class="inline-flex rounded-full border border-brand-700 bg-paper px-4 py-2 text-base font-semibold text-brand-700 no-underline hover:bg-brand-100"
+                >
+                  {t.title}
+                </a>
+              </li>
+            ))
+          }
+          <li>
+            <a
+              href="/womens-health/"
+              class="inline-flex rounded-full bg-brand-700 px-4 py-2 text-base font-semibold text-white no-underline hover:bg-brand-900"
+              >All guides</a
+            >
+          </li>
+        </ul>
+      </nav>
     </div>
+  </section>
+
+  <section class="container-page py-14" aria-labelledby="start-here">
+    <h2 id="start-here" class="text-3xl font-bold">Start here</h2>
+    <p class="prose-width mt-3 text-muted">Three good places to begin, one from each topic.</p>
+    <ul class="mt-8 grid gap-6 lg:grid-cols-3">
+      {
+        featured.map((a) => (
+          <li class="flex flex-col rounded-2xl border border-brand-100 bg-brand-50 p-6">
+            <h3 class="text-2xl font-bold">
+              <a href={`/${a.data.category}/${a.id}/`} class="text-brand-900 no-underline hover:text-brand-700">
+                {a.data.h1}
+              </a>
+            </h3>
+            <p class="mt-3 text-base">{a.data.keyTakeaways[0]}</p>
+            <a href={`/${a.data.category}/${a.id}/`} class="mt-auto pt-4 text-base font-semibold">
+              Read the guide →
+            </a>
+          </li>
+        ))
+      }
+    </ul>
   </section>
 
   {
     topics.map((topic, i) => (
-      <section class:list={['border-b border-line', i % 2 === 1 && 'bg-soft']} aria-labelledby={`topic-${i}`}>
+      <section id={topic.id} class:list={['scroll-mt-6 border-t border-line', i % 2 === 0 && 'bg-soft']} aria-labelledby={`topic-${i}`}>
         <div class="container-page py-14">
-          <h2 id={`topic-${i}`} class="text-3xl font-bold">
-            {topic.title}
-          </h2>
+          <div class="flex flex-wrap items-end justify-between gap-4">
+            <h2 id={`topic-${i}`} class="text-3xl font-bold">
+              {topic.title}
+            </h2>
+            <span class="text-sm text-muted">
+              {topic.articles.length} {topic.articles.length === 1 ? 'guide' : 'guides'}
+            </span>
+          </div>
           <p class="prose-width mt-3 text-muted">{topic.intro}</p>
           <ul class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {topic.articles.map((a) => (
@@ -152,6 +208,23 @@ const jsonLd = [
         <h2 class="text-2xl font-bold">Talk to your doctor first</h2>
         <p class="mt-3 text-base">{disclaimers.medical}</p>
       </div>
+    </div>
+  </section>
+  <section class="border-t border-line" aria-labelledby="site-pages">
+    <div class="container-page py-14">
+      <h2 id="site-pages" class="text-3xl font-bold">About this site</h2>
+      <ul class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          sitePages.map((p) => (
+            <li class="rounded-xl border border-line p-5">
+              <a href={p.href} class="font-serif text-lg font-bold text-brand-900 no-underline hover:text-brand-700">
+                {p.label}
+              </a>
+              <p class="mt-1 text-base text-muted">{p.text}</p>
+            </li>
+          ))
+        }
+      </ul>
     </div>
   </section>
 </BaseLayout>

@@ -58,15 +58,14 @@ export const standards = [
 ];
 
 export const promises = [
-  'Our guides do not sell or recommend products.',
-  'We never claim a supplement, food, or home remedy cures, treats, or prevents a disease.',
+  'Our guides do not sell or promote products.',
+  'We never promise cures or quick fixes.',
   'We never invent statistics, studies, quotes, or experts.',
   'We tell you when the evidence is thin.',
   'We will always point you to a doctor when symptoms need one.',
 ];
 
 export const disclaimers = {
-  fda: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.',
   medical:
-    'This content is for informational purposes only and is not a substitute for professional medical advice. Talk to your doctor before starting any supplement, especially if you are pregnant, nursing, taking medication, or have a medical condition.',
+    'This content is for general information only and is not a substitute for professional medical advice, diagnosis, or treatment. Always ask your doctor or another qualified health professional about any questions you have about your health.',
 };
