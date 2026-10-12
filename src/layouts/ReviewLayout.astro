@@ -1,0 +1,46 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import { noindexPaths } from '../data/noindex.mjs';
+import { site } from '../data/site';
+
+interface Props {
+  title: string;
+  description: string;
+  datePublished: string;
+  dateModified: string;
+  headline: string;
+}
+
+const { title, description, datePublished, dateModified, headline } = Astro.props;
+const noindex = noindexPaths.includes(Astro.url.pathname);
+const url = new URL(Astro.url.pathname, site.url).href;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline,
+    description,
+    datePublished,
+    dateModified,
+    mainEntityOfPage: url,
+    publisher: { '@type': 'Organization', name: site.name, url: `${site.url}/` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+      { '@type': 'ListItem', position: 2, name: headline, item: url },
+    ],
+  },
+];
+---
+
+<BaseLayout title={title} description={description} ogType="article" jsonLd={jsonLd} noindex={noindex}>
+  <AffiliateDisclosure />
+  <article class="review">
+    <slot />
+  </article>
+</BaseLayout>

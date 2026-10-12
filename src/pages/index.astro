@@ -61,6 +61,19 @@ const steps = [
   },
 ];
 
+const reviews = [
+  {
+    title: 'NerveCalm Review',
+    href: '/nervecalm-scam-or-legit-nervecalm-full-review/',
+    summary: 'What NerveCalm is, its ingredients, pros and cons, guarantee, and where to buy it.',
+  },
+  {
+    title: 'FemiPro Review',
+    href: '/femipro-review-scam-or-legit-femipro-full-review/',
+    summary: 'What FemiPro is, who it is for, its ingredients, pros and cons, and guarantee.',
+  },
+];
+
 const promises = [
   'We never publish fake testimonials, made-up ratings, or invented "user results."',
   'We never claim a supplement cures, treats, or prevents a disease.',
@@ -182,9 +195,23 @@ const promises = [
   <section id="latest-reviews" class="scroll-mt-6 border-t border-line" aria-labelledby="latest-reviews-title">
     <div class="container-page py-14">
       <h2 id="latest-reviews-title" class="text-3xl font-bold">Latest supplement reviews</h2>
-      <p class="prose-width mt-4 text-muted">
-        We are updating our reviews to our current standards. New and refreshed reviews will appear here soon.
-      </p>
+      <ul class="mt-8 grid gap-6 sm:grid-cols-2">
+        {
+          reviews.map((r) => (
+            <li class="rounded-xl border border-line bg-paper p-6">
+              <h3 class="text-xl font-bold">
+                <a href={r.href} class="text-brand-900 no-underline hover:text-brand-700">
+                  {r.title}
+                </a>
+              </h3>
+              <p class="mt-2 text-base text-muted">{r.summary}</p>
+              <a href={r.href} class="mt-4 inline-block text-base font-semibold">
+                Read the review
+              </a>
+            </li>
+          ))
+        }
+      </ul>
     </div>
   </section>
 </BaseLayout>

@@ -1,0 +1,307 @@
+---
+// Etapa A: faithful copy of the WordPress page (migration/wordpress/pages/femipro-review-scam-or-legit-femipro-full-review).
+// Only objective copy errors were fixed: the intro box (was in Portuguese) uses the English text from the
+// NerveCalm page, two leftover "Nerve Calm" mentions now say FemiPro, and the coupon link points to FemiPro
+// instead of NerveCalm. Compliance and accuracy fixes are pending approval (Etapa B).
+import { Image } from 'astro:assets';
+import ReviewLayout from '../layouts/ReviewLayout.astro';
+import CTAButton from '../components/CTAButton.astro';
+import Testimonial from '../components/Testimonial.astro';
+
+import bottle from '../assets/reviews/femipro/femipro-bottle.png';
+import whoFor from '../assets/reviews/femipro/femipro-who-is-it-for.png';
+import lifestyle from '../assets/reviews/femipro/older-couple-outdoors.jpeg';
+import prosCons from '../assets/reviews/femipro/femipro-pros-cons.webp';
+import notOnMarketplaces from '../assets/reviews/femipro/not-sold-on-amazon-ebay-walmart.webp';
+import scamAlert from '../assets/reviews/femipro/femipro-scam-alert.webp';
+import laura from '../assets/reviews/femipro/testimonial-laura.jpeg';
+import nicole from '../assets/reviews/femipro/testimonial-nicole.jpg';
+import mark from '../assets/reviews/femipro/testimonial-mark.jpg';
+import sarah from '../assets/reviews/femipro/testimonial-sarah.jpg';
+import john from '../assets/reviews/femipro/testimonial-john.jpeg';
+
+const product = 'femipro';
+---
+
+<ReviewLayout
+  title="FemiPro Review: Scam or Legit? Full Review"
+  description="FemiPro review: what it is, how it works, who it is for, ingredients, pros and cons, guarantee, shipping, and where to buy the original."
+  headline="FemiPro Review"
+  datePublished="2025-06-25"
+  dateModified="2025-06-25"
+>
+  <header class="bg-brand-50">
+    <div class="review-section text-center">
+      <h1 class="text-5xl font-bold sm:text-6xl">FemiPro Review</h1>
+      <p class="mt-3 font-semibold text-accent">Update [Jun 2025]</p>
+      <p class="mt-3 font-serif text-2xl text-brand-900">Does It Really Work for Incontinence &amp; Women’s Health?</p>
+      <div class="review-figure">
+        <Image src={bottle} alt="FemiPro supplement bottle" width={255} loading="eager" />
+      </div>
+    </div>
+  </header>
+
+  <section class="review-section">
+    <h2>Before You Try FemiPro, Read This</h2>
+    <div class="rounded-xl border border-line bg-soft p-6">
+      <p class="font-semibold">What No One Tells You About FemiPro</p>
+      <ul>
+        <li>➡️ The good and the bad. Everything you need to know before you decide.</li>
+        <li>✅ High-quality ingredients — but results vary from person to person.</li>
+        <li>⚠️ Your lifestyle directly impacts the results.</li>
+        <li>⚠️ Buying outside the official website could lead to scams.</li>
+        <li>🔥 It works, but it’s not a miracle: it requires daily and consistent use.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>What is Femipro?</h2>
+    <p>
+      FemiPro is a natural supplement designed to support women’s health, focusing on <strong>urinary tract strength</strong>,
+      <strong>hormonal balance</strong>, and <strong>energy levels</strong>.
+    </p>
+    <p>It’s made in GMP-certified facilities and follows FDA guidelines, ensuring quality and safety.</p>
+    <p>
+      Its formula includes ashwagandha, iron, folic acid, B-complex vitamins, and vitamin D — ingredients studied for
+      supporting hormonal function, stress reduction, and immune health.
+    </p>
+    <p>
+      FemiPro is not a medicine, but it may help women, especially after age 35, who deal with mild incontinence or
+      hormonal fluctuations.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>How does FemiPro Review work?</h2>
+    <p>FemiPro works by supporting three key areas: hormonal balance, urinary control, and energy levels.</p>
+    <ul class="bullets">
+      <li>
+        <strong>Ashwagandha</strong> helps regulate cortisol, the stress hormone, which can affect hormonal stability and
+        bladder function.
+      </li>
+      <li>
+        <strong>Iron and B vitamins</strong> improve cellular energy and nervous system health, supporting better control of
+        the urinary system.
+      </li>
+      <li>
+        <strong>Vitamin D and folic acid</strong> contribute to immune and bone health, which may indirectly support pelvic
+        strength.
+      </li>
+    </ul>
+    <p>
+      It’s not a quick fix, but with consistent use, many women report gradual improvements in urinary control, mood, and
+      fatigue within a few weeks.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>Who Is FemiPro For?</h2>
+    <div class="grid items-center gap-6 md:grid-cols-2">
+      <div>
+        <p>FemiPro is ideal for women who experience:</p>
+        <ul>
+          <li>💧 Mild to moderate urinary incontinence</li>
+          <li>😣 Hormonal imbalances (especially after age 35)</li>
+          <li>💤 Chronic fatigue or low energy</li>
+          <li>😖 Stress-related symptoms</li>
+          <li>🔄 Mood swings or PMS</li>
+          <li>🦴 Bone or immune health concerns</li>
+        </ul>
+      </div>
+      <div>
+        <Image src={whoFor} alt="FemiPro bottle with an illustration of a woman" width={400} class="mx-auto" />
+        <p class="mt-4 text-base">
+          It’s not recommended for pregnant or breastfeeding women, and you should consult your doctor before starting any
+          supplement.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>What are the benefits of FemiPro</h2>
+    <p>Using FemiPro may bring a total life transformation:</p>
+    <ul>
+      <li>💧 Improves bladder control and reduces urine leakage</li>
+      <li>⚖️ Supports hormonal balance, especially during PMS or menopause</li>
+      <li>🔋 Boosts daily energy and reduces fatigue</li>
+      <li>🧠 Enhances emotional stability and reduces stress</li>
+      <li>🛡️ Strengthens the immune system</li>
+      <li>🦴 Contributes to bone health thanks to vitamin D</li>
+    </ul>
+    <p>Consistent use is important to feel these benefits fully.</p>
+    <Image src={lifestyle} alt="Older couple enjoying time outdoors" width={768} class="my-6 w-full rounded-lg" />
+  </section>
+
+  <section class="review-section">
+    <h2>Ingredients</h2>
+    <p>FemiPro contains a blend of natural ingredients, each chosen for a specific function in women’s health:</p>
+    <ul>
+      <li>🌿 <strong>Ashwagandha</strong> – Adaptogen that helps reduce cortisol, improving stress and hormonal stability.</li>
+      <li>
+        💊 <strong>Folic Acid</strong> – Supports cell repair and reproductive health, especially useful for women of
+        childbearing age.
+      </li>
+      <li>🩸 <strong>Iron</strong> – Fights fatigue and helps in energy production.</li>
+      <li>⚡ <strong>B-Complex Vitamins</strong> – Improve energy metabolism and support the nervous system.</li>
+      <li>☀️ <strong>Vitamin D</strong> – Contributes to bone strength and a strong immune system.</li>
+    </ul>
+  </section>
+
+  <section class="review-section">
+    <h2>Pros and Cons</h2>
+    <div class="review-figure">
+      <Image src={prosCons} alt="FemiPro pros and cons graphic" width={500} class="rounded-lg" />
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      <div class="rounded-xl border border-line p-5">
+        <h3 class="mt-0 text-green-800">Pros</h3>
+        <ul class="bullets text-base">
+          <li>Natural formula with no known side effects</li>
+          <li>Supports hormonal balance and urinary control</li>
+          <li>Free shipping on select multi-bottle purchases</li>
+          <li>60-day money-back guarantee</li>
+          <li>Includes two bonuses when ordering six bottles</li>
+          <li>May improve energy levels and emotional well-being</li>
+        </ul>
+      </div>
+      <div class="rounded-xl border border-line p-5">
+        <h3 class="mt-0 text-red-800">Cons</h3>
+        <ul class="bullets text-base">
+          <li>Sold exclusively through the official website</li>
+          <li>Limited availability due to high demand</li>
+          <li>Results vary depending on individual response and consistency</li>
+          <li>Reports of counterfeit products on Amazon and eBay</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>Is FemiPro a scam?</h2>
+    <h3>⚠️ Beware of Fake FemiPro Products</h3>
+    <p>
+      We get it — trying something new online can raise doubts. But rest assured: FemiPro is a legitimate supplement
+      produced in GMP-certified facilities, following FDA-compliant manufacturing practices.
+    </p>
+    <p>
+      To protect yourself from scams or counterfeit supplements, only purchase FemiPro from the{" "}
+      <CTAButton product={product} variant="link">Official Website</CTAButton>.
+    </p>
+    <p>
+      ❌ Do not trust shady ads, miracle prices, or listings on third-party sites like Amazon, eBay, or Walmart. There have
+      been verified reports of fake versions being sold, often containing unknown or untested ingredients that may be
+      unsafe.
+    </p>
+    <p>
+      ✅ Don’t take risks with your health. If you choose to try FemiPro, the official site is the only secure way to
+      guarantee you receive the authentic formula — and the support your body deserves.
+    </p>
+    <Image src={notOnMarketplaces} alt="Not sold on Amazon, eBay or Walmart" width={512} class="mx-auto my-6" />
+    <Image src={scamAlert} alt="Scam alert over a FemiPro marketplace listing" width={768} class="mx-auto my-6 rounded-lg" />
+    <p>FemiPro is a registered and branded product, but that hasn’t stopped similar-looking supplements from showing up online.</p>
+    <p>
+      Unfortunately, some of these alternatives mislead customers by using underdosed formulas or offering bottles with
+      fewer capsules than needed — for example, just 60 capsules when the recommended dosage is 4 per day, meaning the
+      supply lasts only 15 days instead of a full month.
+    </p>
+    <p>
+      These imitations may look similar, but they do not follow the same quality standards, nor do they offer money-back
+      guarantees or verified safety. Stick to the official source to avoid being misled.
+    </p>
+    <p class="text-center">
+      <CTAButton product={product} variant="link"
+        >(SPECIAL Coupon) Click Here to Get FemiPro with -50% Discount Price Online from the official website.</CTAButton
+      >
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>Guarantee + Shipping Policy</h2>
+    <p class="font-semibold">
+      FemiPro comes with a 60-day money-back guarantee. If you are not satisfied with the results, you can request a full
+      refund within this period by contacting customer service. Some returns may be required before the refund is
+      processed.
+    </p>
+    <p class="font-semibold">
+      Shipping is handled promptly, with typical delivery times between 7 to 14 business days, depending on your location.
+      Once your order ships, you will receive tracking information to monitor your package.
+    </p>
+    <p class="font-semibold">
+      Purchases made through the official website are eligible for free shipping on multi-bottle orders, ensuring you get
+      the best value.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>FemiPro Reviews</h2>
+    <h3>"Read What Real FemiPro Users Are Saying"</h3>
+    <div class="space-y-4">
+      <Testimonial name="Laura G., 56" location="Orlando, FL" photo={laura}>
+        "It took a few weeks before I saw any changes, but now the stabbing nerve pain is less frequent. I’m hopeful that
+        continued use will help even more."
+      </Testimonial>
+      <Testimonial name="Nicole T., 61" location="Austin, TX" photo={nicole}>
+        "At first, I wasn’t sure if NerveCalm would work for me. I’ve had nerve pain for years and tried so many things.
+        But after about two weeks, I started noticing less tingling and discomfort. Now after a month, the burning sensation
+        is much better. Definitely worth trying!"
+      </Testimonial>
+      <Testimonial name="Mark D., 59" location="Houston, TX" photo={mark}>
+        "I ended up buying FemiPro on Amazon because it was easier at the time. At first, I thought it was working, but
+        after a few weeks, nothing improved. When I tried to get a refund, the seller didn’t respond. Later, I found out
+        from the official website that the real FemiPro is only sold through their site. I wasted money on a fake product.
+        Now, I ordered from the official site and have been taking it for a couple of weeks. I’m already seeing some
+        improvements, but I want to use it longer before giving a higher rating. If you want to avoid wasting money like I
+        did, buy only from the official site!"
+      </Testimonial>
+      <Testimonial name="Sarah M., 54" location="New York, USA" photo={sarah}>
+        "This supplement really works. I was doubtful because of all the hype, but my nerve pain has reduced significantly
+        in about three weeks. I feel more energetic and can move around easier. Highly recommend."
+      </Testimonial>
+      <Testimonial name="John L., 59" location="San Diego, CA" photo={john}>
+        "I started taking NerveCalm along with my wife because we were both dealing with nerve pain — mine from years of
+        standing at work, hers from a past injury. For me, the results came surprisingly fast — within just a few days I
+        noticed the burning in my feet easing up. My wife, on the other hand, didn’t feel much until after about a month,
+        but once it kicked in, her sleep improved and the pain started to fade. It definitely works, though the speed of
+        results can vary depending on the person. Also, maintaining a healthy lifestyle seems to help boost the benefits
+        even more."
+      </Testimonial>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>Conclusion About FemiPro</h2>
+    <div class="review-figure">
+      <Image src={bottle} alt="FemiPro supplement bottle" width={220} />
+    </div>
+    <p>
+      With so many supplements for women's health available today, it’s natural to feel uncertain about which one to
+      trust. FemiPro stands out with its natural formula, clinically backed ingredients, and positive user feedback
+      reporting real improvements.
+    </p>
+    <p>
+      However, as with any supplement, individual results may vary depending on your unique body and consistency of use.
+      What some users notice within weeks might take longer for others—and that’s perfectly normal.
+    </p>
+    <p>
+      Based on its ingredients, user experiences, and money-back guarantee, FemiPro appears to be a promising choice for
+      women seeking hormonal balance, improved urinary control, and enhanced energy.
+    </p>
+    <p>
+      If you’re considering trying FemiPro, we recommend visiting the{" "}
+      <CTAButton product={product} variant="link">Official Website below</CTAButton> to get all the details and current offers
+      directly from the source.
+    </p>
+    <div class="mt-6 flex flex-col items-center gap-4">
+      <CTAButton product={product}>Claim Your FemiPro Today</CTAButton>
+      <CTAButton product={product} variant="link">Official Website - https://thefemipro.com</CTAButton>
+    </div>
+    <p class="mt-8 text-sm text-muted">
+      Some of the links on this post or page are affiliate links, which means that if you click on one and make a
+      purchase, we may earn a small commission at no extra cost to you. This helps support and maintain this website. We
+      only recommend products and services that we truly believe can bring value to our readers. Thank you so much for
+      your support!
+    </p>
+  </section>
+</ReviewLayout>

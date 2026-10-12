@@ -4,8 +4,8 @@ Rascunhos ficam guardados aqui como referência e **não são publicados** no si
 
 | Página (slug) | Status |
 |---|---|
-| femipro-review-scam-or-legit-femipro-full-review | publicada — migrar |
-| nervecalm-scam-or-legit-nervecalm-full-review | publicada — migrar |
+| femipro-review-scam-or-legit-femipro-full-review | Etapa A feita (cópia fiel, noindex) — falta Etapa B |
+| nervecalm-scam-or-legit-nervecalm-full-review | Etapa A feita (cópia fiel, noindex) — falta Etapa B |
 | nervecalm-scam-or-legit-nervecalm-full-review-canada | publicada — migrar |
 | arialief-review-arialief-scam-or-legit-arialief-full-review | publicada — migrar |
 | kerafen-scam-or-legit-kerafen-full-review | publicada — migrar |

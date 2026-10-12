@@ -1,0 +1,42 @@
+[
+  {
+    "id": "nervecalm",
+    "name": "NerveCalm",
+    "brand": null,
+    "category": "nerve-health",
+    "affiliateNetwork": null,
+    "affiliateUrl": "https://getnervecalm.com/dtc/?aff_id=143471",
+    "goSlug": "nervecalm",
+    "officialSite": "https://getnervecalm.com",
+    "priceNote": null,
+    "guarantee": null,
+    "mainIngredients": [],
+    "form": "capsule",
+    "servingInfo": null,
+    "pros": [],
+    "cons": [],
+    "rating": null,
+    "ratingBreakdown": null,
+    "lastVerified": null
+  },
+  {
+    "id": "femipro",
+    "name": "FemiPro",
+    "brand": null,
+    "category": "womens-health",
+    "affiliateNetwork": null,
+    "affiliateUrl": "https://thefemipro.com/text.php?aff_id=34811",
+    "goSlug": "femipro",
+    "officialSite": "https://thefemipro.com",
+    "priceNote": null,
+    "guarantee": null,
+    "mainIngredients": [],
+    "form": "capsule",
+    "servingInfo": null,
+    "pros": [],
+    "cons": [],
+    "rating": null,
+    "ratingBreakdown": null,
+    "lastVerified": null
+  }
+]
