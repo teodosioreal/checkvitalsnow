@@ -10,13 +10,19 @@ import { site, nav } from '../data/site';
   >
   <div class="container-page flex flex-wrap items-center justify-between gap-x-6 gap-y-2 py-4">
     <a href="/" class="flex items-center gap-2 no-underline" aria-label={`${site.name} home`}>
-      <svg aria-hidden="true" width="32" height="32" viewBox="0 0 32 32">
-        <rect width="32" height="32" rx="8" fill="#0e5a6b"></rect>
+      <svg aria-hidden="true" width="36" height="36" viewBox="0 0 64 64">
+        <defs>
+          <linearGradient id="logo-g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#16879a"></stop>
+            <stop offset="1" stop-color="#0b3f4c"></stop>
+          </linearGradient>
+        </defs>
+        <circle cx="32" cy="32" r="32" fill="url(#logo-g)"></circle>
         <path
-          d="M6 17h5l2.5-6 4 11 3-8 1.5 3H26"
+          d="M10 34h8.5l5-10 7.5 18L51 20"
           fill="none"
           stroke="#fff"
-          stroke-width="2.4"
+          stroke-width="6"
           stroke-linecap="round"
           stroke-linejoin="round"></path>
       </svg>
