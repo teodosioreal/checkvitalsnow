@@ -46,8 +46,8 @@ const photoKey = (p) => p.urls.raw.match(/(photo-[\w-]+)/)?.[1] ?? p.id;
 let remaining = Infinity;
 let stopped = false;
 const track = (res) => {
-  const r = Number(res.headers.get('x-ratelimit-remaining'));
-  if (Number.isFinite(r)) remaining = r;
+  const header = res.headers.get('x-ratelimit-remaining');
+  if (header !== null && Number.isFinite(Number(header))) remaining = Number(header);
 };
 
 async function pick(query) {
