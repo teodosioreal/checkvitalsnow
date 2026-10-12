@@ -4,7 +4,6 @@ import ReviewLayout from '../../layouts/ReviewLayout.astro';
 import CTAButton from '../../components/CTAButton.astro';
 import FAQ from '../../components/FAQ.astro';
 import ScoreRing from '../../components/ScoreRing.astro';
-import GradeBadge from '../../components/GradeBadge.astro';
 import { author, site } from '../../data/site';
 import femiproBottle from '../../assets/reviews/femipro/femipro-bottle.png';
 import everlyImage from '../../assets/products/everly-pumpkin-seed-oil-saw-palmetto.webp';
@@ -20,8 +19,6 @@ const criteria = [
 
 type Scores = Record<(typeof criteria)[number]['key'], number>;
 const total = (s: Scores) => Math.round(criteria.reduce((sum, c) => sum + s[c.key] * c.weight, 0) * 10) / 10;
-const grade = (x: number) =>
-  x >= 9.5 ? 'A+' : x >= 9 ? 'A' : x >= 8.5 ? 'A-' : x >= 8 ? 'B+' : x >= 7.5 ? 'B' : x >= 7 ? 'B-' : x >= 6.5 ? 'C+' : x >= 6 ? 'C' : x >= 5.5 ? 'C-' : 'D';
 
 const products = [
   {
@@ -110,7 +107,7 @@ const products = [
     ],
     bottomLine: 'An option for women who specifically want pumpkin seed oil, but it is less focused on bladder health than the products above.',
   },
-].map((p) => ({ ...p, score: total(p.scores as Scores), grade: grade(total(p.scores as Scores)) }));
+].map((p) => ({ ...p, score: total(p.scores as Scores) }));
 
 const faq = [
   {
@@ -190,9 +187,9 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
     <p>
       So we compared five bladder support supplements sold to U.S. women. We looked at what each formula covers, what the
       research on its ingredients actually shows, how clearly the label lists doses, the guarantee, and how easy it is to
-      buy. We count down from #5 to our #1 pick, the only product on this list that combines bladder, urinary tract,
-      and microbiome support in one formula. Depending on your main problem, one of the others may suit you better, so
-      read each one.
+      buy. <strong>And we saved the best for last.</strong> We count down from #5 to our #1 pick, the only product on
+      this list that combines bladder, urinary tract, and microbiome support in one formula. Depending on your main
+      problem, one of the others may suit you better, so read each one on the way.
     </p>
     <p class="text-base text-muted">
       We reviewed each product's label and the manufacturer's information, published ingredient research, and independent
@@ -262,19 +259,23 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
       </table>
     </div>
     <p class="mt-4 text-base text-muted">
-      Grades: A+ 9.5–10 · A 9.0–9.4 · A− 8.5–8.9 · B+ 8.0–8.4 · B 7.5–7.9 · B− 7.0–7.4 · C+ 6.5–6.9 · C 6.0–6.4 · C−
-      5.5–5.9 · D below 5.5. Read more about <a href="/#how-we-review">how we review</a>.
+      Read more about <a href="/#how-we-review">how we review</a>.
     </p>
   </section>
 
   <section id="top-5" class="review-section scroll-mt-6">
     <h2>Our top 5 bladder support supplements for women, counting down</h2>
+    <p class="rounded-xl bg-brand-50 px-5 py-4 text-base">
+      <strong>We saved the best for last.</strong> We start at #5 and work our way up. Keep scrolling to see our #1 pick,
+      the only all-in-one formula on this list.
+    </p>
     <div class="space-y-8">
       {
         countdown.map(({ p, i }) => (
+          <>
           <article id={p.id} class:list={['scroll-mt-6 rounded-2xl border p-6', i === 0 ? 'border-2 border-brand-600 bg-brand-50' : 'border-line']}>
             {i === 0 && (
-              <p class="mb-3 inline-block rounded-full bg-brand-700 px-3 py-1 text-sm font-semibold text-white">Our #1 pick</p>
+              <p class="mb-3 inline-block rounded-full bg-brand-700 px-3 py-1 text-sm font-semibold text-white">Our #1 pick · We saved the best for last</p>
             )}
             <h3 class="!mt-0 text-2xl font-bold">
               {i + 1}. {p.name}: {p.bestFor}
@@ -282,10 +283,7 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
             <div class="mt-4 flex flex-wrap items-center justify-center gap-4 sm:justify-start sm:gap-8">
               {i === 0 && <Image src={femiproBottle} alt="FemiPro supplement bottle" width={130} densities={[1, 2]} />}
               {p.image && <Image src={p.image} alt={p.imageAlt ?? p.name} width={150} densities={[1, 2]} class="rounded-lg" />}
-              <div class="flex items-center gap-4">
-                <ScoreRing score={p.score} size={110} />
-                <GradeBadge grade={p.grade} size={100} />
-              </div>
+              <ScoreRing score={p.score} size={120} />
             </div>
             <dl class="mt-5 grid gap-2 text-base sm:grid-cols-[150px_1fr]">
               <dt class="font-semibold">Main focus</dt>
@@ -326,6 +324,12 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
               </div>
             )}
           </article>
+          {i > 0 && (
+            <p class="text-center text-base font-semibold text-brand-700">
+              {i === 1 ? 'Next up: our #1 pick, the best of the list ↓' : `Still to come: #${i} and our #1 pick ↓`}
+            </p>
+          )}
+          </>
         ))
       }
     </div>
@@ -353,7 +357,7 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
                 <td class="border border-line px-3 py-2 align-top">{p.focus}</td>
                 <td class="border border-line px-3 py-2 align-top">{p.where}</td>
                 <td class="border border-line px-3 py-2 align-top whitespace-nowrap font-bold">
-                  {p.score.toFixed(1)} ({p.grade})
+                  {p.score.toFixed(1)}/10
                 </td>
               </tr>
             ))
@@ -371,7 +375,6 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
       <div class="my-4 flex items-center justify-center gap-8">
         <Image src={femiproBottle} alt="FemiPro supplement bottle" width={110} densities={[1, 2]} />
         <ScoreRing score={top.score} size={100} />
-        <GradeBadge grade={top.grade} size={90} />
       </div>
       <CTAButton product="femipro">See Current Price on the Official Website</CTAButton>
       <p class="mt-3 text-sm text-muted">Not for use during pregnancy or breastfeeding. Ask your doctor before starting.</p>
