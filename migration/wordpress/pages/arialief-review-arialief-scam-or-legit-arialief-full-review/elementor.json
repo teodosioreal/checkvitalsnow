@@ -1,0 +1,2946 @@
+[
+ {
+  "id": "3704192a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "position": "fixed",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "z_index": 200
+  },
+  "elements": [
+   {
+    "id": "cef419c",
+    "elType": "widget",
+    "settings": {
+     "text": "Official Website - https://getnervecalm.com",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_color": "#FFCC05",
+     "hover_animation": "pulse-grow",
+     "link": {
+      "url": "https://getnervecalm.com/dtc/?aff_id=143471"
+     },
+     "selected_icon": {
+      "value": "far fa-arrow-alt-circle-right",
+      "library": "fa-regular"
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     },
+     "background_background": "gradient",
+     "background_color_b": "#D8A5B1"
+    },
+    "widgetType": "button"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7e673cba",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2c24802f",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Arialief Review",
+     "align": "center",
+     "title_color": "#FFF900",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_weight": "800",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 45
+     },
+     "typography_font_size": {
+      "unit": "px",
+      "size": 67
+     },
+     "header_size": "h1",
+     "text_stroke_text_stroke_type": "yes",
+     "text_stroke_text_stroke": {
+      "unit": "px",
+      "size": 0
+     },
+     "text_shadow_text_shadow_type": "yes"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "50e66e26",
+    "elType": "widget",
+    "settings": {
+     "title": "Update [Oct 2025]",
+     "align": "center",
+     "title_color": "#FF0000"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "de4bf5",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "76925ae0",
+    "elType": "widget",
+    "settings": {
+     "title": "Does It really work? Here's what I discovered about all the Arialief Customer Reviews . You decide",
+     "align": "center",
+     "title_color": "#096600",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 35
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 21
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "73c603b8",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "3a4488ad",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 1752,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/produto.png",
+      "source": "library"
+     },
+     "image_size": "medium"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "10829489",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "67ae1fec",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Before You Try Arialief, Read This",
+     "align": "left",
+     "title_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 34
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 30
+     },
+     "typography_font_weight": "700"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "7053df25",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "68cc5a6a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5ce62d6",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p><span style=\"color: #ff0000;\"><em><strong>What No One Tells You About Arialief</strong></em></span></p><p data-start=\"100\" data-end=\"215\">➡️ The good and the bad. Everything you need to know before you decide.</p><p data-start=\"217\" data-end=\"287\">✅ High-quality ingredients — but results vary from person to person.</p><p data-start=\"289\" data-end=\"338\">⚠️ Your lifestyle directly impacts the results.</p><p data-start=\"340\" data-end=\"401\">⚠️ Buying outside the official website could lead to scams.</p><p data-start=\"403\" data-end=\"479\">🔥 It works, but it’s not a miracle: it requires daily and consistent use.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5f6a6cb",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "fec48fb",
+    "elType": "widget",
+    "settings": {
+     "title": "What is Arialief?​",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4efd002c",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "margin": {
+    "unit": "px",
+    "top": "12",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "782ff866",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"157\" data-end=\"413\"><strong data-start=\"157\" data-end=\"170\">Arialief</strong> is a <strong data-start=\"176\" data-end=\"210\">plant-based dietary supplement</strong> designed to help relieve nerve-related discomfort, inflammation, stress, and sleep disturbances. It is manufactured in <strong data-start=\"330\" data-end=\"348\">FDA-registered</strong> and <strong data-start=\"353\" data-end=\"370\">GMP-certified</strong> facilities, ensuring quality and safety.</p><p data-start=\"415\" data-end=\"645\">The supplement aims to support nerve health, calm the nervous system, and promote overall relaxation. Users frequently report improvements in nerve function, reduced discomfort, enhanced mental clarity, and better sleep quality.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     },
+     "align": "left"
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "31de47a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "04c2878",
+    "elType": "widget",
+    "settings": {
+     "title": "How does Arialief work?",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "10977de3",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "193cb55b",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<blockquote data-start=\"279\" data-end=\"1078\"><p data-start=\"281\" data-end=\"522\">Unlike many nerve support supplements that only cover up the discomfort, <strong data-start=\"354\" data-end=\"520\">Arialief is specifically formulated to target what it identifies as the root cause of nerve pain — toxic plaque that builds up around and suffocates the nerves.</strong></p><p data-start=\"529\" data-end=\"922\">At the heart of the formula is <strong data-start=\"560\" data-end=\"591\">Palmitoylethanolamide (PEA)</strong>, a compound backed by clinical studies for its ability to soothe nerve inflammation and support the breakdown of this harmful plaque. Combined with key nutrients like <strong data-start=\"759\" data-end=\"808\">Luteolin, Quercetin, Omega-3s, and B Vitamins</strong>, <strong data-start=\"354\" data-end=\"520\">Arialief</strong><strong data-start=\"810\" data-end=\"920\"> is designed to not only relieve discomfort but also nourish and protect nerve health over time.</strong></p><p data-start=\"929\" data-end=\"1078\">Many users report meaningful relief — <strong data-start=\"967\" data-end=\"1078\">less tingling, less burning, less numbness — and a noticeable return to feeling more like themselves again.</strong></p></blockquote>",
+     "align": "left",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5f6634f3",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "1bfa3292",
+    "elType": "widget",
+    "settings": {
+     "title": "How do I know if Arialief is for me?",
+     "align": "center",
+     "title_color": "#0D1035",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "900",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#FFFFFF",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 31
+     }
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4db7bfa7",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "737f9b64",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ],
+     "flex_justify_content": "center"
+    },
+    "elements": [
+     {
+      "id": "1b513e2b",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p data-start=\"3125\" data-end=\"3377\">Nerve pain can show up in many ways — burning, tingling, numbness, sharp stabbing sensations, or even a strange feeling of electric shocks. But it’s not just pain. It often leads to poor sleep, constant fatigue, irritability, and overwhelming stress.</p><p data-start=\"3384\" data-end=\"3646\">It affects how you walk, how you rest, and even how you enjoy time with family. Over time, untreated nerve discomfort doesn’t just stay the same — it tends to get worse, risking permanent damage, increased reliance on medications, and losing your independence.</p><p data-start=\"3653\" data-end=\"3726\"><strong data-start=\"3653\" data-end=\"3726\">If this sounds familiar, Arialief was specifically designed to help.</strong></p>",
+       "align": "left",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 22
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "2a4eb7b9",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ],
+     "flex_justify_content": "center"
+    },
+    "elements": [
+     {
+      "id": "5e75f52",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/neuropathic_pain_styled.jpg",
+        "id": 1532,
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     },
+     {
+      "id": "7e840bc0",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p><strong>\"Data sourced from the Institute for Health Metrics and Evaluation (IHME), Global Burden of Disease Study.\"</strong></p>",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 12
+       },
+       "typography_font_weight": "400"
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4e0a40f",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "b2f7bf4",
+    "elType": "widget",
+    "settings": {
+     "title": "What are the benefits of Arialief",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2bdc283e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "26c669fd",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>Using <strong data-start=\"354\" data-end=\"520\">Arialief</strong> may bring a <strong>total life transformation</strong>:</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "216cb5de",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "4ad05d48",
+    "elType": "widget",
+    "settings": {
+     "editor": "<div class=\"elementor-element elementor-element-32e57694 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent e-lazyloaded\" data-id=\"32e57694\" data-element_type=\"container\"><p data-start=\"329\" data-end=\"514\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"331\" data-end=\"392\">Relieves burning, tingling, and stabbing nerve sensations</strong><br data-start=\"392\" data-end=\"395\" />Designed to target the root cause of nerve discomfort, helping reduce the daily pain that affects your quality of life.</p><p data-start=\"516\" data-end=\"679\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"518\" data-end=\"574\">Supports healthy nerve function and long-term relief</strong><br data-start=\"574\" data-end=\"577\" />Promotes healing and protection of nerve cells to prevent worsening conditions and recurring symptoms.</p><p data-start=\"681\" data-end=\"859\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"683\" data-end=\"736\">Improves sleep quality and reduces nighttime pain</strong><br data-start=\"736\" data-end=\"739\" />Many users report fewer interruptions during the night and a more restful, deep sleep without electric-shock sensations.</p><p data-start=\"861\" data-end=\"1032\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"863\" data-end=\"913\">Restores energy, mobility, and overall comfort</strong><br data-start=\"913\" data-end=\"916\" />By reducing discomfort, Arialief allows you to move more freely, regain your stamina, and feel like yourself again.</p><p data-start=\"1034\" data-end=\"1191\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"1036\" data-end=\"1078\">Promotes a calmer mind and better mood</strong><br data-start=\"1078\" data-end=\"1081\" />Its ingredients support the nervous system and help reduce stress, improving emotional well-being and clarity.</p><blockquote data-start=\"1193\" data-end=\"1440\"><p data-start=\"1195\" data-end=\"1440\"><b><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/1f6cc.svg\" alt=\"🛌\" /> Imagine waking up refreshed, standing up with confidence, and moving through your day without the constant burden of nerve discomfort.<br data-start=\"1332\" data-end=\"1335\" />That’s the kind of transformation many Arialief users experience — and it might just work for you too.</b></p></blockquote></div>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "3b0efee",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/idosos-felizes-caminhando.webp",
+      "id": 1771,
+      "source": "library"
+     },
+     "image_size": "medium_large"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "18de0fd",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "08e528a",
+    "elType": "widget",
+    "settings": {
+     "title": "Ingredients",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "1957163d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "width": {
+    "unit": "%",
+    "size": 98.129
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "margin": {
+    "unit": "px",
+    "top": "12",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "6d780426",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<h3 data-start=\"1203\" data-end=\"1233\">🌿 <strong data-start=\"1210\" data-end=\"1231\">Main Ingredients:</strong></h3><ul data-start=\"1234\" data-end=\"2343\"><li data-start=\"1234\" data-end=\"1329\"><p data-start=\"1236\" data-end=\"1329\"><strong data-start=\"1236\" data-end=\"1258\">Corydalis Yanhusuo</strong> – Traditional Chinese herb with analgesic and nerve-calming effects.</p></li><li data-start=\"1330\" data-end=\"1433\"><p data-start=\"1332\" data-end=\"1433\"><strong data-start=\"1332\" data-end=\"1377\">Prickly Pear Cactus (Opuntia Phaeacantha)</strong> – Supports anti-inflammatory and antioxidant defense.</p></li><li data-start=\"1434\" data-end=\"1535\"><p data-start=\"1436\" data-end=\"1535\"><strong data-start=\"1436\" data-end=\"1478\">Marshmallow Root (Althaea Officinalis)</strong> – Provides soothing effects and supports nerve repair.</p></li><li data-start=\"1536\" data-end=\"1620\"><p data-start=\"1538\" data-end=\"1620\"><strong data-start=\"1538\" data-end=\"1563\">California Poppy Seed</strong> – Calms the nervous system and promotes restful sleep.</p></li><li data-start=\"1621\" data-end=\"1719\"><p data-start=\"1623\" data-end=\"1719\"><strong data-start=\"1623\" data-end=\"1657\">GABA (Gamma-Aminobutyric Acid)</strong> – Natural neurotransmitter that reduces stress and anxiety.</p></li><li data-start=\"1720\" data-end=\"1799\"><p data-start=\"1722\" data-end=\"1799\"><strong data-start=\"1722\" data-end=\"1736\">L-Theanine</strong> – An amino acid that promotes relaxation without drowsiness.</p></li><li data-start=\"1800\" data-end=\"1893\"><p data-start=\"1802\" data-end=\"1893\"><strong data-start=\"1802\" data-end=\"1817\">Ashwagandha</strong> – Adaptogen that helps reduce stress, balance cortisol, and improve mood.</p></li><li data-start=\"1894\" data-end=\"1992\"><p data-start=\"1896\" data-end=\"1992\"><strong data-start=\"1896\" data-end=\"1909\">Magnesium</strong> – Essential mineral for nerve function, muscle relaxation, and stress reduction.</p></li><li data-start=\"1993\" data-end=\"2091\"><p data-start=\"1995\" data-end=\"2091\"><strong data-start=\"1995\" data-end=\"2009\">Vitamin B6</strong> – Supports nerve repair, neurotransmitter production, and overall nerve health.</p></li><li data-start=\"2092\" data-end=\"2179\"><p data-start=\"2094\" data-end=\"2179\"><strong data-start=\"2094\" data-end=\"2125\">5-HTP (5-Hydroxytryptophan)</strong> – Supports serotonin production for mood and sleep.</p></li><li data-start=\"2180\" data-end=\"2259\"><p data-start=\"2182\" data-end=\"2259\"><strong data-start=\"2182\" data-end=\"2209\">Alpha-Lipoic Acid (ALA)</strong> – Potent antioxidant that protects nerve cells.</p></li><li data-start=\"2260\" data-end=\"2343\"><p data-start=\"2262\" data-end=\"2343\"><strong data-start=\"2262\" data-end=\"2284\">Phosphatidylserine</strong> – Supports brain health, memory, and cognitive function.</p></li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7510b15",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "48328b3",
+    "elType": "widget",
+    "settings": {
+     "title": "Pros and Cons",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "53e9ff9c",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "6261e868",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 31.426
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "6d170737",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/arialief-notas1.png",
+        "id": 1775,
+        "source": "library"
+       },
+       "image_size": "medium_large",
+       "link_to": "custom",
+       "link": {
+        "url": "https://bg.arialief.com/?aff_id=41563"
+       }
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "3d9a0466",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "2dc79020",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "title": "<i>Pros</i>",
+       "title_color": "#2FFC00"
+      },
+      "widgetType": "heading"
+     },
+     {
+      "id": "335c0ccb",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<ul><li data-start=\"148\" data-end=\"190\"><ul><li data-start=\"275\" data-end=\"366\"><p data-start=\"277\" data-end=\"366\"><strong data-start=\"277\" data-end=\"364\">Backed by research from Harvard, Johns Hopkins, and other prestigious institutions.</strong></p></li><li data-start=\"367\" data-end=\"473\"><p data-start=\"369\" data-end=\"473\"><strong data-start=\"369\" data-end=\"471\">Targets the real root cause of neuropathy — toxic nerve plaque — instead of just masking symptoms.</strong></p></li><li data-start=\"474\" data-end=\"581\"><p data-start=\"476\" data-end=\"581\"><strong data-start=\"476\" data-end=\"579\">Formulated with 10 clinically proven ingredients to help eliminate burning, tingling, and numbness</strong></p></li><li data-start=\"474\" data-end=\"581\"><p data-start=\"476\" data-end=\"581\"><strong style=\"background-color: transparent;\" data-start=\"682\" data-end=\"755\">Manufactured in the USA, in a GMP-certified, FDA-registered facility.</strong></p></li><li data-start=\"758\" data-end=\"853\"><p data-start=\"760\" data-end=\"853\"><strong data-start=\"760\" data-end=\"851\">100% natural, non-GMO, and non-habit forming — no drugs, no chemicals, no side effects.</strong></p></li><li data-start=\"854\" data-end=\"947\"><p data-start=\"856\" data-end=\"947\"><strong data-start=\"856\" data-end=\"945\">Easy-to-swallow capsules — no restrictive diets, no creams, no phototherapy required.</strong></p></li></ul></li></ul>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "1a57e91b",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "c4bfb88",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<i>Cons</i>",
+     "title_color": "#FF0404"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "5c7a32bb",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<ul data-start=\"366\" data-end=\"509\"><li data-start=\"366\" data-end=\"414\"><ul><li data-start=\"1374\" data-end=\"1466\"><p data-start=\"1376\" data-end=\"1466\"><strong data-start=\"1376\" data-end=\"1464\">Only available through the Official Website — not sold in stores or other retailers.</strong></p></li><li data-start=\"1467\" data-end=\"1562\"><p data-start=\"1469\" data-end=\"1562\"><strong data-start=\"1469\" data-end=\"1560\">Due to high demand, stock may sell out quickly — especially the 3 and 6 bottle bundles.</strong></p></li><li data-start=\"1563\" data-end=\"1645\"><p data-start=\"1565\" data-end=\"1645\"><strong data-start=\"1565\" data-end=\"1643\">Imitation bottles have been reported on Amazon and eBay — beware of fakes.</strong></p></li><li data-start=\"1646\" data-end=\"1728\"><p data-start=\"1648\" data-end=\"1728\"><strong data-start=\"1648\" data-end=\"1728\">Results may vary depending on severity of nerve damage and lifestyle habits.</strong></p></li></ul></li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "41a9369b",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "10",
+    "right": "0",
+    "bottom": "10",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "4e08be19",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Is Arialief a scam?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_weight": "700",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 48
+     },
+     "header_size": "h1",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 35
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "5f37c12c",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"⚠️\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/26a0.svg\"> Beware of Fake Arialief Products\n",
+     "align": "center",
+     "title_color": "#FFEC00",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 32
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "423051b7",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "278750b3",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 58.118
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "727b415a",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<h3 data-start=\"160\" data-end=\"201\"><span style=\"font-size: 20px;\">We get it — trying something new online can raise doubts.</span></h3><p data-start=\"203\" data-end=\"317\">But rest assured: <strong data-start=\"281\" data-end=\"314\"><strong data-start=\"354\" data-end=\"520\">Arialief</strong> is 100% legitimate</strong>.</p><p data-start=\"319\" data-end=\"435\">To protect yourself from scams or counterfeit supplements, <strong data-start=\"378\" data-end=\"432\">only purchase Arialief from the </strong><b><a href=\"https://bg.arialief.com/?aff_id=41563\">Official Website</a></b>.</p><p data-start=\"437\" data-end=\"676\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/274c.svg\" alt=\"❌\" /> Do not trust shady ads, miracle prices, or listings on third-party sites like Amazon, eBay, or Walmart.<br data-start=\"542\" data-end=\"545\" />There have been reports of <strong data-start=\"572\" data-end=\"589\">fake versions</strong> being sold — and these often contain unknown, untested, or even dangerous ingredients.</p><p data-start=\"958\" data-end=\"1070\" data-is-last-node=\"\" data-is-only-node=\"\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> Don’t gamble with your well-being — if you choose to place an order, the official site is the safest way to ensure you’re getting the authentic formula and the support your nerves deserve.</p>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "7",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "1ee16bd8",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "7fc8f4d0",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "image": {
+        "id": 117,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/amazon.webp",
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5f713d3b",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "3c8b5db3",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 1770,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/ARIALIEF-FAKE-VS-ORIGINAL.webp",
+      "source": "library"
+     },
+     "width": {
+      "unit": "%",
+      "size": 47
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100
+     },
+     "link_to": "custom"
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "261f959",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p><b>Arialief</b><strong> is a registered brand, but that hasn’t stopped similar products from appearing. Unfortunately, these other brands trick you by using ineffective dosages of the active ingredients or selling bottles with only 60 capsules (take 4 per day, so it lasts only 15 days)</strong></p>",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 21
+     },
+     "typography_font_weight": "400",
+     "text_color": "#000000",
+     "_margin": {
+      "unit": "px",
+      "top": "7",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "f5e0dcb",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://bg.arialief.com/?aff_id=41563\">(SPECIAL Coupon) Click Here to Get Arialief with -50% Discount Price Online from the official website.</a></span></p>",
+     "text_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "800",
+     "typography_text_decoration": "underline"
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "d3d801e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "839843b",
+    "elType": "widget",
+    "settings": {
+     "title": " Guarantee + \nShipping Policy",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4446619",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "aa01784",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<span style=\"font-weight: normal;\">All orders are processed and shipped within 2–3 business days and typically arrive within 5–7 days if you’re located in the U.S.</span>",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3287556",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Every purchase is covered by a powerful 180-day money-back guarantee — real results or your money back.",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "4bf8556",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<span style=\"font-weight: normal;\">U.S. customers enjoy FREE shipping and receive a 1-on-1 Welcome Call with a nerve health expert — included at no extra cost with any order of one bottle or more.</span>",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "418e2ca",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<span style=\"font-weight: normal;\">Discounts are available for purchases of multiple bottles, making it easier to save while supporting your nerve health.</span>",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "e65a653",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "25252c0",
+    "elType": "widget",
+    "settings": {
+     "title": "Arialief Reviews",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "1f157f47",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "bg_image": {
+    "id": 288,
+    "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-57.png"
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     },
+     "repeater_bg_image": {
+      "id": 289,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-58.png"
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     },
+     "repeater_bg_image": {
+      "id": 290,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-59.png"
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "79d357e2",
+    "elType": "widget",
+    "settings": {
+     "title": "\"Read What Real Arialief Users Are Saying\"",
+     "align": "center",
+     "title_color": "#030303"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "135e8adf",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"It took a few weeks before I saw any changes, but now the stabbing nerve pain is less frequent. I’m hopeful that continued use will help even more.\"",
+       "name": "Laura G., 56",
+       "title": "Orlando, FL",
+       "image": {
+        "id": 1367,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/depoimento-4.jpeg",
+        "source": "library"
+       },
+       "rating": 4.8,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "2d189a29",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"At first, I wasn’t sure if Arialief would work for me. I’ve had nerve pain for years and tried so many things. But after about two weeks, I started noticing less tingling and discomfort. Now after a month, the burning sensation is much better. Definitely worth trying!\"",
+       "name": "Nicole T., 61",
+       "title": "Austin, TX",
+       "image": {
+        "id": 1369,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/depoimento-2.jpeg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "113ef439",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I ended up buying Arialief on Amazon because it was easier at the time. At first, I thought it was working, but after a few weeks, nothing improved. When I tried to get a refund, the seller didn’t respond. Later, I found out from the official website that the real Arialief is only sold through their site. I wasted money on a fake product.\n\nNow, I ordered from the official site and have been taking it for a couple of weeks. I’m already seeing some improvements, but I want to use it longer before giving a higher rating. If you want to avoid wasting money like I did, buy only from the official site!\"",
+       "name": " Mark D., 59",
+       "title": "Houston, TX",
+       "image": {
+        "id": 20,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/9269d5d7c88aaa03044190ad77c2d2dc.webp",
+        "source": "library"
+       },
+       "rating": 3.3,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "326ebe58",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"This supplement really works. I was doubtful because of all the hype, but my nerve pain has reduced significantly in about three weeks. I feel more energetic and can move around easier. Highly recommend.\"",
+       "name": "Sarah M., 54",
+       "title": "New York, USA",
+       "image": {
+        "id": 43,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/testo-3.jpg",
+        "source": "library"
+       },
+       "rating": 4.5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "18a2f80c",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I started taking Arialief along with my wife because we were both dealing with nerve pain — mine from years of standing at work, hers from a past injury. For me, the results came surprisingly fast — within just a few days I noticed the burning in my feet easing up. My wife, on the other hand, didn’t feel much until after about a month, but once it kicked in, her sleep improved and the pain started to fade. It definitely works, though the speed of results can vary depending on the person. Also, maintaining a healthy lifestyle seems to help boost the benefits even more.\"",
+       "name": "John L., 59",
+       "title": "San Diego, CA",
+       "image": {
+        "id": 1370,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/depoimento-3.jpeg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "b685f01",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "97fc570",
+    "elType": "widget",
+    "settings": {
+     "title": "Conclusion About Arialief",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 44
+     },
+     "typography_font_weight": "600",
+     "title_color": "#FFFFFF"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "37eb184a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "272984b8",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/1-1.png",
+      "id": 1756,
+      "source": "library"
+     },
+     "image_size": "custom",
+     "image_custom_dimension": {
+      "width": "200",
+      "height": "300"
+     }
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "2b08ef3",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   },
+   {
+    "id": "70dd26f1",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"309\" data-end=\"561\"><strong data-start=\"309\" data-end=\"559\">With so many nerve support supplements available today, it’s easy to feel uncertain about which one to trust. Arialief stands out with a plant-based formula, clinically backed ingredients, and thousands of satisfied users reporting real results.</strong></p><p data-start=\"568\" data-end=\"770\">However, as with any health product, individual results may vary based on your unique situation. What worked in just a few days for some may take a few weeks for others — and that’s completely normal.</p><p data-start=\"777\" data-end=\"1008\">Based on everything we've seen — from its ingredients to user experiences and refund policy — Arialief appears to be a promising option for those seeking relief from nerve discomfort, better sleep, and improved overall wellness.</p><p data-start=\"1015\" data-end=\"1200\"><img class=\"emoji\" role=\"img\" draggable=\"false\" src=\"https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg\" alt=\"✅\" /> <strong data-start=\"1017\" data-end=\"1200\">If you're ready to explore whether it’s the right fit for you, we recommend visiting the <a href=\"https://bg.arialief.com/?aff_id=41563\">Official Website</a> below to get all the details and current offers directly from the source</strong></p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "4d3ae18d",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "40dc645d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "1f2a3a41",
+    "elType": "widget",
+    "settings": {
+     "text": "Claim Your Arialief Today",
+     "link": {
+      "url": "https://bg.arialief.com/?aff_id=41563"
+     },
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_background": "gradient",
+     "background_color": "#FFCC05",
+     "background_color_b": "#D8A5B1",
+     "hover_animation": "pulse-grow",
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     }
+    },
+    "widgetType": "button"
+   },
+   {
+    "id": "35131350",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   },
+   {
+    "id": "7a021f51",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p data-start=\"131\" data-end=\"482\"><strong><em data-start=\"131\" data-end=\"482\">Some of the links on this post or page are affiliate links, which means that if you click on one and make a purchase, we may earn a small commission at no extra cost to you. This helps support and maintain this website. We only recommend products and services that we truly believe can bring value to our readers. Thank you so much for your support!</em></strong></p>",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_weight": "400"
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "43bb62e2",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "425c790a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "4",
+    "right": "0",
+    "bottom": "-22",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "15ab5935",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>© CHECKVITALSNOW.COM All Rights Reserved.</p>",
+     "align": "center",
+     "text_color": "#FFFFFF",
+     "_padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "129",
+      "left": "0",
+      "isLinked": false
+     },
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400"
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4b715b04",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "position": "fixed",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "z_index": 200
+  },
+  "elements": [
+   {
+    "id": "6527a147",
+    "elType": "widget",
+    "settings": {
+     "text": "Official Website",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_color": "#FFCC05",
+     "hover_animation": "pulse-grow",
+     "link": {
+      "url": "https://bg.arialief.com/?aff_id=41563"
+     },
+     "selected_icon": {
+      "value": "far fa-arrow-alt-circle-right",
+      "library": "fa-regular"
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     },
+     "background_background": "gradient",
+     "background_color_b": "#D8A5B1"
+    },
+    "widgetType": "button"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "315afea4",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "58ce897d",
+    "elType": "widget",
+    "settings": {
+     "html": "<script defer src=\"https://cdn.raadsgate.com/code/2311-f4aba1e3-7a4b-488d-9b9b-703f7dc33d55\"></script>"
+    },
+    "widgetType": "html"
+   }
+  ],
+  "isInner": false
+ }
+]

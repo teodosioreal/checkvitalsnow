@@ -1,0 +1,2666 @@
+[
+ {
+  "id": "3760da89",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#DBCDF9",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "f3718d2",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "FemiPro Review",
+     "align": "center",
+     "title_color": "#FFF900",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_weight": "800",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 45
+     },
+     "typography_font_size": {
+      "unit": "px",
+      "size": 67
+     },
+     "header_size": "h1",
+     "text_stroke_text_stroke_type": "yes",
+     "text_stroke_text_stroke": {
+      "unit": "px",
+      "size": 0
+     },
+     "text_shadow_text_shadow_type": "yes"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3ab68ffd",
+    "elType": "widget",
+    "settings": {
+     "title": "Update [Jun 2025]",
+     "align": "center",
+     "title_color": "#FF0000"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5284540c",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5fca73c0",
+    "elType": "widget",
+    "settings": {
+     "title": " Does It Really Work for Incontinence & Women’s Health? ",
+     "align": "center",
+     "title_color": "#096600",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 35
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 21
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "fcf5fd",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "30d05da0",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 1649,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/prod_1_bottlefemipro-1.png",
+      "source": "library"
+     },
+     "image_size": "medium"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2d54d62",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "62d7ac19",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Before You Try FemiPro, Read This",
+     "align": "left",
+     "title_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 34
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 30
+     },
+     "typography_font_weight": "700"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "190b7e1e",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "6bda5933",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "483e92f0",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p><span style=\"color: #ff0000;\"><em><strong><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">O que ninguém te conta sobre o FemiPro</span></span></strong></em></span></p><p data-start=\"100\" data-end=\"215\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">➡️ O bom e o ruim. Tudo o que você precisa saber antes de decidir.</span></span></p><p data-start=\"217\" data-end=\"287\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">✅ Ingredientes de alta qualidade — mas os resultados variam de pessoa para pessoa.</span></span></p><p data-start=\"289\" data-end=\"338\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">⚠️ Seu estilo de vida impacta diretamente nos resultados.</span></span></p><p data-start=\"340\" data-end=\"401\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">⚠️ Comprar fora do site oficial pode levar a golpes.</span></span></p><p data-start=\"403\" data-end=\"479\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">🔥 Funciona, mas não é milagre: requer uso diário e consistente.</span></span></p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "de35cbd",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#DDD7D7",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "6a7c2243",
+    "elType": "widget",
+    "settings": {
+     "title": "What is Femipro?",
+     "align": "center",
+     "title_color": "#F1E7E7",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 34
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "7e47c6c1",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"404\" data-end=\"560\"><strong data-start=\"404\" data-end=\"439\">FemiPro is a natural supplement</strong> designed to support women’s health, focusing on <strong data-start=\"488\" data-end=\"514\">urinary tract strength</strong>, <strong data-start=\"516\" data-end=\"536\">hormonal balance</strong>, and <strong data-start=\"542\" data-end=\"559\">energy levels</strong>.</p><p data-start=\"562\" data-end=\"664\">It’s made in <strong data-start=\"575\" data-end=\"603\">GMP-certified facilities</strong> and follows <strong data-start=\"616\" data-end=\"634\">FDA guidelines</strong>, ensuring quality and safety.</p><p data-start=\"666\" data-end=\"860\">Its formula includes <strong data-start=\"687\" data-end=\"755\">ashwagandha, iron, folic acid, B-complex vitamins, and vitamin D</strong> — ingredients studied for supporting <strong data-start=\"793\" data-end=\"814\">hormonal function</strong>, <strong data-start=\"816\" data-end=\"836\">stress reduction</strong>, and <strong data-start=\"842\" data-end=\"859\">immune health</strong>.</p><p data-start=\"862\" data-end=\"1006\"><strong data-start=\"862\" data-end=\"891\">FemiPro is not a medicine</strong>, but it may help women, especially after age 35, who deal with <strong data-start=\"955\" data-end=\"976\">mild incontinence</strong> or <strong data-start=\"980\" data-end=\"1005\">hormonal fluctuations</strong>.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "54c0ac6d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "12deef1d",
+    "elType": "widget",
+    "settings": {
+     "title": "How does FemiPro Review work?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 34
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "31ef05ee",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"302\" data-end=\"416\"><strong data-start=\"302\" data-end=\"349\">FemiPro works by supporting three key areas</strong>: <strong data-start=\"351\" data-end=\"371\">hormonal balance</strong>, <strong data-start=\"373\" data-end=\"392\">urinary control</strong>, and <strong data-start=\"398\" data-end=\"415\">energy levels</strong>.</p><ul data-start=\"418\" data-end=\"795\"><li data-start=\"418\" data-end=\"542\"><p data-start=\"420\" data-end=\"542\"><strong data-start=\"420\" data-end=\"435\">Ashwagandha</strong> helps regulate <strong data-start=\"451\" data-end=\"463\">cortisol</strong>, the stress hormone, which can affect hormonal stability and bladder function.</p></li><li data-start=\"543\" data-end=\"676\"><p data-start=\"545\" data-end=\"676\"><strong data-start=\"545\" data-end=\"568\">Iron and B vitamins</strong> improve <strong data-start=\"577\" data-end=\"596\">cellular energy</strong> and <strong data-start=\"601\" data-end=\"626\">nervous system health</strong>, supporting better control of the urinary system.</p></li><li data-start=\"677\" data-end=\"795\"><p data-start=\"679\" data-end=\"795\"><strong data-start=\"679\" data-end=\"707\">Vitamin D and folic acid</strong> contribute to <strong data-start=\"722\" data-end=\"748\">immune and bone health</strong>, which may indirectly support pelvic strength.</p></li></ul><p data-start=\"797\" data-end=\"948\">It’s not a quick fix, but with <strong data-start=\"828\" data-end=\"846\">consistent use</strong>, many women report gradual improvements in <strong data-start=\"890\" data-end=\"928\">urinary control, mood, and fatigue</strong> within a few weeks.</p>",
+     "align": "left",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4b744ba6",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2bae4b4c",
+    "elType": "widget",
+    "settings": {
+     "title": "Who Is FemiPro For?",
+     "align": "center",
+     "title_color": "#0D1035",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "900",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#FFFFFF",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 31
+     }
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "70ade039",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "11f91ea",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ],
+     "flex_justify_content": "center"
+    },
+    "elements": [
+     {
+      "id": "74a4c6d2",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p data-start=\"269\" data-end=\"311\">FemiPro is ideal for women who experience:</p><ul data-start=\"313\" data-end=\"554\"><li data-start=\"313\" data-end=\"359\"><p data-start=\"315\" data-end=\"359\">💧 <strong data-start=\"318\" data-end=\"359\">Mild to moderate urinary incontinence</strong></p></li><li data-start=\"360\" data-end=\"414\"><p data-start=\"362\" data-end=\"414\">😣 <strong data-start=\"365\" data-end=\"388\">Hormonal imbalances</strong> (especially after age 35)</p></li><li data-start=\"415\" data-end=\"453\"><p data-start=\"417\" data-end=\"453\">💤 <strong data-start=\"420\" data-end=\"453\">Chronic fatigue or low energy</strong></p></li><li data-start=\"454\" data-end=\"486\"><p data-start=\"456\" data-end=\"486\">😖 <strong data-start=\"459\" data-end=\"486\">Stress-related symptoms</strong></p></li><li data-start=\"487\" data-end=\"514\"><p data-start=\"489\" data-end=\"514\">🔄 <strong data-start=\"492\" data-end=\"514\">Mood swings or PMS</strong></p></li><li data-start=\"515\" data-end=\"554\"><p data-start=\"517\" data-end=\"554\">🦴 <strong data-start=\"520\" data-end=\"554\">Bone or immune health concerns</strong></p></li></ul>",
+       "align": "left",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 22
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "395230b1",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ],
+     "flex_justify_content": "center"
+    },
+    "elements": [
+     {
+      "id": "1705fd8",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/femipro-review.png",
+        "id": 1646,
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     },
+     {
+      "id": "563a6b9",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p>It’s <strong data-start=\"561\" data-end=\"616\">not recommended for pregnant or breastfeeding women</strong>, and you should consult your doctor before starting any supplement.</p>",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 12
+       },
+       "typography_font_weight": "400"
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "6c7f42ec",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2eb3c1d9",
+    "elType": "widget",
+    "settings": {
+     "title": "What are the benefits of FemiPro",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 29
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7eb564ad",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2267ffac",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>Using Nerve Calm may bring a <strong>total life transformation</strong>:</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "47c21fa3",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "319aa618",
+    "elType": "widget",
+    "settings": {
+     "editor": "<div class=\"elementor-element elementor-element-32e57694 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent e-lazyloaded\" data-id=\"32e57694\" data-element_type=\"container\"><ul data-start=\"339\" data-end=\"671\"><li data-start=\"339\" data-end=\"398\"><p data-start=\"341\" data-end=\"398\">💧 <strong data-start=\"344\" data-end=\"372\">Improves bladder control</strong> and reduces urine leakage</p></li><li data-start=\"399\" data-end=\"469\"><p data-start=\"401\" data-end=\"469\">⚖️ <strong data-start=\"404\" data-end=\"433\">Supports hormonal balance</strong>, especially during PMS or menopause</p></li><li data-start=\"470\" data-end=\"518\"><p data-start=\"472\" data-end=\"518\">🔋 <strong data-start=\"475\" data-end=\"498\">Boosts daily energy</strong> and reduces fatigue</p></li><li data-start=\"519\" data-end=\"575\"><p data-start=\"521\" data-end=\"575\">🧠 <strong data-start=\"524\" data-end=\"556\">Enhances emotional stability</strong> and reduces stress</p></li><li data-start=\"576\" data-end=\"615\"><p data-start=\"578\" data-end=\"615\">🛡️ <strong data-start=\"582\" data-end=\"615\">Strengthens the immune system</strong></p></li><li data-start=\"616\" data-end=\"671\"><p data-start=\"618\" data-end=\"671\">🦴 <strong data-start=\"621\" data-end=\"651\">Contributes to bone health</strong> thanks to vitamin D</p></li></ul><p data-start=\"673\" data-end=\"732\"><em data-start=\"673\" data-end=\"732\">Consistent use is important to feel these benefits fully.</em></p></div>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "de9a3b4",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/lazer-para-idosos.jpeg",
+      "id": 1433,
+      "source": "library"
+     },
+     "image_size": "medium_large"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "10b22091",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "width": {
+    "unit": "%",
+    "size": 98.129
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "72cc7cfc",
+    "elType": "widget",
+    "settings": {
+     "title": "Ingredients",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3de79b52",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"306\" data-end=\"413\"><strong data-start=\"306\" data-end=\"357\">FemiPro contains a blend of natural ingredients</strong>, each chosen for a specific function in women’s health:</p><ul data-start=\"415\" data-end=\"897\"><li data-start=\"415\" data-end=\"520\"><p data-start=\"417\" data-end=\"520\">🌿 <strong data-start=\"420\" data-end=\"435\">Ashwagandha</strong> – Adaptogen that helps <strong data-start=\"459\" data-end=\"478\">reduce cortisol</strong>, improving stress and hormonal stability.</p></li><li data-start=\"521\" data-end=\"645\"><p data-start=\"523\" data-end=\"645\">💊 <strong data-start=\"526\" data-end=\"540\">Folic Acid</strong> – Supports <strong data-start=\"552\" data-end=\"567\">cell repair</strong> and <strong data-start=\"572\" data-end=\"595\">reproductive health</strong>, especially useful for women of childbearing age.</p></li><li data-start=\"646\" data-end=\"716\"><p data-start=\"648\" data-end=\"716\">🩸 <strong data-start=\"651\" data-end=\"659\">Iron</strong> – Fights <strong data-start=\"669\" data-end=\"680\">fatigue</strong> and helps in <strong data-start=\"694\" data-end=\"715\">energy production</strong>.</p></li><li data-start=\"717\" data-end=\"811\"><p data-start=\"719\" data-end=\"811\">⚡ <strong data-start=\"721\" data-end=\"743\">B-Complex Vitamins</strong> – Improve <strong data-start=\"754\" data-end=\"775\">energy metabolism</strong> and support the <strong data-start=\"792\" data-end=\"810\">nervous system</strong>.</p></li><li data-start=\"812\" data-end=\"897\"><p data-start=\"814\" data-end=\"897\">☀️ <strong data-start=\"817\" data-end=\"830\">Vitamin D</strong> – Contributes to <strong data-start=\"848\" data-end=\"865\">bone strength</strong> and a <strong data-start=\"872\" data-end=\"896\">strong immune system</strong>.</p></li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "588b010d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "4c96e8dd",
+    "elType": "widget",
+    "settings": {
+     "title": "Pros and Cons",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5189fd5b",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "26000db8",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 31.426
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "ec87904",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/FemiPro-por-e-contras-768x734-1.webp",
+        "id": 1647,
+        "source": "library"
+       },
+       "image_size": "medium_large"
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "3ad395cc",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "69d702f1",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "title": "<i>Pros</i>",
+       "title_color": "#2FFC00"
+      },
+      "widgetType": "heading"
+     },
+     {
+      "id": "f4177dc",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<ul><li data-start=\"272\" data-end=\"318\"><p data-start=\"274\" data-end=\"318\">Natural formula with no known side effects</p></li><li data-start=\"319\" data-end=\"368\"><p data-start=\"321\" data-end=\"368\">Supports hormonal balance and urinary control</p></li><li data-start=\"369\" data-end=\"419\"><p data-start=\"371\" data-end=\"419\">Free shipping on select multi-bottle purchases</p></li><li data-start=\"420\" data-end=\"451\"><p data-start=\"422\" data-end=\"451\">60-day money-back guarantee</p></li><li data-start=\"452\" data-end=\"502\"><p data-start=\"454\" data-end=\"502\">Includes two bonuses when ordering six bottles</p></li><li data-start=\"503\" data-end=\"557\"><p data-start=\"505\" data-end=\"557\">May improve energy levels and emotional well-being</p></li></ul>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3aaf2943",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "20fd4523",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "<i>Cons</i>",
+     "title_color": "#FF0404"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "766ec1d7",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<ul data-start=\"569\" data-end=\"783\"><li data-start=\"569\" data-end=\"618\"><p data-start=\"571\" data-end=\"618\">Sold exclusively through the official website</p></li><li data-start=\"619\" data-end=\"662\"><p data-start=\"621\" data-end=\"662\">Limited availability due to high demand</p></li><li data-start=\"663\" data-end=\"728\"><p data-start=\"665\" data-end=\"728\">Results vary depending on individual response and consistency</p></li><li data-start=\"729\" data-end=\"783\"><p data-start=\"731\" data-end=\"783\">Reports of counterfeit products on Amazon and eBay</p></li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "67bfebee",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "10",
+    "right": "0",
+    "bottom": "10",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "72d0268",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Is FemiPro a scam?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_weight": "700",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 48
+     },
+     "header_size": "h1",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 35
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3688b935",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "⚠️ Beware of Fake Nerve Calm Products\n",
+     "align": "center",
+     "title_color": "#FFEC00",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 32
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "52ceb184",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "574b8d2",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 58.118
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "43dbbb4a",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<p data-start=\"209\" data-end=\"412\">We get it — trying something new online can raise doubts.<br data-start=\"266\" data-end=\"269\" />But rest assured: <strong data-start=\"287\" data-end=\"325\">FemiPro is a legitimate supplement</strong> produced in GMP-certified facilities, following FDA-compliant manufacturing practices.</p><p data-start=\"414\" data-end=\"525\">To protect yourself from scams or counterfeit supplements, <strong data-start=\"473\" data-end=\"524\">only purchase FemiPro from the Official Website</strong>.</p><p data-start=\"527\" data-end=\"773\">❌ Do not trust shady ads, miracle prices, or listings on third-party sites like Amazon, eBay, or Walmart.<br data-start=\"632\" data-end=\"635\" />There have been verified reports of <strong data-start=\"671\" data-end=\"699\">fake versions being sold</strong>, often containing <strong data-start=\"718\" data-end=\"753\">unknown or untested ingredients</strong> that may be unsafe.</p><p data-start=\"775\" data-end=\"971\">✅ Don’t take risks with your health. If you choose to try FemiPro, the <strong data-start=\"846\" data-end=\"886\">official site is the only secure way</strong> to guarantee you receive the authentic formula — and the support your body deserves.</p>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "7",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "3d9ca4c2",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "79b1232f",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "image": {
+        "id": 117,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/amazon.webp",
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "15d19446",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5a3388a2",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 1645,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/scam-alert-femipro-768x426-1.webp",
+      "source": "library"
+     },
+     "width": {
+      "unit": "%",
+      "size": 47
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100
+     },
+     "link_to": "custom"
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "b1e93e4",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p data-start=\"211\" data-end=\"335\"><strong data-start=\"211\" data-end=\"258\">FemiPro is a registered and branded product</strong>, but that hasn’t stopped similar-looking supplements from showing up online.</p><p data-start=\"337\" data-end=\"626\">Unfortunately, some of these alternatives <strong data-start=\"379\" data-end=\"400\">mislead customers</strong> by using <strong data-start=\"410\" data-end=\"433\">underdosed formulas</strong> or offering bottles with <strong data-start=\"459\" data-end=\"477\">fewer capsules</strong> than needed — for example, just 60 capsules when the recommended dosage is 4 per day, meaning the supply lasts only 15 days instead of a full month.</p><p data-start=\"628\" data-end=\"833\">These imitations may look similar, but they <strong data-start=\"672\" data-end=\"716\">do not follow the same quality standards</strong>, nor do they offer money-back guarantees or verified safety. <strong data-start=\"778\" data-end=\"810\">Stick to the official source</strong> to avoid being misled.</p>",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 21
+     },
+     "typography_font_weight": "400",
+     "text_color": "#000000",
+     "_margin": {
+      "unit": "px",
+      "top": "7",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "16e8f68",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://getnervecalm.com/dtc/?aff_id=143471\">(SPECIAL Coupon) Click Here to Get FemiPro with -50% Discount Price Online from the official website.</a></span></p>",
+     "text_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "800",
+     "typography_text_decoration": "underline"
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "1f996824",
+    "elType": "widget",
+    "settings": {
+     "title": " Guarantee + \nShipping Policy",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "29399cea",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "FemiPro comes with a 60-day money-back guarantee. If you are not satisfied with the results, you can request a full refund within this period by contacting customer service. Some returns may be required before the refund is processed.",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "ccb4967",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Shipping is handled promptly, with typical delivery times between 7 to 14 business days, depending on your location. Once your order ships, you will receive tracking information to monitor your package.",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "ed21fc0",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Purchases made through the official website are eligible for free shipping on multi-bottle orders, ensuring you get the best value.\n\n",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "78ae46d7",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "257b5e54",
+    "elType": "widget",
+    "settings": {
+     "title": "FemiPro Reviews",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 28
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3291bd90",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "bg_image": {
+    "id": 288,
+    "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-57.png"
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     },
+     "repeater_bg_image": {
+      "id": 289,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-58.png"
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     },
+     "repeater_bg_image": {
+      "id": 290,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-59.png"
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "55b7ff86",
+    "elType": "widget",
+    "settings": {
+     "title": "\"Read What Real FemiPro Users Are Saying\"",
+     "align": "center",
+     "title_color": "#030303"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3e276b3e",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"It took a few weeks before I saw any changes, but now the stabbing nerve pain is less frequent. I’m hopeful that continued use will help even more.\"",
+       "name": "Laura G., 56",
+       "title": "Orlando, FL",
+       "image": {
+        "id": 1367,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/depoimento-4.jpeg",
+        "source": "library"
+       },
+       "rating": 4.8,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "47ab851f",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"At first, I wasn’t sure if NerveCalm would work for me. I’ve had nerve pain for years and tried so many things. But after about two weeks, I started noticing less tingling and discomfort. Now after a month, the burning sensation is much better. Definitely worth trying!\"",
+       "name": "Nicole T., 61",
+       "title": "Austin, TX",
+       "image": {
+        "id": 355,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/avaliacoes-2.jpg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "0b147bf",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I ended up buying FemiPro on Amazon because it was easier at the time. At first, I thought it was working, but after a few weeks, nothing improved. When I tried to get a refund, the seller didn’t respond. Later, I found out from the official website that the real FemiPro is only sold through their site. I wasted money on a fake product.\n\nNow, I ordered from the official site and have been taking it for a couple of weeks. I’m already seeing some improvements, but I want to use it longer before giving a higher rating. If you want to avoid wasting money like I did, buy only from the official site!\"",
+       "name": " Mark D., 59",
+       "title": "Houston, TX",
+       "image": {
+        "id": 356,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/avaliacoes.jpg",
+        "source": "library"
+       },
+       "rating": 3.3,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "721cd4f1",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"This supplement really works. I was doubtful because of all the hype, but my nerve pain has reduced significantly in about three weeks. I feel more energetic and can move around easier. Highly recommend.\"",
+       "name": "Sarah M., 54",
+       "title": "New York, USA",
+       "image": {
+        "id": 43,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/testo-3.jpg",
+        "source": "library"
+       },
+       "rating": 4.5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "1e5508b0",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I started taking NerveCalm along with my wife because we were both dealing with nerve pain — mine from years of standing at work, hers from a past injury. For me, the results came surprisingly fast — within just a few days I noticed the burning in my feet easing up. My wife, on the other hand, didn’t feel much until after about a month, but once it kicked in, her sleep improved and the pain started to fade. It definitely works, though the speed of results can vary depending on the person. Also, maintaining a healthy lifestyle seems to help boost the benefits even more.\"",
+       "name": "John L., 59",
+       "title": "San Diego, CA",
+       "image": {
+        "id": 1368,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/depoimento1.jpeg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4b97ce6e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5136f25b",
+    "elType": "widget",
+    "settings": {
+     "title": "Conclusion About FemiPro",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 27
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "33fce27",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/prod_1_bottlefemipro-1.png",
+      "id": 1649,
+      "source": "library"
+     },
+     "image_size": "custom",
+     "image_custom_dimension": {
+      "width": "200",
+      "height": "300"
+     }
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "7516151",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   },
+   {
+    "id": "55efcff5",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"218\" data-end=\"471\">With so many supplements for women's health available today, it’s natural to feel uncertain about which one to trust. <strong data-start=\"336\" data-end=\"442\">FemiPro stands out with its natural formula, clinically backed ingredients, and positive user feedback</strong> reporting real improvements.</p><p data-start=\"473\" data-end=\"681\">However, as with any supplement, individual results may vary depending on your unique body and consistency of use. What some users notice within weeks might take longer for others—and that’s perfectly normal.</p><p data-start=\"683\" data-end=\"880\">Based on its ingredients, user experiences, and money-back guarantee, <strong data-start=\"753\" data-end=\"879\">FemiPro appears to be a promising choice for women seeking hormonal balance, improved urinary control, and enhanced energy</strong>.</p><p data-start=\"882\" data-end=\"1040\">If you’re considering trying FemiPro, we recommend visiting the <a href=\"https://thefemipro.com/text.php?aff_id=34811\" target=\"_blank\" rel=\"noopener\"><b>Official Website below</b></a> to get all the details and current offers directly from the source.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "5d62599",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7babcd2",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2a0195b",
+    "elType": "widget",
+    "settings": {
+     "text": "Claim Your FemiPro Today",
+     "link": {
+      "url": "https://thefemipro.com/text.php?aff_id=34811"
+     },
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_background": "gradient",
+     "background_color": "#FFCC05",
+     "background_color_b": "#D8A5B1",
+     "hover_animation": "pulse-grow",
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     }
+    },
+    "widgetType": "button"
+   },
+   {
+    "id": "b26939e",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   },
+   {
+    "id": "1db99c8",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p data-start=\"131\" data-end=\"482\"><strong><em data-start=\"131\" data-end=\"482\">Some of the links on this post or page are affiliate links, which means that if you click on one and make a purchase, we may earn a small commission at no extra cost to you. This helps support and maintain this website. We only recommend products and services that we truly believe can bring value to our readers. Thank you so much for your support!</em></strong></p>",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_weight": "400"
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "ada58b9",
+    "elType": "widget",
+    "settings": {
+     "space": {
+      "unit": "px",
+      "size": 20
+     }
+    },
+    "widgetType": "spacer"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2cf3d58e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "4",
+    "right": "0",
+    "bottom": "-22",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "1871df7",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>© CHECKVITALSNOW.COM All Rights Reserved.</p>",
+     "align": "center",
+     "text_color": "#FFFFFF",
+     "_padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "129",
+      "left": "0",
+      "isLinked": false
+     },
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400"
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3704192a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "position": "fixed",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "z_index": 200
+  },
+  "elements": [
+   {
+    "id": "cef419c",
+    "elType": "widget",
+    "settings": {
+     "text": "Official Website - https://thefemipro.com",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_color": "#FFCC05",
+     "hover_animation": "pulse-grow",
+     "link": {
+      "url": "https://thefemipro.com/text.php?aff_id=34811"
+     },
+     "selected_icon": {
+      "value": "far fa-arrow-alt-circle-right",
+      "library": "fa-regular"
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     },
+     "background_background": "gradient",
+     "background_color_b": "#D8A5B1"
+    },
+    "widgetType": "button"
+   }
+  ],
+  "isInner": false
+ }
+]

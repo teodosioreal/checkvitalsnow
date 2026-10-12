@@ -1,0 +1,2660 @@
+[
+ {
+  "id": "3760da89",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "f3718d2",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Kerafen Review",
+     "align": "center",
+     "title_color": "#FFF900",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_weight": "800",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 45
+     },
+     "typography_font_size": {
+      "unit": "px",
+      "size": 67
+     },
+     "header_size": "h1",
+     "text_stroke_text_stroke_type": "yes",
+     "text_stroke_text_stroke": {
+      "unit": "px",
+      "size": 0
+     },
+     "text_shadow_text_shadow_type": "yes"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3ab68ffd",
+    "elType": "widget",
+    "settings": {
+     "title": "Update [Jun 2025]",
+     "align": "center",
+     "title_color": "#FF0000"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5284540c",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5fca73c0",
+    "elType": "widget",
+    "settings": {
+     "title": "Does It really work? Here's what I discovered about all the Kerafen Customer Reviews . You decide",
+     "align": "center",
+     "title_color": "#096600",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 35
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 21
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "fcf5fd",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "30d05da0",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 147,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/kerafen-ia-1.png",
+      "source": "library"
+     },
+     "image_size": "medium_large"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2d54d62",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "62d7ac19",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Before You Try Kerafen, Read This",
+     "align": "left",
+     "title_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 34
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 30
+     },
+     "typography_font_weight": "700"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "190b7e1e",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>&nbsp;– Everything You Need to Know The Good and the Bad</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "6bda5933",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "483e92f0",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p><span style=\"color: #ff0000;\"><em><strong>What You’re Not Being Told (Ingredients, Delivery, Guarantee &amp; Warnings)</strong></em></span></p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "de35cbd",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "6a7c2243",
+    "elType": "widget",
+    "settings": {
+     "title": "What is Kerafen?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 34
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "7e47c6c1",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>Kerafen is a natural topical supplement designed to eliminate toenail fungus and restore healthy nails and skin.</p><p>Made with a blend of essential oils, vitamins, and plant extracts, it provides an effective, side-effect-free solution to fungal infections.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "54c0ac6d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "12deef1d",
+    "elType": "widget",
+    "settings": {
+     "title": "How does Kerafen work?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 34
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "31ef05ee",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>Kerafen works by penetrating the nail bed and surrounding skin to attack the root cause of fungal infections.</p><p>Its powerful antifungal ingredients kill harmful fungi, detoxify the skin, and nourish nail cells, promoting regeneration and protection against future infections.</p>",
+     "align": "left",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4b744ba6",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2bae4b4c",
+    "elType": "widget",
+    "settings": {
+     "title": " Experience a Powerful Transformation with Kerafen – Restore Healthy Nails and Skin Naturally",
+     "align": "center",
+     "title_color": "#0D1035",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "900",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#FFFFFF",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 31
+     }
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "70ade039",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "11f91ea",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "74a4c6d2",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p data-start=\"191\" data-end=\"428\">Fungal infections do more than damage your nails — they affect your confidence. Kerafen offers a <strong data-start=\"288\" data-end=\"320\">natural, deep-acting formula</strong> designed to fight the root causes of nail fungus and restore the health of your nails and skin from within.</p><p data-start=\"430\" data-end=\"648\">With consistent use, you'll notice clearer nail beds, less irritation, and stronger, smoother nails. Say goodbye to hiding your feet or hands — <strong data-start=\"574\" data-end=\"625\">Kerafen helps you feel confident and free again</strong>, naturally and safely.</p>",
+       "align": "left",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 22
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "395230b1",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "50"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "64412fe1",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "id": 106,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/tmpwji9j7_c.jpg",
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "78ae46d7",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "257b5e54",
+    "elType": "widget",
+    "settings": {
+     "title": "Kerafen Reviews",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 28
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3291bd90",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "bg_image": {
+    "id": 288,
+    "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-57.png"
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     },
+     "repeater_bg_image": {
+      "id": 289,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-58.png"
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     },
+     "repeater_bg_image": {
+      "id": 290,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/placeholder-59.png"
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "55b7ff86",
+    "elType": "widget",
+    "settings": {
+     "title": "\"Read What Real Kerafen Users Are Saying\"​",
+     "align": "center",
+     "title_color": "#030303"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "1e5508b0",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "“I was so ashamed to walk barefoot around my friends since my toes have been infected very badly from the fungus. Even though I had to suffer the pain I had no other choice rather than covering my feet. I came across this Kerafen supplement while scrolling down my social media. I was skeptical at the beginning but had no other option thus tried this. Since this supplement has to be used externally and was easy to use, I gave it a try and was really worth it. My toes are beautiful again and now I gained back my confidence in going out on the beach barefoot.”",
+       "name": "Emma L., 42",
+       "title": "San Diego, CA",
+       "image": {
+        "id": 356,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/avaliacoes.jpg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "3e276b3e",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I tried all sorts of creams and ointments. Nothing worked long-term. Kerafen made a difference from the inside. It’s been a game-changer for my confidence.\"",
+       "name": "Laura G., 35",
+       "title": "Orlando, FL",
+       "image": {
+        "id": 277,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/test-1.jpg"
+       },
+       "rating": 4.8,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "721cd4f1",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I’m still testing the product and seeing good results so far. Unfortunately, before purchasing from the official website, I bought it on Amazon because it was cheaper—and it turned out to be a fake. Only buy from the official site to avoid wasting time and money.\"\n\n",
+       "name": " Marcus P., 57",
+       "title": "New York, USA",
+       "image": {
+        "id": 278,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/t4.jpg",
+        "source": "library"
+       },
+       "rating": 4,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   },
+   {
+    "id": "47ab851f",
+    "elType": "widget",
+    "settings": {
+     "slides_name": "Slides",
+     "slides": [
+      {
+       "content": "\"I was honestly skeptical, but Kerafen surprised me. Within three weeks, the yellow discoloration started fading and my toenails look cleaner and stronger than they’ve been in years. I’m still in the middle of the treatment, but the progress so far has been very encouraging. If it keeps going like this, I finally believe I’ll have healthy nails again.\"",
+       "name": "Nicole T., 61",
+       "title": "Chicago, IL",
+       "image": {
+        "id": 355,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/avaliacoes-2.jpg",
+        "source": "library"
+       },
+       "rating": 5,
+       "selected_social_icon": {}
+      }
+     ],
+     "space_between": {
+      "unit": "px",
+      "size": 8
+     },
+     "slide_background_color": "#EEEEEE",
+     "slide_border_size": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+     },
+     "slide_border_radius": {
+      "unit": "px",
+      "size": 13
+     },
+     "slide_border_color": "#C2C2C2",
+     "name_typography_typography": "custom",
+     "name_typography_font_family": "Roboto",
+     "name_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "name_typography_font_weight": "600",
+     "title_color": "#000000",
+     "title_typography_typography": "custom",
+     "content_color": "#000000",
+     "content_typography_typography": "custom",
+     "content_typography_font_family": "Roboto",
+     "content_typography_font_size": {
+      "unit": "px",
+      "size": 18
+     },
+     "content_typography_font_weight": "400",
+     "image_size": {
+      "unit": "px",
+      "size": 69
+     },
+     "icon_color": "custom",
+     "icon_custom_color": "#000000",
+     "star_style": "star_unicode",
+     "star_size": {
+      "unit": "px",
+      "size": 29
+     },
+     "star_space": {
+      "unit": "px",
+      "size": 0
+     },
+     "stars_color": "#FCB619",
+     "stars_unmarked_color": "#A2A2A2",
+     "arrows_color": "#000000"
+    },
+    "widgetType": "reviews"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "6c7f42ec",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2eb3c1d9",
+    "elType": "widget",
+    "settings": {
+     "title": "What are the benefits of Kerafen?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 29
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "7eb564ad",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "2267ffac",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p><b>Kerafen</b> is a natural yet powerful solution designed to combat nail fungus at its root. Unlike temporary fixes, Kerafen works holistically—targeting not just the symptoms but also the underlying causes of fungal infections. With its carefully selected blend of botanical extracts, essential oils, and antifungal agents, Kerafen supports both nail and skin health, promoting long-term restoration and protection. Here are the key benefits that make Kerafen a standout choice:</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "47c21fa3",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "319aa618",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p data-start=\"647\" data-end=\"919\">✅ <strong data-start=\"649\" data-end=\"675\">Eliminates Nail Fungus</strong><br data-start=\"675\" data-end=\"678\" />Kerafen directly targets fungal organisms beneath the nail, removing infections at the source. This deep-action formula not only clears up visible symptoms but also prevents the fungus from returning, helping you regain healthy, clear nails.</p><p data-start=\"921\" data-end=\"1202\">✅ <strong data-start=\"923\" data-end=\"953\">Strengthens Nails and Skin</strong><br data-start=\"953\" data-end=\"956\" />The formula supports the regeneration of damaged nail tissue and enhances the resilience of surrounding skin. Over time, nails become stronger and less brittle, while the skin is better protected against cracking, dryness, and external irritants.</p><p data-start=\"1204\" data-end=\"1450\">✅ <strong data-start=\"1206\" data-end=\"1237\">Restores Natural Nail Color</strong><br data-start=\"1237\" data-end=\"1240\" />Kerafen fights discoloration and yellowing caused by fungal buildup. By purifying the nail bed and encouraging natural healing, it helps restore the healthy pink hue of your nails, improving overall appearance.</p><p data-start=\"1452\" data-end=\"1744\">✅ <strong data-start=\"1454\" data-end=\"1498\">Relieves Itching, Odor, and Inflammation</strong><br data-start=\"1498\" data-end=\"1501\" />With natural anti-inflammatory and antimicrobial ingredients, Kerafen soothes persistent itching, eliminates unpleasant odors, and reduces swelling commonly associated with fungal infections. This provides fast relief while supporting healing.</p><p data-start=\"1746\" data-end=\"2031\">✅ <strong data-start=\"1748\" data-end=\"1785\">Prevents Future Fungal Infections</strong><br data-start=\"1785\" data-end=\"1788\" />Kerafen not only eliminates current infections but also strengthens the skin’s natural defenses. By balancing the microbiome and forming a protective antifungal barrier, it reduces the likelihood of reinfection and offers long-term protection.</p><p data-start=\"2033\" data-end=\"2283\">✅ <strong data-start=\"2035\" data-end=\"2072\">Improves Skin Hydration &amp; Texture</strong><br data-start=\"2072\" data-end=\"2075\" />Enriched with deeply moisturizing oils, Kerafen nourishes and softens rough or dry skin, especially around the toes and heels. Continued use leaves your feet feeling smoother, healthier, and more comfortable.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "de9a3b4",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/1732302533082_1674211236_BEFORE_18_f9f52887_9268_4adf_941c_f535a57df2ff_1024x1024.webp",
+      "id": 268,
+      "source": "library"
+     },
+     "image_size": "medium"
+    },
+    "widgetType": "image"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "10b22091",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "width": {
+    "unit": "%",
+    "size": 98.129
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "72cc7cfc",
+    "elType": "widget",
+    "settings": {
+     "title": "Ingredients",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3de79b52",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"82\" data-end=\"198\">🌿 <strong data-start=\"85\" data-end=\"109\">Undecylenic Acid USP</strong><br data-start=\"109\" data-end=\"112\" />A potent antifungal agent that prevents fungal growth and protects against recurrence.</p><p data-start=\"200\" data-end=\"323\">🌿 <strong data-start=\"203\" data-end=\"219\">Tea Tree Oil</strong><br data-start=\"219\" data-end=\"222\" />Known for its natural antifungal and antibacterial properties, it helps cleanse and protect the skin.</p><p data-start=\"325\" data-end=\"431\">🌿 <strong data-start=\"328\" data-end=\"354\">Aloe Vera Leaf Extract</strong><br data-start=\"354\" data-end=\"357\" />Soothes irritation, promotes healing, and provides antioxidant protection.</p><p data-start=\"433\" data-end=\"531\">🌿 <strong data-start=\"436\" data-end=\"453\">Vitamin E Oil</strong><br data-start=\"453\" data-end=\"456\" />Heals damaged tissue, boosts nail regeneration, and acts as an antioxidant.</p><p data-start=\"533\" data-end=\"636\">🌿 <strong data-start=\"536\" data-end=\"556\">Sweet Almond Oil</strong><br data-start=\"556\" data-end=\"559\" />Moisturizes and nourishes the skin and nail beds while reducing inflammation.</p><p data-start=\"638\" data-end=\"749\">🌿 <strong data-start=\"641\" data-end=\"667\">Flaxseed Oil (Organic)</strong><br data-start=\"667\" data-end=\"670\" />Rich in Omega-3 fatty acids, it reduces inflammation and improves skin texture.</p><p data-start=\"751\" data-end=\"846\">🌿 <strong data-start=\"754\" data-end=\"768\">Walnut Oil</strong><br data-start=\"768\" data-end=\"771\" />Enhances circulation, supports nail growth, and contains antifungal agents.</p><p data-start=\"848\" data-end=\"938\">🌿 <strong data-start=\"851\" data-end=\"862\">Menthol</strong><br data-start=\"862\" data-end=\"865\" />Provides a cooling sensation, soothes irritation, and reduces discomfort.</p><p data-start=\"940\" data-end=\"1026\" data-is-last-node=\"\" data-is-only-node=\"\">🌿 <strong data-start=\"943\" data-end=\"958\">Camphor Oil</strong><br data-start=\"958\" data-end=\"961\" />Antiseptic and antifungal, reduces swelling and promotes healing.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "588b010d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "4c96e8dd",
+    "elType": "widget",
+    "settings": {
+     "title": "Pros and Cons",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5189fd5b",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "26000db8",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 31.426
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "ec87904",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/ChatGPT-Image-9-de-jun.-de-2025-15_08_29.png",
+        "id": 159,
+        "source": "library"
+       },
+       "image_size": "medium_large"
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "3ad395cc",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "69d702f1",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "title": "Pros",
+       "title_color": "#2FFC00"
+      },
+      "widgetType": "heading"
+     },
+     {
+      "id": "f4177dc",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<ul><li data-start=\"148\" data-end=\"190\"><p data-start=\"150\" data-end=\"190\"><strong data-start=\"150\" data-end=\"188\">Made with 100% natural ingredients</strong></p></li><li data-start=\"191\" data-end=\"220\"><p data-start=\"193\" data-end=\"220\"><strong data-start=\"193\" data-end=\"218\">No known side effects</strong></p></li><li data-start=\"221\" data-end=\"256\"><p data-start=\"223\" data-end=\"256\"><strong data-start=\"223\" data-end=\"254\">Backed by clinical research</strong></p></li><li data-start=\"257\" data-end=\"280\"><p data-start=\"259\" data-end=\"280\">Easy to apply daily</p></li><li data-start=\"281\" data-end=\"313\"><p data-start=\"283\" data-end=\"313\"><strong data-start=\"283\" data-end=\"311\">Visible results in weeks</strong></p></li><li data-start=\"314\" data-end=\"347\"><p data-start=\"316\" data-end=\"347\"><strong data-start=\"316\" data-end=\"347\">60-day money-back guarantee</strong></p></li></ul>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3aaf2943",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "20fd4523",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Cons",
+     "title_color": "#FF0404"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "a5cbef7",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "766ec1d7",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<ul data-start=\"366\" data-end=\"509\"><li data-start=\"366\" data-end=\"414\"><p data-start=\"368\" data-end=\"414\"><strong data-start=\"368\" data-end=\"393\">Only available online</strong> <a style=\"background-color: #ffffff; letter-spacing: -0.1px;\" href=\"https://kerafen.com/news-research?aff_id=12779\" target=\"_blank\" rel=\"noopener\">(official website)</a></p></li><li data-start=\"415\" data-end=\"459\"><p data-start=\"417\" data-end=\"459\"><strong data-start=\"417\" data-end=\"457\">Results may vary between individuals</strong></p></li><li data-start=\"460\" data-end=\"509\"><p data-start=\"462\" data-end=\"509\"><strong data-start=\"462\" data-end=\"509\">Needs consistent daily use for best results</strong></p></li><li data-start=\"460\" data-end=\"509\"><p data-start=\"462\" data-end=\"509\"><strong data-start=\"462\" data-end=\"509\">Lifestyle Changes Required (Dry feet, clean socks, less sugar—it’s a whole lifestyle)</strong></p></li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "67bfebee",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "10",
+    "right": "0",
+    "bottom": "10",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "72d0268",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Is Kerafen a scam? Where to buy it?",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_weight": "700",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 48
+     },
+     "header_size": "h1",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 35
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3688b935",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Where to Buy Kerafen Original?",
+     "align": "center",
+     "title_color": "#FFEC00",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 32
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "52ceb184",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "row",
+   "flex_gap": {
+    "unit": "px",
+    "size": 0,
+    "column": "0",
+    "row": "0",
+    "isLinked": true
+   },
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "574b8d2",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": 58.118
+     },
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "43dbbb4a",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "editor": "<p data-start=\"121\" data-end=\"349\">I had the same concern, but <strong data-start=\"149\" data-end=\"174\">Kerafen is 100% legit</strong>. To avoid getting scammed, make sure you purchase <strong data-start=\"225\" data-end=\"259\">only from the official website</strong>. Don't fall for suspicious ads or deals that seem too good to be true — they usually are.</p><p data-start=\"351\" data-end=\"615\">We strongly advise <strong data-start=\"370\" data-end=\"451\">against buying Kerafen from Amazon, eBay, Walmart, or other third-party sites</strong>, as there have been reports of <strong data-start=\"483\" data-end=\"500\">fake versions</strong> being sold. These imitations often contain unknown or harmful ingredients and can put your health at serious risk.</p><p data-start=\"617\" data-end=\"863\">If you’re truly interested in trying Kerafen, the <strong data-start=\"667\" data-end=\"742\">safest and smartest move is to order directly from the Official Website</strong>. That way, you’re guaranteed to receive the real formula — safe, effective, and backed by a 60-day money-back guarantee.</p>",
+       "text_color": "#000000",
+       "typography_typography": "custom",
+       "typography_font_family": "Roboto",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20
+       },
+       "typography_font_weight": "400",
+       "_margin": {
+        "unit": "px",
+        "top": "-19",
+        "right": "0",
+        "bottom": "-19",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": true
+   },
+   {
+    "id": "3d9ca4c2",
+    "elType": "container",
+    "settings": {
+     "flex_direction": "column",
+     "content_width": "full",
+     "width": {
+      "unit": "%",
+      "size": "66.6666"
+     },
+     "flex_justify_content": "center",
+     "hover_parallax": [
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 30
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 40
+       }
+      },
+      {
+       "layer_position_vr": {
+        "unit": "%",
+        "size": 60
+       },
+       "layer_position_hr": {
+        "unit": "%",
+        "size": 20
+       }
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "79b1232f",
+      "elType": "widget",
+      "settings": {
+       "content_width": "full",
+       "image": {
+        "id": 117,
+        "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/amazon.webp",
+        "source": "library"
+       }
+      },
+      "widgetType": "image"
+     }
+    ],
+    "isInner": true
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "15d19446",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5a3388a2",
+    "elType": "widget",
+    "settings": {
+     "image": {
+      "id": 122,
+      "url": "https://checkvitalsnow.com/wp-content/uploads/2025/06/original-x-fake.png",
+      "source": "library"
+     },
+     "width": {
+      "unit": "%",
+      "size": 47
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100
+     },
+     "link_to": "custom",
+     "link": {
+      "url": "https://hop.clickbank.net/?affiliate=buyerheard&vendor=lbtonic"
+     }
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "2e22de86",
+    "elType": "widget",
+    "settings": {
+     "image": {},
+     "link_to": "custom",
+     "link": {
+      "url": "https://hop.clickbank.net/?affiliate=buyerheard&vendor=lbtonic"
+     },
+     "width": {
+      "unit": "%",
+      "size": 48
+     },
+     "width_mobile": {
+      "unit": "%",
+      "size": 100
+     }
+    },
+    "widgetType": "image"
+   },
+   {
+    "id": "1f996824",
+    "elType": "widget",
+    "settings": {
+     "title": " Guarantee + \nShipping Policy",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "29399cea",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "100% Satisfaction 60-Day Money Back Guarantee",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "3927e69b",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>They offer a 60-day guarantee. So, if you’re not satisfied, you can ask for a full refund, no hassle. This gave me the confidence to try it without worrying about losing my money.</p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "906f9b",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Shipping Time",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "460c05bb",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p>Orders are processed and shipped within <strong>2-3 days</strong> and should arrive in <strong>5-7 days if you’re in the US</strong></p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   },
+   {
+    "id": "1a188219",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Shipping Fee:",
+     "title_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Montserrat",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 23
+     },
+     "typography_font_weight": "700",
+     "align_mobile": "left",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 19
+     }
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "573d4be0",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<ul><li>Basic (1 bottle) - $9,99</li><li>Popular (3 bottles) - Free</li><li>Best Value (6 bottles) - Free</li></ul>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "5c989943",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "147df492",
+    "elType": "widget",
+    "settings": {
+     "editor": "<p><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://kerafen.com/news-research?aff_id=12779\">(SPECIAL Coupon) Click Here to Get Kerafen with -50% Discount Price Online from the official website.</a></span></p>",
+     "text_color": "#FF0000",
+     "typography_typography": "custom",
+     "typography_font_family": "Nunito Sans",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "800",
+     "typography_text_decoration": "underline"
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "4b97ce6e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "5136f25b",
+    "elType": "widget",
+    "settings": {
+     "title": "Conclusion About Kerafen",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 43
+     },
+     "typography_font_weight": "600",
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 27
+     },
+     "_padding": {
+      "unit": "px",
+      "top": "20",
+      "right": "0",
+      "bottom": "20",
+      "left": "0",
+      "isLinked": false
+     },
+     "_background_color": "#01092E",
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   },
+   {
+    "id": "55efcff5",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p data-start=\"125\" data-end=\"300\">If you've struggled with toenail fungus, felt <strong data-start=\"171\" data-end=\"201\">embarrassed to go barefoot</strong>, or tried treatments that <strong data-start=\"228\" data-end=\"244\">never worked</strong> — <strong data-start=\"247\" data-end=\"299\">Kerafen might be the last solution you ever need</strong>.</p><p data-start=\"302\" data-end=\"445\">Its <strong data-start=\"306\" data-end=\"325\">natural formula</strong> is not just about <strong data-start=\"344\" data-end=\"363\">fighting fungus</strong> — it's about <strong data-start=\"377\" data-end=\"444\">restoring your confidence, your freedom, and your peace of mind</strong>.</p><p data-start=\"447\" data-end=\"551\">And with a <strong data-start=\"458\" data-end=\"489\">60-day money-back guarantee</strong>, you have <strong data-start=\"500\" data-end=\"550\">absolutely nothing to lose — except the fungus</strong>.</p><p data-start=\"553\" data-end=\"642\"><strong data-start=\"553\" data-end=\"642\">Don’t wait until it gets worse. Try Kerafen today and walk barefoot with pride again.</strong></p>",
+     "text_color": "#000000",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 20
+     },
+     "typography_font_weight": "400",
+     "_margin": {
+      "unit": "px",
+      "top": "-19",
+      "right": "0",
+      "bottom": "-19",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "575ed7d",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#013447",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "eae1583",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "title": "Questions and Answers",
+     "align": "center",
+     "title_color": "#FFFFFF",
+     "typography_typography": "custom",
+     "typography_font_family": "Jost",
+     "typography_font_weight": "700",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 40
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 35
+     },
+     "header_size": "h1"
+    },
+    "widgetType": "heading"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3861d4f3",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "3d18114",
+    "elType": "widget",
+    "settings": {
+     "html": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>FAQ - Kerafen</title>\r\n    <style>\r\n        body {\r\n            font-family: Verdana, sans-serif;\r\n            background-color: #f7f7f7;\r\n            margin: 0;\r\n            padding: 0;\r\n            color: #444;\r\n        }\r\n\r\n        .faq-wrapper {\r\n            max-width: 620px;\r\n            margin: 25px auto;\r\n            padding: 25px;\r\n            background-color: #ffffff;\r\n            border-radius: 10px;\r\n            box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);\r\n        }\r\n\r\n        .faq-block {\r\n            margin-bottom: 20px;\r\n        }\r\n\r\n        .faq-title {\r\n            font-size: 17px;\r\n            font-weight: 700;\r\n            background-color: #013447;\r\n            color: white;\r\n            border: none;\r\n            border-radius: 6px;\r\n            width: 100%;\r\n            text-align: left;\r\n            cursor: pointer;\r\n            padding: 14px;\r\n            position: relative;\r\n            transition: background-color 0.25s;\r\n        }\r\n\r\n        .faq-title:hover {\r\n            background-color: #011f29;\r\n        }\r\n\r\n        .faq-title:after {\r\n            content: '\\25B6';\r\n            font-size: 16px;\r\n            position: absolute;\r\n            right: 12px;\r\n            transform: rotate(90deg);\r\n            transition: transform 0.25s;\r\n        }\r\n\r\n        .faq-title.active:after {\r\n            transform: rotate(270deg);\r\n        }\r\n\r\n        .faq-content {\r\n            display: none;\r\n            padding: 12px;\r\n            background-color: #f0f0f0;\r\n            border-radius: 6px;\r\n            margin-top: 8px;\r\n            font-size: 15px;\r\n        }\r\n\r\n        @media screen and (max-width: 600px) {\r\n            .faq-wrapper {\r\n                padding: 18px;\r\n            }\r\n\r\n            .faq-title {\r\n                font-size: 15px;\r\n            }\r\n\r\n            .faq-content {\r\n                font-size: 14px;\r\n            }\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <div class=\"faq-wrapper\">\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">Does Kerafen have any side effects?</button>\r\n            <div class=\"faq-content\">Kerafen is made with 100% natural ingredients and is considered safe for external use. No known side effects have been reported, but it's always wise to consult your healthcare provider before starting any new treatment.</div>\r\n        </div>\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">What is the money-back guarantee if I'm not satisfied?</button>\r\n            <div class=\"faq-content\">Kerafen offers a 60-day money-back guarantee. If you're not satisfied with your results, you can request a full refund—no questions asked.</div>\r\n        </div>\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">Is Kerafen FDA approved?</button>\r\n            <div class=\"faq-content\">While Kerafen itself is not FDA-approved (as it's a supplement), it is manufactured in FDA-registered facilities that comply with GMP (Good Manufacturing Practices).</div>\r\n        </div>\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">What is the delivery time for the product?</button>\r\n            <div class=\"faq-content\">Kerafen typically arrives within 5 to 10 business days, depending on your location and the shipping method chosen at checkout.</div>\r\n        </div>\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">Who should use Kerafen?</button>\r\n            <div class=\"faq-content\">Kerafen is ideal for individuals suffering from toenail fungus, discoloration, brittle nails, foot odor, or recurring fungal infections. It's a great choice for those seeking a natural, non-invasive remedy.</div>\r\n        </div>\r\n        <div class=\"faq-block\">\r\n            <button class=\"faq-title\">How long until I see results?</button>\r\n            <div class=\"faq-content\">Most users report noticeable improvements within 2 to 4 weeks of consistent daily use. However, results can vary based on the severity of the infection and individual response to the treatment.</div>\r\n        </div>\r\n    </div>\r\n\r\n    <script>\r\n        document.querySelectorAll('.faq-title').forEach(el => {\r\n            el.addEventListener('click', () => {\r\n                const content = el.nextElementSibling;\r\n                el.classList.toggle('active');\r\n                content.style.display = content.style.display === 'block' ? 'none' : 'block';\r\n            });\r\n        });\r\n    </script>\r\n</body>\r\n</html>\r\n"
+    },
+    "widgetType": "html"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "2cf3d58e",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#444444",
+   "margin": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "padding": {
+    "unit": "px",
+    "top": "4",
+    "right": "0",
+    "bottom": "-22",
+    "left": "0",
+    "isLinked": false
+   },
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "1871df7",
+    "elType": "widget",
+    "settings": {
+     "content_width": "full",
+     "editor": "<p> </p><p><span style=\"color: #ffffff;\"><a style=\"color: #ffffff;\" href=\"https://kerafen.com/news-research?aff_id=12779\" target=\"_blank\" rel=\"noopener\">PRIVACY POLICY</a> | <a style=\"color: #ffffff;\" href=\"https://kerafen.com/news-research?aff_id=12779\" target=\"_blank\" rel=\"noopener\">TERMS OF US</a></span>© Copyright Kerafen All Rights Reserved.</p>",
+     "align": "center",
+     "text_color": "#FFFFFF",
+     "_padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "129",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "widgetType": "text-editor"
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "3704192a",
+  "elType": "container",
+  "settings": {
+   "flex_direction": "column",
+   "background_background": "classic",
+   "background_color": "#01092E",
+   "padding": {
+    "unit": "px",
+    "top": "20",
+    "right": "0",
+    "bottom": "20",
+    "left": "0",
+    "isLinked": false
+   },
+   "position": "fixed",
+   "hover_parallax": [
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 30
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 40
+     }
+    },
+    {
+     "layer_position_vr": {
+      "unit": "%",
+      "size": 60
+     },
+     "layer_position_hr": {
+      "unit": "%",
+      "size": 20
+     }
+    }
+   ],
+   "z_index": 200
+  },
+  "elements": [
+   {
+    "id": "cef419c",
+    "elType": "widget",
+    "settings": {
+     "text": "Official Website",
+     "align": "center",
+     "typography_typography": "custom",
+     "typography_font_family": "Roboto",
+     "typography_font_size": {
+      "unit": "px",
+      "size": 25
+     },
+     "typography_font_weight": "600",
+     "button_text_color": "#000000",
+     "background_color": "#FFCC05",
+     "hover_animation": "pulse-grow",
+     "link": {
+      "url": "https://kerafen.com/news-research?aff_id=12779"
+     },
+     "selected_icon": {
+      "value": "far fa-arrow-alt-circle-right",
+      "library": "fa-regular"
+     },
+     "typography_font_size_mobile": {
+      "unit": "px",
+      "size": 20
+     },
+     "border_border": "solid",
+     "border_width": {
+      "unit": "px",
+      "top": "4",
+      "right": "4",
+      "bottom": "4",
+      "left": "4",
+      "isLinked": true
+     },
+     "border_color": "#02C9FA",
+     "border_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+     },
+     "background_background": "gradient",
+     "background_color_b": "#D8A5B1"
+    },
+    "widgetType": "button"
+   }
+  ],
+  "isInner": false
+ }
+]
