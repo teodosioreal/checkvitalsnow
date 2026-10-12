@@ -279,11 +279,13 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
             <h3 class="!mt-0 text-2xl font-bold">
               {i + 1}. {p.name}: {p.bestFor}
             </h3>
-            <div class="mt-4 flex flex-wrap items-center justify-center gap-8 sm:justify-start">
+            <div class="mt-4 flex flex-wrap items-center justify-center gap-4 sm:justify-start sm:gap-8">
               {i === 0 && <Image src={femiproBottle} alt="FemiPro supplement bottle" width={130} densities={[1, 2]} />}
               {p.image && <Image src={p.image} alt={p.imageAlt ?? p.name} width={150} densities={[1, 2]} class="rounded-lg" />}
-              <ScoreRing score={p.score} />
-              <GradeBadge grade={p.grade} />
+              <div class="flex items-center gap-4">
+                <ScoreRing score={p.score} size={110} />
+                <GradeBadge grade={p.grade} size={100} />
+              </div>
             </div>
             <dl class="mt-5 grid gap-2 text-base sm:grid-cols-[150px_1fr]">
               <dt class="font-semibold">Main focus</dt>
@@ -369,7 +371,7 @@ const countdown = products.map((p, i) => ({ p, i })).reverse();
       <div class="my-4 flex items-center justify-center gap-8">
         <Image src={femiproBottle} alt="FemiPro supplement bottle" width={110} densities={[1, 2]} />
         <ScoreRing score={top.score} size={100} />
-        <GradeBadge grade={top.grade} />
+        <GradeBadge grade={top.grade} size={90} />
       </div>
       <CTAButton product="femipro">See Current Price on the Official Website</CTAButton>
       <p class="mt-3 text-sm text-muted">Not for use during pregnancy or breastfeeding. Ask your doctor before starting.</p>
