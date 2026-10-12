@@ -37,6 +37,7 @@ sources:
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
   - title: "Urinary Incontinence: Causes, Types & Treatment, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
+promo: femipro
 related:
   - kegel-exercises-for-women
   - bladder-irritants-foods-and-drinks

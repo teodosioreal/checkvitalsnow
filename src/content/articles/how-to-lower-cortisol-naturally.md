@@ -37,6 +37,7 @@ sources:
     url: "https://www.cdc.gov/mental-health/living-with/index.html"
   - title: "The Role of Cortisol in Chronic Stress, Neurodegenerative Diseases, and Psychological Disorders, PMC"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10706127/"
+promo: femipro
 related:
   - why-am-i-always-tired
   - signs-of-hormonal-imbalance-in-women

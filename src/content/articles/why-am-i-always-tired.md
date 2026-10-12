@@ -39,6 +39,7 @@ sources:
     url: "https://womenshealth.gov/a-z-topics/iron-deficiency-anemia"
   - title: "Iron Fact Sheet for Consumers, NIH Office of Dietary Supplements"
     url: "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+promo: femipro
 related:
   - signs-of-hormonal-imbalance-in-women
   - how-to-lower-cortisol-naturally

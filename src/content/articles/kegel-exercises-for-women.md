@@ -36,6 +36,7 @@ sources:
     url: "https://my.clevelandclinic.org/health/articles/14611-kegel-exercises"
   - title: "Kegel exercises - self-care, MedlinePlus"
     url: "https://medlineplus.gov/ency/patientinstructions/000141.htm"
+promo: femipro
 related:
   - why-do-i-leak-urine-when-i-sneeze
   - menopause-and-bladder-leakage

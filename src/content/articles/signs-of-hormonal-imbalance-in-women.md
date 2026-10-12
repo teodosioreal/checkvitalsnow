@@ -35,6 +35,7 @@ sources:
     url: "https://my.clevelandclinic.org/health/diseases/21608-perimenopause"
   - title: "Cortisol: What It Is, Function, Symptoms & Levels, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/articles/22187-cortisol"
+promo: femipro
 related:
   - perimenopause-symptoms
   - why-am-i-always-tired

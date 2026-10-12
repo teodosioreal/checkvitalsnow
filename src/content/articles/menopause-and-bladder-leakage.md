@@ -37,6 +37,7 @@ sources:
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
   - title: "Kegel Exercises, NIDDK"
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"
+promo: femipro
 related:
   - perimenopause-symptoms
   - why-do-i-leak-urine-when-i-sneeze

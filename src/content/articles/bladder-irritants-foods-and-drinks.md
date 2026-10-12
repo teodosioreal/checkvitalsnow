@@ -35,6 +35,7 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/eating-diet-nutrition"
   - title: "10 Foods Your Bladder Will Fall in Love With, Urology Care Foundation"
     url: "https://www.urologyhealth.org/healthy-living/care-blog/10-foods-your-bladder-will-fall-in-love-with"
+promo: femipro
 related:
   - frequent-urination-in-women
   - why-do-i-leak-urine-when-i-sneeze
