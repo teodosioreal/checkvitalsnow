@@ -6,7 +6,20 @@ export const site = {
   locale: 'en_US',
 };
 
+export const categories = {
+  'womens-health': {
+    name: "Women's Health",
+    description:
+      'Clear, practical guides on bladder health, hormones, energy, stress, and bone health for women, based on trusted medical sources.',
+  },
+} as const;
+
+export const author = {
+  name: 'CheckVitalsNow Editorial Team',
+};
+
 export const nav: { label: string; href: string }[] = [
+  { label: "Women's Health", href: '/womens-health/' },
   { label: 'Reviews', href: '/#latest-reviews' },
   { label: 'How We Review', href: '/#how-we-review' },
 ];

@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  ids: string[];
+}
+const all = await getCollection('articles');
+const items = Astro.props.ids
+  .map((id) => all.find((a) => a.id === id))
+  .filter((a): a is (typeof all)[number] => Boolean(a));
+---
+
+{
+  items.length > 0 && (
+    <section class="mt-12" aria-labelledby="related-title">
+      <h2 id="related-title" class="mb-4 text-2xl font-bold">
+        Keep reading
+      </h2>
+      <ul class="grid gap-4 sm:grid-cols-2">
+        {items.map((a) => (
+          <li class="rounded-xl border border-line p-5">
+            <a href={`/${a.data.category}/${a.id}/`} class="font-serif text-lg font-bold text-brand-900 no-underline hover:text-brand-700">
+              {a.data.h1}
+            </a>
+            <p class="mt-1 text-base text-muted">{a.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

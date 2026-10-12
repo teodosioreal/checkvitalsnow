@@ -1,0 +1,27 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+interface Props {
+  headings: MarkdownHeading[];
+}
+const items = Astro.props.headings.filter((h) => h.depth === 2);
+---
+
+{
+  items.length >= 4 && (
+    <nav class="my-8 rounded-xl border border-line p-5" aria-labelledby="toc-title">
+      <details open>
+        <summary id="toc-title" class="cursor-pointer font-semibold">
+          In this article
+        </summary>
+        <ol class="mt-3 list-decimal space-y-1 pl-5 text-base">
+          {items.map((h) => (
+            <li>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ol>
+      </details>
+    </nav>
+  )
+}
