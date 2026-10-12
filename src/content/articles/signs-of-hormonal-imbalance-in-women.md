@@ -69,33 +69,19 @@ Because hormones do so much, an imbalance can show up in many ways. Cleveland Cl
 
 ## Signs that can point to a hormone problem
 
-### Menstrual changes
+Hormone problems rarely announce themselves clearly. The same sign can come from a hormone, from everyday life, or from something else entirely. This table shows the most common signs side by side with their possible causes, so you know what to bring up:
 
-Several hormones work together to run your cycle. An imbalance can cause periods that are irregular, much heavier or lighter than usual, or that stop.
+| Sign | Possible hormonal causes | Other common causes | What a doctor may check |
+| --- | --- | --- | --- |
+| Periods that are irregular, much heavier or lighter, or stop | Perimenopause, thyroid problems, PCOS, pregnancy | Stress, some medicines | Pregnancy test, thyroid hormones, estrogen and progesterone, sometimes an ultrasound |
+| Tiredness that rest doesn't fix | Underactive thyroid | Poor sleep, low iron, stress, depression | Thyroid hormones, blood count |
+| Weight gain or loss without a clear reason | Thyroid problems | Diet, activity, medicines | Thyroid hormones, blood sugar |
+| Anxiety, irritability, or low mood | Shifts around your period, after pregnancy, or in perimenopause | Stress, depression, poor sleep | Depends on your other symptoms |
+| Acne, extra facial or body hair, thinning hair | Higher androgens, often with PCOS | Diet and lifestyle, some medicines | Testosterone and related hormones |
+| Constipation, diarrhea, or a racing heart | Thyroid hormones affecting metabolism | Diet, some medicines, stress | Thyroid hormones |
+| Night sweats, poor sleep, lower sex drive | Perimenopause and menopause | Stress, medicines | Usually based on your age and symptoms |
 
-### Fatigue
-
-Ongoing tiredness is one of the most common complaints. An underactive thyroid is a classic hormonal cause, but there are many others. Our guide on [why you might feel tired all the time](/womens-health/why-am-i-always-tired/) covers the most common ones.
-
-### Weight changes
-
-Cleveland Clinic lists unexplained weight gain or weight loss among the signs. Thyroid problems are a frequent reason.
-
-### Mood changes
-
-Anxiety, irritability, low mood, or depression can be linked to hormone shifts, especially around your period, after pregnancy, and during perimenopause.
-
-### Skin and hair changes
-
-Acne can flare with hormone changes. Hair thinning or extra facial hair can be linked to higher levels of androgens (hormones such as testosterone).
-
-### Digestive changes
-
-Cleveland Clinic also lists constipation or diarrhea and changes in heart rate among symptoms that can be tied to hormones affecting metabolism.
-
-### Sleep and libido
-
-Trouble sleeping, night sweats, and lower interest in sex often show up during perimenopause and menopause.
+If two or three rows sound familiar, that is a good reason to book an appointment, not a reason to self-treat.
 
 <figure class="article-figure">
 <img src="https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person holding calendar at January" loading="lazy" decoding="async">
@@ -145,6 +131,16 @@ A doctor will usually:
 4. In some cases, order imaging such as an ultrasound
 
 Treatment depends on the cause. It may include medicine, hormone therapy, or lifestyle changes.
+
+## What to bring to your appointment
+
+Hormone problems are often diagnosed from the story as much as from the tests, so preparation pays off. Bring:
+
+- **Your cycle dates** for the last two or three months, if you still have periods
+- **A short symptom list**, with when each one started and how often it happens
+- **Every medicine and supplement** you take, with doses
+- **Family history**, especially thyroid problems, PCOS, diabetes, or early menopause
+- **Your top question**, written down, so it doesn't get lost in a short visit
 
 ## While you wait for answers
 

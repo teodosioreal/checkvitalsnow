@@ -49,7 +49,7 @@ related:
   - kegel-exercises-for-women
 ---
 
-You plan your errands around bathrooms. You check where the restroom is the moment you walk into a store. At night you wake up once, twice, sometimes more, to go again. And often, when you get there, not much comes out.
+Errands planned around bathrooms. A quick scan for the restroom sign the moment you walk into a store. Waking up once, twice, sometimes more at night, only to find that not much comes out. If that sounds like your week, it is worth figuring out why, because the cause decides the solution.
 
 **Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to address. Others need a doctor.
 
@@ -63,6 +63,22 @@ Everyone is different, and how much you drink matters. Still, it may be worth a 
 - Often pass **small amounts** of urine
 
 Frequent urination often comes with **urgency**, the feeling that you need to go right now. When urgency leads to leakage, it is called urge incontinence.
+
+## Track it for three days first
+
+Before changing anything, count. A short bladder diary often tells you more than guessing ever will, and doctors use the same tool. Copy this into a notebook or your phone:
+
+| Time | Amount (small, medium, large) | Urge before you went (none, mild, strong) | What you drank and when | Any leak? |
+| --- | --- | --- | --- | --- |
+| 7:10 a.m. | Medium | Mild | 1 glass of water at 6:45 | No |
+| | | | | |
+
+After three days, look for these patterns:
+
+- **More than about eight trips a day, or more than one at night:** worth a closer look with your doctor.
+- **Many small amounts with strong urges:** points toward an overactive bladder, and bladder training (below) is a good place to start.
+- **Most trips in the evening or at night:** try moving more of your drinking to earlier in the day.
+- **Trips cluster after coffee, tea, soda, or alcohol:** see our list of [bladder irritants](/womens-health/bladder-irritants-foods-and-drinks/).
 
 ## Why you might be going so often
 
@@ -98,6 +114,21 @@ MedlinePlus also lists vaginitis and interstitial cystitis (a painful bladder co
 <img src="https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman in black jacket sitting on chair" loading="lazy" decoding="async">
 <figcaption>Photo by <a href="https://unsplash.com/@venusmajor?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">VENUS MAJOR</a> on <a href="https://unsplash.com/photos/woman-in-black-jacket-sitting-on-chair-NDdeOoTtxY0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
+
+## Clues that point to a cause
+
+Frequent urination rarely shows up alone. What comes with it is often the best clue:
+
+| If you also notice… | It may point to… | What to do |
+| --- | --- | --- |
+| Burning, pain, cloudy or strong-smelling urine | A urinary tract infection | See a doctor soon. UTIs need treatment. |
+| Unusual thirst, tiredness, or weight loss | Blood sugar that is too high | Ask your doctor about a diabetes check |
+| Sudden, strong urges, sometimes with leaks | Overactive bladder | Try bladder training and see a doctor |
+| Changes that started around menopause | Lower estrogen affecting the bladder | Read our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) |
+| More trips after coffee, alcohol, or diet drinks | Bladder irritants or extra urine from caffeine and alcohol | Test cutting back for a week |
+| A new medicine, especially a water pill | A side effect | Ask your doctor; don't stop it on your own |
+
+This table is a starting point, not a diagnosis. If more than one row fits, or nothing fits, your doctor can help sort it out.
 
 ## Habits that cut down the trips
 

@@ -52,7 +52,7 @@ related:
   - bone-health-after-menopause
 ---
 
-You are in your early 40s and something feels different. Your period shows up a week early, then skips a month. You wake up at 3 a.m. drenched in sweat. Little things make you snap, and you walk into rooms forgetting why. You may not have heard the word yet, but this could be **perimenopause**.
+Early 40s, and something feels off. A period shows up a week early, then skips a month. You wake at 3 a.m. drenched in sweat. Little things make you snap, and you walk into rooms forgetting why. Nobody warned you about this part, but it has a name: **perimenopause**.
 
 **Perimenopause is the transition leading up to menopause, when your hormones, mainly estrogen, rise and fall unevenly.** It can start as early as the mid-30s or as late as the mid-50s. The most common symptoms are irregular periods, hot flashes, sleep problems, and mood changes. It is a normal life stage, not a disease, but the symptoms can be disruptive, and there are real ways to feel better.
 
@@ -77,43 +77,19 @@ Smoking, family history, and some medical treatments can affect when it starts.
 
 ## Symptoms you might notice
 
-Not every woman has every symptom, and intensity varies a lot. The Office on Women's Health stresses there is no single experience that everyone shares. Common symptoms include:
+Not every woman has every symptom, and intensity varies a lot. The Office on Women's Health stresses that there is no single experience everyone shares. Use this table to match what you feel with what can help:
 
-### Irregular periods
-
-This is often the first sign. Periods may come more or less often, last more or fewer days, and be lighter or heavier than before.
-
-### Hot flashes and night sweats
-
-A sudden wave of heat in your face, neck, and chest, sometimes with sweating and a racing heart. At night, they can soak your sheets and wake you up.
-
-### Sleep problems
-
-Trouble falling asleep or staying asleep is common, sometimes because of night sweats, sometimes on its own.
-
-### Mood changes
-
-Irritability, anxiety, low mood, or mood swings. Poor sleep can make these worse.
-
-### Vaginal dryness and bladder changes
-
-Lower estrogen can cause dryness, discomfort during sex, and bladder symptoms such as urgency or leakage. Read more in our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/).
-
-### Lower sex drive
-
-Many women notice a drop in libido during this time.
-
-### Brain fog
-
-Trouble concentrating or remembering things is a frequent complaint.
-
-### Joint and muscle aches
-
-Aches and stiffness can show up or get worse.
-
-### Fatigue
-
-Hormone shifts, poor sleep, and heavy periods can all leave you drained. If tiredness is your main issue, see our guide on [why you might feel tired all the time](/womens-health/why-am-i-always-tired/).
+| Symptom | What it can feel like | What may help |
+| --- | --- | --- |
+| Irregular periods | Often the first sign. Periods come more or less often, last longer or shorter, and are lighter or heavier than before. | Track your cycle. Birth control pills can even out cycles for some women. Report very heavy bleeding. |
+| Hot flashes and night sweats | A sudden wave of heat in your face, neck, and chest, sometimes with sweating and a racing heart. At night, they can soak your sheets. | A cool bedroom, layers, and noticing triggers such as spicy food, alcohol, caffeine, and hot drinks. Hormone therapy or non-hormonal medicines are options to discuss with your doctor. |
+| Sleep problems | Trouble falling or staying asleep, with or without night sweats | A regular sleep schedule and a wind-down routine |
+| Mood changes | Irritability, anxiety, low mood, or mood swings, often worse with poor sleep | Regular movement, stress relief, and talking to your doctor, especially if low mood lasts |
+| Vaginal dryness and bladder changes | Dryness, discomfort during sex, urgency, or leaks | Vaginal moisturizers or lubricants, and low-dose vaginal estrogen from your doctor. See our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/). |
+| Lower sex drive | Less interest in sex than before | Talk to your doctor. Treating dryness can help if sex has become uncomfortable. |
+| Brain fog | Trouble concentrating or remembering things | Protecting your sleep, and noting when it happens to share with your doctor |
+| Joint and muscle aches | New or worse aches and stiffness | Mention it to your doctor if it lasts or limits your day |
+| Fatigue | Feeling drained from hormone shifts, poor sleep, or heavy periods | See our guide on [why you might feel tired all the time](/womens-health/why-am-i-always-tired/) |
 
 ## Why it matters for your bones and heart
 
@@ -161,6 +137,13 @@ Get help right away if you have thoughts of harming yourself.
 
 ## Keep a simple symptom log
 
-A few months of notes can make your next appointment far more useful. Write down your period dates, hot flashes, sleep, and mood, along with anything that seems to set symptoms off. Patterns show up quickly, and your doctor gets a clearer picture than memory alone can give.
+A few months of notes can make your next appointment far more useful, because patterns are hard to remember and easy to see on paper. Copy this into a notebook or your phone and fill in one line a day:
+
+| Date | Period (none, light, heavy) | Hot flashes (how many) | Sleep (hours, woke up?) | Mood (1 to 5) | Notes and possible triggers |
+| --- | --- | --- | --- | --- | --- |
+| Mar 3 | None | 4 | 6, woke at 3 a.m. | 3 | Red wine at dinner |
+| | | | | | |
+
+After two or three cycles, bring it to your doctor. It helps them see what is actually happening, and it helps you notice your own triggers.
 
 If bladder changes are part of your perimenopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) covers what can help.

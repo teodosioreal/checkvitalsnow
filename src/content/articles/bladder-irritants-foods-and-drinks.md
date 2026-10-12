@@ -49,7 +49,7 @@ related:
   - menopause-and-bladder-leakage
 ---
 
-You have your morning coffee, and twenty minutes later you are looking for a bathroom. A glass of wine at dinner means waking up at 3 a.m. to pee. You start to wonder whether what you eat and drink is part of the problem.
+Morning coffee, and twenty minutes later you're scanning for a bathroom. A glass of wine at dinner, and you're up at 3 a.m. to pee. Sooner or later, most women with a touchy bladder start to wonder whether what's in their cup is part of the problem.
 
 It might be. **Bladder irritants are foods and drinks that can make urgency, frequency, or leakage worse in some people.** The most common ones are caffeine, alcohol, carbonated drinks, acidic fruits, spicy foods, and artificial sweeteners. But triggers vary a lot from person to person, so the goal is not to cut everything. It is to find out what affects you.
 
@@ -96,14 +96,36 @@ Fizzy drinks show up on most lists, even when they have no caffeine. If you love
 
 ## How to find your own triggers
 
-Mayo Clinic suggests a simple elimination approach:
+Mayo Clinic suggests a simple elimination approach: cut the common irritants for about a week, then add them back one at a time. Here is what that looks like as a two-week plan.
 
-1. **Cut the common irritants for about one week.** Keep a short daily note of urgency, how often you go, and any leaks.
-2. **Add one item back every one to two days.** For example, coffee on Monday, then orange juice on Wednesday.
-3. **Watch what happens.** If symptoms flare after a certain food, you have likely found a trigger.
-4. **Adjust, don't ban.** You may not need to give it up completely. A smaller amount, or having it earlier in the day, may be enough.
+| Days | What to do | What to note each day |
+| --- | --- | --- |
+| 1–7 | Cut caffeine, alcohol, fizzy drinks, citrus, tomato-based foods, spicy foods, and artificial sweeteners. Keep drinking water. If you drink a lot of coffee, cut back over a few days to avoid headaches. | Trips to the bathroom, strength of urges, any leaks |
+| 8–9 | Add back one item, such as your morning coffee | Did urges or trips go up? |
+| 10–11 | Add back a second item, such as orange juice | Same |
+| 12–13 | Add back a third item, such as sparkling water | Same |
+| 14 | Look back over your notes | Which items made a clear difference? |
 
-A simple bladder diary makes this much easier. Write down what you ate and drank, when you urinated, and when you felt urgency or leaked.
+A few tips make the test more useful:
+
+- **Change one thing at a time.** If you add coffee and wine on the same day, you won't know which one did it.
+- **Adjust, don't ban.** If coffee is a trigger, a smaller cup or having it earlier in the day may be enough.
+- **Keep your notes short.** A simple bladder diary, with what you ate and drank, when you urinated, and when you felt urgency, is all you need.
+
+## Easy swaps that keep the ritual
+
+Cutting a trigger is easier when you replace it instead of just giving it up:
+
+| Instead of… | Try… |
+| --- | --- |
+| A second or third cup of coffee | Decaf, or half regular and half decaf |
+| Soda or sparkling water | Still water, plain or with a slice of cucumber |
+| Orange or grapefruit juice | Non-citrus fruit such as pears, apples, or bananas |
+| Spicy sauces | Herbs and mild spices |
+| Diet drinks with artificial sweeteners | Water or unsweetened drinks |
+| A glass of wine late in the evening | A smaller glass, earlier in the evening |
+
+Swaps aren't a rule. Your test results decide which ones you actually need.
 
 ## Why drinking less backfires
 

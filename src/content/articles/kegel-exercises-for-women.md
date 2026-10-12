@@ -54,7 +54,7 @@ Kegel exercises sound simple: squeeze, hold, relax. Yet many women try them for 
 
 **Kegel exercises strengthen your pelvic floor, the group of muscles that supports your bladder, uterus, and bowel.** Done correctly and regularly, they can help with bladder leakage, especially the kind that happens when you sneeze, cough, or laugh. The routine takes only a few minutes a day, and you can do it anywhere without anyone noticing.
 
-Here is how to find the right muscles, a routine you can start today, and the mistakes that hold most women back.
+Below you'll find how to find the right muscles in under a minute, a quick self-check to know you're doing it right, an eight-week progress plan, and how to adjust if you're pregnant, recently gave birth, or are going through menopause.
 
 ## Meet your pelvic floor
 
@@ -110,6 +110,24 @@ Once lying down feels easy, practice while sitting and standing too. NIDDK notes
 
 Some routines also include fast "flicks": squeeze hard for one second, then let go. Quick squeezes train the muscles to react fast, which helps when a sneeze or cough catches you off guard.
 
+## Adjusting Kegels to your stage of life
+
+### If you're pregnant
+
+Pelvic floor exercises are often part of a healthy pregnancy, but check with your doctor or midwife first, especially if your pregnancy is high risk. Keep the squeezes gentle and never hold your breath.
+
+### If you recently gave birth
+
+Your pelvic floor has just carried months of weight and, after a vaginal delivery, may have been stretched. Get the go-ahead from your doctor before you start, begin lying down, and focus on finding the right muscles before counting reps. If you feel heaviness or a bulge in the vagina, mention it at your postpartum visit.
+
+### If you're in perimenopause or past menopause
+
+Lower estrogen can make the tissues around the bladder thinner, so leaks may start or get worse in midlife. Kegels still help at this stage, and your doctor can tell you about other options. Our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) explains them.
+
+### If you have pelvic pain
+
+Some women's pelvic floor muscles are too tight rather than too weak. Squeezing harder can make that worse. If you have pelvic pain, pain with sex, or trouble starting to urinate, see a doctor or pelvic floor physical therapist before starting Kegels.
+
 ## Six mistakes that keep Kegels from working
 
 - **Holding your breath.** Breathe normally the whole time.
@@ -124,13 +142,36 @@ Some routines also include fast "flicks": squeeze hard for one second, then let 
 <figcaption>Photo by <a href="https://unsplash.com/@esdesignisms?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Emma Simpson</a> on <a href="https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
+## Am I doing it right? A quick self-check
+
+Most women who give up on Kegels were never sure they were doing them correctly. Run through this table during your next set:
+
+| You're on track if… | Adjust if… |
+| --- | --- |
+| You feel a gentle squeeze and lift inside, as if holding in gas | You feel pushing or bearing down, like straining on the toilet |
+| Your belly, thighs, and buttocks stay soft | Your stomach tightens, or your legs or buttocks clench |
+| You breathe normally the whole time | You hold your breath until the squeeze ends |
+| You can fully let go after each squeeze | The muscles stay tense, or you skip the relax step |
+| Your muscles feel worked, not sore | You feel pain during or after a set |
+
+If you land in the right-hand column more than once, go back to Step 1 and practice finding the muscles lying down. If you feel pain, stop and talk to your doctor.
+
 ## How long until Kegels work?
 
-Be patient. Muscle strength builds slowly. Many women need several weeks of steady practice, and some need a few months, before they notice less leakage. The women who see results tend to be the ones who stick with the routine every day.
+Muscle strength builds slowly. Many women need several weeks of steady practice, and some need a few months, before they notice fewer leaks. The women who see results tend to be the ones who stick with the routine every day.
 
-A simple way to stay consistent: link your Kegels to something you already do. Do a set at every red light, while brushing your teeth, or during the commercials of a show.
+Use this plan to build up step by step. Move to the next stage only when the current one feels easy.
 
-## Not sure you are doing them right?
+| Weeks | Position | Hold, then relax | Per session | Sessions a day |
+| --- | --- | --- | --- | --- |
+| 1–2 | Lying down | 3 seconds, 3 seconds | 10 squeezes | 3 |
+| 3–4 | Lying, sitting, and standing | 3 seconds, 3 seconds | 10 squeezes | 3 |
+| 5–6 | Mix of positions | 5 seconds, 5 seconds | 10 to 15 squeezes, plus a few quick squeezes | 3 |
+| 7–8 | Mix of positions | Up to 10 seconds, same time to relax | 10 to 15 squeezes, plus quick squeezes | 3 |
+
+After week eight, keep going. Strength fades if you stop. A simple way to stay consistent: link your Kegels to something you already do, such as a set at every red light, while brushing your teeth, or during a show's commercial breaks.
+
+## Getting your technique checked
 
 Many women find it hard to tell whether they are doing Kegels right. That is normal. A doctor, nurse, or **pelvic floor physical therapist** can check your technique. They may use **biofeedback**, where a small sensor shows on a screen when you are squeezing the right muscles.
 
@@ -146,6 +187,6 @@ Talk to a doctor if:
 
 ## Making it a habit
 
-Kegels are slow, unglamorous work, and that is why they help: the muscle gets stronger a little at a time. Pair them with a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/), and give it a couple of months before you judge.
+Tonight, lie down, find the muscles you would use to hold in gas, and do ten slow squeezes. That's it. Tomorrow, do it three times. In two weeks, check yourself against the table above and move on to sitting and standing.
 
-If you are going through menopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) explains why the changes can make Kegels even more worthwhile.
+Kegels are slow, unglamorous work, and that is why they help: the muscle gets stronger a little at a time. Pair them with a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/) and give it a couple of months before you judge.

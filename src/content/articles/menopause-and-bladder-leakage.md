@@ -129,6 +129,33 @@ For overactive bladder or stress incontinence that doesn't improve, doctors have
 <figcaption>Photo by <a href="https://unsplash.com/@bobj245?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Bob Jenkin</a> on <a href="https://unsplash.com/photos/a-person-walks-on-a-forest-path-with-white-flowers-8TUcHYJYzko?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
+## Your options at a glance
+
+Most women do best with a mix of steps. This table puts the main options side by side so you can see where to start:
+
+| Option | What it does | Who it may suit | How to start |
+| --- | --- | --- | --- |
+| Pelvic floor training | Strengthens the muscles that hold urine in | Almost everyone, especially if you leak when you cough or sneeze | Our [Kegel guide](/womens-health/kegel-exercises-for-women/), or a pelvic floor physical therapist |
+| Bladder training and habits | Helps the bladder hold more and calms urgency | Women who go often or feel sudden urges | Stretch the time between trips a little each week |
+| Vaginal moisturizers and lubricants | Ease dryness and discomfort | Mild vaginal symptoms | Available without a prescription |
+| Low-dose vaginal estrogen | Treats the tissue changes behind many symptoms | Women with genitourinary symptoms of menopause, depending on health history | Prescription only. Ask your doctor |
+| Other medical treatments | Medicines, devices, or procedures | Overactive bladder or stress incontinence that doesn't improve | Talk to your doctor or a urogynecologist |
+
+## What to say at your appointment
+
+Many women never bring this up because they don't know how to start. You can keep it simple:
+
+> "Since menopause, I've been going to the bathroom more often and sometimes leaking. It's affecting my sleep and my plans, and I'd like to know my options."
+
+Then ask:
+
+- Could lower estrogen be part of this, and would vaginal estrogen be safe for me?
+- Do I have stress incontinence, urge incontinence, or both?
+- Should I see a pelvic floor physical therapist?
+- Is there anything in my medicines or habits that could be making it worse?
+
+If you can, keep a [three-day bladder diary](/womens-health/frequent-urination-in-women/) before the visit. It gives your doctor a clear picture in a few seconds.
+
 ## When to bring it up with your doctor
 
 Make an appointment if:
