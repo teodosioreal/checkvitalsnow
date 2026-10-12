@@ -12,7 +12,7 @@ secondaryKeywords:
   - "elimination diet for bladder"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "coffee cup and herbal tea"
+imageQuery: "cup of coffee on wooden table morning"
 keyTakeaways:
   - "Some foods and drinks can make bladder urgency, frequency, or leakage worse in sensitive people."
   - "Common suspects include caffeine, alcohol, carbonated drinks, citrus, tomatoes, spicy foods, chocolate, and artificial sweeteners."
@@ -84,6 +84,8 @@ Alcohol is a diuretic and may irritate the bladder in sensitive people. It can a
 
 Fizzy drinks show up on most lists, even when they have no caffeine. If you love sparkling water, test whether still water feels better for you.
 
+<!-- unsplash: glass of soda with ice -->
+
 ## How to find your own triggers
 
 Mayo Clinic suggests a simple elimination approach:
@@ -98,6 +100,8 @@ A simple bladder diary makes this much easier. Write down what you ate and drank
 ## Don't cut water
 
 When your bladder acts up, drinking less can seem logical. But very concentrated urine can irritate the bladder too, and too little fluid can lead to constipation, which adds pressure on the bladder. Most people do better spreading their water evenly through the day and drinking less in the evening.
+
+<!-- unsplash: healthy breakfast oatmeal fruit bowl -->
 
 ## Foods that are usually gentle on the bladder
 

@@ -12,7 +12,7 @@ secondaryKeywords:
   - "pelvic floor weakness"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman sneezing tissue"
+imageQuery: "american woman sneezing into tissue"
 keyTakeaways:
   - "Leaking a little urine when you sneeze, cough, laugh, or jump is usually stress incontinence, the most common bladder control problem in younger and middle-aged women."
   - "It happens when the pelvic floor muscles and the urethra can't hold back pressure on the bladder. Pregnancy, childbirth, and menopause are common reasons."
@@ -67,6 +67,8 @@ Common triggers include:
 According to the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), stress incontinence is the most common type of bladder control problem in younger and middle-aged women. Researchers estimate that about half of all women experience urinary incontinence at some point.
 
 It is different from **urge incontinence**, where you feel a sudden, strong need to go and leak before you reach the bathroom. Some women have both, which is called **mixed incontinence**.
+
+<!-- unsplash: woman laughing with friends outdoors -->
 
 ## Why does sneezing make you leak?
 
@@ -128,6 +130,8 @@ If you are not sure you are doing Kegels right, a pelvic floor physical therapis
 ### 5. Medical treatments
 
 When habits and exercises are not enough, a doctor may suggest other options. NIDDK lists bladder training, devices that support the urethra (such as a vaginal pessary), and surgical procedures among the treatments for bladder control problems. Your doctor can explain which ones fit your situation.
+
+<!-- unsplash: woman doing pilates on mat at home -->
 
 ## When to see a doctor
 

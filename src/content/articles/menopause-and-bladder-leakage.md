@@ -12,7 +12,7 @@ secondaryKeywords:
   - "incontinence after menopause"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "middle aged woman smiling outdoors"
+imageQuery: "smiling middle aged woman outdoors"
 keyTakeaways:
   - "Lower estrogen during and after menopause affects the tissues of the vagina, urethra, and bladder."
   - "This can lead to urgency, frequent urination, waking at night to pee, leakage, and more urinary tract infections. Doctors call this group of symptoms genitourinary syndrome of menopause (GSM)."
@@ -78,6 +78,8 @@ Many women also notice vaginal dryness, irritation, or pain during sex, since th
 
 Estimates of how many postmenopausal women have GSM symptoms vary widely in research, but every review agrees it is common. Many women don't mention it to their doctor out of embarrassment, so it often goes untreated.
 
+<!-- unsplash: mature woman talking with doctor -->
+
 ## Other reasons leakage increases around menopause
 
 Estrogen is only part of the story. Other factors often add up at this stage of life:
@@ -113,6 +115,8 @@ The same guideline describes low-dose vaginal estrogen as the most effective sta
 ### Other medical options
 
 For overactive bladder or stress incontinence that doesn't improve, doctors have other treatments, including medicines, devices, and procedures. If symptoms don't improve with treatment, guidelines also recommend checking for other causes, such as pelvic floor dysfunction or painful bladder syndrome.
+
+<!-- unsplash: mature woman walking in park -->
 
 ## When to see a doctor
 

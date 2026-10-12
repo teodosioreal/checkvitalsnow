@@ -12,7 +12,7 @@ secondaryKeywords:
   - "how long does perimenopause last"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman in her 40s portrait"
+imageQuery: "smiling woman in her forties portrait"
 keyTakeaways:
   - "Perimenopause is the transition before menopause, when estrogen and other hormones rise and fall unevenly."
   - "It can start anywhere from the mid-30s to the mid-50s and may last a short time or several years."
@@ -65,6 +65,8 @@ Cleveland Clinic explains that perimenopause may begin as early as your mid-30s 
 
 Smoking, family history, and some medical treatments can affect when it starts.
 
+<!-- unsplash: woman lying awake in bed at night -->
+
 ## Common perimenopause symptoms
 
 Not every woman has every symptom, and intensity varies a lot. The Office on Women's Health stresses there is no single experience that everyone shares. Common symptoms include:
@@ -108,6 +110,8 @@ Hormone shifts, poor sleep, and heavy periods can all leave you drained. If tire
 ## How perimenopause affects long-term health
 
 Lower estrogen affects more than your cycle. The Office on Women's Health notes that the years around menopause bring changes in **bone health** and **heart health**. Bone loss speeds up after menopause, which is why this is a good time to focus on [protecting your bones](/womens-health/bone-health-after-menopause/).
+
+<!-- unsplash: women friends walking together outdoors -->
 
 ## What helps with perimenopause symptoms
 

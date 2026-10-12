@@ -12,7 +12,7 @@ secondaryKeywords:
   - "pelvic floor muscle training"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman exercise mat stretching"
+imageQuery: "woman stretching on yoga mat living room"
 keyTakeaways:
   - "Kegel exercises strengthen the pelvic floor, the muscles that support your bladder, uterus, and bowel."
   - "The basic move: squeeze the muscles you use to hold in gas or urine, hold for about 3 seconds, then fully relax for 3 seconds. Work up to 10 to 15 reps, about three times a day."
@@ -79,6 +79,8 @@ This is the step most women get wrong, so take your time with it. Try one of the
 
 You should not feel your belly, thighs, or buttocks doing the work. If they tense up, relax and try again with a smaller squeeze.
 
+<!-- unsplash: woman lying on exercise mat at home -->
+
 ## Step 2: A simple starter routine
 
 Once you can find the muscles, follow this basic routine:
@@ -108,6 +110,8 @@ Some routines also include fast "flicks": squeeze hard for one second, then let 
 - **Skipping the relaxation.** Muscles get stronger when they fully contract and fully relax.
 - **Overdoing it.** More is not always better. Tired muscles can make leakage worse for a while.
 - **Using midstream stopping as exercise.** Stopping urine regularly can keep the bladder from emptying fully and may raise the risk of a bladder infection.
+
+<!-- unsplash: woman walking outdoors morning -->
 
 ## How long until Kegels work?
 

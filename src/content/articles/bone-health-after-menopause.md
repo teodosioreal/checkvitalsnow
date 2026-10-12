@@ -12,7 +12,7 @@ secondaryKeywords:
   - "bone density test"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "older woman walking outdoors"
+imageQuery: "senior woman walking outdoors"
 keyTakeaways:
   - "Estrogen helps protect bone. When it drops at menopause, bone loss speeds up. Some women lose up to 25% of their bone mass in the first 10 years after menopause."
   - "Calcium and vitamin D work together. Women 51 to 70 need 600 IU of vitamin D a day, and women 71 and older need 800 IU."
@@ -70,6 +70,8 @@ Your risk of osteoporosis is higher if you:
 
 Many of these overlap with other midlife changes. If you are also dealing with fatigue or mood shifts, our guide to [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/) can help you sort out what to bring up with your doctor.
 
+<!-- unsplash: glass of milk and yogurt breakfast -->
+
 ## Calcium and vitamin D: a team
 
 Calcium is the main building block of bone. Vitamin D helps your body absorb calcium. If you don't get enough vitamin D, the calcium you eat doesn't do as much good.
@@ -89,6 +91,8 @@ Calcium is the main building block of bone. Vitamin D helps your body absorb cal
 - **Vitamin D:** fatty fish such as salmon and tuna, egg yolks, and fortified milk and cereals. Your skin also makes vitamin D in sunlight.
 
 Try to get most of your calcium from food. The Office on Women's Health advises asking your doctor whether you need a calcium supplement, since more is not always better.
+
+<!-- unsplash: mature woman lifting dumbbells -->
 
 ## Exercise that builds bone
 

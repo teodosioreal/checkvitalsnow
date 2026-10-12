@@ -116,3 +116,18 @@
     @apply my-6 rounded-xl border border-line bg-soft p-5;
   }
 }
+
+@layer components {
+  .article-figure {
+    @apply my-10;
+  }
+  .article-figure img {
+    @apply aspect-video w-full rounded-xl bg-soft object-cover;
+  }
+  .article-figure figcaption {
+    @apply mt-2 text-xs text-muted;
+  }
+  .article-figure figcaption a {
+    @apply text-muted;
+  }
+}

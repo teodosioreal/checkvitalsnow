@@ -12,7 +12,7 @@ secondaryKeywords:
   - "stress hormone women"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman meditating calm"
+imageQuery: "woman meditating at home calm"
 keyTakeaways:
   - "Cortisol is a hormone made by your adrenal glands. It helps control blood sugar, blood pressure, inflammation, and your sleep-wake cycle, and it rises when you are stressed."
   - "Short bursts of cortisol are normal and useful. Long-term stress is the bigger concern."
@@ -79,6 +79,8 @@ The problem is **chronic stress**: work pressure, caregiving, money worries, or 
 
 These signs are common with chronic stress, but they also overlap with other conditions, including [hormonal imbalances](/womens-health/signs-of-hormonal-imbalance-in-women/) and [causes of fatigue](/womens-health/why-am-i-always-tired/) such as low iron or thyroid problems.
 
+<!-- unsplash: woman walking in nature trail -->
+
 ## 7 habits that help your body handle stress
 
 The National Institute of Mental Health (NIMH) and the CDC recommend practical steps that are simple, free, and well supported.
@@ -102,6 +104,8 @@ Stretching, meditation, yoga, or a relaxation app can help. NIMH lists deep brea
 ### 5. Cut back on caffeine
 
 NIMH advises avoiding too much caffeine from coffee, energy drinks, or soft drinks. Caffeine can make you feel more on edge and interfere with sleep.
+
+<!-- unsplash: friends laughing at coffee shop -->
 
 ### 6. Stay connected
 

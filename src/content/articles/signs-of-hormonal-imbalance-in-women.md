@@ -12,7 +12,7 @@ secondaryKeywords:
   - "thyroid symptoms women"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman thinking calm portrait"
+imageQuery: "woman looking out window thoughtful"
 keyTakeaways:
   - "Hormones control many body systems, so an imbalance can cause a wide range of symptoms."
   - "Common signs include irregular periods, fatigue, unexplained weight changes, mood changes, acne, sleep problems, and changes in libido."
@@ -92,6 +92,8 @@ Cleveland Clinic also lists constipation or diarrhea and changes in heart rate a
 
 Trouble sleeping, night sweats, and lower interest in sex often show up during perimenopause and menopause.
 
+<!-- unsplash: woman with calendar planner -->
+
 ## Common hormonal causes in women
 
 ### Perimenopause and menopause
@@ -119,6 +121,8 @@ Your body releases **cortisol** when you are under stress. Cortisol affects bloo
 Here is the honest part: tiredness, weight changes, mood swings, and hair loss can come from many things besides hormones. Poor sleep, diet, stress, medicines, anemia, and other health conditions all cause similar symptoms. A Cleveland Clinic women's health specialist has noted that symptoms like weight or hair changes are not always hormonal and can come from diet and lifestyle.
 
 That is why self-diagnosing from a checklist, or from an ad, rarely works.
+
+<!-- unsplash: doctor taking blood sample lab -->
 
 ## How doctors check for hormonal imbalance
 

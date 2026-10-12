@@ -29,6 +29,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/content/articles
+          git add src/content/articles .unsplash-preview
           git commit -m "chore: add Unsplash cover images to articles"
           git push

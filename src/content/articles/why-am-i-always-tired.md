@@ -12,7 +12,7 @@ secondaryKeywords:
   - "tired all the time thyroid"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "tired woman coffee morning"
+imageQuery: "tired woman holding coffee mug morning"
 keyTakeaways:
   - "Ongoing tiredness is common in women and usually has an identifiable cause."
   - "Frequent causes include poor sleep, iron deficiency, an underactive thyroid, stress, depression, perimenopause, some medicines, and conditions like diabetes or sleep apnea."
@@ -56,6 +56,8 @@ You wake up tired. You push through the afternoon on coffee. By evening you have
 
 Everyone feels tired after a bad night or a busy week. **Fatigue** is different. It is a lasting lack of energy that doesn't go away with rest and gets in the way of daily life. If that sounds like you, it is worth looking for the reason.
 
+<!-- unsplash: woman sleeping in bed morning light -->
+
 ## 9 common causes of fatigue in women
 
 ### 1. Poor sleep
@@ -97,6 +99,8 @@ Mayo Clinic and MedlinePlus list diabetes, heart and lung disease, kidney and li
 ### 9. Medicines
 
 Some antidepressants, antihistamines, and pain or nausea medicines can cause tiredness. Don't stop a prescribed medicine on your own, but ask your doctor whether it could be a factor.
+
+<!-- unsplash: healthy plate salmon vegetables -->
 
 ## What you can do now
 

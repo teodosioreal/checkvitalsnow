@@ -12,7 +12,7 @@ secondaryKeywords:
   - "bladder training"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "woman drinking water glass"
+imageQuery: "woman drinking glass of water kitchen"
 keyTakeaways:
   - "Many experts consider urinating more than about eight times in 24 hours to be frequent urination."
   - "Common causes in women include overactive bladder, urinary tract infections, pregnancy, menopause, diabetes, caffeine, alcohol, and some medicines."
@@ -91,6 +91,8 @@ Caffeine and alcohol make the body produce more urine and can irritate the bladd
 
 MedlinePlus also lists vaginitis and interstitial cystitis (a painful bladder condition) among possible causes. This is why a check-up matters if the problem does not go away.
 
+<!-- unsplash: woman writing in journal at table -->
+
 ## Habits that can help
 
 ### Bladder training
@@ -119,6 +121,8 @@ It takes patience, but many women see progress over a few weeks.
 ### Keep bowels regular
 
 Constipation puts pressure on the bladder. Fiber, fluids, and regular movement help.
+
+<!-- unsplash: woman talking with female doctor clinic -->
 
 ## When to see a doctor
 
