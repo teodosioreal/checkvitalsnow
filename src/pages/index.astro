@@ -10,6 +10,12 @@ const byId = (id: string) => all.find((a) => a.id === id);
 // Homepage shelves, grouped the way readers usually look for help.
 const topics = [
   {
+    id: 'energy-and-stress',
+    title: 'Energy and stress',
+    intro: 'Why you might feel drained all the time, and the habits that help your body recover.',
+    ids: ['why-am-i-always-tired', 'how-to-lower-cortisol-naturally'],
+  },
+  {
     id: 'bladder-health',
     title: 'Bladder health',
     intro: 'Leaks, urgency, and too many bathroom trips are common, and most of the first steps are free.',
@@ -27,12 +33,6 @@ const topics = [
     intro: 'What changes in your 40s and 50s, what is normal, and when to get checked.',
     ids: ['perimenopause-symptoms', 'signs-of-hormonal-imbalance-in-women', 'bone-health-after-menopause'],
   },
-  {
-    id: 'energy-and-stress',
-    title: 'Energy and stress',
-    intro: 'Why you might feel drained all the time, and the habits that help your body recover.',
-    ids: ['why-am-i-always-tired', 'how-to-lower-cortisol-naturally'],
-  },
 ].map((t) => ({ ...t, articles: t.ids.map(byId).filter((a): a is (typeof all)[number] => Boolean(a)) }));
 
 // "Start here" picks: one guide from each topic.
@@ -49,9 +49,9 @@ const sitePages = [
   { label: 'Contact', href: '/contact/', text: 'Report an error or suggest a topic.' },
 ];
 
-const title = "CheckVitalsNow: Women's Health Guides You Can Trust";
+const title = 'CheckVitalsNow: Health and Wellness Guides You Can Trust';
 const description =
-  "Plain-language women's health guides on bladder leakage, perimenopause, hormones, fatigue, stress, and bone health, built on trusted medical sources.";
+  'Plain-language health and wellness guides on energy, stress, bladder health, hormones, and healthy aging, built on trusted medical sources.';
 
 const jsonLd = [
   {
@@ -75,17 +75,18 @@ const jsonLd = [
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
   <section class="border-b border-line bg-brand-50">
     <div class="container-page py-14 sm:py-20">
-      <p class="text-sm font-semibold uppercase tracking-wider text-brand-700">Women's health, explained plainly</p>
-      <h1 class="mt-3 max-w-3xl text-4xl font-bold sm:text-5xl">Straight answers about the changes no one warned you about</h1>
+      <p class="text-sm font-semibold uppercase tracking-wider text-brand-700">Health and wellness, explained plainly</p>
+      <h1 class="mt-3 max-w-3xl text-4xl font-bold sm:text-5xl">Straight answers to the health questions you keep putting off</h1>
       <div class="prose-width mt-6 space-y-4 text-lg text-ink">
         <p>
-          You leak a little when you sneeze. You wake up at 3 a.m. soaked in sweat. You are tired no matter how much you
-          sleep. These things are common, and they are also easy to brush off, by friends, by search results, and
-          sometimes by ourselves.
+          Why am I always tired? Why can't my mind switch off at night? Why do I leak a little when I sneeze? Questions
+          like these are common, and they are also easy to brush off, by friends, by search results, and sometimes by
+          ourselves.
         </p>
         <p>
-          {site.name} publishes clear, sourced guides for women who want to understand what is going on in their bodies
-          and what may help. Every guide links its medical sources and tells you when it is time to see a doctor.
+          {site.name} publishes clear, sourced guides for anyone who wants to understand what is going on in their body
+          and what may help. Every guide links its medical sources and tells you when it is time to see a doctor. We
+          started with women's health and are adding more everyday health and wellness topics.
         </p>
       </div>
       <nav aria-label="Topics" class="mt-8">

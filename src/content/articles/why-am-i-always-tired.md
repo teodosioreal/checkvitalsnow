@@ -53,7 +53,7 @@ related:
   - bone-health-after-menopause
 ---
 
-You wake up tired. You push through the afternoon on coffee. By evening you have nothing left for your family, your friends, or yourself. And when you mention it, people say "everyone's tired," which doesn't help.
+Tired when the alarm goes off. Running on coffee by mid-afternoon. Nothing left by evening for your family, your friends, or yourself. And when you mention it, someone says "everyone's tired," which helps exactly no one.
 
 **Feeling tired all the time is common in women, but it usually has a cause you can find.** The most frequent ones are poor sleep, iron deficiency, an underactive thyroid, ongoing stress, depression, hormonal shifts such as perimenopause, and certain medicines. Many of these can be checked with simple blood tests, and most can be improved once you know what you are dealing with.
 
@@ -113,6 +113,33 @@ Some antidepressants, antihistamines, and pain or nausea medicines can cause tir
 <figcaption>Photo by <a href="https://unsplash.com/@ellaolsson?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ella Olsson</a> on <a href="https://unsplash.com/photos/vegetable-salad-KPDbRyFOTnE?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
+## What might be draining you? A quick check
+
+Read each row and note the ones that sound like you. They are clues to bring to your doctor, not a diagnosis:
+
+| If this sounds like you… | It may point to… | A useful next step |
+| --- | --- | --- |
+| You sleep late, scroll in bed, or keep irregular hours | Poor sleep habits | Try the changes below for two weeks |
+| Heavy periods, pale skin, dizziness, or getting out of breath easily | Low iron | Ask for a blood test before taking iron |
+| Feeling cold, dry skin, constipation, or weight gain | An underactive thyroid | Ask for a thyroid blood test |
+| Loud snoring, gasping at night, or morning headaches | Sleep apnea | Ask your doctor about a sleep evaluation |
+| Low mood, little interest in things, or constant worry | Depression or anxiety | Talk to your doctor. Both are treatable. |
+| Hot flashes, night sweats, or irregular periods | Perimenopause | See our guide to [perimenopause symptoms](/womens-health/perimenopause-symptoms/) |
+| Unusual thirst or frequent urination | High blood sugar | Ask about a blood sugar test |
+| Tiredness started with a new medicine | A side effect | Ask your doctor; don't stop it on your own |
+
+## Tests you can ask your doctor about
+
+If tiredness doesn't improve, doctors often start with a few simple blood tests. Your doctor will choose based on your symptoms, but it helps to know what each one looks at:
+
+| Test | What it checks |
+| --- | --- |
+| Complete blood count (CBC) | Anemia, including the kind caused by low iron |
+| Iron and ferritin | How much iron your body has stored |
+| Thyroid function | Whether your thyroid is underactive or overactive |
+| Blood sugar | Diabetes or high blood sugar |
+| Kidney and liver function | Problems with these organs, which can cause fatigue |
+
 ## Small changes that help with most causes
 
 Start with the basics. They help with almost every cause:
@@ -141,6 +168,6 @@ Your doctor may order blood tests to check for anemia, iron levels, thyroid func
 
 ## Finding your answer
 
-Fatigue usually improves once the cause is found, whether that is low iron, an underactive thyroid, poor sleep, or stress. Before your appointment, write down how long you have felt this way, how you sleep, what your periods are like, and any medicines you take. That short list helps your doctor choose the right tests.
+For the next two weeks, rate your energy each evening from 1 to 5 and jot down how you slept. Make the small changes above at the same time. If your scores climb, you've found part of the answer. If they don't, take your notes and the checklist above to your doctor, since Mayo Clinic suggests a visit when fatigue hasn't improved after about two weeks of rest and healthy habits.
 
-If stress or hormones seem to be part of the picture, read our guides on [lowering cortisol](/womens-health/how-to-lower-cortisol-naturally/) and [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/).
+Fatigue usually improves once the cause is found, whether that is low iron, an underactive thyroid, poor sleep, or stress. If stress or hormones seem to be part of the picture, read our guides on [lowering cortisol](/womens-health/how-to-lower-cortisol-naturally/) and [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/).

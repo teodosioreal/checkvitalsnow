@@ -1,4 +1,4 @@
-# CLAUDE.md — Projeto: CheckVitalsNow (guias de saúde da mulher, mercado EUA)
+# CLAUDE.md — Projeto: CheckVitalsNow (guias de saúde e bem-estar, mercado EUA)
 
 > Este arquivo é o manual do projeto. Leia-o **INTEIRO** no início de cada sessão e siga-o à risca. Quando algo aqui entrar em conflito com um pedido pontual do usuário, **pergunte antes de agir**.
 
@@ -18,8 +18,8 @@ O usuário é brasileiro e conversa com você em **português**. Responda a ele 
 
 ## 2. O NEGÓCIO (contexto obrigatório)
 
-- Site **informativo** de saúde da mulher para o público dos Estados Unidos: `https://checkvitalsnow.com`.
-- **Temas atuais:** saúde da bexiga, hormônios e menopausa, energia e estresse (categoria `womens-health`).
+- Site **informativo de saúde e bem-estar em geral** (homens e mulheres, todas as idades) para o público dos Estados Unidos: `https://checkvitalsnow.com`.
+- **Primeira categoria publicada:** `womens-health` (saúde da bexiga, hormônios e menopausa, energia e estresse). O site **não** é só para mulheres: novas categorias de bem-estar geral (ex.: sono, nutrição, atividade física, saúde do coração, envelhecimento saudável, saúde do homem) devem ser criadas conforme o usuário aprovar. Textos institucionais e da home falam com "anyone", não só com mulheres.
 - **Monetização planejada:** Google AdSense. O site está sendo preparado para pedir aprovação (ver seção 9).
 - **Sem afiliados e sem produtos.** O site **não** tem links de afiliado, reviews de produto, listas "Top/Best Of", botões de compra nem recomendação de marcas. As reviews antigas (FemiPro, NerveCalm, Top 5) foram removidas e as URLs redirecionam (301) em `public/_redirects`. O código antigo continua no histórico do Git.
   - Se o usuário pedir para voltar a ter afiliados ou reviews, **pergunte antes** e lembre que isso muda páginas institucionais (About, Editorial Policy, Privacy, Terms) e exige disclosure da FTC.
@@ -140,7 +140,7 @@ About, Editorial Policy (How We Write), Medical Disclaimer, Privacy Policy, Term
 
 ### 6.1 Voz e tom
 
-- Editora experiente e honesta conversando com uma mulher adulta e inteligente que tem um problema real (vazamento, cansaço, ondas de calor, dúvida).
+- Editora experiente e honesta conversando com um adulto inteligente que tem um problema real (cansaço, estresse, vazamento, ondas de calor, dúvida). Em categorias específicas (ex.: saúde da mulher), fale com aquele público.
 - Empática sem drama. Confiante sem exagero. Cética quando faz sentido.
 - Segunda pessoa ("you") predominante. "We" para a equipe editorial.
 - Nível de leitura: 7ª–9ª série. Frases curtas misturadas com médias. Parágrafos de 1–3 frases.
@@ -161,6 +161,21 @@ About, Editorial Policy (How We Write), Medical Disclaimer, Privacy Policy, Term
 - **Cada artigo tem estrutura própria.** Não copie o esqueleto de outro artigo trocando o tema.
 - **Fechamento único em cada artigo**, ligado ao assunto (próximo passo prático + 1–2 links internos). Nunca um parágrafo-padrão reaproveitado.
 - Seção de sinais de alerta / quando procurar médico **sempre presente**, mas com título próprio ("When tiredness needs a checkup", "Bleeding and other signs to get checked").
+
+### 6.2.1 Padrão de valor (o que faz a leitora sair feliz)
+
+Todo artigo precisa entregar algo que a pessoa **usa**, não só lê. Obrigatório em cada artigo:
+
+- **Uma ferramenta prática própria**, diferente dos outros artigos: plano semana a semana, diário/registro para copiar (tabela com linha de exemplo), checklist de risco, tabela "sintoma → possível causa → próximo passo", teste rápido de autoavaliação, trocas práticas, perguntas para levar à consulta.
+- **Caminhos por perfil** quando o público varia (ex.: pós-parto, menopausa, quem corre, quem tem tosse crônica).
+- **Nenhuma seção rasa:** subtítulo com 1–2 frases genéricas vira tabela, lista útil ou é cortado.
+- **Abertura variada** (cena, pergunta, mito, detalhe surpreendente com fonte). Não repetir o molde "You… You… You…" entre artigos.
+- **Acolhimento:** normalizar o problema cedo ("é comum, é um problema de músculo, não uma falha pessoal"), sem drama.
+- **Fontes no link e no texto com moderação**: citar o órgão quando der peso ao dado, sem "According to…" em toda frase.
+- **Fechamento com uma ação para hoje** (ex.: "faça 10 contrações antes de dormir e comece o diário amanhã").
+- **Números só com fonte confirmada.** Se não der para verificar (ex.: mg de cálcio por alimento), use a ferramenta sem números.
+
+Referência de qualidade: `src/content/articles/why-do-i-leak-urine-when-i-sneeze.md`.
 
 ### 6.3 O hook (abertura)
 
@@ -222,7 +237,8 @@ O site antigo era de reviews com afiliados. Os originais estão em `migration/wo
 - [ ] Nenhum produto, marca à venda ou link de compra
 - [ ] Seção de sinais de alerta presente, com título próprio
 - [ ] Títulos naturais, sem H2 repetido entre artigos, sem "Introduction/Conclusion", sem divisórias
-- [ ] Hook específico, resposta nas primeiras ~100 palavras, sem frases proibidas
+- [ ] Hook específico e diferente dos outros artigos, resposta nas primeiras ~100 palavras, sem frases proibidas
+- [ ] Ferramenta prática própria + fechamento com ação para hoje (seção 6.2.1)
 - [ ] Title, meta, H1, slug, schema e alt text revisados
 - [ ] 3–5 links internos + `related` preenchido + 1 artigo existente apontando para o novo
 - [ ] `[VERIFY]` listados para o usuário

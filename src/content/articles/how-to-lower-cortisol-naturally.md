@@ -130,6 +130,22 @@ NIMH notes that constant exposure to upsetting news can add to stress. Set limit
 
 Journaling and naming worried thoughts can help you see patterns and challenge unhelpful thinking, another tip from NIMH.
 
+## A seven-day plan to put it into practice
+
+Reading a list of habits is easy. Doing them is harder. This plan adds one habit a day, so by the end of the week you have tried all of them without overhauling your life overnight:
+
+| Day | Add this | How long it takes |
+| --- | --- | --- |
+| 1 | Pick a fixed bedtime and wake-up time, and keep them all week | A minute to decide |
+| 2 | Take a walk, even a short one | 10 to 30 minutes |
+| 3 | Practice slow breathing: in for a count of four, out for six | A few minutes |
+| 4 | Put screens away before bed, and stop caffeine by early afternoon | No extra time |
+| 5 | Call, text, or meet one person you trust | 10 minutes or more |
+| 6 | Set two fixed times a day to check news and social media | Saves time |
+| 7 | Write down what worried you this week and which habits helped | 10 minutes |
+
+At the end of the week, keep the two or three habits that made the biggest difference, and build from there.
+
 ## What about "cortisol detox" drinks?
 
 Social media is full of drinks and routines promising to lower cortisol fast. Most of these claims are not backed by solid research. The basics above are less flashy, but they are what health agencies actually recommend.

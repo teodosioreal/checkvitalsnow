@@ -2,7 +2,7 @@ export const site = {
   name: 'CheckVitalsNow',
   url: 'https://checkvitalsnow.com',
   description:
-    "Clear, practical women's health guides on bladder health, hormones, energy, stress, and bone health, based on trusted medical sources.",
+    'Clear, practical health and wellness guides on everyday questions, from energy and stress to bladder health, hormones, and healthy aging, based on trusted medical sources.',
   locale: 'en_US',
 };
 

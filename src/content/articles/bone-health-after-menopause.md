@@ -80,6 +80,21 @@ Many of these overlap with other midlife changes. If you are also dealing with f
 <figcaption>Photo by <a href="https://unsplash.com/@anvision?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">an_vision</a> on <a href="https://unsplash.com/photos/white-liquid-in-clear-drinking-glass-5SN5N5-JM3c?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
+## A two-minute risk checklist
+
+Tick every line that applies to you. The more ticks, the more important it is to talk to your doctor about bone density testing soon:
+
+- [ ] I am past menopause, or went through menopause early
+- [ ] My mother, father, or a sibling had osteoporosis or a broken hip
+- [ ] I have a small, thin frame
+- [ ] I smoke, or I drink alcohol heavily
+- [ ] I rarely eat dairy or other calcium-rich foods
+- [ ] I am not physically active most days
+- [ ] I have taken steroid medicines for a long time
+- [ ] I have broken a bone from a minor fall or bump as an adult
+
+No ticks doesn't mean zero risk, because bone breakdown starts to outpace bone building for every woman once estrogen drops. It just means the steps below are about prevention rather than catching up.
+
 ## Calcium and vitamin D work as a pair
 
 Calcium is the main building block of bone. Vitamin D helps your body absorb calcium. If you don't get enough vitamin D, the calcium you eat doesn't do as much good.
@@ -104,6 +119,19 @@ Try to get most of your calcium from food. The Office on Women's Health advises 
 <img src="https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A woman holding two dumbs in her hands" loading="lazy" decoding="async">
 <figcaption>Photo by <a href="https://unsplash.com/@lgnwvr?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">LOGAN WEAVER | @LGNWVR</a> on <a href="https://unsplash.com/photos/a-woman-holding-two-dumbs-in-her-hands-V2F0K0FuwPM?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
+
+### What a calcium-rich day can look like
+
+You don't need special foods. A day built from ordinary meals can cover most of what you need:
+
+| Meal | Calcium-rich ideas | Vitamin D ideas |
+| --- | --- | --- |
+| Breakfast | Yogurt, or fortified cereal with milk or a calcium-fortified plant milk | Eggs, fortified milk or cereal |
+| Lunch | A salad with canned salmon or sardines (with the soft bones) | The same fish |
+| Snack | A piece of cheese, or a glass of calcium-fortified orange juice | |
+| Dinner | Tofu made with calcium, with kale or collard greens on the side | Salmon or tuna |
+
+If you can't get enough from food, ask your doctor whether a supplement makes sense for you, since more is not always better.
 
 ## Exercise that builds bone
 
@@ -139,11 +167,28 @@ If you already have osteoporosis, ask your doctor or a physical therapist which 
 - **Prevent falls at home.** Remove loose rugs, add grab bars, and use night lights.
 - **Ask about your medicines.** Some drugs affect bone health.
 
+## Make your home fall-safe in one afternoon
+
+Most fractures happen after a fall, so a safer home is one of the most practical ways to protect your bones. Walk through your home with this list:
+
+- **Floors:** remove loose rugs or tape them down, and clear cords and clutter from walkways.
+- **Bathroom:** add grab bars near the toilet and in the shower, and use a non-slip mat.
+- **Night:** put night lights in the bedroom, hallway, and bathroom.
+- **Stairs:** make sure there is good light and a sturdy handrail.
+- **Medicines:** ask your doctor or pharmacist whether any of your medicines can make you dizzy or affect your bones.
+
 ## Getting a bone density scan
 
-A **bone density test (DXA scan)** is a quick, painless X-ray that measures how strong your bones are. Talk to your doctor about when you should be tested, especially if you have risk factors or have broken a bone after a minor fall.
+A **bone density test (DXA scan)** is a quick, painless X-ray that measures how strong your bones are. Talk to your doctor about when you should be tested, especially if you ticked several boxes in the checklist above or have broken a bone after a minor fall.
 
 If your bones are thin, your doctor may suggest medicines that slow bone loss or help build bone. Hormone therapy can also protect bone, but it has risks that need to be weighed for each woman.
+
+Questions worth asking at your next visit:
+
+- Based on my risk factors, when should I have a bone density test?
+- How much calcium and vitamin D do I need in total, from food and any supplements?
+- Are any of my medicines affecting my bones?
+- Which kinds of exercise are safe for me?
 
 ## Signs to bring to your doctor
 
