@@ -38,8 +38,6 @@ sources:
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
   - title: "Kegel Exercises, NIDDK"
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - perimenopause-symptoms
   - why-do-i-leak-urine-when-i-sneeze
@@ -132,8 +130,8 @@ Make an appointment if:
 
 Don't assume bladder changes are just part of getting older. Many women feel much better with treatment.
 
-## About supplements for midlife bladder changes
+## You do not have to put up with it
 
-Vaginal estrogen, pelvic floor training, and bladder habits have the best evidence here, and none of them comes in a supplement bottle. Products marketed for urinary support in midlife are not a treatment for menopause or for incontinence.
+Bladder changes are common after menopause, but they are not something you simply have to live with. Vaginal estrogen, pelvic floor training, and bladder habits have the best evidence, and a doctor can help you choose.
 
-If you are curious about them anyway, our [ranking of five bladder supplements for women](/best/bladder-supplements-for-women/) shows what is in each one and how strong the research is. Take the label to your doctor before you start, especially if you take other medicines.
+Be wary of supplements marketed for "midlife bladder support." They are not a treatment for menopause or incontinence. For a step-by-step start, see our [Kegel guide](/womens-health/kegel-exercises-for-women/), and for the wider picture, our guide to [perimenopause symptoms](/womens-health/perimenopause-symptoms/).

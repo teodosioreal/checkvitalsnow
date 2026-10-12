@@ -36,8 +36,6 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/eating-diet-nutrition"
   - title: "10 Foods Your Bladder Will Fall in Love With, Urology Care Foundation"
     url: "https://www.urologyhealth.org/healthy-living/care-blog/10-foods-your-bladder-will-fall-in-love-with"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - frequent-urination-in-women
   - why-do-i-leak-urine-when-i-sneeze
@@ -133,4 +131,4 @@ These may point to an infection, interstitial cystitis, or another condition tha
 
 Finding your triggers works best alongside [bladder training](/womens-health/frequent-urination-in-women/) and [pelvic floor exercises](/womens-health/kegel-exercises-for-women/). If urgency hangs on after a few weeks of careful changes, it is worth a visit to your doctor.
 
-Some readers ask us about bladder supplements at this point. They don't replace these steps, and the research behind them is modest. Our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) and our [comparison of five options](/best/bladder-supplements-for-women/) lay out what is in them and who should skip them.
+Leaking when you cough or sneeze is a different problem from urgency, with different fixes. Our guide to [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) covers it.

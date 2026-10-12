@@ -1,82 +1,69 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import { site, reviewCriteria, promises } from '../data/site';
+import { site, standards, promises } from '../data/site';
 ---
 
 <PageLayout
-  title="Editorial Policy: How We Review | CheckVitalsNow"
-  description="How CheckVitalsNow researches, scores, and updates supplement reviews: our sources, our five rating criteria, and the rules we never break."
-  h1="Editorial Policy: How We Review Supplements"
+  title="Editorial Policy: How We Write | CheckVitalsNow"
+  description="How CheckVitalsNow researches, writes, fact-checks, and updates its women's health guides, and the rules every guide follows."
+  h1="Editorial Policy: How We Research and Write"
 >
   <p>
-    Supplement marketing is loud, and many "reviews" online are sales pages in disguise. This page explains exactly how
-    we work, so you can judge our reviews for yourself.
+    Health information should be easy to read and easy to check. This page explains how our guides are made, so you can
+    decide how much to trust them.
   </p>
 
-  <h2>What our reviews are based on</h2>
-  <p>
-    Every review is based on the official formula, the ingredient research, the manufacturer's policies, and publicly
-    available customer feedback. In practice, that means we check:
-  </p>
+  <h2>Our standards</h2>
   <ul>
-    <li>The product label and the manufacturer's official website.</li>
-    <li>
-      Published research on the key ingredients, preferably from primary sources such as PubMed, the National Institutes
-      of Health (NIH), and peer-reviewed journals.
-    </li>
-    <li>The price, the refund or money-back terms, and where the product is officially sold.</li>
-    <li>Public customer feedback, both positive and negative.</li>
-  </ul>
-  <p>
-    We do not run lab tests or clinical trials, and we do not claim personal results we did not have. When we have not
-    been able to confirm a detail, such as an ingredient amount, we say so.
-  </p>
-
-  <h2>How we score products</h2>
-  <p>Product reviews score each supplement from 0 to 10 on the same five criteria, so one review can be compared with another:</p>
-  <ol>
     {
-      reviewCriteria.map((c) => (
+      standards.map((s) => (
         <li>
-          <strong>{c.name}:</strong> {c.text}
+          <strong>{s.name}:</strong> {s.text}
         </li>
       ))
     }
-  </ol>
-  <p>
-    Comparison lists, such as our <a href="/best/bladder-supplements-for-women/">best bladder supplements for women</a>,
-    use criteria and weights that fit the question the list answers. Those criteria and weights are always published on
-    the list itself, and the #1 pick has to be defensible by them.
-  </p>
-
-  <h2>Health claims and safety</h2>
-  <p>
-    Dietary supplements are not approved by the FDA to diagnose, treat, cure, or prevent any disease, and we never say
-    they do. We describe what manufacturers claim as their claims, report what the research does and does not show, and
-    include a safety section that says who should talk to a doctor first. Every health guide includes the warning signs
-    that mean you should see a doctor.
-  </p>
-
-  <h2>Our rules</h2>
-  <ul>
-    {promises.map((p) => <li>{p}</li>)}
-    <li>
-      If we show customer testimonials, they come from the manufacturer's own materials and are clearly labeled as such.
-      We cannot verify them, and we say so.
-    </li>
   </ul>
 
-  <h2>Affiliate links and independence</h2>
+  <h2>Where our information comes from</h2>
+  <p>We start with sources that are accountable for what they publish:</p>
+  <ul>
+    <li>
+      U.S. government health agencies, such as the National Institutes of Health (including NIDDK, NIMH, and the Office of
+      Dietary Supplements), the CDC, the Office on Women's Health, and MedlinePlus.
+    </li>
+    <li>Academic medical centers and clinics, such as Mayo Clinic and Cleveland Clinic.</li>
+    <li>Peer-reviewed studies and reviews, usually found through PubMed and PubMed Central.</li>
+  </ul>
   <p>
-    {site.name} earns commissions from some links. Commissions never decide a product's score, and products without an
-    affiliate link can appear in our lists when they deserve to. See our <a href="/affiliate-disclosure/">affiliate
-    disclosure</a> for details.
+    Every guide ends with a list of the sources it relies on, linked so you can read them yourself. We do not cite a
+    study unless we have confirmed that it exists and says what we report.
+  </p>
+
+  <h2>How a guide is written</h2>
+  <ol>
+    <li>We start from the real question a reader is asking and answer it near the top of the page.</li>
+    <li>We research the topic in the sources above and note where they agree, disagree, or have little evidence.</li>
+    <li>We write in plain language, explain medical terms, and include practical steps where they are supported.</li>
+    <li>We add a section on warning signs and when to see a doctor.</li>
+    <li>Before publishing, we check every number, recommendation, and source link against the original.</li>
+  </ol>
+
+  <h2>Rules every guide follows</h2>
+  <ul>
+    {promises.map((p) => <li>{p}</li>)}
+  </ul>
+
+  <h2>Independence</h2>
+  <p>
+    {site.name} is independent. No company pays for or reviews our guides before they are published, and our guides do
+    not link to products for sale. If we ever show advertising, ads will be clearly separated from our content and will
+    have no influence on what we write.
   </p>
 
   <h2>Updates and corrections</h2>
   <p>
-    Formulas, prices, and guarantees change. Each page shows when it was last updated, and we revise pages when we learn
-    that something has changed. If you find an error, please tell us through our <a href="/contact/">contact page</a>,
-    and we will check it and correct it.
+    Medical guidance changes. Each guide shows when it was published and when it was last updated, and we review guides
+    when major sources change their advice. If you find an error, please tell us through our
+    <a href="/contact/">contact page</a>. We will check it and, if we got something wrong, correct it.
   </p>
 </PageLayout>

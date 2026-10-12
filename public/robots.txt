@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /go/
+Allow: /
 
 Sitemap: https://checkvitalsnow.com/sitemap-index.xml

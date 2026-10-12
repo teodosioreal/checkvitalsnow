@@ -8,8 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
-    "images:unsplash": "node scripts/unsplash-covers.mjs",
-    "images:products": "node scripts/product-images.mjs"
+    "images:unsplash": "node scripts/unsplash-covers.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

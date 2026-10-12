@@ -37,8 +37,6 @@ sources:
     url: "https://my.clevelandclinic.org/health/articles/14611-kegel-exercises"
   - title: "Kegel exercises - self-care, MedlinePlus"
     url: "https://medlineplus.gov/ency/patientinstructions/000141.htm"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - why-do-i-leak-urine-when-i-sneeze
   - menopause-and-bladder-leakage
@@ -134,8 +132,8 @@ Talk to a doctor if:
 - You have pain or burning when you urinate, blood in your urine, or fever
 - You feel heaviness or a bulge in your vagina
 
-## Can a supplement do the work for you?
+## Making it a habit
 
-Kegels are slow, unglamorous work, and that is why they help: the muscle gets stronger a little at a time. Pair them with a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/) and give it a couple of months before you judge.
+Kegels are slow, unglamorous work, and that is why they help: the muscle gets stronger a little at a time. Pair them with a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/), and give it a couple of months before you judge.
 
-You will also see supplements sold as a shortcut to bladder control. No capsule strengthens a muscle for you. If you still want to look at one alongside your exercises, our [side-by-side look at five bladder supplements](/best/bladder-supplements-for-women/) explains what each contains and who it suits. Ask your doctor before you start one.
+If you are going through menopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) explains why the changes can make Kegels even more worthwhile.

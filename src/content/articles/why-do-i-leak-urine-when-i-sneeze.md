@@ -38,8 +38,6 @@ sources:
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
   - title: "Urinary Incontinence: Causes, Types & Treatment, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - kegel-exercises-for-women
   - bladder-irritants-foods-and-drinks
@@ -145,8 +143,8 @@ Light leakage with sneezing is common, but some signs need a medical check. Talk
 
 These can point to an infection, a prolapse, or another condition that needs treatment.
 
-## Where bladder supplements fit in
+## A realistic plan for the next few months
 
-Pelvic floor training, the knack, and a few habit changes do most of the work for most women. When they aren't enough, a doctor can offer more. Bladder supplements come up a lot around this problem, usually through ads. None of them treats incontinence, and the research on their ingredients is modest.
+Most women who stick with pelvic floor training notice fewer leaks within a few months, and "the knack" can help sooner. Pair the exercises with the habits above, and keep a simple note of when you leak so you can see progress.
 
-If you are weighing one anyway, start with our [comparison of five bladder supplements for women](/best/bladder-supplements-for-women/), which ranks them on criteria we publish. If FemiPro is the one you keep seeing, read our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/). Check with your doctor first, especially if you are pregnant or take other medicines.
+Ads for bladder pills will promise faster results. None of them treats incontinence, so talk to your doctor before trying one. If urgency is part of your problem too, read our guide to [frequent urination](/womens-health/frequent-urination-in-women/).

@@ -36,8 +36,6 @@ sources:
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
   - title: "Bladder control: Lifestyle strategies ease problems, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - bladder-irritants-foods-and-drinks
   - why-do-i-leak-urine-when-i-sneeze
@@ -136,8 +134,8 @@ See a doctor promptly if frequent urination comes with any of these:
 
 Also make an appointment if frequent urination is affecting your sleep, work, or social life, even without other symptoms. There are effective treatments, including medicines, for overactive bladder.
 
-## Should you try a bladder supplement?
+## Where to start this week
 
-Start with the free steps: a bladder diary, bladder training, and a checkup for infection or high blood sugar. Those find the cause, and they solve many cases on their own. Supplements sold for bladder support don't treat overactive bladder or infections, and the evidence behind them is limited.
+Start with the free steps: a bladder diary for three or four days, a look at what you drink, and bladder training. If you have any of the warning signs above, book a checkup first, since an infection or high blood sugar needs treatment.
 
-If you want to see what's out there, we compared [five bladder supplements for women](/best/bladder-supplements-for-women/) on ingredients, research, and guarantees, and we wrote a detailed [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/). Run any supplement by your doctor first.
+Pills sold for "bladder support" don't treat overactive bladder or infections. For help with the drinks side, see our list of [bladder irritants](/womens-health/bladder-irritants-foods-and-drinks/), and if leaks are part of the problem, our [Kegel guide](/womens-health/kegel-exercises-for-women/).

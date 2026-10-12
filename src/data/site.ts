@@ -2,7 +2,7 @@ export const site = {
   name: 'CheckVitalsNow',
   url: 'https://checkvitalsnow.com',
   description:
-    'Independent supplement reviews that look at the formula, ingredient research, price, guarantee, and customer feedback, so you can decide before you buy.',
+    "Clear, practical women's health guides on bladder health, hormones, energy, stress, and bone health, based on trusted medical sources.",
   locale: 'en_US',
 };
 
@@ -10,7 +10,7 @@ export const categories = {
   'womens-health': {
     name: "Women's Health",
     description:
-      'Clear, practical guides on bladder health, hormones, energy, stress, and bone health for women, based on trusted medical sources.',
+      'Bladder leakage, hormone changes, constant tiredness, stress, and bone health: practical guides for women from perimenopause to life after menopause.',
   },
 } as const;
 
@@ -20,55 +20,52 @@ export const author = {
 
 export const nav: { label: string; href: string }[] = [
   { label: "Women's Health", href: '/womens-health/' },
-  { label: 'Reviews', href: '/#latest-reviews' },
-  { label: 'How We Review', href: '/editorial-policy/' },
+  { label: 'About', href: '/about/' },
+  { label: 'How We Write', href: '/editorial-policy/' },
 ];
 
 export const footerLinks: { label: string; href: string }[] = [
   { label: 'About Us', href: '/about/' },
   { label: 'Editorial Policy', href: '/editorial-policy/' },
-  { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
   { label: 'Medical Disclaimer', href: '/medical-disclaimer/' },
   { label: 'Privacy Policy', href: '/privacy-policy/' },
   { label: 'Terms of Use', href: '/terms-of-use/' },
   { label: 'Contact', href: '/contact/' },
 ];
 
-// The five criteria every product review is scored on (0 to 10 each).
-export const reviewCriteria = [
+// How every guide is researched and written.
+export const standards = [
   {
-    name: 'Ingredients',
-    text: 'Is each ingredient backed by research for the use the label suggests? Is the dose disclosed and in a sensible range?',
+    name: 'Built on trusted sources',
+    text: 'We rely on primary sources such as the NIH, CDC, MedlinePlus, Mayo Clinic, Cleveland Clinic, and peer-reviewed research, and we link them at the end of every guide.',
   },
   {
-    name: 'Transparency',
-    text: 'Does the manufacturer show a full label, explain who makes the product, and avoid claims it cannot support?',
+    name: 'Written in plain language',
+    text: 'Short sentences, everyday words, and concrete steps you can use today. Medical terms are explained the first time they appear.',
   },
   {
-    name: 'Value',
-    text: 'What does a realistic month of use cost compared with similar products?',
+    name: 'Honest about the evidence',
+    text: 'When research is limited or mixed, we say so instead of overstating what is known.',
   },
   {
-    name: 'Guarantee',
-    text: 'How long is the refund window, what are the conditions, and is it easy to use?',
+    name: 'Safety first',
+    text: 'Every guide lists the warning signs that mean you should see a doctor, and none of them is meant to replace one.',
   },
   {
-    name: 'Customer feedback',
-    text: 'What are buyers saying in public, both good and bad? We summarize patterns and never invent quotes.',
+    name: 'Kept up to date',
+    text: 'Each guide shows when it was published and last updated, and we correct mistakes as soon as we confirm them.',
   },
 ];
 
 export const promises = [
-  'We never publish fake testimonials, made-up ratings, or invented "user results."',
-  'We never claim a supplement cures, treats, or prevents a disease.',
-  'We never use fake countdowns or "only 3 left" pressure.',
-  'Every review lists real downsides, not just selling points.',
-  'We do not run lab tests or clinical trials, and we will not pretend we did.',
+  'Our guides do not sell or recommend products.',
+  'We never claim a supplement, food, or home remedy cures, treats, or prevents a disease.',
+  'We never invent statistics, studies, quotes, or experts.',
+  'We tell you when the evidence is thin.',
+  'We will always point you to a doctor when symptoms need one.',
 ];
 
 export const disclaimers = {
-  affiliate:
-    "Disclosure: This article contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This doesn't influence our evaluations.",
   fda: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.',
   medical:
     'This content is for informational purposes only and is not a substitute for professional medical advice. Talk to your doctor before starting any supplement, especially if you are pregnant, nursing, taking medication, or have a medical condition.',

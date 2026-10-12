@@ -30,8 +30,6 @@ const articles = defineCollection({
       faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
       sources: z.array(z.object({ title: z.string(), url: z.url() })).min(1),
       related: z.array(z.string()).default([]),
-      promo: z.enum(['femipro']).optional(),
-      compareList: z.enum(['bladder-supplements-for-women']).optional(),
     }),
 });
 

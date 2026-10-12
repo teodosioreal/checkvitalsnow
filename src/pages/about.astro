@@ -6,64 +6,62 @@ import { owner } from '../data/owner.mjs';
 
 <PageLayout
   title="About Us | CheckVitalsNow"
-  description="Who we are, what we cover, how we make money, and the standards behind every CheckVitalsNow supplement review and health guide."
+  description="Who we are, what we write about, and the standards behind every CheckVitalsNow women's health guide."
   h1="About CheckVitalsNow"
   updated={false}
   pageType="AboutPage"
 >
   <p>
-    You saw an ad for a supplement. The page looked convincing, the reviews were glowing, and a timer was counting down.
-    {site.name} exists for the moment right after that, when you want a straight answer before you pay.
+    Many women's health questions get asked quietly, late at night, in a search bar. Why do I leak when I sneeze? Is this
+    perimenopause? Why am I always so tired? The answers online are often buried under ads, scare stories, or products
+    that promise a quick fix.
   </p>
   <p>
-    We are an independent website that reviews dietary supplements and publishes practical health guides for readers in
-    the United States. We look at what is actually in a product, what published research says about those ingredients,
-    what it costs, how the guarantee works, and who should skip it.
+    {site.name} is an independent website that answers those questions in plain language. Our guides explain what is
+    happening in your body, what tends to help, and when it is time to see a doctor, with links to the medical sources
+    behind every claim.
   </p>
 
-  <h2>What you will find here</h2>
+  <h2>What we cover</h2>
   <ul>
-    <li><strong>Product reviews:</strong> one supplement at a time, with real pros and cons and a safety section.</li>
-    <li><strong>Comparison lists:</strong> several products ranked on criteria we publish on the same page.</li>
     <li>
-      <strong>Health guides:</strong> plain-language articles, such as our <a href="/womens-health/">women's health</a>
-      section, based on government, medical, and academic sources.
+      <strong>Bladder health:</strong> leaking when you sneeze, frequent urination, Kegel exercises, bladder irritants,
+      and bladder changes after menopause.
     </li>
+    <li>
+      <strong>Hormones and menopause:</strong> perimenopause symptoms, signs of hormonal imbalance, and bone health after
+      menopause.
+    </li>
+    <li><strong>Energy and stress:</strong> the common causes of constant tiredness and practical ways to handle stress.</li>
   </ul>
+  <p>You can find every guide in our <a href="/womens-health/">women's health section</a>.</p>
 
   <h2>Who is behind the site</h2>
   {
     owner.name ? (
       <p>
-        {site.name} is owned and operated by {owner.name}. Content is written and edited by the {site.name} editorial
-        team.
+        {site.name} is owned and operated by {owner.name}. Guides are researched, written, and edited by the {site.name}{' '}
+        editorial team.
       </p>
     ) : (
-      <p>Content is written and edited by the {site.name} editorial team.</p>
+      <p>Guides are researched, written, and edited by the {site.name} editorial team.</p>
     )
   }
   <p>
-    We are not doctors, and nothing on this site is medical advice. That is why we lean on primary sources, such as the
-    National Institutes of Health and peer-reviewed studies, link to them, and tell you when the evidence is thin. Please
-    read our <a href="/medical-disclaimer/">medical disclaimer</a>.
+    We are not doctors, and nothing on this site is medical advice. That is why we build every guide on primary sources,
+    such as the National Institutes of Health, the CDC, MedlinePlus, and major academic medical centers, and link them at
+    the end of each page. Please read our <a href="/medical-disclaimer/">medical disclaimer</a>.
   </p>
 
-  <h2>How we make money</h2>
+  <h2>What we don't do</h2>
   <p>
-    Some links on this site are affiliate links. If you buy through one, we may earn a commission at no extra cost to
-    you. That is how we keep the site free. A commission never decides what we say about a product, and every review
-    lists real downsides. The details are in our <a href="/affiliate-disclosure/">affiliate disclosure</a>.
-  </p>
-
-  <h2>Our standards</h2>
-  <p>
-    We never publish fake testimonials or made-up ratings, we never claim a supplement cures or treats a disease, and we
-    do not pretend to have lab-tested products we have not tested. Read the full
-    <a href="/editorial-policy/">editorial policy</a> to see how we research, score, and update our reviews.
+    Our guides do not sell or recommend products, and we never claim that a supplement, food, or home remedy cures a
+    disease. When the research on a topic is thin, we say so. Our <a href="/editorial-policy/">editorial policy</a>
+    explains how we research, write, and update every guide.
   </p>
 
   <h2>Get in touch</h2>
   <p>
-    Spotted a mistake or have a question about a review? Visit our <a href="/contact/">contact page</a>.
+    Spotted a mistake, or have a question you would like us to cover? Visit our <a href="/contact/">contact page</a>.
   </p>
 </PageLayout>
