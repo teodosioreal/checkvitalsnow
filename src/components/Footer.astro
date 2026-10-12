@@ -1,0 +1,19 @@
+---
+import { site } from '../data/site';
+import MedicalDisclaimer from './MedicalDisclaimer.astro';
+import FDADisclaimer from './FDADisclaimer.astro';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-20 border-t border-line bg-soft">
+  <div class="container-page py-10 text-sm leading-relaxed text-muted">
+    <p class="font-serif text-lg font-bold text-brand-900">{site.name}</p>
+    <p class="mt-1 max-w-prose">{site.description}</p>
+    <div class="mt-6 max-w-3xl space-y-3">
+      <MedicalDisclaimer />
+      <FDADisclaimer />
+    </div>
+    <p class="mt-8">&copy; {year} {site.name}. All rights reserved.</p>
+  </div>
+</footer>
