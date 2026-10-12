@@ -133,6 +133,7 @@ const itemList = {
   itemListElement: products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.name, url: `${url}#${p.id}` })),
 };
 const top = products[0];
+const countdown = products.map((p, i) => ({ p, i })).reverse();
 ---
 
 <ReviewLayout
@@ -177,8 +178,9 @@ const top = products[0];
     <p>
       So we compared five bladder support supplements sold to U.S. women. We looked at what each formula covers, what the
       research on its ingredients actually shows, how clearly the label lists doses, the guarantee, and how easy it is to
-      buy. <strong>Our top pick is {top.name}</strong>, the only product here that combines bladder, urinary tract, and
-      microbiome support in one formula. But depending on your main problem, one of the others may suit you better.
+      buy. We count down from #5 to our #1 pick, the only product on this list that combines bladder, urinary tract,
+      and microbiome support in one formula. Depending on your main problem, one of the others may suit you better, so
+      read each one.
     </p>
     <p class="text-base text-muted">
       We reviewed each product's label and the manufacturer's information, published ingredient research, and independent
@@ -186,57 +188,8 @@ const top = products[0];
       medical care.
     </p>
 
-    <div class="mt-6 rounded-xl border border-line">
-      <h2 class="!mb-0 border-b border-line bg-soft px-5 py-3 !text-xl">Quick picks</h2>
-      <ol class="divide-y divide-line">
-        {
-          products.map((p, i) => (
-            <li class="flex items-center justify-between gap-4 px-5 py-3 text-base">
-              <span>
-                <strong>
-                  {i + 1}. <a href={`#${p.id}`}>{p.name}</a>
-                </strong>
-                <span class="block text-sm text-muted">{p.bestFor}</span>
-              </span>
-              <span class="whitespace-nowrap font-bold">{p.score.toFixed(1)}/10</span>
-            </li>
-          ))
-        }
-      </ol>
-    </div>
   </section>
 
-  <section class="review-section">
-    <h2>Comparison at a glance</h2>
-    <div class="overflow-x-auto">
-      <table class="w-full min-w-[640px] border-collapse text-left text-base">
-        <thead>
-          <tr class="bg-soft">
-            <th class="border border-line px-3 py-2">#</th>
-            <th class="border border-line px-3 py-2">Product</th>
-            <th class="border border-line px-3 py-2">Main focus</th>
-            <th class="border border-line px-3 py-2">Where to buy</th>
-            <th class="border border-line px-3 py-2">Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          {
-            products.map((p, i) => (
-              <tr class={i === 0 ? 'bg-brand-50' : ''}>
-                <td class="border border-line px-3 py-2 align-top font-bold">{i + 1}</td>
-                <td class="border border-line px-3 py-2 align-top font-semibold">{p.name}</td>
-                <td class="border border-line px-3 py-2 align-top">{p.focus}</td>
-                <td class="border border-line px-3 py-2 align-top">{p.where}</td>
-                <td class="border border-line px-3 py-2 align-top whitespace-nowrap font-bold">
-                  {p.score.toFixed(1)} ({p.grade})
-                </td>
-              </tr>
-            ))
-          }
-        </tbody>
-      </table>
-    </div>
-  </section>
 
   <section id="what-to-look-for" class="review-section scroll-mt-6">
     <h2>How to spot a good bladder supplement (and the red flags)</h2>
@@ -303,10 +256,10 @@ const top = products[0];
   </section>
 
   <section id="top-5" class="review-section scroll-mt-6">
-    <h2>Our top 5 bladder support supplements for women</h2>
+    <h2>Our top 5 bladder support supplements for women, counting down</h2>
     <div class="space-y-8">
       {
-        products.map((p, i) => (
+        countdown.map(({ p, i }) => (
           <article id={p.id} class:list={['scroll-mt-6 rounded-2xl border p-6', i === 0 ? 'border-2 border-brand-600 bg-brand-50' : 'border-line']}>
             {i === 0 && (
               <p class="mb-3 inline-block rounded-full bg-brand-700 px-3 py-1 text-sm font-semibold text-white">Our #1 pick</p>
@@ -360,6 +313,38 @@ const top = products[0];
           </article>
         ))
       }
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>Comparison at a glance</h2>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[640px] border-collapse text-left text-base">
+        <thead>
+          <tr class="bg-soft">
+            <th class="border border-line px-3 py-2">#</th>
+            <th class="border border-line px-3 py-2">Product</th>
+            <th class="border border-line px-3 py-2">Main focus</th>
+            <th class="border border-line px-3 py-2">Where to buy</th>
+            <th class="border border-line px-3 py-2">Score</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            products.map((p, i) => (
+              <tr class={i === 0 ? 'bg-brand-50' : ''}>
+                <td class="border border-line px-3 py-2 align-top font-bold">{i + 1}</td>
+                <td class="border border-line px-3 py-2 align-top font-semibold">{p.name}</td>
+                <td class="border border-line px-3 py-2 align-top">{p.focus}</td>
+                <td class="border border-line px-3 py-2 align-top">{p.where}</td>
+                <td class="border border-line px-3 py-2 align-top whitespace-nowrap font-bold">
+                  {p.score.toFixed(1)} ({p.grade})
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
     </div>
   </section>
 
