@@ -41,15 +41,33 @@ for (const f of files) {
 }
 const photoKey = (p) => p.urls.raw.match(/(photo-[\w-]+)/)?.[1] ?? p.id;
 
+// Demo apps get 50 requests/hour. Each photo costs 2 (search + download trigger), so stop
+// cleanly before the limit and let the next run continue where this one ended.
+let remaining = Infinity;
+let stopped = false;
+const track = (res) => {
+  const r = Number(res.headers.get('x-ratelimit-remaining'));
+  if (Number.isFinite(r)) remaining = r;
+};
+
 async function pick(query) {
+  if (stopped || remaining < 2) {
+    stopped = true;
+    return null;
+  }
   const url = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&content_filter=high&per_page=20`;
   const res = await fetch(url, { headers });
+  track(res);
+  if (res.status === 403 || res.status === 429) {
+    stopped = true;
+    return null;
+  }
   if (!res.ok) throw new Error(`Unsplash search failed for "${query}": ${res.status} ${await res.text()}`);
   const { results = [] } = await res.json();
   if (!results.length) return null;
   const photo = results.find((p) => !used.has(photoKey(p))) ?? results[0];
   used.add(photoKey(photo));
-  await fetch(photo.links.download_location, { headers });
+  track(await fetch(photo.links.download_location, { headers }));
   return photo;
 }
 
@@ -87,7 +105,7 @@ for (const file of files) {
     const query = m[1].trim();
     const photo = await pick(query);
     if (!photo) {
-      report.push(`${slug} | inline | ${query} | NO RESULT`);
+      if (!stopped) report.push(`${slug} | inline | ${query} | NO RESULT`);
       continue;
     }
     n++;
@@ -106,5 +124,12 @@ for (const file of files) {
   writeFileSync(path, text);
 }
 
-writeFileSync(join(PREVIEW, 'report.txt'), report.join('\n') + '\n');
+const reportPath = join(PREVIEW, 'report.txt');
+let previous = '';
+try {
+  previous = readFileSync(reportPath, 'utf8');
+} catch {}
+writeFileSync(reportPath, previous + report.map((l) => l + '\n').join(''));
 console.log(report.join('\n'));
+const left = files.reduce((n, f) => n + [...readFileSync(join(DIR, f), 'utf8').matchAll(/<!-- unsplash: /g)].length + (/^cover:/m.test(readFileSync(join(DIR, f), 'utf8')) ? 0 : 1), 0);
+console.log(stopped ? `Stopped at the Unsplash rate limit. ${left} image slots left; run again in an hour.` : `Done. ${left} image slots left.`);
