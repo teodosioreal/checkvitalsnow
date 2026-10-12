@@ -9,6 +9,7 @@
   },
   {
     "id": "confitrol24",
-    "pages": ["https://www.confitrol24.com/", "https://confitrol24.com/", "https://www.leadingedgehealth.com/confitrol24"]
+    "pages": ["https://www.confitrol24.com/"],
+    "match": "confitrol|bottle"
   }
 ]

@@ -2,6 +2,7 @@
 // listed in scripts/product-images.json and saves it as WebP in src/assets/products/.
 //
 // - Skips products whose image already exists, so it is safe to run again.
+// - Uses og:image, or the first <img> matching the optional `match` regex.
 // - Tries each page in order and uses the first one that returns an image.
 // - Writes src/assets/products/SOURCES.md with the page and image URL of every
 //   photo, so each one can be checked before it goes on the site.
@@ -23,16 +24,28 @@ const meta = (html, prop) =>
 
 const decode = (s) => s.replace(/&amp;/g, '&');
 
-async function fromPage(page) {
+// Fallback for pages without og:image: first <img> whose src or alt matches `match`.
+function matchImg(html, match) {
+  if (!match) return null;
+  const re = new RegExp(match, 'i');
+  for (const tag of html.match(/<img\b[^>]*>/gi) ?? []) {
+    const src = tag.match(/\s(?:data-src|src)=["']([^"']+)["']/i)?.[1];
+    const alt = tag.match(/\salt=["']([^"']*)["']/i)?.[1] ?? '';
+    if (src && !src.startsWith('data:') && (re.test(src) || re.test(alt))) return src;
+  }
+  return null;
+}
+
+async function fromPage(page, match) {
   const res = await fetch(page, { headers, redirect: 'follow' });
   if (!res.ok) throw new Error(`page ${res.status}`);
   const html = await res.text();
-  const found = meta(html, 'og:image:secure_url') ?? meta(html, 'og:image') ?? meta(html, 'twitter:image');
-  if (!found) throw new Error('no og:image');
+  const found = meta(html, 'og:image:secure_url') ?? meta(html, 'og:image') ?? meta(html, 'twitter:image') ?? matchImg(html, match);
+  if (!found) throw new Error('no og:image or matching <img>');
   const image = new URL(decode(found), res.url).href;
   const img = await fetch(image, { headers });
   if (!img.ok) throw new Error(`image ${img.status}`);
-  const title = html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.trim() ?? '';
+  const title = html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.replace(/\s+/g, ' ').trim() ?? '';
   return { finalUrl: res.url, image, title, buffer: Buffer.from(await img.arrayBuffer()) };
 }
 
@@ -50,7 +63,7 @@ for (const p of products) {
   let done = false;
   for (const page of p.pages) {
     try {
-      const r = await fromPage(page);
+      const r = await fromPage(page, p.match);
       await sharp(r.buffer).resize({ width: 800, height: 800, fit: 'inside', withoutEnlargement: true }).webp({ quality: 85 }).toFile(out);
       added += `| ${p.id}.webp | ${r.finalUrl} | ${r.title.replace(/\|/g, '/')} | ${r.image} |\n`;
       console.log(`${p.id}: saved from ${r.finalUrl}`);
