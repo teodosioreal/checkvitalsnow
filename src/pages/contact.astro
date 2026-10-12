@@ -1,0 +1,51 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title="Contact Us | CheckVitalsNow"
+  description="How to reach the CheckVitalsNow team to report an error, suggest a topic, or make a privacy request."
+  h1="Contact Us"
+  updated={false}
+  pageType="ContactPage"
+>
+  {
+    owner.contactEmail ? (
+      <>
+        <p>The best way to reach us is by email:</p>
+        <p>
+          <a href={`mailto:${owner.contactEmail}`} class="font-semibold">
+            {owner.contactEmail}
+          </a>
+        </p>
+      </>
+    ) : (
+      <p>Our contact email address will be published here soon.</p>
+    )
+  }
+
+  <h2>What we can help with</h2>
+  <ul>
+    <li><strong>Corrections:</strong> tell us the page address and what looks wrong. A link to a source helps.</li>
+    <li><strong>Topic ideas:</strong> a question you could not find a clear answer to. We read every suggestion.</li>
+    <li><strong>Questions about a guide:</strong> where a detail came from or how to read a source.</li>
+    <li><strong>Privacy requests:</strong> see our <a href="/privacy-policy/">privacy policy</a>.</li>
+  </ul>
+
+  <h2>What we cannot help with</h2>
+  <ul>
+    <li>
+      <strong>Medical questions:</strong> we cannot give personal medical advice. Please talk to your doctor or
+      pharmacist.
+    </li>
+    <li>
+      <strong>Product questions:</strong> {site.name} does not sell or recommend products. For questions about an
+      order, contact the company you bought from.
+    </li>
+  </ul>
+  <p>
+    If you think you have a medical emergency, call 911 or your local emergency number.
+  </p>
+</PageLayout>

@@ -4,11 +4,11 @@ Rascunhos ficam guardados aqui como referência e **não são publicados** no si
 
 | Página (slug) | Status |
 |---|---|
-| femipro-review-scam-or-legit-femipro-full-review | Etapa B feita (reescrita com fontes, indexável) — confirmar rótulo/garantia |
-| nervecalm-scam-or-legit-nervecalm-full-review | Etapa A feita (cópia fiel, noindex) — falta Etapa B |
-| nervecalm-scam-or-legit-nervecalm-full-review-canada | publicada — migrar |
-| arialief-review-arialief-scam-or-legit-arialief-full-review | publicada — migrar |
-| kerafen-scam-or-legit-kerafen-full-review | publicada — migrar |
+| femipro-review-scam-or-legit-femipro-full-review | Removida (site agora só informativo) — 301 para /womens-health/ |
+| nervecalm-scam-or-legit-nervecalm-full-review | Removida (site agora só informativo) — 301 para a home |
+| nervecalm-scam-or-legit-nervecalm-full-review-canada | Não será migrada (site agora só informativo) — 301 para a home |
+| arialief-review-arialief-scam-or-legit-arialief-full-review | Não será migrada (site agora só informativo) — 301 para a home |
+| kerafen-scam-or-legit-kerafen-full-review | Não será migrada (site agora só informativo) — 301 para a home |
 | nutric-boost-review | RASCUNHO — não publicar (a confirmar) |
 | bostaroo | RASCUNHO — não publicar (a confirmar) |
 

@@ -1,0 +1,43 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, disclaimers } from '../data/site';
+---
+
+<PageLayout
+  title="Medical Disclaimer | CheckVitalsNow"
+  description="CheckVitalsNow guides are for general information only and are not medical advice. Talk to a qualified health professional about your own health."
+  h1="Medical Disclaimer"
+>
+  <blockquote>{disclaimers.medical}</blockquote>
+
+  <h2>Not medical advice</h2>
+  <p>
+    Everything on {site.name}, including our health guides and their FAQs, is for general
+    information only. It is not a diagnosis, a treatment plan, or a replacement for a visit with a doctor or other
+    qualified health professional. Reading this site does not create a doctor-patient relationship.
+  </p>
+
+  <h2>Before you change your routine</h2>
+  <p>
+    Our guides describe habits, exercises, and lifestyle steps that health agencies commonly suggest. Even simple changes
+    are not right for everyone. Talk to your doctor before you start a new exercise routine, change your diet, or stop or
+    change any medicine, especially if you:
+  </p>
+  <ul>
+    <li>Are pregnant, trying to get pregnant, or breastfeeding</li>
+    <li>Take any prescription or over-the-counter medicine</li>
+    <li>Have a medical condition or are recovering from surgery or an injury</li>
+  </ul>
+
+  <h2>When to get help</h2>
+  <p>
+    Do not delay or skip medical care because of something you read here. If you think you have a medical emergency,
+    call 911 or your local emergency number right away.
+  </p>
+
+  <h2>Accuracy</h2>
+  <p>
+    We work to keep our content accurate and up to date and link to our sources, but medical knowledge changes and we
+    can make mistakes. If you spot an error, please tell us through our <a href="/contact/">contact page</a>.
+  </p>
+</PageLayout>

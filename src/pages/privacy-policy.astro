@@ -1,0 +1,90 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title="Privacy Policy | CheckVitalsNow"
+  description="What information CheckVitalsNow collects, how it is used, how third-party services handle data, and the choices you have."
+  h1="Privacy Policy"
+>
+  <p>
+    This policy explains what information {site.name} ({site.url.replace('https://', '')}) collects when you visit, how
+    we use it, and the choices you have. {owner.name && <>The site is operated by {owner.name}.</>}
+  </p>
+
+  <h2>The short version</h2>
+  <ul>
+    <li>We do not ask you to create an account, and the site has no sign-up or comment forms.</li>
+    <li>We do not use advertising or analytics cookies on this site.</li>
+    <li>We do not sell or share your personal information for advertising.</li>
+    <li>Websites we link to have their own privacy policies.</li>
+  </ul>
+
+  <h2>Information we collect</h2>
+  <h3>Technical data</h3>
+  <p>
+    Like almost every website, the servers that host and deliver {site.name} automatically process technical data when
+    you visit, such as your IP address, browser type, the page you requested, and the date and time. This is needed to
+    deliver pages, keep the site secure, and prevent abuse. We do not use this data to identify you.
+  </p>
+  <h3>Messages you send us</h3>
+  <p>
+    If you email us, we receive your email address and whatever you choose to write. We use it only to reply to you and
+    to fix any issue you report, and we keep it only as long as needed for that.
+  </p>
+
+  <h2>Cookies</h2>
+  <p>
+    {site.name} does not set advertising or analytics cookies. If that changes, we will update this policy before it
+    happens and, where required, ask for your consent.
+  </p>
+
+  <h2>Other websites and services</h2>
+  <p>
+    Our guides link to outside sources, such as government health agencies and medical journals. When you follow a link,
+    you leave {site.name}, and that website's own privacy policy applies.
+  </p>
+  <p>
+    Some images may be loaded from third-party image services, such as Unsplash, which receive standard technical data
+    such as your IP address when your browser loads the image.
+  </p>
+
+  <h2>How we use information</h2>
+  <ul>
+    <li>To deliver and secure the website</li>
+    <li>To answer messages and correct errors</li>
+    <li>To comply with legal obligations</li>
+  </ul>
+
+  <h2>Your privacy rights</h2>
+  <p>
+    Depending on where you live, including several U.S. states such as California, you may have the right to know what
+    personal information we hold about you, to ask us to correct or delete it, and to opt out of its sale or sharing.
+    We do not sell or share personal information for cross-context behavioral advertising. To make a request, contact
+    us through our <a href="/contact/">contact page</a>. We will not treat you differently for using your rights.
+  </p>
+
+  <h2>Children</h2>
+  <p>
+    {site.name} is written for adults and is not directed to children under 13. We do not knowingly collect personal
+    information from children.
+  </p>
+
+  <h2>Security</h2>
+  <p>
+    The site is served over an encrypted (HTTPS) connection. No method of transmission over the internet is completely
+    secure, but we keep the data we handle to a minimum.
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>
+    We may update this policy. The "Last updated" date at the top shows when it last changed.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions about this policy? Reach us through our <a href="/contact/">contact page</a>.
+  </p>
+</PageLayout>

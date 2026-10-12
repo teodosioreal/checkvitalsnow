@@ -36,8 +36,6 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/interstitial-cystitis-bladder-pain-syndrome/eating-diet-nutrition"
   - title: "10 Foods Your Bladder Will Fall in Love With, Urology Care Foundation"
     url: "https://www.urologyhealth.org/healthy-living/care-blog/10-foods-your-bladder-will-fall-in-love-with"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - frequent-urination-in-women
   - why-do-i-leak-urine-when-i-sneeze
@@ -49,7 +47,7 @@ You have your morning coffee, and twenty minutes later you are looking for a bat
 
 It might be. **Bladder irritants are foods and drinks that can make urgency, frequency, or leakage worse in some people.** The most common ones are caffeine, alcohol, carbonated drinks, acidic fruits, spicy foods, and artificial sweeteners. But triggers vary a lot from person to person, so the goal is not to cut everything. It is to find out what affects you.
 
-## How food and drinks affect the bladder
+## Why some drinks send you running
 
 There are two main ways a food or drink can bother your bladder:
 
@@ -58,7 +56,7 @@ There are two main ways a food or drink can bother your bladder:
 
 Cleveland Clinic notes that the list of triggers is highly individual. NIDDK also points out that direct research evidence on specific foods is limited. That is why testing your own response matters more than following a strict list.
 
-## Common bladder irritants
+## The usual suspects
 
 Mayo Clinic lists several foods and drinks that commonly bother the bladder:
 
@@ -98,7 +96,7 @@ Mayo Clinic suggests a simple elimination approach:
 
 A simple bladder diary makes this much easier. Write down what you ate and drank, when you urinated, and when you felt urgency or leaked.
 
-## Don't cut water
+## Why drinking less backfires
 
 When your bladder acts up, drinking less can seem logical. But very concentrated urine can irritate the bladder too, and too little fluid can lead to constipation, which adds pressure on the bladder. Most people do better spreading their water evenly through the day and drinking less in the evening.
 
@@ -117,9 +115,9 @@ There is no special "bladder diet," but many people tolerate these well:
 
 Fiber also helps keep your bowels regular, which takes pressure off the bladder.
 
-## When to see a doctor
+## When it's more than something you ate
 
-Diet changes help many women, but they won't fix every cause of bladder symptoms. See a doctor if:
+Diet changes help many women, but they won't resolve every cause of bladder symptoms. See a doctor if:
 
 - You have pain or burning when you urinate
 - You see blood in your urine
@@ -129,8 +127,8 @@ Diet changes help many women, but they won't fix every cause of bladder symptoms
 
 These may point to an infection, interstitial cystitis, or another condition that needs treatment.
 
-## What else can help
+## If diet changes aren't enough
 
-Finding your triggers works best alongside other steps: [bladder training](/womens-health/frequent-urination-in-women/), [pelvic floor exercises](/womens-health/kegel-exercises-for-women/), and a medical check if symptoms persist. Some women also look at supplements marketed for bladder comfort and support. These are not a cure for bladder conditions.
+Finding your triggers works best alongside [bladder training](/womens-health/frequent-urination-in-women/) and [pelvic floor exercises](/womens-health/kegel-exercises-for-women/). If urgency hangs on after a few weeks of careful changes, it is worth a visit to your doctor.
 
-If you are researching one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) breaks down what it is and what to look at before buying. Talk with your doctor before starting a new supplement.
+Leaking when you cough or sneeze is a different problem from urgency, with different solutions. Our guide to [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) covers it.

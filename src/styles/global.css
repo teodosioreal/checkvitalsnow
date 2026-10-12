@@ -54,31 +54,6 @@
   }
 }
 
-/* Review page typography */
-@layer components {
-  .review-section {
-    @apply mx-auto w-full max-w-3xl px-4 py-8 sm:px-6;
-  }
-  .review-section h2 {
-    @apply mb-4 text-3xl font-bold;
-  }
-  .review-section h3 {
-    @apply mb-3 mt-6 text-2xl font-bold;
-  }
-  .review-section p {
-    @apply mb-4;
-  }
-  .review-section ul {
-    @apply mb-4 space-y-2;
-  }
-  .review-section ul.bullets {
-    @apply list-disc pl-6;
-  }
-  .review-figure {
-    @apply my-6 flex justify-center;
-  }
-}
-
 /* Article body (Markdown) */
 @layer components {
   .article-body h2 {

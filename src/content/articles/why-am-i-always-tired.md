@@ -40,7 +40,6 @@ sources:
     url: "https://womenshealth.gov/a-z-topics/iron-deficiency-anemia"
   - title: "Iron Fact Sheet for Consumers, NIH Office of Dietary Supplements"
     url: "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
-promo: femipro
 related:
   - signs-of-hormonal-imbalance-in-women
   - how-to-lower-cortisol-naturally
@@ -58,7 +57,7 @@ Everyone feels tired after a bad night or a busy week. **Fatigue** is different.
 
 <!-- unsplash: woman sleeping in bed morning light -->
 
-## 9 common causes of fatigue in women
+## Nine common reasons women feel worn out
 
 ### 1. Poor sleep
 
@@ -102,20 +101,20 @@ Some antidepressants, antihistamines, and pain or nausea medicines can cause tir
 
 <!-- unsplash: healthy plate salmon vegetables -->
 
-## What you can do now
+## Small changes that help with most causes
 
 Start with the basics. They help with almost every cause:
 
 - **Keep a regular sleep schedule**, even on weekends.
 - **Put screens away** an hour before bed.
 - **Limit caffeine** after midday and go easy on alcohol.
-- **Move every day.** Even a short walk can boost energy over time.
+- **Move every day.** Even a short walk can help your energy over time.
 - **Eat regular meals** with protein, whole grains, fruits, and vegetables. Include iron-rich foods such as lean meat, fish, eggs, beans, and iron-fortified cereals.
 - **Pair iron-rich foods with vitamin C** (like fruit or peppers) to help absorption, and avoid drinking coffee or tea with iron-rich meals.
 - **Drink enough water.**
 - **Make room for rest and stress relief.**
 
-## When to see a doctor
+## When tiredness needs a checkup
 
 Mayo Clinic suggests seeing a doctor if your fatigue hasn't improved after **two weeks** of rest, less stress, good food, and plenty of fluids. Also make an appointment if fatigue:
 
@@ -128,8 +127,8 @@ Your doctor may order blood tests to check for anemia, iron levels, thyroid func
 
 **Get emergency care** if fatigue comes with chest pain, shortness of breath, a fast or irregular heartbeat, feeling like you might faint, confusion, severe headache, or thoughts of harming yourself.
 
-## What else can help
+## Finding your answer
 
-Fatigue usually improves when you find and treat the cause, whether that is low iron, a thyroid issue, poor sleep, or stress. Some women also look at supplements marketed for women's energy and vitality. These can't replace a diagnosis, and more is not better, especially with iron.
+Fatigue usually improves once the cause is found, whether that is low iron, an underactive thyroid, poor sleep, or stress. Before your appointment, write down how long you have felt this way, how you sleep, what your periods are like, and any medicines you take. That short list helps your doctor choose the right tests.
 
-If you have been seeing ads for one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) covers what it is and what to check before you buy. Talk to your doctor before starting any supplement.
+If stress or hormones seem to be part of the picture, read our guides on [lowering cortisol](/womens-health/how-to-lower-cortisol-naturally/) and [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/).

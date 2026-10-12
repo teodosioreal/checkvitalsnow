@@ -38,7 +38,6 @@ sources:
     url: "https://ods.od.nih.gov/factsheets/Calcium-Consumer/"
   - title: "Healthy Bones for Life: Patient's Guide, Bone Health & Osteoporosis Foundation"
     url: "https://www.bonehealthandosteoporosis.org/wp-content/uploads/NOF-Health-Bones-For-Life-Patients-Guide.pdf"
-promo: femipro
 related:
   - perimenopause-symptoms
   - menopause-and-bladder-leakage
@@ -56,7 +55,7 @@ Bone is living tissue. Your body constantly breaks down old bone and builds new 
 
 When estrogen drops at menopause, bone breakdown starts to outpace bone building. The shift begins during the years of [perimenopause](/womens-health/perimenopause-symptoms/), when estrogen levels start to swing and fall. According to the Office on Women's Health, some women lose **up to 25% of their bone mass in the first 10 years after menopause**. Over time, bones can become thin and fragile. This is **osteoporosis**.
 
-## Who is at higher risk?
+## Are you at higher risk?
 
 Your risk of osteoporosis is higher if you:
 
@@ -72,7 +71,7 @@ Many of these overlap with other midlife changes. If you are also dealing with f
 
 <!-- unsplash: glass of milk and yogurt breakfast -->
 
-## Calcium and vitamin D: a team
+## Calcium and vitamin D work as a pair
 
 Calcium is the main building block of bone. Vitamin D helps your body absorb calcium. If you don't get enough vitamin D, the calcium you eat doesn't do as much good.
 
@@ -85,7 +84,7 @@ Calcium is the main building block of bone. Vitamin D helps your body absorb cal
 
 *Calcium figures from the NIH Office of Dietary Supplements; vitamin D figures from the Office on Women's Health.*
 
-### Good food sources
+### Where to get them from food
 
 - **Calcium:** milk, yogurt, cheese, calcium-fortified plant milks and orange juice, canned sardines or salmon with bones, tofu made with calcium, and leafy greens such as kale and collard greens
 - **Vitamin D:** fatty fish such as salmon and tuna, egg yolks, and fortified milk and cereals. Your skin also makes vitamin D in sunlight.
@@ -121,20 +120,20 @@ Tai chi and simple balance drills help prevent falls, which is how most fracture
 
 If you already have osteoporosis, ask your doctor or a physical therapist which movements are safe for you.
 
-## Other ways to protect your bones
+## Smoking, alcohol, and falls
 
 - **Don't smoke.** Smoking speeds up bone loss.
 - **Limit alcohol.** Heavy drinking weakens bones and raises fall risk.
 - **Prevent falls at home.** Remove loose rugs, add grab bars, and use night lights.
 - **Ask about your medicines.** Some drugs affect bone health.
 
-## Bone density testing
+## Getting a bone density scan
 
 A **bone density test (DXA scan)** is a quick, painless X-ray that measures how strong your bones are. Talk to your doctor about when you should be tested, especially if you have risk factors or have broken a bone after a minor fall.
 
 If your bones are thin, your doctor may suggest medicines that slow bone loss or help build bone. Hormone therapy can also protect bone, but it has risks that need to be weighed for each woman.
 
-## When to see a doctor
+## Signs to bring to your doctor
 
 Talk to your doctor if:
 
@@ -144,8 +143,8 @@ Talk to your doctor if:
 - You have sudden, severe back pain
 - You have risk factors such as early menopause, a family history of osteoporosis, or long-term steroid use
 
-## What else can help
+## Small steps that add up
 
-Strong bones after menopause come from steady habits: enough calcium and vitamin D, regular weight-bearing and strength exercise, no smoking, and timely testing. Some women also look at supplements marketed for women's health that include vitamin D or other nutrients. These are not a treatment for osteoporosis.
+Most of what protects bone after menopause is free or low cost: calcium-rich meals, regular walks and strength work, a safer home, and a bone density test at the right time. None of it is dramatic, but these are the steps health agencies recommend to protect your bones over the years.
 
-If you are comparing options, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) looks at what it contains and what to weigh before buying. Talk to your doctor before adding any supplement, especially calcium or vitamin D, to make sure the total amount is right for you.
+If menopause has brought other changes, our guides to [perimenopause symptoms](/womens-health/perimenopause-symptoms/) and [bladder changes after menopause](/womens-health/menopause-and-bladder-leakage/) cover what to expect.

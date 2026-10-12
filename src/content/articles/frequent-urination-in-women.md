@@ -36,8 +36,6 @@ sources:
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
   - title: "Bladder control: Lifestyle strategies ease problems, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - bladder-irritants-foods-and-drinks
   - why-do-i-leak-urine-when-i-sneeze
@@ -47,9 +45,7 @@ related:
 
 You plan your errands around bathrooms. You check where the restroom is the moment you walk into a store. At night you wake up once, twice, sometimes more, to go again. And often, when you get there, not much comes out.
 
-**Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to fix. Others need a doctor.
-
-This guide covers the usual causes, the habits that help, and the warning signs to watch for.
+**Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to address. Others need a doctor.
 
 ## What counts as frequent urination?
 
@@ -62,7 +58,7 @@ Everyone is different, and how much you drink matters. Still, it may be worth a 
 
 Frequent urination often comes with **urgency**, the feeling that you need to go right now. When urgency leads to leakage, it is called urge incontinence.
 
-## Common causes in women
+## Why you might be going so often
 
 ### Overactive bladder (OAB)
 
@@ -88,13 +84,13 @@ MedlinePlus lists diabetes that is not well controlled as a cause of frequent ur
 
 Caffeine and alcohol make the body produce more urine and can irritate the bladder. Carbonated drinks and artificial sweeteners bother some people too. Water pills (diuretics) are another common cause. See our list of [foods and drinks that can irritate the bladder](/womens-health/bladder-irritants-foods-and-drinks/).
 
-### Other causes
+### Less common causes
 
 MedlinePlus also lists vaginitis and interstitial cystitis (a painful bladder condition) among possible causes. This is why a check-up matters if the problem does not go away.
 
 <!-- unsplash: woman writing in journal at table -->
 
-## Habits that can help
+## Habits that cut down the trips
 
 ### Bladder training
 
@@ -108,7 +104,7 @@ Bladder training teaches your bladder to hold more urine for longer. Here is the
 
 It takes patience, but many women see progress over a few weeks.
 
-### Smart fluid habits
+### Drink smarter, not less
 
 - **Don't cut water too much.** Concentrated urine can irritate the bladder and make urgency worse.
 - **Spread your drinks through the day** instead of drinking a lot at once.
@@ -125,7 +121,7 @@ Constipation puts pressure on the bladder. Fiber, fluids, and regular movement h
 
 <!-- unsplash: woman talking with female doctor clinic -->
 
-## When to see a doctor
+## Signs of an infection or something else
 
 See a doctor promptly if frequent urination comes with any of these:
 
@@ -138,8 +134,8 @@ See a doctor promptly if frequent urination comes with any of these:
 
 Also make an appointment if frequent urination is affecting your sleep, work, or social life, even without other symptoms. There are effective treatments, including medicines, for overactive bladder.
 
-## What else can help
+## Where to start this week
 
-For most women, the best plan combines bladder training, steady fluid habits, pelvic floor exercises, and a medical check to rule out infection or diabetes. Some women also look at supplements sold for urinary and bladder support. They are not a treatment for overactive bladder or infections.
+Start with the free steps: a bladder diary for three or four days, a look at what you drink, and bladder training. If you have any of the warning signs above, book a checkup first, since an infection or high blood sugar needs treatment.
 
-If you have been seeing ads for one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) explains what it is and what to consider before you buy. Check with your doctor before starting any supplement.
+For help with the drinks side, see our list of [bladder irritants](/womens-health/bladder-irritants-foods-and-drinks/), and if leaks are part of the problem, our [Kegel guide](/womens-health/kegel-exercises-for-women/).

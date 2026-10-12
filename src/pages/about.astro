@@ -1,0 +1,66 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title="About Us | CheckVitalsNow"
+  description="Who we are, what we write about, and the standards behind every CheckVitalsNow women's health guide."
+  h1="About CheckVitalsNow"
+  updated={false}
+  pageType="AboutPage"
+>
+  <p>
+    Many women's health questions get asked quietly, late at night, in a search bar. Why do I leak when I sneeze? Is this
+    perimenopause? Why am I always so tired? The answers online are often buried under ads, scare stories, or products
+    that promise a quick fix.
+  </p>
+  <p>
+    {site.name} is an independent website that answers those questions in plain language. Our guides explain what is
+    happening in your body, what tends to help, and when it is time to see a doctor, with links to the medical sources
+    behind every claim.
+  </p>
+
+  <h2>What we cover</h2>
+  <ul>
+    <li>
+      <strong>Bladder health:</strong> leaking when you sneeze, frequent urination, Kegel exercises, bladder irritants,
+      and bladder changes after menopause.
+    </li>
+    <li>
+      <strong>Hormones and menopause:</strong> perimenopause symptoms, signs of hormonal imbalance, and bone health after
+      menopause.
+    </li>
+    <li><strong>Energy and stress:</strong> the common causes of constant tiredness and practical ways to handle stress.</li>
+  </ul>
+  <p>You can find every guide in our <a href="/womens-health/">women's health section</a>.</p>
+
+  <h2>Who is behind the site</h2>
+  {
+    owner.name ? (
+      <p>
+        {site.name} is owned and operated by {owner.name}. Guides are researched, written, and edited by the {site.name}{' '}
+        editorial team.
+      </p>
+    ) : (
+      <p>Guides are researched, written, and edited by the {site.name} editorial team.</p>
+    )
+  }
+  <p>
+    We are not doctors, and nothing on this site is medical advice. That is why we build every guide on primary sources,
+    such as the National Institutes of Health, the CDC, MedlinePlus, and major academic medical centers, and link them at
+    the end of each page. Please read our <a href="/medical-disclaimer/">medical disclaimer</a>.
+  </p>
+
+  <h2>What we don't do</h2>
+  <p>
+    Our guides do not sell or promote products, and we never promise cures or quick fixes. When the research on a topic is thin, we say so. Our <a href="/editorial-policy/">editorial policy</a>
+    explains how we research, write, and update every guide.
+  </p>
+
+  <h2>Get in touch</h2>
+  <p>
+    Spotted a mistake, or have a question you would like us to cover? Visit our <a href="/contact/">contact page</a>.
+  </p>
+</PageLayout>

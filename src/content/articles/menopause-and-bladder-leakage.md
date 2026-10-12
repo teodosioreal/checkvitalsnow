@@ -38,8 +38,6 @@ sources:
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
   - title: "Kegel Exercises, NIDDK"
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises"
-promo: femipro
-compareList: bladder-supplements-for-women
 related:
   - perimenopause-symptoms
   - why-do-i-leak-urine-when-i-sneeze
@@ -52,7 +50,7 @@ Hot flashes and night sweats get most of the attention. But for many women, one 
 
 **Menopause can contribute to bladder leakage because lower estrogen affects the tissues of the urethra, bladder, and vagina.** Doctors call the group of vaginal and urinary symptoms caused by this drop in estrogen **genitourinary syndrome of menopause (GSM)**. It is common, it tends to continue without treatment, and there are effective ways to manage it.
 
-## How estrogen affects your bladder
+## What estrogen has to do with your bladder
 
 Estrogen helps keep the tissues of the vagina, urethra, and bladder thick, elastic, and well supplied with blood. When estrogen levels fall during and after menopause, these tissues change.
 
@@ -64,7 +62,7 @@ According to medical reviews published in PubMed Central, lower estrogen in the 
 
 Together, these changes make it harder to hold urine under pressure and easier to feel urgency.
 
-## Bladder symptoms linked to menopause
+## Signs your bladder is feeling the change
 
 Urinary symptoms of genitourinary syndrome of menopause can include:
 
@@ -81,7 +79,7 @@ Estimates of how many postmenopausal women have GSM symptoms vary widely in rese
 
 <!-- unsplash: mature woman talking with doctor -->
 
-## Other reasons leakage increases around menopause
+## It's not only estrogen
 
 Estrogen is only part of the story. Other factors often add up at this stage of life:
 
@@ -92,7 +90,7 @@ Estrogen is only part of the story. Other factors often add up at this stage of 
 
 The Office on Women's Health notes that pregnancy, childbirth, and menopause are the main reasons urinary incontinence affects twice as many women as men.
 
-## What can help
+## What helps, from daily habits to prescriptions
 
 ### Pelvic floor muscle training
 
@@ -119,7 +117,7 @@ For overactive bladder or stress incontinence that doesn't improve, doctors have
 
 <!-- unsplash: mature woman walking in park -->
 
-## When to see a doctor
+## When to bring it up with your doctor
 
 Make an appointment if:
 
@@ -132,8 +130,8 @@ Make an appointment if:
 
 Don't assume bladder changes are just part of getting older. Many women feel much better with treatment.
 
-## What else can help
+## You do not have to put up with it
 
-For most women, the strongest plan combines pelvic floor training, bladder-friendly habits, and a conversation with a doctor about medical options such as vaginal estrogen. Some women also look at supplements marketed for urinary and hormonal support during midlife. These are not a replacement for medical care and are not intended to treat menopause symptoms.
+Bladder changes are common after menopause, but they are not something you simply have to live with. Vaginal estrogen, pelvic floor training, and bladder habits have the best evidence, and a doctor can help you choose.
 
-If you are considering one of these products, you can read our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) to see what it contains and what to think about first. Always ask your doctor before starting a supplement, especially if you take other medicines.
+For a step-by-step start, see our [Kegel guide](/womens-health/kegel-exercises-for-women/), and for the wider picture, our guide to [perimenopause symptoms](/womens-health/perimenopause-symptoms/).

@@ -6,7 +6,6 @@ import KeyTakeaways from '../../components/KeyTakeaways.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import FAQ from '../../components/FAQ.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
-import ReviewPromo from '../../components/ReviewPromo.astro';
 import { site, categories, author } from '../../data/site';
 
 export async function getStaticPaths() {
@@ -114,7 +113,6 @@ if (data.faq.length) {
     <div class="article-body">
       <Content />
     </div>
-    {data.promo && <ReviewPromo product={data.promo} compare={data.compareList} />}
     <FAQ items={data.faq} />
     <section class="mt-12" aria-labelledby="sources-title">
       <h2 id="sources-title" class="mb-3 text-2xl font-bold">Sources</h2>

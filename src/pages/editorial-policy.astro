@@ -1,0 +1,69 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, standards, promises } from '../data/site';
+---
+
+<PageLayout
+  title="Editorial Policy: How We Write | CheckVitalsNow"
+  description="How CheckVitalsNow researches, writes, fact-checks, and updates its women's health guides, and the rules every guide follows."
+  h1="Editorial Policy: How We Research and Write"
+>
+  <p>
+    Health information should be easy to read and easy to check. This page explains how our guides are made, so you can
+    decide how much to trust them.
+  </p>
+
+  <h2>Our standards</h2>
+  <ul>
+    {
+      standards.map((s) => (
+        <li>
+          <strong>{s.name}:</strong> {s.text}
+        </li>
+      ))
+    }
+  </ul>
+
+  <h2>Where our information comes from</h2>
+  <p>We start with sources that are accountable for what they publish:</p>
+  <ul>
+    <li>
+      U.S. government health agencies, such as the National Institutes of Health (including NIDDK, NIMH, and the Office of
+      Dietary Supplements), the CDC, the Office on Women's Health, and MedlinePlus.
+    </li>
+    <li>Academic medical centers and clinics, such as Mayo Clinic and Cleveland Clinic.</li>
+    <li>Peer-reviewed studies and reviews, usually found through PubMed and PubMed Central.</li>
+  </ul>
+  <p>
+    Every guide ends with a list of the sources it relies on, linked so you can read them yourself. We do not cite a
+    study unless we have confirmed that it exists and says what we report.
+  </p>
+
+  <h2>How a guide is written</h2>
+  <ol>
+    <li>We start from the real question a reader is asking and answer it near the top of the page.</li>
+    <li>We research the topic in the sources above and note where they agree, disagree, or have little evidence.</li>
+    <li>We write in plain language, explain medical terms, and include practical steps where they are supported.</li>
+    <li>We add a section on warning signs and when to see a doctor.</li>
+    <li>Before publishing, we check every number, recommendation, and source link against the original.</li>
+  </ol>
+
+  <h2>Rules every guide follows</h2>
+  <ul>
+    {promises.map((p) => <li>{p}</li>)}
+  </ul>
+
+  <h2>Independence</h2>
+  <p>
+    {site.name} is independent. No company pays for or reviews our guides before they are published, and our guides do
+    not link to products for sale. If we ever show advertising, ads will be clearly separated from our content and will
+    have no influence on what we write.
+  </p>
+
+  <h2>Updates and corrections</h2>
+  <p>
+    Medical guidance changes. Each guide shows when it was published and when it was last updated, and we review guides
+    when major sources change their advice. If you find an error, please tell us through our
+    <a href="/contact/">contact page</a>. We will check it and, if we got something wrong, correct it.
+  </p>
+</PageLayout>

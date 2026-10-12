@@ -39,6 +39,8 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={`${site.url}/favicon-512x512.png`} />
+    <meta property="og:image:alt" content={`${site.name} logo`} />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />

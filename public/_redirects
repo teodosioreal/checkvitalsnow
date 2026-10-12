@@ -4,3 +4,12 @@
 /wp-sitemap.xml /sitemap-index.xml 301
 /page-sitemap.xml /sitemap-index.xml 301
 /post-sitemap.xml /sitemap-index.xml 301
+
+# Product reviews and lists removed (site is now informational only)
+/femipro-review-scam-or-legit-femipro-full-review/ /womens-health/ 301
+/nervecalm-scam-or-legit-nervecalm-full-review/ / 301
+/nervecalm-scam-or-legit-nervecalm-full-review-canada/ / 301
+/arialief-review-arialief-scam-or-legit-arialief-full-review/ / 301
+/kerafen-scam-or-legit-kerafen-full-review/ / 301
+/best/bladder-supplements-for-women/ /womens-health/ 301
+/go/* / 302
