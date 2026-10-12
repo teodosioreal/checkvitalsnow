@@ -2,7 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import { noindexPaths } from '../data/noindex.mjs';
-import { site } from '../data/site';
+import { site, author } from '../data/site';
 
 interface Props {
   title: string;
@@ -10,13 +10,14 @@ interface Props {
   datePublished: string;
   dateModified: string;
   headline: string;
+  faq?: { q: string; a: string }[];
 }
 
-const { title, description, datePublished, dateModified, headline } = Astro.props;
+const { title, description, datePublished, dateModified, headline, faq = [] } = Astro.props;
 const noindex = noindexPaths.includes(Astro.url.pathname);
 const url = new URL(Astro.url.pathname, site.url).href;
 
-const jsonLd = [
+const jsonLd: Record<string, unknown>[] = [
   {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -25,7 +26,8 @@ const jsonLd = [
     datePublished,
     dateModified,
     mainEntityOfPage: url,
-    publisher: { '@type': 'Organization', name: site.name, url: `${site.url}/` },
+    author: { '@type': 'Organization', name: author.name, url: `${site.url}/` },
+    publisher: { '@type': 'Organization', name: site.name, url: `${site.url}/`, logo: `${site.url}/favicon-512x512.png` },
   },
   {
     '@context': 'https://schema.org',
@@ -36,6 +38,13 @@ const jsonLd = [
     ],
   },
 ];
+if (faq.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
 ---
 
 <BaseLayout title={title} description={description} ogType="article" jsonLd={jsonLd} noindex={noindex}>

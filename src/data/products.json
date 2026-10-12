@@ -29,12 +29,20 @@
     "goSlug": "femipro",
     "officialSite": "https://thefemipro.com",
     "priceNote": null,
-    "guarantee": null,
+    "guarantee": "60-day money-back guarantee (as advertised by the manufacturer; confirm current terms)",
     "mainIngredients": [],
     "form": "capsule",
     "servingInfo": null,
-    "pros": [],
-    "cons": [],
+    "pros": [
+      "Includes cranberry and probiotics",
+      "Money-back guarantee"
+    ],
+    "cons": [
+      "No published clinical trials on the formula",
+      "Ingredient amounts not confirmed",
+      "Berberine not safe in pregnancy or breastfeeding",
+      "Many look-alike websites"
+    ],
     "rating": null,
     "ratingBreakdown": null,
     "lastVerified": null

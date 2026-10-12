@@ -1,307 +1,350 @@
 ---
-// Etapa A: faithful copy of the WordPress page (migration/wordpress/pages/femipro-review-scam-or-legit-femipro-full-review).
-// Only objective copy errors were fixed: the intro box (was in Portuguese) uses the English text from the
-// NerveCalm page, two leftover "Nerve Calm" mentions now say FemiPro, and the coupon link points to FemiPro
-// instead of NerveCalm. Compliance and accuracy fixes are pending approval (Etapa B).
+// Etapa B: rewritten FemiPro review. The faithful WordPress copy is kept in git history and in
+// migration/wordpress/pages/femipro-review-scam-or-legit-femipro-full-review.
 import { Image } from 'astro:assets';
 import ReviewLayout from '../layouts/ReviewLayout.astro';
 import CTAButton from '../components/CTAButton.astro';
-import Testimonial from '../components/Testimonial.astro';
+import FAQ from '../components/FAQ.astro';
+import { author } from '../data/site';
 
 import bottle from '../assets/reviews/femipro/femipro-bottle.png';
-import whoFor from '../assets/reviews/femipro/femipro-who-is-it-for.png';
-import lifestyle from '../assets/reviews/femipro/older-couple-outdoors.jpeg';
-import prosCons from '../assets/reviews/femipro/femipro-pros-cons.webp';
-import notOnMarketplaces from '../assets/reviews/femipro/not-sold-on-amazon-ebay-walmart.webp';
-import scamAlert from '../assets/reviews/femipro/femipro-scam-alert.webp';
-import laura from '../assets/reviews/femipro/testimonial-laura.jpeg';
-import nicole from '../assets/reviews/femipro/testimonial-nicole.jpg';
-import mark from '../assets/reviews/femipro/testimonial-mark.jpg';
-import sarah from '../assets/reviews/femipro/testimonial-sarah.jpg';
-import john from '../assets/reviews/femipro/testimonial-john.jpeg';
 
 const product = 'femipro';
+
+const faq = [
+  {
+    q: 'Is FemiPro a scam?',
+    a: 'FemiPro is a real dietary supplement sold online. Calling it a scam would not be fair, but its marketing makes bigger promises than the research on its ingredients supports. The biggest practical risk is buying from a look-alike website, so check the address carefully before you order.',
+  },
+  {
+    q: 'What are the ingredients in FemiPro?',
+    a: 'The ingredients most often listed on FemiPro sales pages are mimosa pudica, bearberry (uva ursi), cranberry extract, a probiotic blend, and berberine. We could not confirm a full Supplement Facts panel with amounts, so check the label on the official website before buying.',
+  },
+  {
+    q: 'Does FemiPro work for bladder leakage?',
+    a: 'There are no published clinical trials of FemiPro itself. Some ingredients have been studied for urinary tract health, mainly cranberry, but none of them is a proven treatment for incontinence. Pelvic floor exercises and medical care have much stronger evidence.',
+  },
+  {
+    q: 'Does FemiPro have side effects?',
+    a: 'Possible side effects depend on the exact formula. Berberine can cause stomach upset such as nausea, diarrhea, or constipation and may interact with medicines. Large amounts of cranberry can upset the stomach. Ask your doctor before taking it, especially if you take prescription medicines.',
+  },
+  {
+    q: 'Can I take FemiPro while pregnant or breastfeeding?',
+    a: 'No, unless your doctor says otherwise. Berberine, one of the ingredients commonly listed for FemiPro, should not be used during pregnancy or breastfeeding according to the National Center for Complementary and Integrative Health.',
+  },
+  {
+    q: 'Where can I buy FemiPro?',
+    a: 'FemiPro is sold through its official website. Many similar-looking websites use the FemiPro name, so double-check the web address before entering payment details.',
+  },
+];
 ---
 
 <ReviewLayout
-  title="FemiPro Review: Scam or Legit? Full Review"
-  description="FemiPro review: what it is, how it works, who it is for, ingredients, pros and cons, guarantee, shipping, and where to buy the original."
-  headline="FemiPro Review"
+  title="FemiPro Review (2026): Ingredients, Claims & Safety"
+  description="Our FemiPro review covers what it is, the ingredients most often listed, what the research says, safety concerns, the guarantee, and who should skip it."
+  headline="FemiPro Review (2026): What It Is, What It Claims, and Who Should Skip It"
   datePublished="2025-06-25"
-  dateModified="2025-06-25"
+  dateModified="2026-10-12"
+  faq={faq}
 >
-  <header class="bg-brand-50">
-    <div class="review-section text-center">
-      <h1 class="text-5xl font-bold sm:text-6xl">FemiPro Review</h1>
-      <p class="mt-3 font-semibold text-accent">Update [Jun 2025]</p>
-      <p class="mt-3 font-serif text-2xl text-brand-900">Does It Really Work for Incontinence &amp; Women’s Health?</p>
-      <div class="review-figure">
-        <Image src={bottle} alt="FemiPro supplement bottle" width={255} loading="eager" />
-      </div>
-    </div>
+  <header class="review-section !pb-2">
+    <nav aria-label="Breadcrumb" class="text-sm text-muted">
+      <a href="/" class="text-muted">Home</a>
+      <span aria-hidden="true"> / </span>
+      <a href="/#latest-reviews" class="text-muted">Reviews</a>
+    </nav>
+    <h1 class="mt-4 text-4xl font-bold sm:text-5xl">
+      FemiPro Review (2026): What It Is, What It Claims, and Who Should Skip It
+    </h1>
+    <p class="mt-4 text-sm text-muted">
+      By {author.name} · First published June 25, 2025 · Last updated <time datetime="2026-10-12">October 12, 2026</time>
+    </p>
   </header>
 
-  <section class="review-section">
-    <h2>Before You Try FemiPro, Read This</h2>
-    <div class="rounded-xl border border-line bg-soft p-6">
-      <p class="font-semibold">What No One Tells You About FemiPro</p>
-      <ul>
-        <li>➡️ The good and the bad. Everything you need to know before you decide.</li>
-        <li>✅ High-quality ingredients — but results vary from person to person.</li>
-        <li>⚠️ Your lifestyle directly impacts the results.</li>
-        <li>⚠️ Buying outside the official website could lead to scams.</li>
-        <li>🔥 It works, but it’s not a miracle: it requires daily and consistent use.</li>
-      </ul>
-    </div>
-  </section>
+  <section class="review-section !pt-4">
+    <p>
+      Maybe it started with a few drops when you sneeze. Maybe you now map every outing around where the bathroom is.
+      Then an ad promises a capsule that supports bladder control, and you want to know one thing before you spend your
+      money: does FemiPro actually help, or is it just good marketing?
+    </p>
+    <p>
+      Here is our honest take up front. <strong>FemiPro is a women's urinary health supplement whose ingredients are
+      plausible but not proven for bladder control.</strong> There are no published clinical trials on FemiPro itself,
+      one commonly listed ingredient (berberine) is not safe in pregnancy, and many look-alike websites sell under the
+      same name. It may appeal to women who want to try a supplement alongside proven steps, but it is not a treatment
+      for incontinence.
+    </p>
+    <p class="text-base text-muted">
+      Our review is based on the product label shown in official images, the ingredients listed on the manufacturer's
+      sales pages, published ingredient research, the manufacturer's policies, and publicly available information. We
+      did not test the product in a lab.
+    </p>
 
-  <section class="review-section">
-    <h2>What is Femipro?</h2>
-    <p>
-      FemiPro is a natural supplement designed to support women’s health, focusing on <strong>urinary tract strength</strong>,
-      <strong>hormonal balance</strong>, and <strong>energy levels</strong>.
-    </p>
-    <p>It’s made in GMP-certified facilities and follows FDA guidelines, ensuring quality and safety.</p>
-    <p>
-      Its formula includes ashwagandha, iron, folic acid, B-complex vitamins, and vitamin D — ingredients studied for
-      supporting hormonal function, stress reduction, and immune health.
-    </p>
-    <p>
-      FemiPro is not a medicine, but it may help women, especially after age 35, who deal with mild incontinence or
-      hormonal fluctuations.
-    </p>
-  </section>
-
-  <section class="review-section">
-    <h2>How does FemiPro Review work?</h2>
-    <p>FemiPro works by supporting three key areas: hormonal balance, urinary control, and energy levels.</p>
-    <ul class="bullets">
-      <li>
-        <strong>Ashwagandha</strong> helps regulate cortisol, the stress hormone, which can affect hormonal stability and
-        bladder function.
-      </li>
-      <li>
-        <strong>Iron and B vitamins</strong> improve cellular energy and nervous system health, supporting better control of
-        the urinary system.
-      </li>
-      <li>
-        <strong>Vitamin D and folic acid</strong> contribute to immune and bone health, which may indirectly support pelvic
-        strength.
-      </li>
-    </ul>
-    <p>
-      It’s not a quick fix, but with consistent use, many women report gradual improvements in urinary control, mood, and
-      fatigue within a few weeks.
-    </p>
-  </section>
-
-  <section class="review-section">
-    <h2>Who Is FemiPro For?</h2>
-    <div class="grid items-center gap-6 md:grid-cols-2">
-      <div>
-        <p>FemiPro is ideal for women who experience:</p>
-        <ul>
-          <li>💧 Mild to moderate urinary incontinence</li>
-          <li>😣 Hormonal imbalances (especially after age 35)</li>
-          <li>💤 Chronic fatigue or low energy</li>
-          <li>😖 Stress-related symptoms</li>
-          <li>🔄 Mood swings or PMS</li>
-          <li>🦴 Bone or immune health concerns</li>
-        </ul>
+    <div class="mt-6 rounded-xl border border-brand-100 bg-brand-50 p-6">
+      <h2 class="!mb-4 !text-2xl">Quick verdict</h2>
+      <div class="grid items-center gap-6 sm:grid-cols-[160px_1fr]">
+        <Image src={bottle} alt="FemiPro supplement bottle, 30 capsules" width={160} densities={[1, 2]} class="mx-auto" loading="eager" />
+        <div class="text-base">
+          <p class="!mb-2"><strong>May suit:</strong> adult women who are not pregnant, want to try a urinary health supplement, and are already doing pelvic floor exercises or working with a doctor.</p>
+          <p class="!mb-2"><strong>Skip it if:</strong> you are pregnant, breastfeeding, or trying to conceive; you take prescription medicines and haven't checked with your doctor; or you have UTI symptoms that need treatment now.</p>
+          <p class="!mb-0"><strong>Bottom line:</strong> reasonable ingredients on paper, limited evidence, and no substitute for proven care.</p>
+        </div>
       </div>
-      <div>
-        <Image src={whoFor} alt="FemiPro bottle with an illustration of a woman" width={400} class="mx-auto" />
-        <p class="mt-4 text-base">
-          It’s not recommended for pregnant or breastfeeding women, and you should consult your doctor before starting any
-          supplement.
-        </p>
+      <div class="mt-6 text-center">
+        <CTAButton product={product}>Check Price on the Official Website</CTAButton>
       </div>
     </div>
   </section>
 
   <section class="review-section">
-    <h2>What are the benefits of FemiPro</h2>
-    <p>Using FemiPro may bring a total life transformation:</p>
-    <ul>
-      <li>💧 Improves bladder control and reduces urine leakage</li>
-      <li>⚖️ Supports hormonal balance, especially during PMS or menopause</li>
-      <li>🔋 Boosts daily energy and reduces fatigue</li>
-      <li>🧠 Enhances emotional stability and reduces stress</li>
-      <li>🛡️ Strengthens the immune system</li>
-      <li>🦴 Contributes to bone health thanks to vitamin D</li>
-    </ul>
-    <p>Consistent use is important to feel these benefits fully.</p>
-    <Image src={lifestyle} alt="Older couple enjoying time outdoors" width={768} class="my-6 w-full rounded-lg" />
+    <h2>What is FemiPro?</h2>
+    <p>
+      FemiPro is a dietary supplement in capsule form marketed to women for urinary and bladder health. The front of the
+      bottle in the manufacturer's images says <em>"Clinically Researched Ingredients"</em> and lists three focus areas:{" "}
+      <strong>Bladder Control Support, Microbiome Balance, and Healthy Urinary System</strong>. The bottle shown contains
+      30 capsules.
+    </p>
+    <p>
+      The manufacturer claims the formula supports bladder control and a balanced urinary microbiome, the community of
+      bacteria in the urinary and vaginal tract. It is sold online through its official website rather than in stores.
+    </p>
+    <p>
+      One thing to know before you search: many websites use nearly identical names (FemiPro, Femipro, FemmiPro and others)
+      and describe the product differently. That makes it hard to know which formula you are looking at, and it is one
+      reason we recommend reading the label on the site you actually buy from.
+    </p>
   </section>
 
   <section class="review-section">
-    <h2>Ingredients</h2>
-    <p>FemiPro contains a blend of natural ingredients, each chosen for a specific function in women’s health:</p>
-    <ul>
-      <li>🌿 <strong>Ashwagandha</strong> – Adaptogen that helps reduce cortisol, improving stress and hormonal stability.</li>
-      <li>
-        💊 <strong>Folic Acid</strong> – Supports cell repair and reproductive health, especially useful for women of
-        childbearing age.
-      </li>
-      <li>🩸 <strong>Iron</strong> – Fights fatigue and helps in energy production.</li>
-      <li>⚡ <strong>B-Complex Vitamins</strong> – Improve energy metabolism and support the nervous system.</li>
-      <li>☀️ <strong>Vitamin D</strong> – Contributes to bone strength and a strong immune system.</li>
-    </ul>
-  </section>
-
-  <section class="review-section">
-    <h2>Pros and Cons</h2>
-    <div class="review-figure">
-      <Image src={prosCons} alt="FemiPro pros and cons graphic" width={500} class="rounded-lg" />
+    <h2>FemiPro ingredients: what the research says</h2>
+    <p>
+      We could not confirm a full Supplement Facts panel with ingredient amounts. The ingredients below are the ones most
+      often listed on FemiPro sales pages. Without doses, nobody can say whether the amounts match those used in research.
+    </p>
+    <div class="overflow-x-auto">
+      <table class="my-6 w-full min-w-[560px] border-collapse text-left text-base">
+        <thead>
+          <tr class="bg-soft">
+            <th class="border border-line px-3 py-2">Ingredient</th>
+            <th class="border border-line px-3 py-2">Why it is used</th>
+            <th class="border border-line px-3 py-2">What the evidence shows</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="border border-line px-3 py-2 align-top font-semibold">Cranberry extract</td>
+            <td class="border border-line px-3 py-2 align-top">Urinary tract health</td>
+            <td class="border border-line px-3 py-2 align-top">
+              The best-studied ingredient here. NCCIH reports cranberry may lower the risk of repeat UTIs in some women,
+              but findings are inconsistent, and it is not a treatment for an active UTI. It has not been shown to treat
+              incontinence.
+            </td>
+          </tr>
+          <tr>
+            <td class="border border-line px-3 py-2 align-top font-semibold">Probiotic blend</td>
+            <td class="border border-line px-3 py-2 align-top">"Microbiome balance"</td>
+            <td class="border border-line px-3 py-2 align-top">
+              Lactobacillus strains are being studied for vaginal and urinary health, but research is early and results
+              depend on the specific strain. NCCIH says strong evidence is lacking for most uses.
+            </td>
+          </tr>
+          <tr>
+            <td class="border border-line px-3 py-2 align-top font-semibold">Bearberry (uva ursi)</td>
+            <td class="border border-line px-3 py-2 align-top">Traditional urinary herb</td>
+            <td class="border border-line px-3 py-2 align-top">
+              Traditionally used for short-term urinary complaints. It contains arbutin, which breaks down into
+              hydroquinone. Safety data for long-term daily use and during breastfeeding are lacking.
+            </td>
+          </tr>
+          <tr>
+            <td class="border border-line px-3 py-2 align-top font-semibold">Berberine</td>
+            <td class="border border-line px-3 py-2 align-top">Marketed for bladder support</td>
+            <td class="border border-line px-3 py-2 align-top">
+              Studied mostly for blood sugar and metabolism, not bladder control. NCCIH warns it should not be used during
+              pregnancy or breastfeeding and that it may interact with some medicines.
+            </td>
+          </tr>
+          <tr>
+            <td class="border border-line px-3 py-2 align-top font-semibold">Mimosa pudica</td>
+            <td class="border border-line px-3 py-2 align-top">Marketed for bladder support</td>
+            <td class="border border-line px-3 py-2 align-top">
+              Research is limited to animal and lab studies. We found no human clinical trials for bladder or urinary
+              symptoms.
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
+    <p>
+      <strong>Our read:</strong> cranberry and probiotics make sense for a product focused on urinary health, but
+      the evidence is modest. The bladder-control claims rely mostly on ingredients with little human research. And no
+      study has tested this specific combination.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>How to use FemiPro</h2>
+    <p>
+      Follow the directions on the label of the bottle you receive. Because the formula and serving size could not be
+      confirmed, we are not listing a dose here. Don't take more than the label recommends, and don't combine it with other
+      supplements that contain berberine, goldenseal, or uva ursi without asking your doctor.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>Pros and cons</h2>
     <div class="grid gap-6 md:grid-cols-2">
       <div class="rounded-xl border border-line p-5">
         <h3 class="mt-0 text-green-800">Pros</h3>
         <ul class="bullets text-base">
-          <li>Natural formula with no known side effects</li>
-          <li>Supports hormonal balance and urinary control</li>
-          <li>Free shipping on select multi-bottle purchases</li>
-          <li>60-day money-back guarantee</li>
-          <li>Includes two bonuses when ordering six bottles</li>
-          <li>May improve energy levels and emotional well-being</li>
+          <li>Includes cranberry and probiotics, two ingredients actively studied for urinary and vaginal health</li>
+          <li>Simple capsule format</li>
+          <li>Sold with a money-back guarantee (see terms below)</li>
+          <li>Can be used alongside pelvic floor exercises and habit changes</li>
         </ul>
       </div>
       <div class="rounded-xl border border-line p-5">
         <h3 class="mt-0 text-red-800">Cons</h3>
         <ul class="bullets text-base">
-          <li>Sold exclusively through the official website</li>
-          <li>Limited availability due to high demand</li>
-          <li>Results vary depending on individual response and consistency</li>
-          <li>Reports of counterfeit products on Amazon and eBay</li>
+          <li>No published clinical trials on the FemiPro formula</li>
+          <li>Ingredient amounts not clearly disclosed in the sources we could review</li>
+          <li>Bladder-control claims rest mostly on ingredients with limited human research</li>
+          <li>Berberine is not safe during pregnancy or breastfeeding and may interact with medicines</li>
+          <li>Only sold online, with many look-alike websites using the same name</li>
+          <li>Not a treatment for incontinence, overactive bladder, or urinary tract infections</li>
         </ul>
       </div>
     </div>
   </section>
 
   <section class="review-section">
-    <h2>Is FemiPro a scam?</h2>
-    <h3>⚠️ Beware of Fake FemiPro Products</h3>
+    <h2>Side effects and safety</h2>
+    <p>Because the full formula is not confirmed, here is what is known about the commonly listed ingredients:</p>
+    <ul class="bullets">
+      <li>
+        <strong>Berberine</strong> can cause nausea, diarrhea, bloating, or constipation. NCCIH says it should not be used
+        during pregnancy or breastfeeding, and it may interact with some medicines.
+      </li>
+      <li>
+        <strong>Cranberry</strong> in large amounts can upset the stomach and may raise the risk of kidney stones over time.
+        Large amounts may also affect the blood thinner warfarin, though the evidence is mixed.
+      </li>
+      <li>
+        <strong>Uva ursi</strong> lacks safety data for long-term daily use, and a National Library of Medicine database
+        recommends avoiding it while breastfeeding.
+      </li>
+      <li>
+        <strong>Probiotics</strong> are generally well tolerated by healthy people, but the risk is higher for people who
+        are seriously ill or have a weakened immune system.
+      </li>
+    </ul>
+    <p><strong>Talk to your doctor before taking FemiPro if you:</strong></p>
+    <ul class="bullets">
+      <li>Are pregnant, breastfeeding, or trying to conceive</li>
+      <li>Take any prescription medicine, especially blood thinners, diabetes medicines, or transplant drugs</li>
+      <li>Have kidney stones, liver disease, or a weakened immune system</li>
+      <li>Have burning, pain, fever, or blood in your urine. These can signal an infection that needs treatment.</li>
+    </ul>
     <p>
-      We get it — trying something new online can raise doubts. But rest assured: FemiPro is a legitimate supplement
-      produced in GMP-certified facilities, following FDA-compliant manufacturing practices.
-    </p>
-    <p>
-      To protect yourself from scams or counterfeit supplements, only purchase FemiPro from the{" "}
-      <CTAButton product={product} variant="link">Official Website</CTAButton>.
-    </p>
-    <p>
-      ❌ Do not trust shady ads, miracle prices, or listings on third-party sites like Amazon, eBay, or Walmart. There have
-      been verified reports of fake versions being sold, often containing unknown or untested ingredients that may be
-      unsafe.
-    </p>
-    <p>
-      ✅ Don’t take risks with your health. If you choose to try FemiPro, the official site is the only secure way to
-      guarantee you receive the authentic formula — and the support your body deserves.
-    </p>
-    <Image src={notOnMarketplaces} alt="Not sold on Amazon, eBay or Walmart" width={512} class="mx-auto my-6" />
-    <Image src={scamAlert} alt="Scam alert over a FemiPro marketplace listing" width={768} class="mx-auto my-6 rounded-lg" />
-    <p>FemiPro is a registered and branded product, but that hasn’t stopped similar-looking supplements from showing up online.</p>
-    <p>
-      Unfortunately, some of these alternatives mislead customers by using underdosed formulas or offering bottles with
-      fewer capsules than needed — for example, just 60 capsules when the recommended dosage is 4 per day, meaning the
-      supply lasts only 15 days instead of a full month.
-    </p>
-    <p>
-      These imitations may look similar, but they do not follow the same quality standards, nor do they offer money-back
-      guarantees or verified safety. Stick to the official source to avoid being misled.
-    </p>
-    <p class="text-center">
-      <CTAButton product={product} variant="link"
-        >(SPECIAL Coupon) Click Here to Get FemiPro with -50% Discount Price Online from the official website.</CTAButton
-      >
+      Bladder leakage has proven first-line treatments. Our guides to{" "}
+      <a href="/womens-health/why-do-i-leak-urine-when-i-sneeze/">why you leak when you sneeze</a> and{" "}
+      <a href="/womens-health/kegel-exercises-for-women/">Kegel exercises for women</a> explain where to start.
     </p>
   </section>
 
   <section class="review-section">
-    <h2>Guarantee + Shipping Policy</h2>
-    <p class="font-semibold">
-      FemiPro comes with a 60-day money-back guarantee. If you are not satisfied with the results, you can request a full
-      refund within this period by contacting customer service. Some returns may be required before the refund is
-      processed.
+    <h2>Price, guarantee, and where to buy</h2>
+    <p>
+      FemiPro is sold through its official website, usually with discounts for multi-bottle packages. Prices change often,
+      so we don't list them here. Check the current price on the official site before ordering.
     </p>
-    <p class="font-semibold">
-      Shipping is handled promptly, with typical delivery times between 7 to 14 business days, depending on your location.
-      Once your order ships, you will receive tracking information to monitor your package.
+    <p>
+      The manufacturer has advertised a <strong>60-day money-back guarantee</strong> and free shipping on some
+      multi-bottle orders. Before you buy, read the current refund terms on the official site: how long you have, whether
+      you need to return the bottles, and how to contact customer service.
     </p>
-    <p class="font-semibold">
-      Purchases made through the official website are eligible for free shipping on multi-bottle orders, ensuring you get
-      the best value.
+    <p>
+      <strong>Be careful with look-alike websites.</strong> Many sites use names very close to FemiPro. Check the web address
+      before entering payment details, and avoid third-party marketplace listings that you can't trace back to the
+      manufacturer.
     </p>
-  </section>
-
-  <section class="review-section">
-    <h2>FemiPro Reviews</h2>
-    <h3>"Read What Real FemiPro Users Are Saying"</h3>
-    <div class="space-y-4">
-      <Testimonial name="Laura G., 56" location="Orlando, FL" photo={laura}>
-        "It took a few weeks before I saw any changes, but now the stabbing nerve pain is less frequent. I’m hopeful that
-        continued use will help even more."
-      </Testimonial>
-      <Testimonial name="Nicole T., 61" location="Austin, TX" photo={nicole}>
-        "At first, I wasn’t sure if NerveCalm would work for me. I’ve had nerve pain for years and tried so many things.
-        But after about two weeks, I started noticing less tingling and discomfort. Now after a month, the burning sensation
-        is much better. Definitely worth trying!"
-      </Testimonial>
-      <Testimonial name="Mark D., 59" location="Houston, TX" photo={mark}>
-        "I ended up buying FemiPro on Amazon because it was easier at the time. At first, I thought it was working, but
-        after a few weeks, nothing improved. When I tried to get a refund, the seller didn’t respond. Later, I found out
-        from the official website that the real FemiPro is only sold through their site. I wasted money on a fake product.
-        Now, I ordered from the official site and have been taking it for a couple of weeks. I’m already seeing some
-        improvements, but I want to use it longer before giving a higher rating. If you want to avoid wasting money like I
-        did, buy only from the official site!"
-      </Testimonial>
-      <Testimonial name="Sarah M., 54" location="New York, USA" photo={sarah}>
-        "This supplement really works. I was doubtful because of all the hype, but my nerve pain has reduced significantly
-        in about three weeks. I feel more energetic and can move around easier. Highly recommend."
-      </Testimonial>
-      <Testimonial name="John L., 59" location="San Diego, CA" photo={john}>
-        "I started taking NerveCalm along with my wife because we were both dealing with nerve pain — mine from years of
-        standing at work, hers from a past injury. For me, the results came surprisingly fast — within just a few days I
-        noticed the burning in my feet easing up. My wife, on the other hand, didn’t feel much until after about a month,
-        but once it kicked in, her sleep improved and the pain started to fade. It definitely works, though the speed of
-        results can vary depending on the person. Also, maintaining a healthy lifestyle seems to help boost the benefits
-        even more."
-      </Testimonial>
+    <div class="mt-6 text-center">
+      <CTAButton product={product}>See Current Price on the Official Website</CTAButton>
     </div>
   </section>
 
   <section class="review-section">
-    <h2>Conclusion About FemiPro</h2>
-    <div class="review-figure">
-      <Image src={bottle} alt="FemiPro supplement bottle" width={220} />
+    <h2>What customers are saying</h2>
+    <p>
+      We did not find independent, verified customer reviews of FemiPro that we could rely on. Testimonials shown on sales
+      pages are chosen by the seller, and many review-style pages online are themselves affiliate pages. For that reason,
+      we don't quote testimonials here.
+    </p>
+    <p>
+      If you try FemiPro, give it a fair window, keep a simple{" "}
+      <a href="/womens-health/frequent-urination-in-women/">bladder diary</a> so you can see whether anything actually
+      changes, and use the guarantee if it doesn't help.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>Alternatives worth considering</h2>
+    <ul class="bullets">
+      <li>
+        <strong>Pelvic floor muscle training.</strong> Free, well studied, and recommended by health agencies as a first step
+        for stress incontinence. See our <a href="/womens-health/kegel-exercises-for-women/">Kegel guide</a>.
+      </li>
+      <li>
+        <strong>Bladder training and diet changes.</strong> Cutting back on{" "}
+        <a href="/womens-health/bladder-irritants-foods-and-drinks/">common bladder irritants</a> helps many women with
+        urgency.
+      </li>
+      <li>
+        <strong>Medical treatment.</strong> For symptoms linked to menopause, prescription vaginal estrogen is the most
+        effective standard treatment. Learn more about{" "}
+        <a href="/womens-health/menopause-and-bladder-leakage/">menopause and bladder leakage</a>.
+      </li>
+      <li>
+        <strong>Plain cranberry supplements.</strong> If your main goal is reducing repeat UTIs, a single-ingredient cranberry
+        product with a clearly labeled dose is simpler to evaluate. Ask your doctor first.
+      </li>
+    </ul>
+  </section>
+
+  <section class="review-section">
+    <h2>Final verdict</h2>
+    <p>
+      FemiPro is built around a sensible idea: combine cranberry and probiotics for urinary health with herbs marketed for
+      bladder support. The problem is that the strongest claims, especially about bladder control, go further than the
+      research supports, the full label with doses is hard to confirm, and berberine makes it a poor fit during pregnancy
+      or for women on certain medicines.
+    </p>
+    <p>
+      If you are not pregnant, have checked with your doctor, and want to try a supplement alongside pelvic floor exercises
+      and healthy bladder habits, FemiPro is an option to consider, with the money-back guarantee as a safety net. If you
+      want the steps with the best track record, start with pelvic floor training and a conversation with your doctor.
+    </p>
+    <div class="mt-6 text-center">
+      <CTAButton product={product}>Visit the Official FemiPro Website</CTAButton>
     </div>
-    <p>
-      With so many supplements for women's health available today, it’s natural to feel uncertain about which one to
-      trust. FemiPro stands out with its natural formula, clinically backed ingredients, and positive user feedback
-      reporting real improvements.
-    </p>
-    <p>
-      However, as with any supplement, individual results may vary depending on your unique body and consistency of use.
-      What some users notice within weeks might take longer for others—and that’s perfectly normal.
-    </p>
-    <p>
-      Based on its ingredients, user experiences, and money-back guarantee, FemiPro appears to be a promising choice for
-      women seeking hormonal balance, improved urinary control, and enhanced energy.
-    </p>
-    <p>
-      If you’re considering trying FemiPro, we recommend visiting the{" "}
-      <CTAButton product={product} variant="link">Official Website below</CTAButton> to get all the details and current offers
-      directly from the source.
-    </p>
-    <div class="mt-6 flex flex-col items-center gap-4">
-      <CTAButton product={product}>Claim Your FemiPro Today</CTAButton>
-      <CTAButton product={product} variant="link">Official Website - https://thefemipro.com</CTAButton>
-    </div>
-    <p class="mt-8 text-sm text-muted">
-      Some of the links on this post or page are affiliate links, which means that if you click on one and make a
-      purchase, we may earn a small commission at no extra cost to you. This helps support and maintain this website. We
-      only recommend products and services that we truly believe can bring value to our readers. Thank you so much for
-      your support!
-    </p>
+  </section>
+
+  <section class="review-section">
+    <FAQ items={faq} />
+  </section>
+
+  <section class="review-section">
+    <h2 class="!text-2xl">Sources</h2>
+    <ol class="list-decimal space-y-1 pl-5 text-sm">
+      <li><a href="https://www.nccih.nih.gov/health/cranberry" rel="noopener" target="_blank">Cranberry: Usefulness and Safety, NCCIH</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety" rel="noopener" target="_blank">Probiotics: Usefulness and Safety, NCCIH</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know" rel="noopener" target="_blank">Diabetes and Dietary Supplements: What You Need To Know (berberine safety), NCCIH</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/berberine-and-weight-loss-what-you-need-to-know" rel="noopener" target="_blank">Berberine and Weight Loss: What You Need To Know, NCCIH</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/sites/books/NBK501903/" rel="noopener" target="_blank">Uva Ursi, Drugs and Lactation Database (LactMed), National Library of Medicine</a></li>
+      <li><a href="https://pubmed.ncbi.nlm.nih.gov/24296864/" rel="noopener" target="_blank">Risk assessment of free hydroquinone derived from Arctostaphylos uva-ursi folium herbal preparations, PubMed</a></li>
+      <li><a href="https://pubmed.ncbi.nlm.nih.gov/33371596/" rel="noopener" target="_blank">Mimosa pudica L., a High-Value Medicinal Plant as a Source of Bioactives for Pharmaceuticals (review), PubMed</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491456/" rel="noopener" target="_blank">Probiotic lactobacilli in formulas and hygiene products for the health of the urogenital tract, PMC</a></li>
+      <li><a href="https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/definition-facts" rel="noopener" target="_blank">Definition & Facts for Bladder Control Problems, NIDDK</a></li>
+    </ol>
   </section>
 </ReviewLayout>
