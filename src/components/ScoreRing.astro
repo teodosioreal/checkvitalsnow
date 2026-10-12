@@ -1,0 +1,26 @@
+---
+interface Props {
+  score: number;
+  size?: number;
+}
+const { score, size = 112 } = Astro.props;
+const r = 42;
+const c = 2 * Math.PI * r;
+const filled = (Math.max(0, Math.min(10, score)) / 10) * c;
+---
+
+<svg width={size} height={size} viewBox="0 0 100 100" role="img" aria-label={`Score ${score.toFixed(1)} out of 10`}>
+  <circle cx="50" cy="50" r={r} fill="none" stroke="#d1d5db" stroke-width="9"></circle>
+  <circle
+    cx="50"
+    cy="50"
+    r={r}
+    fill="none"
+    stroke="#16a34a"
+    stroke-width="9"
+    stroke-dasharray={`${filled} ${c}`}
+    transform="rotate(-90 50 50)"></circle>
+  <text x="50" y="57" text-anchor="middle" font-size="20" font-weight="800" fill="#111827" font-family="system-ui, sans-serif"
+    >{score.toFixed(1)}/10</text
+  >
+</svg>

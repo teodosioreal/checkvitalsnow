@@ -1,0 +1,433 @@
+---
+import { Image } from 'astro:assets';
+import ReviewLayout from '../../layouts/ReviewLayout.astro';
+import CTAButton from '../../components/CTAButton.astro';
+import FAQ from '../../components/FAQ.astro';
+import ScoreRing from '../../components/ScoreRing.astro';
+import GradeBadge from '../../components/GradeBadge.astro';
+import { author, site } from '../../data/site';
+import femiproBottle from '../../assets/reviews/femipro/femipro-bottle.png';
+
+// Scores come from the weighted criteria published in "How we ranked them" below.
+const criteria = [
+  { key: 'scope', name: 'Formula scope', weight: 0.3, text: 'Does one product cover bladder control, urinary tract health, and the urinary/vaginal microbiome, which is what this list is about?' },
+  { key: 'evidence', name: 'Ingredient evidence', weight: 0.25, text: 'How strong is published human research on the key ingredients for the uses claimed?' },
+  { key: 'transparency', name: 'Label transparency', weight: 0.15, text: 'Are ingredient amounts clearly disclosed so you know what you are taking?' },
+  { key: 'guarantee', name: 'Guarantee', weight: 0.15, text: 'Is there a clear, product-specific money-back guarantee?' },
+  { key: 'access', name: 'Convenience & access', weight: 0.15, text: 'How easy is it to buy and take?' },
+] as const;
+
+type Scores = Record<(typeof criteria)[number]['key'], number>;
+const total = (s: Scores) => Math.round(criteria.reduce((sum, c) => sum + s[c.key] * c.weight, 0) * 10) / 10;
+const grade = (x: number) =>
+  x >= 9.5 ? 'A+' : x >= 9 ? 'A' : x >= 8.5 ? 'A-' : x >= 8 ? 'B+' : x >= 7.5 ? 'B' : x >= 7 ? 'B-' : x >= 6.5 ? 'C+' : x >= 6 ? 'C' : x >= 5.5 ? 'C-' : 'D';
+
+const products = [
+  {
+    id: 'femipro',
+    name: 'FemiPro',
+    bestFor: 'Best all-in-one formula for women',
+    scores: { scope: 10, evidence: 5, transparency: 4, guarantee: 8, access: 6 },
+    focus: 'Bladder control, urinary tract, and microbiome support in one capsule',
+    keyIngredients: 'Cranberry extract, probiotic blend, bearberry (uva ursi), berberine, mimosa pudica (as commonly listed on sales pages)',
+    where: 'Official website',
+    why: 'FemiPro is the only product on this list built around all three goals women usually search for at once: bladder control, urinary tract health, and a balanced microbiome. It pairs cranberry and probiotics, the two most studied ingredients in this space, with herbs marketed for bladder support, and it comes with an advertised 60-day money-back guarantee.',
+    pros: [
+      'Covers bladder, urinary tract, and microbiome support in one product',
+      'Includes cranberry and probiotics, two actively researched ingredients',
+      'Advertised 60-day money-back guarantee',
+      'Designed specifically for women',
+    ],
+    cons: [
+      'No published clinical trial on the finished formula',
+      'Ingredient amounts not clearly disclosed in the sources we reviewed',
+      'Contains berberine, which is not safe in pregnancy or breastfeeding',
+      'Sold online only; watch out for look-alike websites',
+    ],
+    bottomLine: 'Our top pick for women who want one product that targets bladder control, urinary health, and microbiome balance together. Skip it if you are pregnant, breastfeeding, or take medicines that may interact with berberine.',
+  },
+  {
+    id: 'azo',
+    name: 'AZO Bladder Control with Go-Less',
+    bestFor: 'Best drugstore option',
+    scores: { scope: 4, evidence: 6, transparency: 9, guarantee: 4, access: 9 },
+    focus: 'Bladder control (urgency and frequency)',
+    keyIngredients: 'Go-Less blend of pumpkin seed extract and soy germ extract (300 mg per capsule)',
+    where: 'Major U.S. grocery and drug stores',
+    why: 'A widely available bladder supplement with a clearly labeled dose. Its pumpkin seed and soy germ blend has been studied, though ConsumerLab notes earlier studies were small and a placebo-controlled trial of a similar blend found only slight reductions in urinary frequency.',
+    pros: ['Easy to find in U.S. stores', 'Dose clearly listed on the label', 'Focused on bladder urgency and frequency'],
+    cons: ['Bladder only; no urinary tract or microbiome support', 'Evidence shows modest effects', 'Contains soy', 'Needs 2 to 3 capsules a day'],
+    bottomLine: 'A reasonable, easy-to-buy choice if your only goal is bladder urgency and you want a clearly labeled dose.',
+  },
+  {
+    id: 'uqora',
+    name: 'Uqora',
+    bestFor: 'Best for frequent UTIs',
+    scores: { scope: 5, evidence: 6, transparency: 8, guarantee: 4, access: 8 },
+    focus: 'Urinary tract health (UTI prevention)',
+    keyIngredients: 'D-mannose drink mix and a probiotic capsule with Lactobacillus strains (separate products)',
+    where: 'Target and online',
+    why: 'Uqora focuses on urinary tract infections rather than bladder control. Its D-mannose has been studied for UTI prevention in women, and the brand sells a separate probiotic product.',
+    pros: ['D-mannose has human research for UTI prevention', 'Clear ingredient labels', 'Sold at Target'],
+    cons: ['Not designed for bladder control or leakage', 'Multiple products needed to cover different goals', 'Added vitamins lack UTI-specific research'],
+    bottomLine: 'A better fit for women whose main problem is repeat UTIs, not leakage or urgency.',
+  },
+  {
+    id: 'utiva',
+    name: 'Utiva Cranberry PACs',
+    bestFor: 'Best single-ingredient cranberry',
+    scores: { scope: 3, evidence: 7, transparency: 9, guarantee: 4, access: 8 },
+    focus: 'Urinary tract health (UTI prevention)',
+    keyIngredients: 'Cranberry extract standardized to 36 mg of proanthocyanidins (PACs)',
+    where: 'Online retailers',
+    why: 'A simple, clearly dosed cranberry supplement. NCCIH reports cranberry may lower the risk of repeat UTIs in some women, though findings are inconsistent.',
+    pros: ['Clearly standardized cranberry dose', 'One capsule a day', 'Simple formula, easy to evaluate'],
+    cons: ['Cranberry only; no bladder-control or probiotic ingredients', 'Not a treatment for an active UTI', 'Check with your doctor if you take blood thinners'],
+    bottomLine: 'Good for women who only want cranberry and like a single, clearly labeled ingredient.',
+  },
+  {
+    id: 'confitrol24',
+    name: 'Confitrol24',
+    bestFor: 'Best-studied herbal blend for urgency',
+    scores: { scope: 4, evidence: 8, transparency: 5, guarantee: 4, access: 6 },
+    focus: 'Bladder control (urgency and frequency)',
+    keyIngredients: 'Urox blend: Crateva nurvala, horsetail, and Lindera aggregata',
+    where: 'Official website',
+    why: 'Confitrol24 uses Urox, a three-herb blend tested in a randomized, placebo-controlled trial for overactive bladder symptoms. That is stronger ingredient research than most products here, but the finished product itself was not the subject of the trial.',
+    pros: ['Key blend tested in a placebo-controlled trial', 'Focused on urgency and frequency', 'Suitable for men and women'],
+    cons: ['Bladder only; no urinary tract or microbiome support', 'Not women-specific', 'Sold mainly online', 'Guarantee terms not confirmed'],
+    bottomLine: 'Worth a look if bladder urgency is your only concern and you value ingredient research over an all-in-one formula.',
+  },
+].map((p) => ({ ...p, score: total(p.scores as Scores), grade: grade(total(p.scores as Scores)) }));
+
+const faq = [
+  {
+    q: 'What is the best supplement for bladder control in women?',
+    a: 'There is no supplement proven to fix bladder control. For women who want one product that covers bladder, urinary tract, and microbiome support together, FemiPro is our top pick. If urgency is your only concern, Confitrol24 and AZO Bladder Control have more focused formulas. Pelvic floor exercises and medical care have the strongest evidence of all.',
+  },
+  {
+    q: 'Do bladder supplements really work?',
+    a: 'Evidence is modest. Some ingredients, such as the Urox herbal blend, pumpkin seed and soy germ extracts, cranberry, and D-mannose, have human studies for specific uses, but effects are usually small and no supplement replaces medical treatment.',
+  },
+  {
+    q: 'How long do bladder supplements take to work?',
+    a: 'Most manufacturers suggest several weeks of daily use. Track your symptoms in a simple bladder diary so you can tell whether anything actually changes, and use the money-back guarantee if it does not.',
+  },
+  {
+    q: 'Are bladder supplements safe?',
+    a: 'Safety depends on the ingredients. Berberine should not be used in pregnancy or breastfeeding, cranberry may affect blood thinners, and soy-based products are not suitable for people with a soy allergy. Ask your doctor before starting any supplement.',
+  },
+  {
+    q: 'Should I see a doctor for bladder leakage?',
+    a: 'Yes, especially if leakage is new, getting worse, or comes with pain, burning, blood in the urine, or fever. Many effective treatments need a doctor.',
+  },
+];
+
+const url = `${site.url}/best/bladder-supplements-for-women/`;
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Best Bladder Support Supplements for Women',
+  itemListOrder: 'https://schema.org/ItemListOrderAscending',
+  numberOfItems: products.length,
+  itemListElement: products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.name, url: `${url}#${p.id}` })),
+};
+const top = products[0];
+---
+
+<ReviewLayout
+  title="5 Best Bladder Supplements for Women (2026)"
+  description="We compared 5 bladder support supplements for women on formula, evidence, label transparency, guarantee, and access. See our top pick and who each one fits."
+  headline="5 Best Bladder Support Supplements for Women (2026)"
+  breadcrumbName="Best Bladder Supplements for Women"
+  datePublished="2026-10-12"
+  dateModified="2026-10-12"
+  faq={faq}
+  extraJsonLd={[itemList]}
+>
+  <header class="bg-brand-50">
+    <div class="review-section">
+      <nav aria-label="Breadcrumb" class="text-sm text-muted">
+        <a href="/" class="text-muted">Home</a>
+        <span aria-hidden="true"> / </span>
+        <a href="/womens-health/" class="text-muted">Women's Health</a>
+      </nav>
+      <p class="mt-4 text-sm font-semibold uppercase tracking-wider text-brand-700">We compared bladder supplements</p>
+      <h1 class="mt-2 text-4xl font-bold sm:text-5xl">5 Best Bladder Support Supplements for Women (2026)</h1>
+      <p class="mt-3 font-serif text-xl text-brand-900">
+        Which ones are worth a try for leaks, urgency, and urinary health, and which fall short
+      </p>
+      <p class="mt-4 text-sm text-muted">
+        By {author.name} · Updated <time datetime="2026-10-12">October 12, 2026</time> · About 8 minutes to read
+      </p>
+      <div class="mt-6 flex flex-wrap gap-2">
+        <a href="#what-to-look-for" class="rounded-full border border-brand-700 px-4 py-2 text-sm font-semibold no-underline">What to look for</a>
+        <a href="#top-5" class="rounded-full bg-brand-700 px-4 py-2 text-sm font-semibold text-white no-underline">Our top 5</a>
+        <a href="#what-to-avoid" class="rounded-full border border-brand-700 px-4 py-2 text-sm font-semibold no-underline">What to avoid</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="review-section">
+    <p>
+      You laugh, and you leak. You plan car trips around rest stops. You wake up twice a night to pee, and the ads in your
+      feed promise a capsule that will fix it. The problem is that bladder supplements all sound the same, and many of
+      them make promises their ingredients can't keep.
+    </p>
+    <p>
+      So we compared five bladder support supplements sold to U.S. women. We looked at what each formula covers, what the
+      research on its ingredients actually shows, how clearly the label lists doses, the guarantee, and how easy it is to
+      buy. <strong>Our top pick is {top.name}</strong>, the only product here that combines bladder, urinary tract, and
+      microbiome support in one formula. But depending on your main problem, one of the others may suit you better.
+    </p>
+    <p class="text-base text-muted">
+      We reviewed each product's label and the manufacturer's information, published ingredient research, and independent
+      sources. We did not test these products in a lab. No supplement is a substitute for pelvic floor exercises or
+      medical care.
+    </p>
+
+    <div class="mt-6 rounded-xl border border-line">
+      <h2 class="!mb-0 border-b border-line bg-soft px-5 py-3 !text-xl">Quick picks</h2>
+      <ol class="divide-y divide-line">
+        {
+          products.map((p, i) => (
+            <li class="flex items-center justify-between gap-4 px-5 py-3 text-base">
+              <span>
+                <strong>
+                  {i + 1}. <a href={`#${p.id}`}>{p.name}</a>
+                </strong>
+                <span class="block text-sm text-muted">{p.bestFor}</span>
+              </span>
+              <span class="whitespace-nowrap font-bold">{p.score.toFixed(1)}/10</span>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>Comparison at a glance</h2>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[640px] border-collapse text-left text-base">
+        <thead>
+          <tr class="bg-soft">
+            <th class="border border-line px-3 py-2">#</th>
+            <th class="border border-line px-3 py-2">Product</th>
+            <th class="border border-line px-3 py-2">Main focus</th>
+            <th class="border border-line px-3 py-2">Where to buy</th>
+            <th class="border border-line px-3 py-2">Score</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            products.map((p, i) => (
+              <tr class={i === 0 ? 'bg-brand-50' : ''}>
+                <td class="border border-line px-3 py-2 align-top font-bold">{i + 1}</td>
+                <td class="border border-line px-3 py-2 align-top font-semibold">{p.name}</td>
+                <td class="border border-line px-3 py-2 align-top">{p.focus}</td>
+                <td class="border border-line px-3 py-2 align-top">{p.where}</td>
+                <td class="border border-line px-3 py-2 align-top whitespace-nowrap font-bold">
+                  {p.score.toFixed(1)} ({p.grade})
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="what-to-look-for" class="review-section scroll-mt-6">
+    <h2>How to spot a good bladder supplement (and the red flags)</h2>
+    <p>
+      Bladder leakage is common. The NIDDK estimates that about half of women experience urinary incontinence at some
+      point. That big audience attracts a lot of marketing. Before you buy anything, check for these:
+    </p>
+    <div class="grid gap-4 sm:grid-cols-2">
+      <div class="rounded-xl border border-line p-5">
+        <h3 class="!mt-0 text-green-800">Good signs</h3>
+        <ul class="bullets text-base">
+          <li>A full label with the amount of each ingredient</li>
+          <li>Ingredients with published human research for the use claimed</li>
+          <li>A clear money-back guarantee you can actually use</li>
+          <li>Honest warnings about who shouldn't take it</li>
+        </ul>
+      </div>
+      <div id="what-to-avoid" class="scroll-mt-6 rounded-xl border border-line p-5">
+        <h3 class="!mt-0 text-red-800">Red flags</h3>
+        <ul class="bullets text-base">
+          <li>Promises to "cure" incontinence or "end" leaks for good</li>
+          <li>"No side effects" claims</li>
+          <li>Fake countdown timers and "only 3 bottles left"</li>
+          <li>Testimonials with no way to verify them</li>
+          <li>Look-alike websites with slightly different spellings</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>How we ranked them</h2>
+    <p>
+      Each product gets a score from 0 to 10 on five criteria. Because this list is about women who want support for the
+      bladder, urinary tract, and microbiome together, <strong>formula scope carries the most weight</strong>. The final
+      score is the weighted average.
+    </p>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[560px] border-collapse text-left text-base">
+        <thead>
+          <tr class="bg-soft">
+            <th class="border border-line px-3 py-2">Criterion</th>
+            <th class="border border-line px-3 py-2">Weight</th>
+            <th class="border border-line px-3 py-2">What we checked</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            criteria.map((c) => (
+              <tr>
+                <td class="border border-line px-3 py-2 align-top font-semibold">{c.name}</td>
+                <td class="border border-line px-3 py-2 align-top">{Math.round(c.weight * 100)}%</td>
+                <td class="border border-line px-3 py-2 align-top">{c.text}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="mt-4 text-base text-muted">
+      Grades: A+ 9.5–10 · A 9.0–9.4 · A− 8.5–8.9 · B+ 8.0–8.4 · B 7.5–7.9 · B− 7.0–7.4 · C+ 6.5–6.9 · C 6.0–6.4 · C−
+      5.5–5.9 · D below 5.5. Read more about <a href="/#how-we-review">how we review</a>.
+    </p>
+  </section>
+
+  <section id="top-5" class="review-section scroll-mt-6">
+    <h2>Our top 5 bladder support supplements for women</h2>
+    <div class="space-y-8">
+      {
+        products.map((p, i) => (
+          <article id={p.id} class:list={['scroll-mt-6 rounded-2xl border p-6', i === 0 ? 'border-2 border-brand-600 bg-brand-50' : 'border-line']}>
+            {i === 0 && (
+              <p class="mb-3 inline-block rounded-full bg-brand-700 px-3 py-1 text-sm font-semibold text-white">Our #1 pick</p>
+            )}
+            <h3 class="!mt-0 text-2xl font-bold">
+              {i + 1}. {p.name}: {p.bestFor}
+            </h3>
+            <div class="mt-4 flex flex-wrap items-center justify-center gap-8 sm:justify-start">
+              {i === 0 && <Image src={femiproBottle} alt="FemiPro supplement bottle" width={130} densities={[1, 2]} />}
+              <ScoreRing score={p.score} />
+              <GradeBadge grade={p.grade} />
+            </div>
+            <dl class="mt-5 grid gap-2 text-base sm:grid-cols-[150px_1fr]">
+              <dt class="font-semibold">Main focus</dt>
+              <dd>{p.focus}</dd>
+              <dt class="font-semibold">Key ingredients</dt>
+              <dd>{p.keyIngredients}</dd>
+              <dt class="font-semibold">Where to buy</dt>
+              <dd>{p.where}</dd>
+            </dl>
+            <p class="mt-4">{p.why}</p>
+            <div class="grid gap-4 md:grid-cols-2">
+              <div>
+                <h4 class="font-bold text-green-800">Pros</h4>
+                <ul class="bullets mt-2 text-base">
+                  {p.pros.map((x) => (
+                    <li>{x}</li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h4 class="font-bold text-red-800">Cons</h4>
+                <ul class="bullets mt-2 text-base">
+                  {p.cons.map((x) => (
+                    <li>{x}</li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+            <p class="mt-2 rounded-lg bg-paper p-4 text-base">
+              <strong>The bottom line:</strong> {p.bottomLine}
+            </p>
+            {i === 0 && (
+              <div class="mt-5 flex flex-col items-center gap-3 sm:flex-row">
+                <CTAButton product="femipro">Check Price on the Official Website</CTAButton>
+                <a href="/femipro-review-scam-or-legit-femipro-full-review/" class="text-base font-semibold">
+                  Read our full FemiPro review
+                </a>
+              </div>
+            )}
+          </article>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="review-section">
+    <div class="rounded-2xl border-2 border-brand-600 p-6 text-center">
+      <p class="text-sm font-semibold uppercase tracking-wider text-brand-700">Summary: our top pick for 2026</p>
+      <h2 class="!mb-2 !mt-2">{top.name}</h2>
+      <p class="text-base">{top.bestFor}</p>
+      <div class="my-4 flex items-center justify-center gap-8">
+        <Image src={femiproBottle} alt="FemiPro supplement bottle" width={110} densities={[1, 2]} />
+        <ScoreRing score={top.score} size={100} />
+        <GradeBadge grade={top.grade} />
+      </div>
+      <CTAButton product="femipro">See Current Price on the Official Website</CTAButton>
+      <p class="mt-3 text-sm text-muted">Not for use during pregnancy or breastfeeding. Ask your doctor before starting.</p>
+    </div>
+  </section>
+
+  <section class="review-section">
+    <h2>Buying guide: what to know before you choose</h2>
+    <h3>Match the product to your main problem</h3>
+    <ul class="bullets">
+      <li><strong>Leaks when you sneeze, cough, or laugh:</strong> start with <a href="/womens-health/kegel-exercises-for-women/">pelvic floor exercises</a>. Read <a href="/womens-health/why-do-i-leak-urine-when-i-sneeze/">why it happens</a>.</li>
+      <li><strong>Urgency and frequent trips:</strong> a bladder-focused formula plus <a href="/womens-health/frequent-urination-in-women/">bladder training</a> and fewer <a href="/womens-health/bladder-irritants-foods-and-drinks/">bladder irritants</a>.</li>
+      <li><strong>Repeat UTIs:</strong> cranberry or D-mannose products, and a talk with your doctor.</li>
+      <li><strong>Several of these at once:</strong> an all-in-one formula like our top pick may be simpler.</li>
+    </ul>
+    <h3>Check safety first</h3>
+    <ul class="bullets">
+      <li>Berberine should not be used in pregnancy or breastfeeding, according to NCCIH.</li>
+      <li>Large amounts of cranberry may affect blood thinners such as warfarin.</li>
+      <li>Soy-based products are not suitable if you have a soy allergy.</li>
+      <li>Bring the label to your doctor or pharmacist if you take any prescription medicine.</li>
+    </ul>
+    <h3>Give it a fair test</h3>
+    <p>
+      Keep a simple bladder diary for a week before you start and again after several weeks. If nothing changes, use the
+      guarantee. If symptoms change around menopause, see our guide to{" "}
+      <a href="/womens-health/menopause-and-bladder-leakage/">menopause and bladder leakage</a>.
+    </p>
+  </section>
+
+  <section class="review-section">
+    <h2>When to see a doctor</h2>
+    <p>Supplements are not a treatment for medical problems. See a doctor if you have:</p>
+    <ul class="bullets">
+      <li>Pain or burning when you urinate, fever, or back pain</li>
+      <li>Blood in your urine</li>
+      <li>Leakage that is new, getting worse, or affecting your daily life</li>
+      <li>A bulge or heaviness in the vagina</li>
+    </ul>
+  </section>
+
+  <section class="review-section">
+    <FAQ items={faq} />
+  </section>
+
+  <section class="review-section">
+    <h2 class="!text-2xl">Sources</h2>
+    <ol class="list-decimal space-y-1 pl-5 text-sm">
+      <li><a href="https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/definition-facts" rel="noopener" target="_blank">Definition & Facts for Bladder Control Problems, NIDDK</a></li>
+      <li><a href="https://www.consumerlab.com/answers/does-azo-bladder-control-really-work-for-overactive-bladder/azo-overactive-bladder/" rel="noopener" target="_blank">Does AZO Bladder Control really work for overactive bladder?, ConsumerLab</a></li>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793427/" rel="noopener" target="_blank">Urox in the treatment of symptoms of overactive bladder and urinary incontinence: a randomised, double-blind placebo controlled trial, PMC</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/cranberry" rel="noopener" target="_blank">Cranberry: Usefulness and Safety, NCCIH</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety" rel="noopener" target="_blank">Probiotics: Usefulness and Safety, NCCIH</a></li>
+      <li><a href="https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know" rel="noopener" target="_blank">Diabetes and Dietary Supplements (berberine safety), NCCIH</a></li>
+      <li><a href="https://www.pharmavite.com/news/2026/04/uqora-launches-cutting-edge-urinary-health-products-at-target/" rel="noopener" target="_blank">Uqora launches urinary health products at Target, Pharmavite</a></li>
+      <li><a href="https://www.azoproducts.com/products/azo-bladder-control" rel="noopener" target="_blank">AZO Bladder Control, AZO</a></li>
+    </ol>
+  </section>
+</ReviewLayout>
