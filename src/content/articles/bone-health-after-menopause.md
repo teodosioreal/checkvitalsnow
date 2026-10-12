@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "senior woman walking outdoors"
+cover:
+  url: "https://images.unsplash.com/photo-1761774805370-f11daa727c44?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIwMHww&ixlib=rb-4.1.0"
+  alt: "Woman in green dress behind lush green foliage"
+  author: "Alexandros Giannakakis"
+  authorUrl: "https://unsplash.com/@alegi__?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-green-dress-behind-lush-green-foliage-cEtZHYBHsfI?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Estrogen helps protect bone. When it drops at menopause, bone loss speeds up. Some women lose up to 25% of their bone mass in the first 10 years after menopause."
   - "Calcium and vitamin D work together. Women 51 to 70 need 600 IU of vitamin D a day, and women 71 and older need 800 IU."
@@ -69,7 +75,10 @@ Your risk of osteoporosis is higher if you:
 
 Many of these overlap with other midlife changes. If you are also dealing with fatigue or mood shifts, our guide to [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/) can help you sort out what to bring up with your doctor.
 
-<!-- unsplash: glass of milk and yogurt breakfast -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1596151163116-98a5033814c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMG1pbGslMjBhbmQlMjB5b2d1cnQlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc5MTgxODIwMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1596151163116-98a5033814c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMG1pbGslMjBhbmQlMjB5b2d1cnQlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc5MTgxODIwMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1596151163116-98a5033814c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMG1pbGslMjBhbmQlMjB5b2d1cnQlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc5MTgxODIwMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1596151163116-98a5033814c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMG1pbGslMjBhbmQlMjB5b2d1cnQlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc5MTgxODIwMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="White liquid in clear drinking glass" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@anvision?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">an_vision</a> on <a href="https://unsplash.com/photos/white-liquid-in-clear-drinking-glass-5SN5N5-JM3c?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calcium and vitamin D work as a pair
 
@@ -91,7 +100,10 @@ Calcium is the main building block of bone. Vitamin D helps your body absorb cal
 
 Try to get most of your calcium from food. The Office on Women's Health advises asking your doctor whether you need a calcium supplement, since more is not always better.
 
-<!-- unsplash: mature woman lifting dumbbells -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1733077151330-a6f3a257926b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjBsaWZ0aW5nJTIwZHVtYmJlbGxzfGVufDF8MHx8fDE3OTE4MTgyMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A woman holding two dumbs in her hands" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@lgnwvr?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">LOGAN WEAVER | @LGNWVR</a> on <a href="https://unsplash.com/photos/a-woman-holding-two-dumbs-in-her-hands-V2F0K0FuwPM?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Exercise that builds bone
 

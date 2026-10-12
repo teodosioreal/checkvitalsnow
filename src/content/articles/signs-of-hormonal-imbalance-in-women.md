@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "woman looking out window thoughtful"
+cover:
+  url: "https://images.unsplash.com/photo-1658279366796-e0c28623cd27?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBsb29raW5nJTIwb3V0JTIwd2luZG93JTIwdGhvdWdodGZ1bHxlbnwxfDB8fHwxNzkxODE4MjIxfDA&ixlib=rb-4.1.0"
+  alt: "A woman sitting on a window sill"
+  author: "Kelly Sikkema"
+  authorUrl: "https://unsplash.com/@kellysikkema?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-sitting-on-a-window-sill-LZ03UAy1SMc?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Hormones control many body systems, so an imbalance can cause a wide range of symptoms."
   - "Common signs include irregular periods, fatigue, unexplained weight changes, mood changes, acne, sleep problems, and changes in libido."
@@ -91,7 +97,10 @@ Cleveland Clinic also lists constipation or diarrhea and changes in heart rate a
 
 Trouble sleeping, night sweats, and lower interest in sex often show up during perimenopause and menopause.
 
-<!-- unsplash: woman with calendar planner -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1484981184820-2e84ea0af397?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwY2FsZW5kYXIlMjBwbGFubmVyfGVufDF8MHx8fDE3OTE4MTgyMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person holding calendar at January" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@brookelark?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Brooke Lark</a> on <a href="https://unsplash.com/photos/person-holding-calendar-at-january-BRBjShcA8D4?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What usually throws hormones off
 
@@ -121,7 +130,10 @@ Tiredness, weight changes, mood swings, and hair loss can come from many things 
 
 That is why self-diagnosing from a checklist, or from an ad, rarely works.
 
-<!-- unsplash: doctor taking blood sample lab -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1615461066159-fea0960485d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFraW5nJTIwYmxvb2QlMjBzYW1wbGUlMjBsYWJ8ZW58MXwwfHx8MTc5MTgxODIyM3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1615461066159-fea0960485d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFraW5nJTIwYmxvb2QlMjBzYW1wbGUlMjBsYWJ8ZW58MXwwfHx8MTc5MTgxODIyM3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1615461066159-fea0960485d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFraW5nJTIwYmxvb2QlMjBzYW1wbGUlMjBsYWJ8ZW58MXwwfHx8MTc5MTgxODIyM3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1615461066159-fea0960485d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFraW5nJTIwYmxvb2QlMjBzYW1wbGUlMjBsYWJ8ZW58MXwwfHx8MTc5MTgxODIyM3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A healthcare worker in white gloves drawing blood from a person's arm" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@hieptltb97?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Nguyễn Hiệp</a> on <a href="https://unsplash.com/photos/healthcare-worker-drawing-blood-2rNHliX6XHk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How doctors check for hormonal imbalance
 

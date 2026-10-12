@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "american woman sneezing into tissue"
+cover:
+  url: "https://images.unsplash.com/photo-1753685725273-94cd04925423?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YW1lcmljYW4lMjB3b21hbiUyMHNuZWV6aW5nJTIwaW50byUyMHRpc3N1ZXxlbnwxfDB8fHwxNzkxODI2NTU3fDA&ixlib=rb-4.1.0"
+  alt: "Woman is on a video call with her dog"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-is-on-a-video-call-with-her-dog-FQrVXpfNWnI?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Leaking a little urine when you sneeze, cough, laugh, or jump is usually stress incontinence, the most common bladder control problem in younger and middle-aged women."
   - "It happens when the pelvic floor muscles and the urethra can't hold back pressure on the bladder. Pregnancy, childbirth, and menopause are common reasons."
@@ -65,7 +71,10 @@ According to the National Institute of Diabetes and Digestive and Kidney Disease
 
 It is different from **urge incontinence**, where you feel a sudden, strong need to go and leak before you reach the bathroom. Some women have both, which is called **mixed incontinence**.
 
-<!-- unsplash: woman laughing with friends outdoors -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBsYXVnaGluZyUyMHdpdGglMjBmcmllbmRzJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgyNjU1OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBsYXVnaGluZyUyMHdpdGglMjBmcmllbmRzJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgyNjU1OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBsYXVnaGluZyUyMHdpdGglMjBmcmllbmRzJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgyNjU1OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBsYXVnaGluZyUyMHdpdGglMjBmcmllbmRzJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgyNjU1OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="People laughing and talking outside during daytime" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@priscilladupreez?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/people-laughing-and-talking-outside-during-daytime-nF8xhLMmg0c?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What happens in the split second of a sneeze
 
@@ -128,7 +137,10 @@ If you are not sure you are doing Kegels right, a pelvic floor physical therapis
 
 When habits and exercises are not enough, a doctor may suggest other options. NIDDK lists bladder training, devices that support the urethra (such as a vaginal pessary), and surgical procedures among the treatments for bladder control problems. Your doctor can explain which ones fit your situation.
 
-<!-- unsplash: woman doing pilates on mat at home -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758599879133-e1f34aeccf63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkb2luZyUyMHBpbGF0ZXMlMjBvbiUyMG1hdCUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkxODI2NTU5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758599879133-e1f34aeccf63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkb2luZyUyMHBpbGF0ZXMlMjBvbiUyMG1hdCUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkxODI2NTU5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758599879133-e1f34aeccf63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkb2luZyUyMHBpbGF0ZXMlMjBvbiUyMG1hdCUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkxODI2NTU5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758599879133-e1f34aeccf63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkb2luZyUyMHBpbGF0ZXMlMjBvbiUyMG1hdCUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkxODI2NTU5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman stretching on yoga mat indoors" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/woman-stretching-on-yoga-mat-indoors-vcIsLI9doQM?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Leaks that need a doctor
 

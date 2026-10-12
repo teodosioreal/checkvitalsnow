@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "smiling middle aged woman outdoors"
+cover:
+  url: "https://images.unsplash.com/photo-1595433502559-d8f05e6a1041?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c21pbGluZyUyMG1pZGRsZSUyMGFnZWQlMjB3b21hbiUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTE4MTgyMTR8MA&ixlib=rb-4.1.0"
+  alt: "Woman in blue jacket smiling"
+  author: "Gantas Vaičiulėnas"
+  authorUrl: "https://unsplash.com/@gantas?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-blue-jacket-smiling-S2R_k4yEmhw?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Lower estrogen during and after menopause affects the tissues of the vagina, urethra, and bladder."
   - "This can lead to urgency, frequent urination, waking at night to pee, leakage, and more urinary tract infections. Doctors call this group of symptoms genitourinary syndrome of menopause (GSM)."
@@ -77,7 +83,10 @@ Many women also notice vaginal dryness, irritation, or pain during sex, since th
 
 Estimates of how many postmenopausal women have GSM symptoms vary widely in research, but every review agrees it is common. Many women don't mention it to their doctor out of embarrassment, so it often goes untreated.
 
-<!-- unsplash: mature woman talking with doctor -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1714976694895-d38078c1a3c0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGRvY3RvcnxlbnwxfDB8fHwxNzkxODE4MjE2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1714976694895-d38078c1a3c0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGRvY3RvcnxlbnwxfDB8fHwxNzkxODE4MjE2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1714976694895-d38078c1a3c0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGRvY3RvcnxlbnwxfDB8fHwxNzkxODE4MjE2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1714976694895-d38078c1a3c0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGRvY3RvcnxlbnwxfDB8fHwxNzkxODE4MjE2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A woman sitting in a chair talking to another woman" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/a-woman-sitting-in-a-chair-talking-to-another-woman-CGCXJJlkpOQ?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## It's not only estrogen
 
@@ -115,7 +124,10 @@ The same guideline describes low-dose vaginal estrogen as the most effective sta
 
 For overactive bladder or stress incontinence that doesn't improve, doctors have other treatments, including medicines, devices, and procedures. If symptoms don't improve with treatment, guidelines also recommend checking for other causes, such as pelvic floor dysfunction or painful bladder syndrome.
 
-<!-- unsplash: mature woman walking in park -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1784131722192-701a0863f01f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTE4MTgyMTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1784131722192-701a0863f01f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTE4MTgyMTd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1784131722192-701a0863f01f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTE4MTgyMTd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1784131722192-701a0863f01f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWF0dXJlJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTE4MTgyMTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person walks on a forest path with white flowers" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@bobj245?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Bob Jenkin</a> on <a href="https://unsplash.com/photos/a-person-walks-on-a-forest-path-with-white-flowers-8TUcHYJYzko?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## When to bring it up with your doctor
 

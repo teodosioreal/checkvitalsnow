@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "smiling woman in her forties portrait"
+cover:
+  url: "https://images.unsplash.com/photo-1534180477871-5d6cc81f3920?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c21pbGluZyUyMHdvbWFuJTIwaW4lMjBoZXIlMjBmb3J0aWVzJTIwcG9ydHJhaXR8ZW58MXwwfHx8MTc5MTgxODIxOHww&ixlib=rb-4.1.0"
+  alt: "Woman in floral-themed cardigan leaning on fence in bokeh photography"
+  author: "Artem Beliaikin"
+  authorUrl: "https://unsplash.com/@belart84?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-floral-themed-cardigan-leaning-on-fence-in-bokeh-photography-j5almO1E8rU?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Perimenopause is the transition before menopause, when estrogen and other hormones rise and fall unevenly."
   - "It can start anywhere from the mid-30s to the mid-50s and may last a short time or several years."
@@ -64,7 +70,10 @@ Cleveland Clinic explains that perimenopause may begin as early as your mid-30s 
 
 Smoking, family history, and some medical treatments can affect when it starts.
 
-<!-- unsplash: woman lying awake in bed at night -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1531353826977-0941b4779a1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMGF3YWtlJTIwaW4lMjBiZWQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4MTgyMTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1531353826977-0941b4779a1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMGF3YWtlJTIwaW4lMjBiZWQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4MTgyMTl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1531353826977-0941b4779a1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMGF3YWtlJTIwaW4lMjBiZWQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4MTgyMTl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1531353826977-0941b4779a1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMGF3YWtlJTIwaW4lMjBiZWQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4MTgyMTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman sleeping on bed under blankets" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@vagabondage?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Greg Pappas</a> on <a href="https://unsplash.com/photos/woman-sleeping-on-bed-under-blankets-rUc9hVE-L-E?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Symptoms you might notice
 
@@ -110,7 +119,10 @@ Hormone shifts, poor sleep, and heavy periods can all leave you drained. If tire
 
 Lower estrogen affects more than your cycle. The Office on Women's Health notes that the years around menopause bring changes in **bone health** and **heart health**. Bone loss speeds up after menopause, which is why this is a good time to focus on [protecting your bones](/womens-health/bone-health-after-menopause/).
 
-<!-- unsplash: women friends walking together outdoors -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1762343290762-0dd76b819509?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tZW4lMjBmcmllbmRzJTIwd2Fsa2luZyUyMHRvZ2V0aGVyJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIyMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1762343290762-0dd76b819509?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tZW4lMjBmcmllbmRzJTIwd2Fsa2luZyUyMHRvZ2V0aGVyJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIyMHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1762343290762-0dd76b819509?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tZW4lMjBmcmllbmRzJTIwd2Fsa2luZyUyMHRvZ2V0aGVyJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIyMHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1762343290762-0dd76b819509?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tZW4lMjBmcmllbmRzJTIwd2Fsa2luZyUyMHRvZ2V0aGVyJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIyMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Two women standing back to back outdoors" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@zulfugarkarimov?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Zulfugar Karimov</a> on <a href="https://unsplash.com/photos/two-women-standing-back-to-back-outdoors-UtHG6j5MRnY?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Ways to feel better
 

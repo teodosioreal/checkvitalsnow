@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "cup of coffee on wooden table morning"
+cover:
+  url: "https://images.unsplash.com/photo-1477761614229-3daf5798eedd?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBvbiUyMHdvb2RlbiUyMHRhYmxlJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxODE4MTk2fDA&ixlib=rb-4.1.0"
+  alt: "Black coffee in glass teacup on brown wooden surface"
+  author: "Nick Karvounis"
+  authorUrl: "https://unsplash.com/@nickkarvounis?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/black-coffee-in-glass-teacup-on-brown-wooden-surface-1RdpoppRkOA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Some foods and drinks can make bladder urgency, frequency, or leakage worse in sensitive people."
   - "Common suspects include caffeine, alcohol, carbonated drinks, citrus, tomatoes, spicy foods, chocolate, and artificial sweeteners."
@@ -83,7 +89,10 @@ Alcohol is a diuretic and may irritate the bladder in sensitive people. It can a
 
 Fizzy drinks show up on most lists, even when they have no caffeine. If you love sparkling water, test whether still water feels better for you.
 
-<!-- unsplash: glass of soda with ice -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1517959105821-eaf2591984ca?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHNvZGElMjB3aXRoJTIwaWNlfGVufDF8MHx8fDE3OTE4MTgxOTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1517959105821-eaf2591984ca?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHNvZGElMjB3aXRoJTIwaWNlfGVufDF8MHx8fDE3OTE4MTgxOTh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1517959105821-eaf2591984ca?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHNvZGElMjB3aXRoJTIwaWNlfGVufDF8MHx8fDE3OTE4MTgxOTh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1517959105821-eaf2591984ca?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHNvZGElMjB3aXRoJTIwaWNlfGVufDF8MHx8fDE3OTE4MTgxOTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Selective focus photo of glass of brown liquid" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@blakewisz?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Blake Wisz</a> on <a href="https://unsplash.com/photos/selective-focus-photo-of-glass-of-brown-liquid-X6aY_j6JD_Y?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How to find your own triggers
 
@@ -100,7 +109,10 @@ A simple bladder diary makes this much easier. Write down what you ate and drank
 
 When your bladder acts up, drinking less can seem logical. But very concentrated urine can irritate the bladder too, and too little fluid can lead to constipation, which adds pressure on the bladder. Most people do better spreading their water evenly through the day and drinking less in the evening.
 
-<!-- unsplash: healthy breakfast oatmeal fruit bowl -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMG9hdG1lYWwlMjBmcnVpdCUyMGJvd2x8ZW58MXwwfHx8MTc5MTgxODE5OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMG9hdG1lYWwlMjBmcnVpdCUyMGJvd2x8ZW58MXwwfHx8MTc5MTgxODE5OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMG9hdG1lYWwlMjBmcnVpdCUyMGJvd2x8ZW58MXwwfHx8MTc5MTgxODE5OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMG9hdG1lYWwlMjBmcnVpdCUyMGJvd2x8ZW58MXwwfHx8MTc5MTgxODE5OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Fruit lot on ceramic plate" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@jannisbrandt?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Jannis Brandt</a> on <a href="https://unsplash.com/photos/fruit-lot-on-ceramic-plate-8manzosDSGM?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Foods that are usually gentle on the bladder
 

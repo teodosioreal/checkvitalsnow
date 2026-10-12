@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "tired woman holding coffee mug morning"
+cover:
+  url: "https://images.unsplash.com/photo-1536914561643-9e3a7a8d063d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8dGlyZWQlMjB3b21hbiUyMGhvbGRpbmclMjBjb2ZmZWUlMjBtdWclMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4MTgyMjR8MA&ixlib=rb-4.1.0"
+  alt: "Woman drinking from white coffee cup"
+  author: "Candice Picard"
+  authorUrl: "https://unsplash.com/@candice_picard?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-drinking-from-white-coffee-cup-_zVwgzTbW2s?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Ongoing tiredness is common in women and usually has an identifiable cause."
   - "Frequent causes include poor sleep, iron deficiency, an underactive thyroid, stress, depression, perimenopause, some medicines, and conditions like diabetes or sleep apnea."
@@ -55,7 +61,10 @@ You wake up tired. You push through the afternoon on coffee. By evening you have
 
 Everyone feels tired after a bad night or a busy week. **Fatigue** is different. It is a lasting lack of energy that doesn't go away with rest and gets in the way of daily life. If that sounds like you, it is worth looking for the reason.
 
-<!-- unsplash: woman sleeping in bed morning light -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBzbGVlcGluZyUyMGluJTIwYmVkJTIwbW9ybmluZyUyMGxpZ2h0fGVufDF8MHx8fDE3OTE4MjY1NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBzbGVlcGluZyUyMGluJTIwYmVkJTIwbW9ybmluZyUyMGxpZ2h0fGVufDF8MHx8fDE3OTE4MjY1NTV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBzbGVlcGluZyUyMGluJTIwYmVkJTIwbW9ybmluZyUyMGxpZ2h0fGVufDF8MHx8fDE3OTE4MjY1NTV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBzbGVlcGluZyUyMGluJTIwYmVkJTIwbW9ybmluZyUyMGxpZ2h0fGVufDF8MHx8fDE3OTE4MjY1NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person lying in a bed" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@iam_os?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">iam_os</a> on <a href="https://unsplash.com/photos/a-person-lying-in-a-bed-tgMKcE-Qo5o?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Nine common reasons women feel worn out
 
@@ -99,7 +108,10 @@ Mayo Clinic and MedlinePlus list diabetes, heart and lung disease, kidney and li
 
 Some antidepressants, antihistamines, and pain or nausea medicines can cause tiredness. Don't stop a prescribed medicine on your own, but ask your doctor whether it could be a factor.
 
-<!-- unsplash: healthy plate salmon vegetables -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1547592180-85f173990554?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHBsYXRlJTIwc2FsbW9uJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzkxODI2NTU2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1547592180-85f173990554?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHBsYXRlJTIwc2FsbW9uJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzkxODI2NTU2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1547592180-85f173990554?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHBsYXRlJTIwc2FsbW9uJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzkxODI2NTU2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1547592180-85f173990554?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHBsYXRlJTIwc2FsbW9uJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzkxODI2NTU2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vegetable salad" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@ellaolsson?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ella Olsson</a> on <a href="https://unsplash.com/photos/vegetable-salad-KPDbRyFOTnE?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Small changes that help with most causes
 

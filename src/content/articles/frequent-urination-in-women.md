@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "woman drinking glass of water kitchen"
+cover:
+  url: "https://images.unsplash.com/photo-1756312177990-d771bfeaa030?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGtpdGNoZW58ZW58MXwwfHx8MTc5MTgxODIwNHww&ixlib=rb-4.1.0"
+  alt: "Woman filling a glass with water from a kitchen faucet"
+  author: "Centre for Ageing Better"
+  authorUrl: "https://unsplash.com/@ageing_better?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-filling-a-glass-with-water-from-a-kitchen-faucet-EFr2VO8st2U?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Many experts consider urinating more than about eight times in 24 hours to be frequent urination."
   - "Common causes in women include overactive bladder, urinary tract infections, pregnancy, menopause, diabetes, caffeine, alcohol, and some medicines."
@@ -88,7 +94,10 @@ Caffeine and alcohol make the body produce more urine and can irritate the bladd
 
 MedlinePlus also lists vaginitis and interstitial cystitis (a painful bladder condition) among possible causes. This is why a check-up matters if the problem does not go away.
 
-<!-- unsplash: woman writing in journal at table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1612200116836-dd1f35662adf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBqb3VybmFsJTIwYXQlMjB0YWJsZXxlbnwxfDB8fHwxNzkxODE4MjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman in black jacket sitting on chair" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@venusmajor?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">VENUS MAJOR</a> on <a href="https://unsplash.com/photos/woman-in-black-jacket-sitting-on-chair-NDdeOoTtxY0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Habits that cut down the trips
 
@@ -119,7 +128,10 @@ It takes patience, but many women see progress over a few weeks.
 
 Constipation puts pressure on the bladder. Fiber, fluids, and regular movement help.
 
-<!-- unsplash: woman talking with female doctor clinic -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1573495804664-b1c0849525af?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGZlbWFsZSUyMGRvY3RvciUyMGNsaW5pY3xlbnwxfDB8fHwxNzkxODE4MjA3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1573495804664-b1c0849525af?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGZlbWFsZSUyMGRvY3RvciUyMGNsaW5pY3xlbnwxfDB8fHwxNzkxODE4MjA3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1573495804664-b1c0849525af?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGZlbWFsZSUyMGRvY3RvciUyMGNsaW5pY3xlbnwxfDB8fHwxNzkxODE4MjA3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1573495804664-b1c0849525af?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWxraW5nJTIwd2l0aCUyMGZlbWFsZSUyMGRvY3RvciUyMGNsaW5pY3xlbnwxfDB8fHwxNzkxODE4MjA3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Shallow focus photo of woman in beige open cardigan" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Christina @ wocintechchat.com M</a> on <a href="https://unsplash.com/photos/shallow-focus-photo-of-woman-in-beige-open-cardigan-rCyiK4_aaWw?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Signs of an infection or something else
 

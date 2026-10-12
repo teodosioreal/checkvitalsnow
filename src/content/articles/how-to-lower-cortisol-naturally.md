@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "woman meditating at home calm"
+cover:
+  url: "https://images.unsplash.com/photo-1758876201548-ade1eff8b169?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBtZWRpdGF0aW5nJTIwYXQlMjBob21lJTIwY2FsbXxlbnwxfDB8fHwxNzkxODE4MjA4fDA&ixlib=rb-4.1.0"
+  alt: "Woman meditating on couch with headphones on"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-meditating-on-couch-with-headphones-on-kf_P2_M61WU?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Cortisol is a hormone made by your adrenal glands. It helps control blood sugar, blood pressure, inflammation, and your sleep-wake cycle, and it rises when you are stressed."
   - "Short bursts of cortisol are normal and useful. Long-term stress is the bigger concern."
@@ -78,7 +84,10 @@ The problem is **chronic stress**: work pressure, caregiving, money worries, or 
 
 These signs are common with chronic stress, but they also overlap with other conditions, including [hormonal imbalances](/womens-health/signs-of-hormonal-imbalance-in-women/) and [causes of fatigue](/womens-health/why-am-i-always-tired/) such as low iron or thyroid problems.
 
-<!-- unsplash: woman walking in nature trail -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1611767510833-2e3d33dda2f0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwaW4lMjBuYXR1cmUlMjB0cmFpbHxlbnwxfDB8fHwxNzkxODE4MjA5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1611767510833-2e3d33dda2f0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwaW4lMjBuYXR1cmUlMjB0cmFpbHxlbnwxfDB8fHwxNzkxODE4MjA5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1611767510833-2e3d33dda2f0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwaW4lMjBuYXR1cmUlMjB0cmFpbHxlbnwxfDB8fHwxNzkxODE4MjA5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1611767510833-2e3d33dda2f0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwaW4lMjBuYXR1cmUlMjB0cmFpbHxlbnwxfDB8fHwxNzkxODE4MjA5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person in red jacket walking on green grass field during daytime" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@elintabitha?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Elin  Tabitha</a> on <a href="https://unsplash.com/photos/person-in-red-jacket-walking-on-green-grass-field-during-daytime-f4DaSEk4sRA?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Eight habits that help your body handle stress
 
@@ -104,7 +113,10 @@ Stretching, meditation, yoga, or a relaxation app can help. NIMH lists deep brea
 
 NIMH advises avoiding too much caffeine from coffee, energy drinks, or soft drinks. Caffeine can make you feel more on edge and interfere with sleep.
 
-<!-- unsplash: friends laughing at coffee shop -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1653762381632-2945469edb7b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwYXQlMjBjb2ZmZWUlMjBzaG9wfGVufDF8MHx8fDE3OTE4MTgyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1653762381632-2945469edb7b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwYXQlMjBjb2ZmZWUlMjBzaG9wfGVufDF8MHx8fDE3OTE4MTgyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1653762381632-2945469edb7b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwYXQlMjBjb2ZmZWUlMjBzaG9wfGVufDF8MHx8fDE3OTE4MTgyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1653762381632-2945469edb7b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwYXQlMjBjb2ZmZWUlMjBzaG9wfGVufDF8MHx8fDE3OTE4MTgyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Two women sitting at a table with drinks" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@brookecagle?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Brooke Cagle</a> on <a href="https://unsplash.com/photos/two-women-sitting-at-a-table-with-drinks-uzxx6p4CHdQ?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ### 6. Stay connected
 

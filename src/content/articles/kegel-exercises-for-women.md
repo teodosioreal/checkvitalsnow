@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "woman stretching on yoga mat living room"
+cover:
+  url: "https://images.unsplash.com/photo-1758599880540-8150399824f0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwb24lMjB5b2dhJTIwbWF0JTIwbGl2aW5nJTIwcm9vbXxlbnwxfDB8fHwxNzkxODE4MjExfDA&ixlib=rb-4.1.0"
+  alt: "Woman doing yoga on a mat in a living room"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-doing-yoga-on-a-mat-in-a-living-room-Nr0-PgN_YIQ?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Kegel exercises strengthen the pelvic floor, the muscles that support your bladder, uterus, and bowel."
   - "The basic move: squeeze the muscles you use to hold in gas or urine, hold for about 3 seconds, then fully relax for 3 seconds. Work up to 10 to 15 reps, about three times a day."
@@ -78,7 +84,10 @@ This is the step most women get wrong, so take your time with it. Try one of the
 
 You should not feel your belly, thighs, or buttocks doing the work. If they tense up, relax and try again with a smaller squeeze.
 
-<!-- unsplash: woman lying on exercise mat at home -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1690957142151-8643452fbbd8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMG9uJTIwZXhlcmNpc2UlMjBtYXQlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTgxODIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1690957142151-8643452fbbd8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMG9uJTIwZXhlcmNpc2UlMjBtYXQlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTgxODIxMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1690957142151-8643452fbbd8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMG9uJTIwZXhlcmNpc2UlMjBtYXQlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTgxODIxMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1690957142151-8643452fbbd8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBseWluZyUyMG9uJTIwZXhlcmNpc2UlMjBtYXQlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTgxODIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A woman laying on the floor in a kitchen" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@withpeyman?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Peyman Shojaei</a> on <a href="https://unsplash.com/photos/a-woman-laying-on-the-floor-in-a-kitchen-xEdBbxFoY28?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Step 2: A simple starter routine
 
@@ -110,7 +119,10 @@ Some routines also include fast "flicks": squeeze hard for one second, then let 
 - **Overdoing it.** More is not always better. Tired muscles can make leakage worse for a while.
 - **Using midstream stopping as exercise.** Stopping urine regularly can keep the bladder from emptying fully and may raise the risk of a bladder infection.
 
-<!-- unsplash: woman walking outdoors morning -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnMlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4MTgyMTN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnMlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4MTgyMTN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnMlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4MTgyMTN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnMlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4MTgyMTN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman walking on pathway during daytime" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@esdesignisms?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Emma Simpson</a> on <a href="https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How long until Kegels work?
 
