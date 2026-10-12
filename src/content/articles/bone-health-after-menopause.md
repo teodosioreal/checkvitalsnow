@@ -13,6 +13,12 @@ secondaryKeywords:
 datePublished: 2026-10-12
 dateModified: 2026-10-12
 imageQuery: "older woman hiking trail"
+cover:
+  url: "https://images.unsplash.com/photo-1779653620724-98a9dd7bea17?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjB3b21hbiUyMGhpa2luZyUyMHRyYWlsfGVufDF8MHx8fDE3OTE4MjY2Mjl8MA&ixlib=rb-4.1.0"
+  alt: "Woman walks on sunlit path in lush green forest"
+  author: "István Gerényi"
+  authorUrl: "https://unsplash.com/@ingere?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-walks-on-sunlit-path-in-lush-green-forest-fNhPZquN96I?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Estrogen helps protect bone. When it drops at menopause, bone loss speeds up. Some women lose up to 25% of their bone mass in the first 10 years after menopause."
   - "Calcium and vitamin D work together. Women 51 to 70 need 600 IU of vitamin D a day, and women 71 and older need 800 IU."
