@@ -48,10 +48,11 @@ Este é um nicho YMYL. Um dado inventado pode prejudicar a leitora, derrubar o s
 ### 4.1 Saúde (FDA / linguagem)
 
 - **Proibido** afirmar ou sugerir que um suplemento, alimento, chá ou remédio caseiro diagnostica, trata, cura ou previne doenças.
-- Quando o artigo falar de suplementos (cálcio, ferro, vitamina D etc.), use linguagem cautelosa, cite a fonte oficial (ex.: NIH Office of Dietary Supplements) e diga para conversar com o médico antes.
-- **Disclaimers no rodapé de todas as páginas** (já implementados em `Footer.astro`, textos em `src/data/site.ts`):
-  - Médico: *"This content is for informational purposes only and is not a substitute for professional medical advice. Talk to your doctor before starting any supplement, especially if you are pregnant, nursing, taking medication, or have a medical condition."*
-  - FDA: *"These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."*
+- **Suplementos não são tema do site.** Só aparecem como aviso de segurança com fonte oficial (ex.: "não tome ferro por conta própria", NIH Office of Dietary Supplements). Nada de seções sobre suplementos, nada de "hormone balancing", "detox" ou "boost" como promessa.
+- **Vocabulário cauteloso:** prefira "may help", "can help", "health agencies recommend", "research suggests". Evite "actually helps", "fix", "boost", "proven", "works" quando se referir a resultados de saúde.
+- **Disclaimer médico no rodapé de todas as páginas** (já implementado em `Footer.astro`, texto em `src/data/site.ts`):
+  - *"This content is for general information only and is not a substitute for professional medical advice, diagnosis, or treatment. Always ask your doctor or another qualified health professional about any questions you have about your health."*
+- O site **não** usa o disclaimer da FDA ("This product is not intended…") porque não fala de produtos.
 
 ### 4.2 Proibições de linguagem
 
