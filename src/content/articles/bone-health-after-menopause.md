@@ -12,13 +12,7 @@ secondaryKeywords:
   - "bone density test"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
-imageQuery: "senior woman walking outdoors"
-cover:
-  url: "https://images.unsplash.com/photo-1761774805370-f11daa727c44?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTgxODIwMHww&ixlib=rb-4.1.0"
-  alt: "Woman in green dress behind lush green foliage"
-  author: "Alexandros Giannakakis"
-  authorUrl: "https://unsplash.com/@alegi__?utm_source=checkvitalsnow&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/woman-in-green-dress-behind-lush-green-foliage-cEtZHYBHsfI?utm_source=checkvitalsnow&utm_medium=referral"
+imageQuery: "older woman hiking trail"
 keyTakeaways:
   - "Estrogen helps protect bone. When it drops at menopause, bone loss speeds up. Some women lose up to 25% of their bone mass in the first 10 years after menopause."
   - "Calcium and vitamin D work together. Women 51 to 70 need 600 IU of vitamin D a day, and women 71 and older need 800 IU."
