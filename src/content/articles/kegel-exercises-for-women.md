@@ -52,13 +52,13 @@ Kegel exercises sound simple: squeeze, hold, relax. Yet many women try them for 
 
 Here is how to find the right muscles, a routine you can start today, and the mistakes that hold most women back.
 
-## What is the pelvic floor?
+## Meet your pelvic floor
 
 Picture a sling of muscle stretched across the bottom of your pelvis, from your pubic bone in front to your tailbone in back. That is your pelvic floor. It holds your pelvic organs in place and helps you control when urine, gas, and stool come out.
 
 Pregnancy, childbirth, aging, menopause, chronic coughing, and extra weight can stretch or weaken these muscles. When that happens, you may notice [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) or a sudden urge you can't hold.
 
-## Who can benefit from Kegels?
+## Who Kegels help, and who should check first
 
 Kegel exercises may help if you:
 
@@ -103,7 +103,7 @@ Once lying down feels easy, practice while sitting and standing too. NIDDK notes
 
 Some routines also include fast "flicks": squeeze hard for one second, then let go. Quick squeezes train the muscles to react fast, which helps when a sneeze or cough catches you off guard.
 
-## Common mistakes to avoid
+## Six mistakes that keep Kegels from working
 
 - **Holding your breath.** Breathe normally the whole time.
 - **Squeezing the wrong muscles.** Your stomach, thighs, and buttocks should stay relaxed.
@@ -120,11 +120,11 @@ Be patient. Muscle strength builds slowly. Many women need several weeks of stea
 
 A simple way to stay consistent: link your Kegels to something you already do. Do a set at every red light, while brushing your teeth, or during the commercials of a show.
 
-## Getting help if you are not sure
+## Not sure you are doing them right?
 
 Many women find it hard to tell whether they are doing Kegels right. That is normal. A doctor, nurse, or **pelvic floor physical therapist** can check your technique. They may use **biofeedback**, where a small sensor shows on a screen when you are squeezing the right muscles.
 
-## When to see a doctor
+## When Kegels are not enough
 
 Talk to a doctor if:
 
@@ -134,8 +134,8 @@ Talk to a doctor if:
 - You have pain or burning when you urinate, blood in your urine, or fever
 - You feel heaviness or a bulge in your vagina
 
-## What else can help
+## Can a supplement do the work for you?
 
-Kegels work best as part of a bigger plan: steady practice, a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/), and a check-up when something changes. Some women also consider supplements marketed for bladder support alongside exercise. They are not a substitute for pelvic floor training or medical care.
+Kegels are slow, unglamorous work, and that is why they help: the muscle gets stronger a little at a time. Pair them with a few [bladder-friendly habits](/womens-health/bladder-irritants-foods-and-drinks/) and give it a couple of months before you judge.
 
-If you are looking into one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) covers what it contains and what to weigh before buying. Ask your doctor before starting any supplement.
+You will also see supplements sold as a shortcut to bladder control. No capsule strengthens a muscle for you. If you still want to look at one alongside your exercises, our [side-by-side look at five bladder supplements](/best/bladder-supplements-for-women/) explains what each contains and who it suits. Ask your doctor before you start one.

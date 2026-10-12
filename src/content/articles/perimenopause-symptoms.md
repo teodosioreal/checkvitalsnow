@@ -39,7 +39,6 @@ sources:
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
   - title: "Menopause and your health, Office on Women's Health (HHS)"
     url: "https://womenshealth.gov/menopause/menopause-and-your-health"
-promo: femipro
 related:
   - signs-of-hormonal-imbalance-in-women
   - menopause-and-bladder-leakage
@@ -67,7 +66,7 @@ Smoking, family history, and some medical treatments can affect when it starts.
 
 <!-- unsplash: woman lying awake in bed at night -->
 
-## Common perimenopause symptoms
+## Symptoms you might notice
 
 Not every woman has every symptom, and intensity varies a lot. The Office on Women's Health stresses there is no single experience that everyone shares. Common symptoms include:
 
@@ -107,15 +106,15 @@ Aches and stiffness can show up or get worse.
 
 Hormone shifts, poor sleep, and heavy periods can all leave you drained. If tiredness is your main issue, see our guide on [why you might feel tired all the time](/womens-health/why-am-i-always-tired/).
 
-## How perimenopause affects long-term health
+## Why it matters for your bones and heart
 
 Lower estrogen affects more than your cycle. The Office on Women's Health notes that the years around menopause bring changes in **bone health** and **heart health**. Bone loss speeds up after menopause, which is why this is a good time to focus on [protecting your bones](/womens-health/bone-health-after-menopause/).
 
 <!-- unsplash: women friends walking together outdoors -->
 
-## What helps with perimenopause symptoms
+## Ways to feel better
 
-### Lifestyle steps
+### On your own
 
 - **Track your cycle and symptoms.** A simple app or notebook helps you and your doctor see patterns.
 - **Keep your bedroom cool** and dress in layers to manage hot flashes.
@@ -125,7 +124,7 @@ Lower estrogen affects more than your cycle. The Office on Women's Health notes 
 - **Manage stress** with whatever works for you: walks, breathing exercises, time with friends.
 - **Use a vaginal moisturizer or lubricant** for dryness.
 
-### Medical treatments
+### With your doctor
 
 The Office on Women's Health notes that medicines and other treatments can relieve symptoms. Depending on your health, your doctor may discuss:
 
@@ -136,7 +135,7 @@ The Office on Women's Health notes that medicines and other treatments can relie
 
 Each option has benefits and risks that depend on your age and health history.
 
-## When to see a doctor
+## Bleeding and other signs to get checked
 
 See a doctor if:
 
@@ -148,8 +147,8 @@ See a doctor if:
 
 Get help right away if you have thoughts of harming yourself.
 
-## What else can help
+## What about menopause supplements?
 
-Perimenopause is easier to manage when you understand what is happening, track your symptoms, and talk openly with your doctor about treatment. Some women also explore supplements marketed for hormonal balance and energy during midlife. They are not a replacement for medical care and are not intended to treat menopause.
+Supplements for "hormone balance" are marketed hard to women in their 40s. None replaces the treatments above, and some interact with prescription medicines. Track your symptoms for a few cycles and bring that record to your doctor. It will tell you more than any label.
 
-If you have come across one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) explains what it is and what to consider before buying. Ask your doctor before starting any supplement, especially if you take hormones or other medicines.
+If bladder changes are part of your perimenopause, our guide to [menopause and bladder leakage](/womens-health/menopause-and-bladder-leakage/) covers what helps.

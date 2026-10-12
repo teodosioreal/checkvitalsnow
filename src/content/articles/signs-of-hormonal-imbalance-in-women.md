@@ -36,7 +36,6 @@ sources:
     url: "https://my.clevelandclinic.org/health/diseases/21608-perimenopause"
   - title: "Cortisol: What It Is, Function, Symptoms & Levels, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/articles/22187-cortisol"
-promo: femipro
 related:
   - perimenopause-symptoms
   - why-am-i-always-tired
@@ -44,11 +43,11 @@ related:
   - menopause-and-bladder-leakage
 ---
 
-Your period has become unpredictable. You feel tired no matter how much you sleep. Your mood swings faster than it used to, the scale creeps up without any change in your habits, and your skin is breaking out like you are a teenager again. It is natural to wonder: are my hormones off?
+Your period has become unpredictable. You feel tired no matter how much you sleep. Your mood swings faster than it used to, the scale creeps up without any change in your habits, and your skin is breaking out like you are a teenager again. Are your hormones off?
 
-**Common signs of hormonal imbalance in women include irregular periods, fatigue, unexplained weight changes, mood changes, acne, sleep problems, and changes in sex drive.** Hormones act as chemical messengers for almost every system in the body, so when one is out of range, the effects can show up in many places. The catch is that these same symptoms have plenty of other causes, so the only way to know for sure is to see a doctor.
+**Common signs of hormonal imbalance in women include irregular periods, fatigue, unexplained weight changes, mood changes, acne, sleep problems, and changes in sex drive.** Hormones act as chemical messengers for almost every system in the body, so when one is out of range, the effects can show up in many places. But these same symptoms have plenty of other causes, so the only way to know for sure is to see a doctor.
 
-## What are hormones and why do they matter?
+## What your hormones do
 
 Hormones are chemicals made by glands such as the thyroid, ovaries, adrenal glands, and pituitary gland. They travel through your blood and tell organs what to do. They help control:
 
@@ -60,9 +59,9 @@ Hormones are chemicals made by glands such as the thyroid, ovaries, adrenal glan
 - Blood sugar
 - Bone health
 
-Because they do so much, Cleveland Clinic notes that hormonal imbalances can cause a wide range of symptoms, and the signs depend on which hormone and which gland is involved.
+Because hormones do so much, an imbalance can show up in many ways. Cleveland Clinic notes that the signs depend on which hormone and which gland is involved.
 
-## Common signs of hormonal imbalance
+## Signs that can point to a hormone problem
 
 ### Menstrual changes
 
@@ -94,7 +93,7 @@ Trouble sleeping, night sweats, and lower interest in sex often show up during p
 
 <!-- unsplash: woman with calendar planner -->
 
-## Common hormonal causes in women
+## What usually throws hormones off
 
 ### Perimenopause and menopause
 
@@ -118,7 +117,7 @@ Your body releases **cortisol** when you are under stress. Cortisol affects bloo
 
 ## Not every symptom is hormonal
 
-Here is the honest part: tiredness, weight changes, mood swings, and hair loss can come from many things besides hormones. Poor sleep, diet, stress, medicines, anemia, and other health conditions all cause similar symptoms. A Cleveland Clinic women's health specialist has noted that symptoms like weight or hair changes are not always hormonal and can come from diet and lifestyle.
+Tiredness, weight changes, mood swings, and hair loss can come from many things besides hormones. Poor sleep, diet, stress, medicines, anemia, and other health conditions all cause similar symptoms. A Cleveland Clinic women's health specialist has noted that symptoms like weight or hair changes are not always hormonal and can come from diet and lifestyle.
 
 That is why self-diagnosing from a checklist, or from an ad, rarely works.
 
@@ -135,9 +134,9 @@ A doctor will usually:
 
 Treatment depends on the cause. It may include medicine, hormone therapy, or lifestyle changes.
 
-## What you can do now
+## While you wait for answers
 
-While you wait for answers, these habits support overall hormonal health:
+These habits support overall hormonal health:
 
 - **Keep a symptom diary.** Track your cycle, energy, mood, and sleep. It helps your doctor a lot.
 - **Prioritize sleep.** Aim for a regular bedtime and wake time.
@@ -145,7 +144,7 @@ While you wait for answers, these habits support overall hormonal health:
 - **Eat regular, balanced meals** with protein, fiber, and healthy fats.
 - **Manage stress** in ways that work for you.
 
-## When to see a doctor
+## When to book an appointment
 
 Make an appointment if:
 
@@ -157,8 +156,8 @@ Make an appointment if:
 
 Seek care right away if you have a racing heart, chest pain, fainting, or thoughts of harming yourself.
 
-## What else can help
+## Be wary of "hormone balancing" products
 
-For most women, getting the right diagnosis is the most important step, because treatment depends on the cause. Alongside medical care and healthy habits, some women look at supplements marketed for hormonal balance and energy. These are not a substitute for testing or treatment.
+Ads for "hormone balancing" supplements often list the same symptoms you just read. Because those symptoms have so many possible causes, a pill chosen from an ad can delay the test that finds the real one. Get the diagnosis first, then ask your doctor whether any supplement makes sense for you.
 
-If one of these products has caught your eye, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) looks at what it is and what to consider first. Talk with your doctor before starting any supplement.
+If one symptom stands out, our guides on [constant tiredness](/womens-health/why-am-i-always-tired/) and [perimenopause](/womens-health/perimenopause-symptoms/) go deeper.

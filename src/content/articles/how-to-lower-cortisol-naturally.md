@@ -38,7 +38,6 @@ sources:
     url: "https://www.cdc.gov/mental-health/living-with/index.html"
   - title: "The Role of Cortisol in Chronic Stress, Neurodegenerative Diseases, and Psychological Disorders, PMC"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10706127/"
-promo: femipro
 related:
   - why-am-i-always-tired
   - signs-of-hormonal-imbalance-in-women
@@ -50,7 +49,7 @@ Your to-do list never ends. You lie in bed with your mind racing, wake up alread
 
 **Cortisol is your body's main stress hormone, and the most reliable ways to keep it in a healthy range are everyday habits: steady sleep, regular exercise, relaxation practices, less caffeine, and strong social connections.** There is no single food, drink, or trick that "flushes" cortisol. But the right routine helps your body recover from stress instead of staying stuck in alarm mode.
 
-## What is cortisol?
+## What cortisol does in your body
 
 Cortisol is a steroid hormone made by your adrenal glands, which sit on top of your kidneys. According to Cleveland Clinic, it does much more than handle stress. Cortisol helps:
 
@@ -61,7 +60,7 @@ Cortisol is a steroid hormone made by your adrenal glands, which sit on top of y
 
 Cortisol naturally rises in the morning to help you wake up and drops at night so you can sleep.
 
-## How stress affects cortisol
+## When stress doesn't switch off
 
 When you face a threat or pressure, your brain signals your adrenal glands to release cortisol. Your heart beats faster, your blood sugar rises, and your body gets ready to act. Once the stress passes, levels should come back down.
 
@@ -81,7 +80,7 @@ These signs are common with chronic stress, but they also overlap with other con
 
 <!-- unsplash: woman walking in nature trail -->
 
-## 7 habits that help your body handle stress
+## Eight habits that help your body handle stress
 
 The National Institute of Mental Health (NIMH) and the CDC recommend practical steps that are simple, free, and well supported.
 
@@ -115,15 +114,15 @@ Spending time with people you trust is one of the most protective things you can
 
 NIMH notes that constant exposure to upsetting news can add to stress. Set limits on how often you check.
 
-### Bonus: write it down
+### 8. Write it down
 
 Journaling and naming worried thoughts can help you see patterns and challenge unhelpful thinking, another tip from NIMH.
 
-## A note on "cortisol detox" trends
+## What about "cortisol detox" drinks?
 
 Social media is full of drinks and routines promising to lower cortisol fast. Most of these claims are not backed by solid research. The basics above are less flashy, but they are what health agencies actually recommend.
 
-## When to see a doctor
+## When stress needs more than self-care
 
 Talk to a doctor or mental health professional if:
 
@@ -134,8 +133,8 @@ Talk to a doctor or mental health professional if:
 
 **Get help right away** if you have thoughts of harming yourself. In the U.S., you can call or text **988** to reach the Suicide & Crisis Lifeline.
 
-## What else can help
+## Where supplements fit
 
-Managing stress is mostly about daily habits and getting support when you need it. Some women also look at supplements marketed for stress, mood, and hormonal balance. They are not a replacement for sleep, movement, connection, or professional care.
+You will see plenty of supplements sold for stress and "adrenal support." The habits above have far better backing than any of them, and some supplements interact with prescription medicines. If you are thinking about one, ask your doctor or pharmacist first, especially if you take medicine for anxiety, depression, or blood pressure.
 
-If you have seen one of these products advertised, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) looks at what it contains and what to consider before buying. Ask your doctor before starting any supplement, especially if you take medicine for anxiety, depression, or blood pressure.
+Stress often travels with other problems. If you are also running on empty, read [why you might feel tired all the time](/womens-health/why-am-i-always-tired/).

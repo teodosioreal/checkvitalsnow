@@ -49,8 +49,6 @@ You plan your errands around bathrooms. You check where the restroom is the mome
 
 **Frequent urination means needing to pee more often than usual, and many experts put the line at more than about eight times in 24 hours.** In women, the most common reasons are an overactive bladder, a urinary tract infection, hormonal changes such as menopause, and everyday habits like caffeine intake. Some causes are simple to fix. Others need a doctor.
 
-This guide covers the usual causes, the habits that help, and the warning signs to watch for.
-
 ## What counts as frequent urination?
 
 Everyone is different, and how much you drink matters. Still, it may be worth a closer look if you:
@@ -62,7 +60,7 @@ Everyone is different, and how much you drink matters. Still, it may be worth a 
 
 Frequent urination often comes with **urgency**, the feeling that you need to go right now. When urgency leads to leakage, it is called urge incontinence.
 
-## Common causes in women
+## Why you might be going so often
 
 ### Overactive bladder (OAB)
 
@@ -88,13 +86,13 @@ MedlinePlus lists diabetes that is not well controlled as a cause of frequent ur
 
 Caffeine and alcohol make the body produce more urine and can irritate the bladder. Carbonated drinks and artificial sweeteners bother some people too. Water pills (diuretics) are another common cause. See our list of [foods and drinks that can irritate the bladder](/womens-health/bladder-irritants-foods-and-drinks/).
 
-### Other causes
+### Less common causes
 
 MedlinePlus also lists vaginitis and interstitial cystitis (a painful bladder condition) among possible causes. This is why a check-up matters if the problem does not go away.
 
 <!-- unsplash: woman writing in journal at table -->
 
-## Habits that can help
+## Habits that cut down the trips
 
 ### Bladder training
 
@@ -108,7 +106,7 @@ Bladder training teaches your bladder to hold more urine for longer. Here is the
 
 It takes patience, but many women see progress over a few weeks.
 
-### Smart fluid habits
+### Drink smarter, not less
 
 - **Don't cut water too much.** Concentrated urine can irritate the bladder and make urgency worse.
 - **Spread your drinks through the day** instead of drinking a lot at once.
@@ -125,7 +123,7 @@ Constipation puts pressure on the bladder. Fiber, fluids, and regular movement h
 
 <!-- unsplash: woman talking with female doctor clinic -->
 
-## When to see a doctor
+## Signs of an infection or something else
 
 See a doctor promptly if frequent urination comes with any of these:
 
@@ -138,8 +136,8 @@ See a doctor promptly if frequent urination comes with any of these:
 
 Also make an appointment if frequent urination is affecting your sleep, work, or social life, even without other symptoms. There are effective treatments, including medicines, for overactive bladder.
 
-## What else can help
+## Should you try a bladder supplement?
 
-For most women, the best plan combines bladder training, steady fluid habits, pelvic floor exercises, and a medical check to rule out infection or diabetes. Some women also look at supplements sold for urinary and bladder support. They are not a treatment for overactive bladder or infections.
+Start with the free steps: a bladder diary, bladder training, and a checkup for infection or high blood sugar. Those find the cause, and they solve many cases on their own. Supplements sold for bladder support don't treat overactive bladder or infections, and the evidence behind them is limited.
 
-If you have been seeing ads for one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) explains what it is and what to consider before you buy. Check with your doctor before starting any supplement.
+If you want to see what's out there, we compared [five bladder supplements for women](/best/bladder-supplements-for-women/) on ingredients, research, and guarantees, and we wrote a detailed [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/). Run any supplement by your doctor first.

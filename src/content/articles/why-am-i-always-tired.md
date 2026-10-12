@@ -40,7 +40,6 @@ sources:
     url: "https://womenshealth.gov/a-z-topics/iron-deficiency-anemia"
   - title: "Iron Fact Sheet for Consumers, NIH Office of Dietary Supplements"
     url: "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
-promo: femipro
 related:
   - signs-of-hormonal-imbalance-in-women
   - how-to-lower-cortisol-naturally
@@ -58,7 +57,7 @@ Everyone feels tired after a bad night or a busy week. **Fatigue** is different.
 
 <!-- unsplash: woman sleeping in bed morning light -->
 
-## 9 common causes of fatigue in women
+## Nine common reasons women feel worn out
 
 ### 1. Poor sleep
 
@@ -102,7 +101,7 @@ Some antidepressants, antihistamines, and pain or nausea medicines can cause tir
 
 <!-- unsplash: healthy plate salmon vegetables -->
 
-## What you can do now
+## Small changes that help with most causes
 
 Start with the basics. They help with almost every cause:
 
@@ -115,7 +114,7 @@ Start with the basics. They help with almost every cause:
 - **Drink enough water.**
 - **Make room for rest and stress relief.**
 
-## When to see a doctor
+## When tiredness needs a checkup
 
 Mayo Clinic suggests seeing a doctor if your fatigue hasn't improved after **two weeks** of rest, less stress, good food, and plenty of fluids. Also make an appointment if fatigue:
 
@@ -128,8 +127,8 @@ Your doctor may order blood tests to check for anemia, iron levels, thyroid func
 
 **Get emergency care** if fatigue comes with chest pain, shortness of breath, a fast or irregular heartbeat, feeling like you might faint, confusion, severe headache, or thoughts of harming yourself.
 
-## What else can help
+## Do energy supplements help?
 
-Fatigue usually improves when you find and treat the cause, whether that is low iron, a thyroid issue, poor sleep, or stress. Some women also look at supplements marketed for women's energy and vitality. These can't replace a diagnosis, and more is not better, especially with iron.
+Fatigue gets better when the cause is found and treated, whether that is low iron, an underactive thyroid, poor sleep, or stress. A supplement sold for women's energy can't tell you which one it is, and iron you don't need can do harm. A blood test is a better first step than any bottle.
 
-If you have been seeing ads for one of these products, our [FemiPro review](/femipro-review-scam-or-legit-femipro-full-review/) covers what it is and what to check before you buy. Talk to your doctor before starting any supplement.
+If stress or hormones seem to be part of the picture, read our guides on [lowering cortisol](/womens-health/how-to-lower-cortisol-naturally/) and [signs of hormonal imbalance](/womens-health/signs-of-hormonal-imbalance-in-women/).
