@@ -7,6 +7,9 @@ import ScoreRing from '../../components/ScoreRing.astro';
 import { author, site } from '../../data/site';
 import femiproBottle from '../../assets/reviews/femipro/femipro-bottle.png';
 import everlyImage from '../../assets/products/everly-pumpkin-seed-oil-saw-palmetto.webp';
+import azoImage from '../../assets/products/azo-bladder-control.webp';
+import uqoraImage from '../../assets/products/uqora-flush.webp';
+import confitrolImage from '../../assets/products/confitrol24.webp';
 
 // Scores come from the weighted criteria published in "How we ranked them" below.
 const criteria = [
@@ -48,6 +51,8 @@ const products = [
     id: 'azo',
     name: 'AZO Bladder Control with Go-Less',
     bestFor: 'Best drugstore option',
+    image: azoImage,
+    imageAlt: 'AZO Bladder Control with Go-Less box and capsule bottle',
     scores: { scope: 4, evidence: 6, transparency: 9, guarantee: 4, access: 9 },
     focus: 'Bladder control (urgency and frequency)',
     keyIngredients: 'Go-Less blend of pumpkin seed extract and soy germ extract (300 mg per capsule)',
@@ -61,6 +66,8 @@ const products = [
     id: 'uqora',
     name: 'Uqora',
     bestFor: 'Best for frequent UTIs',
+    image: uqoraImage,
+    imageAlt: 'Uqora Flush urinary tract drink mix box, pink lemonade flavor, with a stick packet',
     scores: { scope: 5, evidence: 6, transparency: 8, guarantee: 4, access: 8 },
     focus: 'Urinary tract health (UTI prevention)',
     keyIngredients: 'D-mannose drink mix and a probiotic capsule with Lactobacillus strains (separate products)',
@@ -74,6 +81,8 @@ const products = [
     id: 'confitrol24',
     name: 'Confitrol24',
     bestFor: 'Best-studied herbal blend for urgency',
+    image: confitrolImage,
+    imageAlt: 'Confitrol24 Bladder Control bottle, 60 vegetarian capsules',
     scores: { scope: 4, evidence: 8, transparency: 5, guarantee: 4, access: 6 },
     focus: 'Bladder control (urgency and frequency)',
     keyIngredients: 'Urox blend: Crateva nurvala, horsetail, and Lindera aggregata',
