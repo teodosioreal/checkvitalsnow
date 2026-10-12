@@ -12,6 +12,7 @@ secondaryKeywords:
   - "thyroid symptoms women"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman thinking calm portrait"
 keyTakeaways:
   - "Hormones control many body systems, so an imbalance can cause a wide range of symptoms."
   - "Common signs include irregular periods, fatigue, unexplained weight changes, mood changes, acne, sleep problems, and changes in libido."

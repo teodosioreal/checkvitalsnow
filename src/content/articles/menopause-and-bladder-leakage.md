@@ -12,6 +12,7 @@ secondaryKeywords:
   - "incontinence after menopause"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "middle aged woman smiling outdoors"
 keyTakeaways:
   - "Lower estrogen during and after menopause affects the tissues of the vagina, urethra, and bladder."
   - "This can lead to urgency, frequent urination, waking at night to pee, leakage, and more urinary tract infections. Doctors call this group of symptoms genitourinary syndrome of menopause (GSM)."

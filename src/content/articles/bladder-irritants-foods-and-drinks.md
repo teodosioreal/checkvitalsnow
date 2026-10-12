@@ -12,6 +12,7 @@ secondaryKeywords:
   - "elimination diet for bladder"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "coffee cup and herbal tea"
 keyTakeaways:
   - "Some foods and drinks can make bladder urgency, frequency, or leakage worse in sensitive people."
   - "Common suspects include caffeine, alcohol, carbonated drinks, citrus, tomatoes, spicy foods, chocolate, and artificial sweeteners."

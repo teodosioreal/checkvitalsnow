@@ -12,6 +12,7 @@ secondaryKeywords:
   - "bladder training"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman drinking water glass"
 keyTakeaways:
   - "Many experts consider urinating more than about eight times in 24 hours to be frequent urination."
   - "Common causes in women include overactive bladder, urinary tract infections, pregnancy, menopause, diabetes, caffeine, alcohol, and some medicines."

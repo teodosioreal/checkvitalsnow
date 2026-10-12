@@ -12,6 +12,7 @@ secondaryKeywords:
   - "pelvic floor weakness"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman sneezing tissue"
 keyTakeaways:
   - "Leaking a little urine when you sneeze, cough, laugh, or jump is usually stress incontinence, the most common bladder control problem in younger and middle-aged women."
   - "It happens when the pelvic floor muscles and the urethra can't hold back pressure on the bladder. Pregnancy, childbirth, and menopause are common reasons."

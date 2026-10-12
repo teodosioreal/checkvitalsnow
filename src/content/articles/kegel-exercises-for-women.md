@@ -12,6 +12,7 @@ secondaryKeywords:
   - "pelvic floor muscle training"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman exercise mat stretching"
 keyTakeaways:
   - "Kegel exercises strengthen the pelvic floor, the muscles that support your bladder, uterus, and bowel."
   - "The basic move: squeeze the muscles you use to hold in gas or urine, hold for about 3 seconds, then fully relax for 3 seconds. Work up to 10 to 15 reps, about three times a day."

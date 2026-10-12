@@ -12,6 +12,7 @@ secondaryKeywords:
   - "how long does perimenopause last"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman in her 40s portrait"
 keyTakeaways:
   - "Perimenopause is the transition before menopause, when estrogen and other hormones rise and fall unevenly."
   - "It can start anywhere from the mid-30s to the mid-50s and may last a short time or several years."

@@ -12,6 +12,7 @@ secondaryKeywords:
   - "tired all the time thyroid"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "tired woman coffee morning"
 keyTakeaways:
   - "Ongoing tiredness is common in women and usually has an identifiable cause."
   - "Frequent causes include poor sleep, iron deficiency, an underactive thyroid, stress, depression, perimenopause, some medicines, and conditions like diabetes or sleep apnea."

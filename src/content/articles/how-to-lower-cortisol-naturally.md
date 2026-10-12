@@ -12,6 +12,7 @@ secondaryKeywords:
   - "stress hormone women"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "woman meditating calm"
 keyTakeaways:
   - "Cortisol is a hormone made by your adrenal glands. It helps control blood sugar, blood pressure, inflammation, and your sleep-wake cycle, and it rises when you are stressed."
   - "Short bursts of cortisol are normal and useful. Long-term stress is the bigger concern."

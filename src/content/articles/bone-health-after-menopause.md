@@ -12,6 +12,7 @@ secondaryKeywords:
   - "bone density test"
 datePublished: 2026-10-12
 dateModified: 2026-10-12
+imageQuery: "older woman walking outdoors"
 keyTakeaways:
   - "Estrogen helps protect bone. When it drops at menopause, bone loss speeds up. Some women lose up to 25% of their bone mass in the first 10 years after menopause."
   - "Calcium and vitamin D work together. Women 51 to 70 need 600 IU of vitamin D a day, and women 71 and older need 800 IU."
