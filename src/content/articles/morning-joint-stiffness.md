@@ -1,6 +1,6 @@
 ---
 title: "Why Are My Joints Stiff in the Morning? Causes and Help"
-description: "Stiff, achy joints first thing in the morning? What the length of stiffness can tell you, common causes like arthritis, a 10-minute loosening routine, and red flags."
+description: "Stiff joints first thing in the morning? What the length of stiffness tells you, common causes like arthritis, a 10-minute routine, and red flags."
 h1: "Why Are My Joints Stiff in the Morning? What It Means and How to Loosen Up"
 category: pain-and-nerves
 primaryKeyword: "joint stiffness in the morning"
@@ -123,7 +123,7 @@ Ask about polymyalgia rheumatica, especially if it came on fairly quickly.
 
 Morning stiffness after hard training is common. If it lasts long, comes with swelling, or affects your lower back and improves with exercise, mention it to a doctor.
 
-## Warning signs that need a doctor
+## Stiffness that should not wait
 
 See a doctor if:
 

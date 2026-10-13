@@ -1,6 +1,6 @@
 ---
 title: "Anti-Inflammatory Eating: Foods to Favor and Limit"
-description: "Curious about an anti-inflammatory diet for aches and stiffness? Foods to favor and limit, easy swaps, a simple week of meals, and what to know about supplements."
+description: "An anti-inflammatory diet for aches and stiffness: foods to favor and limit, easy swaps, a simple week of meals, and what to know about supplements."
 h1: "Anti-Inflammatory Eating for Aches and Stiffness: Foods to Favor, Foods to Limit"
 category: pain-and-nerves
 primaryKeyword: "anti-inflammatory diet"
