@@ -126,7 +126,7 @@ After two or three weeks, the pattern between what you did and how you felt a da
 
 **One caution:** pushing through with steadily increasing exercise can make post-exertional malaise worse. Talk with a doctor who understands ME/CFS before starting an exercise program.
 
-## Starting points by situation
+## Where your fatigue story begins
 
 ### If it started after COVID-19 or another infection
 
