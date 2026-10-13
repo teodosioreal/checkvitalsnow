@@ -9,8 +9,19 @@ export const site = {
 export const categories = {
   'womens-health': {
     name: "Women's Health",
+    title: "Women's Health Guides | CheckVitalsNow",
+    metaDescription:
+      'Practical, medically sourced guides on bladder leakage, hormones, fatigue, stress, and bone health for women.',
     description:
       'Bladder leakage, hormone changes, constant tiredness, stress, and bone health: practical guides for women from perimenopause to life after menopause.',
+  },
+  'mens-health': {
+    name: "Men's Health",
+    title: "Men's Health Guides | CheckVitalsNow",
+    metaDescription:
+      'Clear, medically sourced guides on prostate health, urinary symptoms, and other everyday health questions for men.',
+    description:
+      'Prostate changes, urinary symptoms, and the health questions men tend to put off: plain-language guides on what is normal, what can help, and when to see a doctor.',
   },
 } as const;
 
@@ -20,6 +31,7 @@ export const author = {
 
 export const nav: { label: string; href: string }[] = [
   { label: "Women's Health", href: '/womens-health/' },
+  { label: "Men's Health", href: '/mens-health/' },
   { label: 'About', href: '/about/' },
   { label: 'How We Write', href: '/editorial-policy/' },
 ];

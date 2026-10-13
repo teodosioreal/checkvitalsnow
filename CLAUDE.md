@@ -95,7 +95,7 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 │   │   └── PageLayout.astro      # páginas institucionais (breadcrumb, "Last updated", WebPage + BreadcrumbList)
 │   ├── pages/
 │   │   ├── index.astro           # home: temas, padrões editoriais, compromisso
-│   │   ├── womens-health/        # hub da categoria + [slug].astro (template dos artigos)
+│   │   ├── [category]/           # hub de cada categoria (index.astro) + [slug].astro (template dos artigos)
 │   │   ├── about, editorial-policy, medical-disclaimer, privacy-policy, terms-of-use, contact, 404
 │   └── styles/global.css
 ├── public/                       # favicons, robots.txt, _redirects, site.webmanifest
@@ -107,7 +107,7 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 
 `title` (≤ 60), `description` (≤ 155), `h1`, `category`, `primaryKeyword`, `secondaryKeywords[]`, `datePublished`, `dateModified`, `imageQuery` / `cover` / `image` + `imageAlt`, `keyTakeaways[]` (≥ 3), `faq[]` (`q`, `a`), `sources[]` (≥ 1, `title` + `url`), `related[]` (ids de outros artigos).
 
-A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`), no `z.enum` do schema, criar a página da categoria e incluir no menu e na home.
+A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema, no `nav` e numa prateleira da home. As páginas `/[category]/` são geradas automaticamente. Categorias atuais: `womens-health`, `mens-health`.
 
 ### 5.3 Dados do responsável (`src/data/owner.mjs`)
 

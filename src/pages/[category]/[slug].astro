@@ -10,8 +10,8 @@ import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
 export async function getStaticPaths() {
-  const articles = await getCollection('articles', ({ data }) => data.category === 'womens-health');
-  return articles.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+  const articles = await getCollection('articles');
+  return articles.map((entry) => ({ params: { category: entry.data.category, slug: entry.id }, props: { entry } }));
 }
 
 const { entry } = Astro.props;

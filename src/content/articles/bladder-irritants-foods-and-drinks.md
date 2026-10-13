@@ -165,4 +165,6 @@ These may point to an infection, interstitial cystitis, or another condition tha
 
 Finding your triggers works best alongside [bladder training](/womens-health/frequent-urination-in-women/) and [pelvic floor exercises](/womens-health/kegel-exercises-for-women/). If urgency hangs on after a few weeks of careful changes, it is worth a visit to your doctor.
 
+For men, urgency and frequent trips can also come from an enlarged prostate. Our guide on [whether an enlarged prostate can go back to normal](/mens-health/enlarged-prostate-back-to-normal/) explains the options.
+
 Leaking when you cough or sneeze is a different problem from urgency, with different solutions. Our guide to [leaking when you sneeze](/womens-health/why-do-i-leak-urine-when-i-sneeze/) covers it.
