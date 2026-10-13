@@ -8,6 +8,8 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import FAQ from '../../components/FAQ.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
 import NextArticle from '../../components/NextArticle.astro';
+import AlsoRead from '../../components/AlsoRead.astro';
+import ArticleNav from '../../components/ArticleNav.astro';
 import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
@@ -23,12 +25,26 @@ const data = entry.data;
 // Stay in the reader's niche: fall back to the same category, never to an unrelated one.
 const all = await getPublishedArticles();
 const others = all.filter((a) => a.id !== entry.id);
-const sameCategory = others.filter((a) => a.data.category === data.category);
+const newestFirst = (a: (typeof all)[number], b: (typeof all)[number]) =>
+  b.data.datePublished.getTime() - a.data.datePublished.getTime();
+const sameCategory = others.filter((a) => a.data.category === data.category).sort(newestFirst);
 const next =
   others.find((a) => a.id === data.next) ??
   sameCategory.find((a) => data.related.includes(a.id)) ??
-  sameCategory.sort((a, b) => b.data.datePublished.getTime() - a.data.datePublished.getTime())[0];
-const relatedIds = data.related.filter((id) => id !== next?.id);
+  sameCategory[0];
+// Everything below stays in the reader's category, ordered: related picks first, then the newest guides.
+const pool = [
+  ...data.related.map((id) => sameCategory.find((a) => a.id === id)).filter((a): a is (typeof all)[number] => Boolean(a)),
+  ...sameCategory,
+].filter((a, i, list) => a.id !== next?.id && list.findIndex((b) => b.id === a.id) === i);
+// "Also read" box in the middle of the article, then up to four cards in "Keep reading".
+const alsoRead = pool[0];
+const keepReading = pool.slice(1, 5);
+// Previous / next guide in the category, in publishing order, wrapping around at the ends.
+const series = [...sameCategory, entry].sort((a, b) => -newestFirst(a, b) || a.id.localeCompare(b.id));
+const pos = series.findIndex((a) => a.id === entry.id);
+const prevGuide = series.length > 1 ? series[(pos - 1 + series.length) % series.length] : undefined;
+const nextGuide = series.length > 2 ? series[(pos + 1) % series.length] : undefined;
 const category = categories[data.category];
 const url = new URL(Astro.url.pathname, site.url).href;
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
@@ -123,8 +139,17 @@ if (data.faq.length) {
     <div class="article-body">
       <Content />
     </div>
+    {alsoRead && <AlsoRead article={alsoRead} />}
     {next && <NextArticle article={next} />}
     <FAQ items={data.faq} />
+    <RelatedArticles articles={keepReading} categoryName={category.name} />
+    <ArticleNav
+      prev={prevGuide}
+      next={nextGuide}
+      category={data.category}
+      categoryName={category.name}
+      count={series.length}
+    />
     <section class="mt-12" aria-labelledby="sources-title">
       <h2 id="sources-title" class="mb-3 text-2xl font-bold">Sources</h2>
       <ol class="list-decimal space-y-1 pl-5 text-sm">
@@ -139,6 +164,5 @@ if (data.faq.length) {
         }
       </ol>
     </section>
-    <RelatedArticles ids={relatedIds} />
   </article>
 </BaseLayout>

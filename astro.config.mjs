@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { noindexPaths } from './src/data/noindex.mjs';
 import unlinkScheduled from './integrations/unlink-scheduled.mjs';
+import alsoRead from './integrations/also-read.mjs';
 
 export default defineConfig({
   site: 'https://checkvitalsnow.com',
@@ -13,6 +14,7 @@ export default defineConfig({
       filter: (page) => !noindexPaths.some((path) => page.endsWith(path)),
     }),
     unlinkScheduled(),
+    alsoRead(),
   ],
   vite: {
     plugins: [tailwindcss()],

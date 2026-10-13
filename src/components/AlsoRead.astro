@@ -1,0 +1,35 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { unsplash } from '../lib/unsplash';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+// Rendered after the article body; the post-build step (integrations/also-read.mjs)
+// moves it before a heading in the middle of the article.
+const { article } = Astro.props;
+const { data } = article;
+const href = `/${data.category}/${article.id}/`;
+---
+
+<aside data-also-read class="also-read not-prose my-10 rounded-xl border border-brand-100 bg-brand-50" aria-label="Also read">
+  <a href={href} class="flex items-center gap-4 p-4 no-underline">
+    {
+      data.cover && (
+        <img
+          src={unsplash(data.cover.url, 240)}
+          width="120"
+          height="90"
+          alt=""
+          loading="lazy"
+          decoding="async"
+          class="h-[72px] w-24 shrink-0 rounded-lg bg-soft object-cover sm:h-[90px] sm:w-[120px]"
+        />
+      )
+    }
+    <span>
+      <span class="block text-xs font-semibold uppercase tracking-wider text-brand-700">Also read</span>
+      <span class="mt-1 block font-serif text-lg font-bold leading-snug text-brand-900">{data.h1}</span>
+    </span>
+  </a>
+</aside>

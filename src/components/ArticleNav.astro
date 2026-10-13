@@ -1,0 +1,39 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  prev?: CollectionEntry<'articles'>;
+  next?: CollectionEntry<'articles'>;
+  category: string;
+  categoryName: string;
+  count: number;
+}
+const { prev, next, category, categoryName, count } = Astro.props;
+const href = (a: CollectionEntry<'articles'>) => `/${a.data.category}/${a.id}/`;
+---
+
+<nav class="mt-12 border-t border-line pt-8" aria-label={`More ${categoryName} guides`}>
+  {
+    (prev || next) && (
+      <div class="grid gap-4 sm:grid-cols-2">
+        {prev && (
+          <a href={href(prev)} class="rounded-xl border border-line p-5 no-underline hover:border-brand-600">
+            <span class="block text-sm font-semibold text-muted">← Previous guide</span>
+            <span class="mt-1 block font-serif text-lg font-bold text-brand-900">{prev.data.h1}</span>
+          </a>
+        )}
+        {next && (
+          <a href={href(next)} class="rounded-xl border border-line p-5 text-right no-underline hover:border-brand-600 sm:col-start-2">
+            <span class="block text-sm font-semibold text-muted">Next guide →</span>
+            <span class="mt-1 block font-serif text-lg font-bold text-brand-900">{next.data.h1}</span>
+          </a>
+        )}
+      </div>
+    )
+  }
+  <p class="mt-6 text-center">
+    <a href={`/${category}/`} class="inline-flex items-center rounded-lg border-2 border-brand-700 px-5 py-3 font-semibold text-brand-700 no-underline hover:bg-brand-50">
+      See all {count} {categoryName} guides
+    </a>
+  </p>
+</nav>
