@@ -87,10 +87,6 @@ It can be in one ear or both, constant or on and off, soft or loud.
 
 NIDCD notes that tinnitus is often a sign of hearing loss and that noise exposure is one of the most common reasons it starts. NIDCD also warns that long or repeated exposure to sounds at or above 85 decibels can cause hearing loss.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1593876770915-99e0a6ced6c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBjb3ZlcmluZyUyMGVhcnN8ZW58MXwwfHx8MTc5MTg2NzI2MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1593876770915-99e0a6ced6c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBjb3ZlcmluZyUyMGVhcnN8ZW58MXwwfHx8MTc5MTg2NzI2MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1593876770915-99e0a6ced6c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBjb3ZlcmluZyUyMGVhcnN8ZW58MXwwfHx8MTc5MTg2NzI2MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1593876770915-99e0a6ced6c2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBjb3ZlcmluZyUyMGVhcnN8ZW58MXwwfHx8MTc5MTg2NzI2MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman in white lace long sleeve shirt smiling" loading="lazy" decoding="async">
-<figcaption>Photo by <a href="https://unsplash.com/@shahzin_2903?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Shahzin Shajid</a> on <a href="https://unsplash.com/photos/woman-in-white-lace-long-sleeve-shirt-smiling-bKpnKQtkTOU?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
 
 ## Can stress cause ringing in your ears?
 
