@@ -34,8 +34,8 @@ sources:
     url: "https://www.niams.nih.gov/health-topics/osteoarthritis"
   - title: "Rheumatoid Arthritis, National Institute of Arthritis and Musculoskeletal and Skin Diseases"
     url: "https://www.niams.nih.gov/health-topics/rheumatoid-arthritis"
-  - title: "Polymyalgia Rheumatica, National Institute of Arthritis and Musculoskeletal and Skin Diseases"
-    url: "https://www.niams.nih.gov/health-topics/polymyalgia-rheumatica"
+  - title: "Polymyalgia Rheumatica, MedlinePlus"
+    url: "https://medlineplus.gov/polymyalgiarheumatica.html"
   - title: "Osteoarthritis, MedlinePlus"
     url: "https://medlineplus.gov/osteoarthritis.html"
   - title: "Rheumatoid Arthritis, MedlinePlus"
@@ -69,7 +69,7 @@ NIAMS describes osteoarthritis as a disease in which the tissues in the joint br
 
 ### Other causes to keep in mind
 
-- **Polymyalgia rheumatica**, which NIAMS describes as causing pain and stiffness in the shoulders, neck, and hips, mostly in people over 50, often worst in the morning
+- **Polymyalgia rheumatica**, which MedlinePlus describes as causing muscle pain and stiffness in the neck, shoulders, and hips, most often in people over 50
 - **Overuse** from a new activity or a long day on your feet
 - **An underactive thyroid**, which can cause joint and muscle stiffness along with tiredness and feeling cold
 

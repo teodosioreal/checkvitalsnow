@@ -32,8 +32,8 @@ faq:
 sources:
   - title: "Muscle Cramps, MedlinePlus"
     url: "https://medlineplus.gov/musclecramps.html"
-  - title: "Magnesium for skeletal muscle cramps, Cochrane Database of Systematic Reviews"
-    url: "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009402.pub3/full"
+  - title: "Magnesium for muscle cramps (2020 review summary), Cochrane"
+    url: "https://www.cochrane.org/evidence/CD009402_magnesium-muscle-cramps"
   - title: "Magnesium Fact Sheet for Consumers, NIH Office of Dietary Supplements"
     url: "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/"
   - title: "Restless legs syndrome: Symptoms and causes, Mayo Clinic"
