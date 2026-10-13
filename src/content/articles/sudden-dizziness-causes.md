@@ -71,7 +71,7 @@ MedlinePlus describes dizziness as feeling lightheaded, unsteady, or as though y
 
 The inner ear holds your balance system, so many vertigo causes start there. The National Institute on Deafness and Other Communication Disorders (NIDCD) lists several:
 
-- **Benign paroxysmal positional vertigo (BPPV).** Mayo Clinic describes it as brief episodes of mild to intense dizziness triggered by specific changes in head position, such as rolling over in bed, lying down, or looking up. Tiny calcium particles drift into a part of the inner ear where they don't belong.
+- **Benign paroxysmal positional vertigo (BPPV).** Mayo Clinic describes it as brief episodes of mild to intense dizziness triggered by specific changes in head position, such as rolling over in bed, lying down, or looking up. Tiny calcium particles drift into a part of the inner ear where they don't belong. Our guide on [vertigo when you roll over in bed](/brain-and-balance/vertigo-when-rolling-over/) explains BPPV in more detail.
 - **Inner ear inflammation** (vestibular neuritis or labyrinthitis), often after a viral infection. Vertigo can be sudden and intense and last days, sometimes with hearing changes.
 - **Ménière's disease**, with episodes of vertigo along with hearing loss, ringing in the ear, and a feeling of fullness. If ringing is your main symptom, our guide on [why ears ring](/brain-and-balance/ringing-in-ears-causes/) covers it.
 - **Vestibular migraine**, where migraine affects balance, sometimes with or without a headache.

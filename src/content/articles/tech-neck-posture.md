@@ -59,7 +59,7 @@ Catch your reflection in a dark phone screen while you scroll and you'll see it:
 
 Your head is heavy, and your neck muscles hold it up all day. When your head tips forward, those muscles have to work harder to keep it from dropping further. For a minute, it's nothing. For hours a day, every day, the muscles in the back of your neck and the tops of your shoulders get tired, tight, and sore.
 
-Mayo Clinic lists poor posture, such as hunching over a work bench or computer, as a common cause of neck pain. The good news is that this is the most changeable cause there is.
+Mayo Clinic lists poor posture, such as hunching over a work bench or computer, as a common cause of neck pain. It is also the cause you can change most easily.
 
 ## The posture audit: habits and swaps
 

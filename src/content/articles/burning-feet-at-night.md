@@ -55,7 +55,7 @@ related:
 
 During the day you barely notice it. Then you get into bed, the house goes quiet, and your feet start to burn, as if you'd been standing on hot pavement. Sometimes it tingles. Sometimes you stick your feet out from under the covers just to cool them down.
 
-**Burning feet at night are most often a sign of irritated or damaged nerves in the feet, a condition called peripheral neuropathy, and diabetes is one of the most common causes.** But it is far from the only one. Low vitamin B12, heavy drinking, kidney or thyroid problems, some medicines, and even athlete's foot can do it. The good news is that several of these can be checked with simple blood tests, and some are very treatable.
+**Burning feet at night are most often a sign of irritated or damaged nerves in the feet, a condition called peripheral neuropathy, and diabetes is one of the most common causes.** But it is far from the only one. Low vitamin B12, heavy drinking, kidney or thyroid problems, some medicines, and even athlete's foot can do it. Several of these can be checked with simple blood tests, and some are very treatable.
 
 ## What's going on in your nerves
 

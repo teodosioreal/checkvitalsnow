@@ -55,7 +55,7 @@ related:
 
 It's loudest when the house goes quiet. A thin, high whine, or maybe a hiss like a radio between stations, or a low hum you first blamed on the refrigerator. You check whether anyone else hears it. Nobody does.
 
-**Ringing in the ears, called tinnitus, is hearing a sound that has no outside source, and the most common cause is hearing loss, often from years of loud noise or from aging.** Earwax, ear infections, certain medicines, jaw problems, and head or neck injuries can also cause it. Tinnitus is very common, and while there's no single cure, there's a lot you can do to find the cause and make it less bothersome. This guide covers the causes and the signs that need prompt care. Our next guide covers how to live with it day to day.
+**Ringing in the ears, called tinnitus, is hearing a sound that has no outside source, and the most common cause is hearing loss, often from years of loud noise or from aging.** Earwax, ear infections, certain medicines, jaw problems, and head or neck injuries can also cause it. Tinnitus is very common, and while there's no single cure, there's a lot you can do to find the cause and make it less bothersome. Below you'll find the main causes and the signs that need prompt care. If you suspect your hearing has slipped too, our guide to [the early signs of hearing loss](/brain-and-balance/signs-of-hearing-loss/) has a quick self-check.
 
 ## You're far from alone
 
