@@ -13,7 +13,7 @@ export default function unlinkScheduled() {
     hooks: {
       'astro:build:done': ({ dir, logger }) => {
         const articles = new URL('../src/content/articles/', import.meta.url);
-        const now = Date.now();
+        const now = process.env.PREVIEW_DATE ? new Date(process.env.PREVIEW_DATE).getTime() : Date.now();
         const scheduled = readdirSync(articles)
           .filter((f) => f.endsWith('.md'))
           .filter((f) => {

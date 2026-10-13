@@ -44,7 +44,7 @@ sources:
     url: "https://www.niams.nih.gov/health-topics/back-pain"
   - title: "How Much Sleep Is Enough?, National Heart, Lung, and Blood Institute"
     url: "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
-next: burning-feet-at-night
+next: neck-pain-on-one-side
 related:
   - lower-back-pain-causes
   - sciatica-pain-relief-at-home
