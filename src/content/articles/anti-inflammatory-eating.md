@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-23
 dateModified: 2026-10-23
 imageQuery: "colorful vegetables salmon and olive oil on table"
+cover:
+  url: "https://images.unsplash.com/photo-1630875413974-ec783f55a948?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29sb3JmdWwlMjB2ZWdldGFibGVzJTIwc2FsbW9uJTIwYW5kJTIwb2xpdmUlMjBvaWwlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTE4NTk1NDl8MA&ixlib=rb-4.1.0"
+  alt: "Yellow labeled bottle beside red apple and yellow lemon fruit"
+  author: "James Kern"
+  authorUrl: "https://unsplash.com/@jamesrkern?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/yellow-labeled-bottle-beside-red-apple-and-yellow-lemon-fruit-SIcM9gb8VvU?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "There's no single food that switches off inflammation, but an overall eating pattern rich in vegetables, fruits, whole grains, beans, nuts, olive oil, and fish is linked with lower inflammation and better health."
   - "Refined carbs, sugary drinks, fried foods, processed meats, and heavy drinking are commonly linked with more inflammation."
@@ -83,7 +89,10 @@ You don't need a new menu. Start with swaps:
 | Butter or margarine for cooking | Olive oil |
 | A burger most nights | Beans, lentils, or fish a few nights a week |
 
-<!-- unsplash: bowl of oatmeal with berries and nuts breakfast -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1686344234276-dc3ac6f284ff?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwb2F0bWVhbCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0cyUyMGJyZWFrZmFzdHxlbnwxfDB8fHwxNzkxODU5NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1686344234276-dc3ac6f284ff?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwb2F0bWVhbCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0cyUyMGJyZWFrZmFzdHxlbnwxfDB8fHwxNzkxODU5NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1686344234276-dc3ac6f284ff?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwb2F0bWVhbCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0cyUyMGJyZWFrZmFzdHxlbnwxfDB8fHwxNzkxODU5NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1686344234276-dc3ac6f284ff?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwb2F0bWVhbCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0cyUyMGJyZWFrZmFzdHxlbnwxfDB8fHwxNzkxODU5NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A bowl of oatmeal with raspberries and blueberries" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@kvitka?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Margarita Shtyfura</a> on <a href="https://unsplash.com/photos/a-bowl-of-oatmeal-with-raspberries-and-blueberries-ht1UiIuO8E8?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A simple week of anti-inflammatory meals
 

@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-19
 dateModified: 2026-10-19
 imageQuery: "tired person staring at laptop screen"
+cover:
+  url: "https://images.unsplash.com/photo-1713947503867-3b27964f042b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBwZXJzb24lMjBzdGFyaW5nJTIwYXQlMjBsYXB0b3AlMjBzY3JlZW58ZW58MXwwfHx8MTc5MTg1OTU1Mnww&ixlib=rb-4.1.0"
+  alt: "A man sitting at a desk with his head in his hands"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-sitting-at-a-desk-with-his-head-in-his-hands-fru_EXsqsp4?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Brain fog isn't a medical diagnosis. It's a common way to describe trouble focusing, slow thinking, and forgetfulness."
   - "Poor sleep, stress, depression, and some medicines are among the most common causes. Hormone changes, low thyroid, low vitamin B12, and long COVID can also play a part."
@@ -90,7 +96,10 @@ If the everyday causes don't explain it, these are worth a conversation with you
 
 If the fog comes with deep, lasting exhaustion that gets worse after effort, read our next guide on [whether it's chronic fatigue or just tiredness](/brain-and-balance/chronic-fatigue-or-just-tired/).
 
-<!-- unsplash: notebook and pen on desk morning coffee -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1698843813652-2dc8b8d81f4c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjBhbmQlMjBwZW4lMjBvbiUyMGRlc2slMjBtb3JuaW5nJTIwY29mZmVlfGVufDF8MHx8fDE3OTE4NTk1NTN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1698843813652-2dc8b8d81f4c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjBhbmQlMjBwZW4lMjBvbiUyMGRlc2slMjBtb3JuaW5nJTIwY29mZmVlfGVufDF8MHx8fDE3OTE4NTk1NTN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1698843813652-2dc8b8d81f4c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjBhbmQlMjBwZW4lMjBvbiUyMGRlc2slMjBtb3JuaW5nJTIwY29mZmVlfGVufDF8MHx8fDE3OTE4NTk1NTN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1698843813652-2dc8b8d81f4c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjBhbmQlMjBwZW4lMjBvbiUyMGRlc2slMjBtb3JuaW5nJTIwY29mZmVlfGVufDF8MHx8fDE3OTE4NTk1NTN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A cup of coffee next to a notebook and pen" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@foodistika?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Elena Leya</a> on <a href="https://unsplash.com/photos/a-cup-of-coffee-next-to-a-notebook-and-pen-56J8143b7PU?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Track it for two weeks
 
