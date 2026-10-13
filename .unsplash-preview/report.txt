@@ -77,3 +77,5 @@ ringing-in-ears-causes | cover | man covering ears in quiet room | https://unspl
 ringing-in-ears-causes | inline | audiologist hearing test booth | NO RESULT
 sudden-dizziness-causes | cover | woman holding head feeling dizzy | https://unsplash.com/photos/grayscale-photography-of-woman-holding-her-head-YZtc0DP5FQA | grayscale photography of woman holding her head
 sudden-dizziness-causes | inline 1 | person sitting on edge of bed holding head | https://unsplash.com/photos/man-sitting-on-bed-beside-opened-window-4KuGRj1De1U | man sitting on bed beside opened window
+burning-feet-at-night | inline 1 | bare feet on wooden floor | https://unsplash.com/photos/bare-feet-and-sandals-on-a-wooden-floor-Jc7UV19xcKU | Bare feet and sandals on a wooden floor
+ringing-in-ears-causes | inline 1 | woman covering ears | https://unsplash.com/photos/woman-in-white-lace-long-sleeve-shirt-smiling-bKpnKQtkTOU | woman in white lace long sleeve shirt smiling

@@ -82,7 +82,10 @@ Mayo Clinic lists a wide range of possible causes for burning feet. This table g
 
 Sometimes no cause is found, which doctors call idiopathic neuropathy. Even then, treatment can help with the symptoms.
 
-<!-- unsplash: bare feet on wooden floor -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1773058730846-afd97503d096?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTE4NjcyNjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1773058730846-afd97503d096?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTE4NjcyNjB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1773058730846-afd97503d096?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTE4NjcyNjB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1773058730846-afd97503d096?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTE4NjcyNjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bare feet and sandals on a wooden floor" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@yellowteapot?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Meghan Holmes</a> on <a href="https://unsplash.com/photos/bare-feet-and-sandals-on-a-wooden-floor-Jc7UV19xcKU?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Track it for a week before your appointment
 
