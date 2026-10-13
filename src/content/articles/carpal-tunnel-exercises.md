@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-18
 dateModified: 2026-10-18
 imageQuery: "hands typing on laptop keyboard close up"
+cover:
+  url: "https://images.unsplash.com/photo-1758874573150-05c1b6b56407?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8aGFuZHMlMjB0eXBpbmclMjBvbiUyMGxhcHRvcCUyMGtleWJvYXJkJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkxODU4ODg2fDA&ixlib=rb-4.1.0"
+  alt: "Person typing on a laptop computer at a desk"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-typing-on-a-laptop-computer-at-a-desk-LuzrLgzAFco?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "For mild to moderate carpal tunnel, doctors usually start with simple steps: a night splint that keeps the wrist straight, rest from aggravating activities, and changes to how you use your hands."
   - "Gentle stretches and gliding exercises are often taught by hand therapists. Research on them is mixed, so treat them as a helpful add-on, not the main fix."
@@ -73,7 +79,10 @@ Splinting tends to help most when symptoms wake you up.
 - **It should feel snug, not tight.** If your fingers swell or change color, loosen it.
 - **Give it time.** Many people notice fewer night wake-ups within a few weeks.
 
-<!-- unsplash: person stretching wrist and fingers at office desk -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1614330258898-86823c7e3de2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMHdyaXN0JTIwYW5kJTIwZmluZ2VycyUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkxODU4ODg3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1614330258898-86823c7e3de2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMHdyaXN0JTIwYW5kJTIwZmluZ2VycyUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkxODU4ODg3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1614330258898-86823c7e3de2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMHdyaXN0JTIwYW5kJTIwZmluZ2VycyUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkxODU4ODg3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1614330258898-86823c7e3de2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMHdyaXN0JTIwYW5kJTIwZmluZ2VycyUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkxODU4ODg3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person wearing silver link bracelet watch holding apple keyboard" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@medicalertuk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">MedicAlert UK</a> on <a href="https://unsplash.com/photos/person-wearing-silver-link-bracelet-watch-holding-apple-keyboard-ruFr50amxjg?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Gentle exercises to try
 

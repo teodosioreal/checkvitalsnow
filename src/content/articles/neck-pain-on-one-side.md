@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-17
 dateModified: 2026-10-17
 imageQuery: "woman rubbing sore neck at desk"
+cover:
+  url: "https://images.unsplash.com/photo-1758876201884-8695c9c98203?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBydWJiaW5nJTIwc29yZSUyMG5lY2slMjBhdCUyMGRlc2t8ZW58MXwwfHx8MTc5MTg1ODg5NHww&ixlib=rb-4.1.0"
+  alt: "Woman looking away from laptop at desk"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-looking-away-from-laptop-at-desk-aotrm-bpAAk?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "One-sided neck pain usually comes from a strained muscle, often from sleeping awkwardly, poor posture, or holding your head in one position too long."
   - "Pain that spreads into the shoulder or arm with numbness, tingling, or weakness can mean a pinched nerve in the neck, called cervical radiculopathy."
@@ -75,7 +81,10 @@ The American Academy of Orthopaedic Surgeons describes cervical radiculopathy as
 
 If your fingers go numb mostly at night, especially the thumb, index, and middle fingers, the cause may be in your wrist instead. Our guide on [why hands go numb at night](/pain-and-nerves/hands-numb-at-night/) explains how to tell.
 
-<!-- unsplash: person turning head stretching neck outdoors -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1718964382697-897985745c3c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHVybmluZyUyMGhlYWQlMjBzdHJldGNoaW5nJTIwbmVjayUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTE4NTg4OTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1718964382697-897985745c3c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHVybmluZyUyMGhlYWQlMjBzdHJldGNoaW5nJTIwbmVjayUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTE4NTg4OTV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1718964382697-897985745c3c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHVybmluZyUyMGhlYWQlMjBzdHJldGNoaW5nJTIwbmVjayUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTE4NTg4OTV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1718964382697-897985745c3c?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHVybmluZyUyMGhlYWQlMjBzdHJldGNoaW5nJTIwbmVjayUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTE4NTg4OTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A woman standing in a field with her hands on her neck" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@anamnesis33?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Andrey K</a> on <a href="https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-hands-on-her-neck-wVY-mmR6Q_g?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Your first 48 hours
 

@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-18
 dateModified: 2026-10-18
 imageQuery: "person shaking hand to relieve numbness"
+cover:
+  url: "https://images.unsplash.com/photo-1618546421236-3c6f5f78add2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hha2luZyUyMGhhbmQlMjB0byUyMHJlbGlldmUlMjBudW1ibmVzc3xlbnwxfDB8fHwxNzkxODU4ODkwfDA&ixlib=rb-4.1.0"
+  alt: "Persons hand holding babys hand"
+  author: "Tokyo Kohaku"
+  authorUrl: "https://unsplash.com/@tokyokohaku?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/persons-hand-holding-babys-hand-xnOwim0TwUM?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Numb or tingling hands at night are often caused by pressure on a nerve, most commonly the median nerve in the wrist, which is carpal tunnel syndrome."
   - "Carpal tunnel usually affects the thumb, index, middle, and part of the ring finger, but not the little finger. Many people wake up and shake their hands to get the feeling back."
@@ -75,7 +81,10 @@ The American Academy of Orthopaedic Surgeons notes that cubital tunnel syndrome 
 
 If your neck also hurts, our guide on [neck pain on one side](/pain-and-nerves/neck-pain-on-one-side/) explains the signs of a pinched nerve there.
 
-<!-- unsplash: wrist brace splint on table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A man and a woman sitting on a table with a tablet" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@tomspentys?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Tom Claes</a> on <a href="https://unsplash.com/photos/a-man-and-a-woman-sitting-on-a-table-with-a-tablet-WCSZRDsif4g?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Who tends to get carpal tunnel
 

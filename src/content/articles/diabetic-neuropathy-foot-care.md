@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-16
 dateModified: 2026-10-16
 imageQuery: "person checking blood sugar with glucose meter"
+cover:
+  url: "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2hlY2tpbmclMjBibG9vZCUyMHN1Z2FyJTIwd2l0aCUyMGdsdWNvc2UlMjBtZXRlcnxlbnwxfDB8fHwxNzkxODU4ODg4fDA&ixlib=rb-4.1.0"
+  alt: "A person sitting at a table with a cell phone"
+  author: "isens usa"
+  authorUrl: "https://unsplash.com/@isensusa?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Diabetic neuropathy is nerve damage caused by diabetes. It most often affects the feet and legs first, with tingling, burning, pain, or numbness."
   - "Keeping blood sugar in your target range is the main way to prevent nerve damage or keep it from getting worse."
@@ -82,7 +88,10 @@ Mayo Clinic notes that doctors use several types of prescription medicine for di
 - **A regular sleep routine**, since pain often feels worse when you're short on sleep
 - **Not smoking**, since smoking narrows blood vessels that feed your nerves and feet
 
-<!-- unsplash: comfortable walking shoes and socks on floor -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1695643912330-f07fd5b3fc59?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29tZm9ydGFibGUlMjB3YWxraW5nJTIwc2hvZXMlMjBhbmQlMjBzb2NrcyUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg1ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1695643912330-f07fd5b3fc59?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29tZm9ydGFibGUlMjB3YWxraW5nJTIwc2hvZXMlMjBhbmQlMjBzb2NrcyUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg1ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1695643912330-f07fd5b3fc59?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29tZm9ydGFibGUlMjB3YWxraW5nJTIwc2hvZXMlMjBhbmQlMjBzb2NrcyUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg1ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1695643912330-f07fd5b3fc59?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29tZm9ydGFibGUlMjB3YWxraW5nJTIwc2hvZXMlMjBhbmQlMjBzb2NrcyUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg1ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A pair of white shoes sitting on top of a wooden floor" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@badun?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Anastasiya Badun</a> on <a href="https://unsplash.com/photos/a-pair-of-white-shoes-sitting-on-top-of-a-wooden-floor-RBvab1wQmSw?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What about alpha-lipoic acid and other supplements?
 

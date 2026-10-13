@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman stretching lower back outdoors"
+cover:
+  url: "https://images.unsplash.com/photo-1609377375722-46264cf88939?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwbG93ZXIlMjBiYWNrJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MTg1ODg5M3ww&ixlib=rb-4.1.0"
+  alt: "Woman in black tank top and black leggings holding black and white nike shoes"
+  author: "Bradley Dunn"
+  authorUrl: "https://unsplash.com/@bradleycdunn?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-black-tank-top-and-black-leggings-holding-black-and-white-nike-shoes-ACbu5AY5Tvk?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Most lower back pain comes from strained muscles or ligaments, often after lifting, twisting, or a sudden movement. It usually improves within a few weeks."
   - "A herniated disc is more likely when pain shoots down a leg, especially below the knee, or comes with numbness, tingling, or weakness."
@@ -78,7 +84,10 @@ No table replaces an exam, but these patterns help you describe what you're feel
 
 If most of your answers land in the right column, your pain may involve a nerve. Our guide on [how to relieve sciatic nerve pain at home](/pain-and-nerves/sciatica-pain-relief-at-home/) covers that pattern in detail.
 
-<!-- unsplash: physical therapist helping patient with back exercise -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1776710669819-8ce325bce775?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBoZWxwaW5nJTIwcGF0aWVudCUyMHdpdGglMjBiYWNrJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MTg1ODg5M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1776710669819-8ce325bce775?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBoZWxwaW5nJTIwcGF0aWVudCUyMHdpdGglMjBiYWNrJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MTg1ODg5M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1776710669819-8ce325bce775?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBoZWxwaW5nJTIwcGF0aWVudCUyMHdpdGglMjBiYWNrJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MTg1ODg5M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1776710669819-8ce325bce775?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBoZWxwaW5nJTIwcGF0aWVudCUyMHdpdGglMjBiYWNrJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MTg1ODg5M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman exercising with trainer in a gym" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@gilsongomes?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Gilson Gomes</a> on <a href="https://unsplash.com/photos/woman-exercising-with-trainer-in-a-gym-81dmvezMVfE?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What helps a strained back muscle
 

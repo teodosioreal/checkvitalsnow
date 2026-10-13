@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-14
 dateModified: 2026-10-14
 imageQuery: "man holding lower back in pain at home"
+cover:
+  url: "https://images.unsplash.com/photo-1662534938224-d716af0d6127?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGxvd2VyJTIwYmFjayUyMGluJTIwcGFpbiUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkxODU4ODk2fDA&ixlib=rb-4.1.0"
+  alt: "A person with their hands on their hips"
+  author: "Heike Trautmann"
+  authorUrl: "https://unsplash.com/@h_trautma?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-with-their-hands-on-their-hips-_84qxEBCqp0?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Sciatica is pain that follows the sciatic nerve from the lower back through the buttock and down one leg. It usually happens when something, often a herniated disk, presses on a nerve root in the lower spine."
   - "Many people get better with self-care within a few weeks. Gentle movement usually beats bed rest."
@@ -82,7 +88,10 @@ The first few days set the tone. This plan follows the self-care steps Mayo Clin
 
 Most people want a simple rule, and this is it: **cold first, heat later.** Mayo Clinic suggests cold packs for the first couple of days and heat after two to three days. If you're still sore after that, try both and use whichever feels better. Never put ice or a heating pad directly on bare skin, and don't fall asleep on a heating pad.
 
-<!-- unsplash: person stretching on yoga mat living room -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758599879024-7379d769f664?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMG9uJTIweW9nYSUyMG1hdCUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5MTg1ODg5N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758599879024-7379d769f664?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMG9uJTIweW9nYSUyMG1hdCUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5MTg1ODg5N3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758599879024-7379d769f664?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMG9uJTIweW9nYSUyMG1hdCUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5MTg1ODg5N3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758599879024-7379d769f664?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMG9uJTIweW9nYSUyMG1hdCUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5MTg1ODg5N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman stretching her leg on a yoga mat" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/woman-stretching-her-leg-on-a-yoga-mat-EUk6LRg9alk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Four gentle stretches to try
 

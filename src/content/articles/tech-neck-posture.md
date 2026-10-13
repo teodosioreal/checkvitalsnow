@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-17
 dateModified: 2026-10-17
 imageQuery: "person looking down at smartphone hunched"
+cover:
+  url: "https://images.unsplash.com/photo-1592890288564-76628a30a657?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMGRvd24lMjBhdCUyMHNtYXJ0cGhvbmUlMjBodW5jaGVkfGVufDF8MHx8fDE3OTE4NTg5MDJ8MA&ixlib=rb-4.1.0"
+  alt: "Person holding black android smartphone"
+  author: "Jonas Leupe"
+  authorUrl: "https://unsplash.com/@jonasleupe?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-holding-black-android-smartphone-wK-elt11pF0?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "\"Tech neck\" is a popular name for neck and shoulder strain from spending long periods looking down at phones, tablets, and laptops."
   - "The fixes are mostly habits: raise the screen, bring the phone up to your eyes, and break up long stretches in one position."
@@ -70,7 +76,10 @@ Read through the list and note which habits are yours. Then pick two swaps to tr
 | Scrolling in bed propped on pillows | Your chin is pushed toward your chest | Read sitting up with your back supported, or put the phone down earlier |
 | Leaning toward the screen | Your head drifts ahead of your shoulders | Sit all the way back in your chair and bring the screen closer |
 
-<!-- unsplash: laptop on stand with external keyboard home office -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1587902673915-631e5ba4488f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwb24lMjBzdGFuZCUyMHdpdGglMjBleHRlcm5hbCUyMGtleWJvYXJkJTIwaG9tZSUyMG9mZmljZXxlbnwxfDB8fHwxNzkxODU4OTAzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1587902673915-631e5ba4488f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwb24lMjBzdGFuZCUyMHdpdGglMjBleHRlcm5hbCUyMGtleWJvYXJkJTIwaG9tZSUyMG9mZmljZXxlbnwxfDB8fHwxNzkxODU4OTAzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1587902673915-631e5ba4488f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwb24lMjBzdGFuZCUyMHdpdGglMjBleHRlcm5hbCUyMGtleWJvYXJkJTIwaG9tZSUyMG9mZmljZXxlbnwxfDB8fHwxNzkxODU4OTAzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1587902673915-631e5ba4488f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwb24lMjBzdGFuZCUyMHdpdGglMjBleHRlcm5hbCUyMGtleWJvYXJkJTIwaG9tZSUyMG9mZmljZXxlbnwxfDB8fHwxNzkxODU4OTAzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Macbook pro on brown wooden table" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@claybanks?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Clay Banks</a> on <a href="https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-s7IIk_2dA7g?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A 3-minute desk routine
 

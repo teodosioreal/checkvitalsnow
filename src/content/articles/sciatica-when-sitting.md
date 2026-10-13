@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-14
 dateModified: 2026-10-14
 imageQuery: "office worker sitting at desk ergonomic chair"
+cover:
+  url: "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2ZmaWNlJTIwd29ya2VyJTIwc2l0dGluZyUyMGF0JTIwZGVzayUyMGVyZ29ub21pYyUyMGNoYWlyfGVufDF8MHx8fDE3OTE4NTg4OTh8MA&ixlib=rb-4.1.0"
+  alt: "A woman sitting at a desk with a laptop"
+  author: "EFFYDESK"
+  authorUrl: "https://unsplash.com/@effydesk?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-sitting-at-a-desk-with-a-laptop-zyMtujfaZ_I?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Sitting puts more load on the discs of the lower back and can press on the buttock area the sciatic nerve passes through, which is why many people feel sciatica most at a desk or in the car."
   - "Mayo Clinic lists long periods of sitting as a risk factor for sciatica."
@@ -72,7 +78,10 @@ Run through this list once at your desk. Most fixes cost nothing. The positions 
 
 If you checked fewer than six, start with the lower back support and the feet. They tend to make the biggest difference.
 
-<!-- unsplash: person standing at desk working laptop -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBhdCUyMGRlc2slMjB3b3JraW5nJTIwbGFwdG9wfGVufDF8MHx8fDE3OTE4NTg4OTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBhdCUyMGRlc2slMjB3b3JraW5nJTIwbGFwdG9wfGVufDF8MHx8fDE3OTE4NTg4OTl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBhdCUyMGRlc2slMjB3b3JraW5nJTIwbGFwdG9wfGVufDF8MHx8fDE3OTE4NTg4OTl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBhdCUyMGRlc2slMjB3b3JraW5nJTIwbGFwdG9wfGVufDF8MHx8fDE3OTE4NTg4OTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman sitting while using laptop" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@icons8?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Icons8 Team</a> on <a href="https://unsplash.com/photos/woman-sitting-while-using-laptop-CrW-TbykPBQ?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A break routine that fits a workday
 

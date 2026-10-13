@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-16
 dateModified: 2026-10-16
 imageQuery: "bare feet on wooden floor bedroom"
+cover:
+  url: "https://images.unsplash.com/photo-1758521540263-e15a58e64248?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yJTIwYmVkcm9vbXxlbnwxfDB8fHwxNzkxODU4ODg1fDA&ixlib=rb-4.1.0"
+  alt: "Young woman sitting cross-legged with a mug"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/young-woman-sitting-cross-legged-with-a-mug-IjwpVRDgxt4?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Burning feet are often a sign of nerve damage in the feet, called peripheral neuropathy. Diabetes is one of the most common causes."
   - "Other causes include low vitamin B12, heavy alcohol use, kidney disease, an underactive thyroid, some medicines, and skin problems such as athlete's foot."

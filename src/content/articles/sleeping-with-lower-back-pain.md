@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sleeping on side with pillow between knees"
+cover:
+  url: "https://images.unsplash.com/photo-1619227731459-29f2658554b9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8M3x8cGVyc29uJTIwc2xlZXBpbmclMjBvbiUyMHNpZGUlMjB3aXRoJTIwcGlsbG93JTIwYmV0d2VlbiUyMGtuZWVzfGVufDF8MHx8fDE3OTE4NTg5MDB8MA&ixlib=rb-4.1.0"
+  alt: "Woman in blue denim jeans lying on bed"
+  author: "Alina Perekatenkova"
+  authorUrl: "https://unsplash.com/@markisnotonfire?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-blue-denim-jeans-lying-on-bed-iZqmktM_bis?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Positions that keep your spine in a fairly straight, neutral line tend to ease lower back strain at night."
   - "On your side, a pillow between your knees helps. On your back, a pillow under your knees helps. On your stomach, a thin pillow under your hips can reduce arching."
@@ -68,7 +74,10 @@ MedlinePlus suggests two positions for acute low back pain: curling up on your s
 
 If you're a side sleeper, try switching sides through the night rather than staying on the sore side for hours.
 
-<!-- unsplash: bedroom with neatly made bed and pillows morning light -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1654145268052-6b68f1d94519?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpdGglMjBuZWF0bHklMjBtYWRlJTIwYmVkJTIwYW5kJTIwcGlsbG93cyUyMG1vcm5pbmclMjBsaWdodHxlbnwxfDB8fHwxNzkxODU4OTAxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1654145268052-6b68f1d94519?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpdGglMjBuZWF0bHklMjBtYWRlJTIwYmVkJTIwYW5kJTIwcGlsbG93cyUyMG1vcm5pbmclMjBsaWdodHxlbnwxfDB8fHwxNzkxODU4OTAxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1654145268052-6b68f1d94519?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpdGglMjBuZWF0bHklMjBtYWRlJTIwYmVkJTIwYW5kJTIwcGlsbG93cyUyMG1vcm5pbmclMjBsaWdodHxlbnwxfDB8fHwxNzkxODU4OTAxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1654145268052-6b68f1d94519?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpdGglMjBuZWF0bHklMjBtYWRlJTIwYmVkJTIwYW5kJTIwcGlsbG93cyUyMG1vcm5pbmclMjBsaWdodHxlbnwxfDB8fHwxNzkxODU4OTAxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A bed with a white comforter and a deer head mounted on the wall" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@ahyaagawis?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ahya Agawis</a> on <a href="https://unsplash.com/photos/a-bed-with-a-white-comforter-and-a-deer-head-mounted-on-the-wall-qw1aWx38Dqo?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How to get out of bed without a jolt
 
