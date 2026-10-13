@@ -87,7 +87,7 @@ It can be in one ear or both, constant or on and off, soft or loud.
 
 NIDCD notes that tinnitus is often a sign of hearing loss and that noise exposure is one of the most common reasons it starts. NIDCD also warns that long or repeated exposure to sounds at or above 85 decibels can cause hearing loss.
 
-<!-- unsplash: audiologist hearing test booth -->
+<!-- unsplash: woman covering ears -->
 
 ## Can stress cause ringing in your ears?
 

@@ -82,7 +82,7 @@ Mayo Clinic lists a wide range of possible causes for burning feet. This table g
 
 Sometimes no cause is found, which doctors call idiopathic neuropathy. Even then, treatment can help with the symptoms.
 
-<!-- unsplash: doctor examining patient foot -->
+<!-- unsplash: bare feet on wooden floor -->
 
 ## Track it for a week before your appointment
 
