@@ -45,6 +45,7 @@ sources:
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
   - title: "Menopause and your health, Office on Women's Health (HHS)"
     url: "https://womenshealth.gov/menopause/menopause-and-your-health"
+next: signs-of-hormonal-imbalance-in-women
 related:
   - signs-of-hormonal-imbalance-in-women
   - menopause-and-bladder-leakage

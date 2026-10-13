@@ -44,6 +44,7 @@ sources:
     url: "https://ods.od.nih.gov/factsheets/Calcium-Consumer/"
   - title: "Healthy Bones for Life: Patient's Guide, Bone Health & Osteoporosis Foundation"
     url: "https://www.bonehealthandosteoporosis.org/wp-content/uploads/NOF-Health-Bones-For-Life-Patients-Guide.pdf"
+next: perimenopause-symptoms
 related:
   - perimenopause-symptoms
   - menopause-and-bladder-leakage

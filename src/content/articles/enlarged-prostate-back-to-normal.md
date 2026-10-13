@@ -49,6 +49,7 @@ sources:
     url: "https://cancer.ca/en/cancer-information/cancer-types/prostate/what-is-prostate-cancer/benign-prostatic-hyperplasia"
   - title: "Saw Palmetto, NCCIH Clinical Digest"
     url: "https://www.nccih.nih.gov/health/providers/digest/saw-palmetto"
+next: bladder-irritants-foods-and-drinks
 related:
   - bladder-irritants-foods-and-drinks
   - frequent-urination-in-women

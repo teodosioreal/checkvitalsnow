@@ -1,0 +1,40 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { unsplash } from '../lib/unsplash';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { data } = article;
+const href = `/${data.category}/${article.id}/`;
+---
+
+<aside class="mt-12 overflow-hidden rounded-2xl border-2 border-brand-600 bg-brand-50" aria-labelledby="next-title">
+  <a href={href} class="grid no-underline sm:grid-cols-[240px_1fr]">
+    {
+      data.cover && (
+        <img
+          src={unsplash(data.cover.url, 640)}
+          srcset={[400, 640].map((w) => `${unsplash(data.cover!.url, w)} ${w}w`).join(', ')}
+          sizes="(min-width: 640px) 240px, 100vw"
+          width="640"
+          height="360"
+          alt=""
+          loading="lazy"
+          decoding="async"
+          class="aspect-video h-full w-full bg-soft object-cover"
+        />
+      )
+    }
+    <div class="p-6">
+      <p id="next-title" class="text-sm font-semibold uppercase tracking-wider text-brand-700">Read next</p>
+      <p class="mt-1 font-serif text-2xl font-bold text-brand-900">{data.h1}</p>
+      <p class="mt-2 text-base text-ink">{data.description}</p>
+      <span class="mt-4 inline-flex items-center rounded-lg bg-brand-700 px-5 py-3 text-base font-semibold text-white">
+        Read the guide →
+      </span>
+    </div>
+  </a>
+</aside>

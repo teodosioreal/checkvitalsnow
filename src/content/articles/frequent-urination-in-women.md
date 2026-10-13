@@ -42,6 +42,7 @@ sources:
     url: "https://my.clevelandclinic.org/health/diseases/17596-urinary-incontinence"
   - title: "Bladder control: Lifestyle strategies ease problems, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problem/art-20046597"
+next: bladder-irritants-foods-and-drinks
 related:
   - bladder-irritants-foods-and-drinks
   - why-do-i-leak-urine-when-i-sneeze

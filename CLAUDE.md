@@ -107,6 +107,8 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 
 `title` (≤ 60), `description` (≤ 155), `h1`, `category`, `primaryKeyword`, `secondaryKeywords[]`, `datePublished`, `dateModified`, `imageQuery` / `cover` / `image` + `imageAlt`, `keyTakeaways[]` (≥ 3), `faq[]` (`q`, `a`), `sources[]` (≥ 1, `title` + `url`), `related[]` (ids de outros artigos).
 
+**`next` (obrigatório na prática):** id do artigo mais relevante para quem acabou de ler este. Aparece no bloco "Read next" no fim do artigo (componente `NextArticle.astro`). Se faltar, o template usa o primeiro de `related` e depois outro da mesma categoria. Ao criar um artigo novo, defina o `next` dele **e** avalie se ele deve virar o `next` de algum artigo existente.
+
 A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema, no `nav` e numa prateleira da home. As páginas `/[category]/` são geradas automaticamente. Categorias atuais: `womens-health`, `mens-health`.
 
 ### 5.3 Dados do responsável (`src/data/owner.mjs`)
@@ -241,6 +243,7 @@ O site antigo era de reviews com afiliados. Os originais estão em `migration/wo
 - [ ] Ferramenta prática própria + fechamento com ação para hoje (seção 6.2.1)
 - [ ] Title, meta, H1, slug, schema e alt text revisados
 - [ ] 3–5 links internos + `related` preenchido + 1 artigo existente apontando para o novo
+- [ ] `next` definido com o artigo mais relevante (bloco "Read next")
 - [ ] `[VERIFY]` listados para o usuário
 
 ---

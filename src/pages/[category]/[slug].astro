@@ -6,6 +6,7 @@ import KeyTakeaways from '../../components/KeyTakeaways.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import FAQ from '../../components/FAQ.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
+import NextArticle from '../../components/NextArticle.astro';
 import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
@@ -17,6 +18,15 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const data = entry.data;
+// "Read next": the article picked in frontmatter, else the first related one, else another in the same category.
+const all = await getCollection('articles');
+const others = all.filter((a) => a.id !== entry.id);
+const next =
+  others.find((a) => a.id === data.next) ??
+  others.find((a) => a.id === data.related[0]) ??
+  others.find((a) => a.data.category === data.category) ??
+  others[0];
+const relatedIds = data.related.filter((id) => id !== next?.id);
 const category = categories[data.category];
 const url = new URL(Astro.url.pathname, site.url).href;
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
@@ -111,6 +121,7 @@ if (data.faq.length) {
     <div class="article-body">
       <Content />
     </div>
+    {next && <NextArticle article={next} />}
     <FAQ items={data.faq} />
     <section class="mt-12" aria-labelledby="sources-title">
       <h2 id="sources-title" class="mb-3 text-2xl font-bold">Sources</h2>
@@ -126,6 +137,6 @@ if (data.faq.length) {
         }
       </ol>
     </section>
-    <RelatedArticles ids={data.related} />
+    <RelatedArticles ids={relatedIds} />
   </article>
 </BaseLayout>
