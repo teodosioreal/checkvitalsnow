@@ -24,6 +24,8 @@ O usuário é brasileiro e conversa com você em **português**. Responda a ele 
 - **Sem afiliados e sem produtos.** O site **não** tem links de afiliado, reviews de produto, listas "Top/Best Of", botões de compra nem recomendação de marcas. As reviews antigas (FemiPro, NerveCalm, Top 5) foram removidas e as URLs redirecionam (301) em `public/_redirects`. O código antigo continua no histórico do Git.
   - Se o usuário pedir para voltar a ter afiliados ou reviews, **pergunte antes** e lembre que isso muda páginas institucionais (About, Editorial Policy, Privacy, Terms) e exige disclosure da FTC.
 
+> **Prioridade do dono:** quanto mais o leitor navega pelo site, melhor (mais páginas por visita, mais tempo no site). Toda página e todo artigo devem dar um próximo passo claro e relevante: links internos no meio do texto, bloco "Read next", "Keep reading", prateleiras na home e no hub da categoria. Sempre que criar ou editar algo, pergunte: "para onde o leitor vai depois daqui?". Isso nunca justifica clickbait, título enganoso ou dividir um artigo em páginas só para gerar cliques.
+
 > **Princípio central:** o site existe para ajudar a leitora a entender o que está acontecendo com o corpo dela e quando procurar um médico. A confiança é o produto.
 
 ---
