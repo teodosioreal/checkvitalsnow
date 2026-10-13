@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-23
 dateModified: 2026-10-23
 imageQuery: "salmon salad with vegetables on plate"
+cover:
+  url: "https://images.unsplash.com/photo-1578687388049-079580e6eb2d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c2FsbW9uJTIwc2FsYWQlMjB3aXRoJTIwdmVnZXRhYmxlcyUyMG9uJTIwcGxhdGV8ZW58MXwwfHx8MTc5MTg2MzU0NHww&ixlib=rb-4.1.0"
+  alt: "Plate of food on wooden surface"
+  author: "Fallon Michael"
+  authorUrl: "https://unsplash.com/@fallonmichaeltx?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/plate-of-food-on-wooden-surface-LzeNab6mRZY?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "There's no single food that switches off inflammation, but an overall eating pattern rich in vegetables, fruits, whole grains, beans, nuts, olive oil, and fish is linked with lower inflammation and better health."
   - "Refined carbs, sugary drinks, fried foods, processed meats, and heavy drinking are commonly linked with more inflammation."

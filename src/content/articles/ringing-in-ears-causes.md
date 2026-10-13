@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-21
 dateModified: 2026-10-21
 imageQuery: "man covering ears in quiet room"
+cover:
+  url: "https://images.unsplash.com/photo-1777605455783-74651ca03146?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwY292ZXJpbmclMjBlYXJzJTIwaW4lMjBxdWlldCUyMHJvb218ZW58MXwwfHx8MTc5MTg2MzU1N3ww&ixlib=rb-4.1.0"
+  alt: "Silhouette of a person with hands behind head"
+  author: "Husam El Haq"
+  authorUrl: "https://unsplash.com/@husamaleq?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/silhouette-of-a-person-with-hands-behind-head-6tLcr_Ol_ls?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Tinnitus is hearing a sound, such as ringing, buzzing, hissing, or roaring, that has no outside source. It's very common, and it's usually a symptom rather than a disease."
   - "The most common cause is hearing loss, often from loud noise or aging. Earwax, ear infections, some medicines, jaw problems, and head or neck injuries can also cause it."

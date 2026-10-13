@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-20
 dateModified: 2026-10-20
 imageQuery: "person getting out of bed in the morning"
+cover:
+  url: "https://images.unsplash.com/photo-1585963373105-404b0a93c946?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZ2V0dGluZyUyMG91dCUyMG9mJTIwYmVkJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE4NjM1NDd8MA&ixlib=rb-4.1.0"
+  alt: "Person in black shorts lying on bed"
+  author: "Diego Lozano"
+  authorUrl: "https://unsplash.com/@diegonacho?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-in-black-shorts-lying-on-bed-QGHNk7eis0k?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Feeling lightheaded right after you stand often happens because blood pressure dips for a moment before your body adjusts. When it happens often, doctors call it orthostatic or postural hypotension."
   - "Dehydration, some medicines, long bed rest, heat, alcohol, older age, and some heart and nerve conditions make it more likely."
@@ -69,7 +75,10 @@ Check the ones that apply to you. Each is something to mention to your doctor, a
 
 Mayo Clinic lists dehydration, heat, prolonged bed rest, alcohol, older age, several types of medicine, and some heart, nerve, and endocrine conditions among the causes and risk factors.
 
-<!-- unsplash: glass of water on kitchen counter morning -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1777113310282-484b0b3f76b2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MTg2MzU0OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1777113310282-484b0b3f76b2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MTg2MzU0OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1777113310282-484b0b3f76b2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MTg2MzU0OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1777113310282-484b0b3f76b2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MTg2MzU0OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Coffee makers and glasses on a kitchen counter" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@notethanun?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">note thanun</a> on <a href="https://unsplash.com/photos/coffee-makers-and-glasses-on-a-kitchen-counter-GuZBEMmdlYs?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## The slow-rise routine
 

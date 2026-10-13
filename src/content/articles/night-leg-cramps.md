@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-22
 dateModified: 2026-10-22
 imageQuery: "person stretching calf muscle against wall"
+cover:
+  url: "https://images.unsplash.com/photo-1600026453194-11ae289732b8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMGNhbGYlMjBtdXNjbGUlMjBhZ2FpbnN0JTIwd2FsbHxlbnwxfDB8fHwxNzkxODYzNTU0fDA&ixlib=rb-4.1.0"
+  alt: "Man in white tank top and black shorts doing push up during daytime"
+  author: "Michael DeMoya"
+  authorUrl: "https://unsplash.com/@demoya?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-white-tank-top-and-black-shorts-doing-push-up-during-daytime-dZW-IiWXFek?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Night leg cramps are sudden, painful tightening of a muscle, most often in the calf. Restless legs are an uncomfortable urge to move, without a hard cramp."
   - "Many night cramps have no clear cause. Long periods of sitting, overuse, dehydration, pregnancy, and some medicines are linked to them."
@@ -87,7 +93,10 @@ Often, though, no single cause is found.
 3. **Massage** the muscle gently once it starts to release.
 4. **Afterward, use warmth** for a tight muscle or a cool pack for soreness.
 
-<!-- unsplash: person walking barefoot on bedroom floor -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1718717621302-a359be21a111?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2Fsa2luZyUyMGJhcmVmb290JTIwb24lMjBiZWRyb29tJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg2MzU1NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1718717621302-a359be21a111?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2Fsa2luZyUyMGJhcmVmb290JTIwb24lMjBiZWRyb29tJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg2MzU1NHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1718717621302-a359be21a111?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2Fsa2luZyUyMGJhcmVmb290JTIwb24lMjBiZWRyb29tJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg2MzU1NHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1718717621302-a359be21a111?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2Fsa2luZyUyMGJhcmVmb290JTIwb24lMjBiZWRyb29tJTIwZmxvb3J8ZW58MXwwfHx8MTc5MTg2MzU1NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A bedroom with a bed, dresser, and a window" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@claybanks?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Clay Banks</a> on <a href="https://unsplash.com/photos/a-bedroom-with-a-bed-dresser-and-a-window-r8i3RwrVcRk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A 3-minute bedtime routine to prevent cramps
 

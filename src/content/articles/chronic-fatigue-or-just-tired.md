@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-19
 dateModified: 2026-10-19
 imageQuery: "tired woman resting head on hand at desk"
+cover:
+  url: "https://images.unsplash.com/photo-1758876022104-368b0f3fb6c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8dGlyZWQlMjB3b21hbiUyMHJlc3RpbmclMjBoZWFkJTIwb24lMjBoYW5kJTIwYXQlMjBkZXNrfGVufDF8MHx8fDE3OTE4NjM1NDV8MA&ixlib=rb-4.1.0"
+  alt: "Woman resting head on hand at desk"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-resting-head-on-hand-at-desk-3n8-FB1madg?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Everyday tiredness improves with rest. Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a serious, long-term illness where rest doesn't restore energy."
   - "The hallmark of ME/CFS is post-exertional malaise: symptoms get worse after physical or mental effort, often a day or more later."
@@ -78,7 +84,10 @@ Many people also have muscle or joint pain, headaches, sore throat, or tender ly
 
 If your main problem is trouble focusing rather than exhaustion, our guide on [what causes brain fog](/brain-and-balance/brain-fog-causes/) covers the most common reasons.
 
-<!-- unsplash: calendar planner with notes on table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1435527173128-983b87201f4d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXIlMjBwbGFubmVyJTIwd2l0aCUyMG5vdGVzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzkxODYzNTQ2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1435527173128-983b87201f4d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXIlMjBwbGFubmVyJTIwd2l0aCUyMG5vdGVzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzkxODYzNTQ2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1435527173128-983b87201f4d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXIlMjBwbGFubmVyJTIwd2l0aCUyMG5vdGVzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzkxODYzNTQ2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1435527173128-983b87201f4d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXIlMjBwbGFubmVyJTIwd2l0aCUyMG5vdGVzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzkxODYzNTQ2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Open monthly planner on wooden desk" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@erothermel?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Eric Rothermel</a> on <a href="https://unsplash.com/photos/open-monthly-planner-on-wooden-desk-FoKO4DpXamQ?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A quick self-check to bring to your doctor
 

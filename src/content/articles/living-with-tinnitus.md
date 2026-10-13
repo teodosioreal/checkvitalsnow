@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-21
 dateModified: 2026-10-21
 imageQuery: "person relaxing with headphones on sofa"
+cover:
+  url: "https://images.unsplash.com/photo-1758611970342-675fed2dea68?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVsYXhpbmclMjB3aXRoJTIwaGVhZHBob25lcyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkxODYzNTQ5fDA&ixlib=rb-4.1.0"
+  alt: "Man with headphones plays video game on couch"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-with-headphones-plays-video-game-on-couch-8CJ26Hj1QuE?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "There's no cure that switches tinnitus off for most people, but many people find it fades into the background with the right mix of steps."
   - "Background sound, especially at night, can make the ringing less noticeable. Silence tends to make it louder."
@@ -79,7 +85,10 @@ Silence is tinnitus's best friend. Try this for a week:
 5. **Wind down for 20 to 30 minutes** with something calm: reading, stretching, slow breathing.
 6. **If you can't sleep after about 20 minutes**, get up, do something quiet in dim light, and return when sleepy.
 
-<!-- unsplash: white noise machine on nightstand bedroom -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1774556443332-de783833a656?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2hpdGUlMjBub2lzZSUyMG1hY2hpbmUlMjBvbiUyMG5pZ2h0c3RhbmQlMjBiZWRyb29tfGVufDF8MHx8fDE3OTE4NjM1NTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1774556443332-de783833a656?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2hpdGUlMjBub2lzZSUyMG1hY2hpbmUlMjBvbiUyMG5pZ2h0c3RhbmQlMjBiZWRyb29tfGVufDF8MHx8fDE3OTE4NjM1NTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1774556443332-de783833a656?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2hpdGUlMjBub2lzZSUyMG1hY2hpbmUlMjBvbiUyMG5pZ2h0c3RhbmQlMjBiZWRyb29tfGVufDF8MHx8fDE3OTE4NjM1NTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1774556443332-de783833a656?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2hpdGUlMjBub2lzZSUyMG1hY2hpbmUlMjBvbiUyMG5pZ2h0c3RhbmQlMjBiZWRyb29tfGVufDF8MHx8fDE3OTE4NjM1NTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A bedside lamp illuminates a nightstand with a radio" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@allysphotos?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Alicia Christin Gerald</a> on <a href="https://unsplash.com/photos/a-bedside-lamp-illuminates-a-nightstand-with-a-radio-uPjUjh5Gy0A?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calming the stress cycle
 

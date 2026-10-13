@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-20
 dateModified: 2026-10-20
 imageQuery: "woman holding head feeling dizzy"
+cover:
+  url: "https://images.unsplash.com/photo-1573032780225-a67b1b866312?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBob2xkaW5nJTIwaGVhZCUyMGZlZWxpbmclMjBkaXp6eXxlbnwxfDB8fHwxNzkxODYzNTU4fDA&ixlib=rb-4.1.0"
+  alt: "Grayscale photography of woman holding her head"
+  author: "Faizan"
+  authorUrl: "https://unsplash.com/@bevem?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/grayscale-photography-of-woman-holding-her-head-YZtc0DP5FQA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "\"Dizzy\" can mean a spinning feeling (vertigo), feeling faint or lightheaded, or feeling off balance. The type points to different causes."
   - "Brief spinning spells when you roll over in bed or look up are often benign paroxysmal positional vertigo (BPPV), an inner ear problem that a simple repositioning maneuver can often treat."
@@ -74,7 +80,10 @@ The inner ear holds your balance system, so many vertigo causes start there. The
 
 BPPV is often treated with a canalith repositioning procedure, such as the Epley maneuver, a series of slow head and body positions that guides the particles back where they belong. Mayo Clinic notes that a doctor, audiologist, or physical therapist usually performs it and may teach you to do it at home. Because the right side and steps matter, have it shown to you first rather than copying a video.
 
-<!-- unsplash: person sitting on edge of bed holding head -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1543674214-9a5c967100dc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwaG9sZGluZyUyMGhlYWR8ZW58MXwwfHx8MTc5MTg2MzU1OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1543674214-9a5c967100dc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwaG9sZGluZyUyMGhlYWR8ZW58MXwwfHx8MTc5MTg2MzU1OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1543674214-9a5c967100dc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwaG9sZGluZyUyMGhlYWR8ZW58MXwwfHx8MTc5MTg2MzU1OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1543674214-9a5c967100dc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwaG9sZGluZyUyMGhlYWR8ZW58MXwwfHx8MTc5MTg2MzU1OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man sitting on bed beside opened window" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@wenutius?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Joel Overbeck</a> on <a href="https://unsplash.com/photos/man-sitting-on-bed-beside-opened-window-4KuGRj1De1U?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Common causes of feeling faint (lightheaded)
 

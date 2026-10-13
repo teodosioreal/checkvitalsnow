@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-23
 dateModified: 2026-10-23
 imageQuery: "older woman stretching arms in the morning by window"
+cover:
+  url: "https://images.unsplash.com/photo-1624138590230-eb48c4eb956a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjB3b21hbiUyMHN0cmV0Y2hpbmclMjBhcm1zJTIwaW4lMjB0aGUlMjBtb3JuaW5nJTIwYnklMjB3aW5kb3d8ZW58MXwwfHx8MTc5MTg2MzU1MXww&ixlib=rb-4.1.0"
+  alt: "Grayscale photo of woman in black tank top"
+  author: "Ernys"
+  authorUrl: "https://unsplash.com/@ernys?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/grayscale-photo-of-woman-in-black-tank-top-Lf_gPQkiBZQ?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Some stiffness after a night of not moving is common, especially with age. How long it lasts is one of the best clues to the cause."
   - "Stiffness from osteoarthritis, the wear-related kind, often eases within about half an hour of moving. Stiffness from inflammatory arthritis, such as rheumatoid arthritis, often lasts longer."
@@ -73,7 +79,10 @@ NIAMS describes osteoarthritis as a disease in which the tissues in the joint br
 - **Overuse** from a new activity or a long day on your feet
 - **An underactive thyroid**, which can cause joint and muscle stiffness along with tiredness and feeling cold
 
-<!-- unsplash: person taking warm morning shower steam -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1629150098631-4d99ad4a53a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwd2FybSUyMG1vcm5pbmclMjBzaG93ZXIlMjBzdGVhbXxlbnwxfDB8fHwxNzkxODYzNTUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1629150098631-4d99ad4a53a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwd2FybSUyMG1vcm5pbmclMjBzaG93ZXIlMjBzdGVhbXxlbnwxfDB8fHwxNzkxODYzNTUyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1629150098631-4d99ad4a53a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwd2FybSUyMG1vcm5pbmclMjBzaG93ZXIlMjBzdGVhbXxlbnwxfDB8fHwxNzkxODYzNTUyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1629150098631-4d99ad4a53a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwd2FybSUyMG1vcm5pbmclMjBzaG93ZXIlMjBzdGVhbXxlbnwxfDB8fHwxNzkxODYzNTUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Topless woman with black and white plaid scarf" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@vicfurtuna?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Victor Furtuna</a> on <a href="https://unsplash.com/photos/topless-woman-with-black-and-white-plaid-scarf-ZqVYUC-70NQ?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A 10-minute morning loosening routine
 

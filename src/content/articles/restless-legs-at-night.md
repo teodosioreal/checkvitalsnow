@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-22
 dateModified: 2026-10-22
 imageQuery: "person lying awake in bed at night"
+cover:
+  url: "https://images.unsplash.com/photo-1522587750645-7e0e798b2b59?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwbHlpbmclMjBhd2FrZSUyMGluJTIwYmVkJTIwYXQlMjBuaWdodHxlbnwxfDB8fHwxNzkxODYzNTU1fDA&ixlib=rb-4.1.0"
+  alt: "Woman resting her head on bed"
+  author: "Bruno van der Kraan"
+  authorUrl: "https://unsplash.com/@brunovdkraan?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-resting-her-head-on-bed-i4rOpdj444c?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Restless legs syndrome (RLS) causes an uncomfortable feeling in the legs and a strong urge to move them, usually in the evening or at night when you sit or lie down. Moving brings relief, for a while."
   - "Low iron is one of the most important things to check. Kidney disease, nerve damage, pregnancy, and some medicines can also trigger or worsen RLS."
@@ -80,7 +86,10 @@ MedlinePlus and Mayo Clinic describe two broad types. In many people, no single 
 
 Iron is needed for the brain chemicals involved in movement, and low iron is strongly linked with RLS. That's why doctors often check your iron and ferritin, a measure of your iron stores, early on. But don't start iron pills on your own. The NIH Office of Dietary Supplements notes that too much iron can be harmful, and iron supplements can cause stomach upset and interact with some medicines. Test first, then treat if needed.
 
-<!-- unsplash: warm bath with towel and candles relaxing -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1554167838-07aa5723df3a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2FybSUyMGJhdGglMjB3aXRoJTIwdG93ZWwlMjBhbmQlMjBjYW5kbGVzJTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5MTg2MzU1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1554167838-07aa5723df3a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2FybSUyMGJhdGglMjB3aXRoJTIwdG93ZWwlMjBhbmQlMjBjYW5kbGVzJTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5MTg2MzU1Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1554167838-07aa5723df3a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2FybSUyMGJhdGglMjB3aXRoJTIwdG93ZWwlMjBhbmQlMjBjYW5kbGVzJTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5MTg2MzU1Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1554167838-07aa5723df3a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d2FybSUyMGJhdGglMjB3aXRoJTIwdG93ZWwlMjBhbmQlMjBjYW5kbGVzJTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5MTg2MzU1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A cup of coffee and some books on a bathtub" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@maddibazzocco?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Maddi Bazzocco</a> on <a href="https://unsplash.com/photos/a-cup-of-coffee-and-some-books-on-a-bathtub-TOZqUHD8L38?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A calmer-legs evening routine
 
