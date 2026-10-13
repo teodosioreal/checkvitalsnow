@@ -11,4 +11,4 @@ export const owner = {
 };
 
 /** Date the legal pages (privacy, terms, disclosures) were last reviewed. */
-export const legalUpdated = '2026-10-12';
+export const legalUpdated = '2026-10-13';

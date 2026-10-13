@@ -267,7 +267,7 @@ O Google não dá nota oficial; use esta lista para acompanhar. Pendências conh
 - [ ] Site publicado a partir do branch certo, no domínio próprio, com HTTPS
 - [ ] Google Search Console configurado e páginas indexadas, com algum tráfego orgânico
 - [ ] Lighthouse ≥ 95 nas quatro categorias
-- [ ] Ao aplicar: Privacy Policy atualizada para cookies do Google/AdSense e `public/ads.txt` com o ID real
+- [x] Código do AdSense no `<head>` de todas as páginas (`BaseLayout.astro`, publisher `ca-pub-1167691833070932`), `public/ads.txt`, Privacy Policy e Editorial Policy atualizadas para anúncios
 
 ---
 

@@ -46,6 +46,13 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <meta name="twitter:description" content={description} />
 
     {jsonLd.map((data) => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}
+
+    <!-- Google AdSense (site verification and ads). Publisher ID also in public/ads.txt. -->
+    <script
+      is:inline
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1167691833070932"
+      crossorigin="anonymous"></script>
   </head>
   <body class="flex min-h-screen flex-col">
     <Header />
