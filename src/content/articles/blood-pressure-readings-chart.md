@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-25
 dateModified: 2026-10-25
 imageQuery: "digital blood pressure monitor on wooden table"
+cover:
+  url: "https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGJsb29kJTIwcHJlc3N1cmUlMjBtb25pdG9yJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkxOTIzNjIzfDA&ixlib=rb-4.1.0"
+  alt: "A wooden table with a knife and fork on it"
+  author: "Brina Blum"
+  authorUrl: "https://unsplash.com/@brina_blum?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "A blood pressure reading has two numbers: systolic (top), the pressure when your heart beats, and diastolic (bottom), the pressure between beats."
   - "The American Heart Association lists normal blood pressure as less than 120 systolic and less than 80 diastolic."

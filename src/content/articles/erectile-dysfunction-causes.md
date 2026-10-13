@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-28
 dateModified: 2026-10-28
 imageQuery: "man walking outdoors with water bottle in park"
+cover:
+  url: "https://images.unsplash.com/photo-1777174032929-ed1afd541f93?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMG91dGRvb3JzJTIwd2l0aCUyMHdhdGVyJTIwYm90dGxlJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTE5MjM2MjV8MA&ixlib=rb-4.1.0"
+  alt: "Man throwing a disc golf disc in a wooded park"
+  author: "Priscilla Du Preez 🇨🇦"
+  authorUrl: "https://unsplash.com/@priscilladupreez?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-throwing-a-disc-golf-disc-in-a-wooded-park-VssqnoH2njw?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Erectile dysfunction (ED) is common and usually has a physical cause. It is a medical topic, not a personal failing."
   - "Conditions that damage blood vessels and nerves, such as heart disease, high blood pressure, diabetes, and high cholesterol, are among the most common causes."
@@ -96,7 +102,10 @@ The table below groups the main causes that NIDDK, Mayo Clinic, and Cleveland Cl
 
 Many men have a physical cause and then start worrying about the next time, which makes things harder. The worry is a real factor, not "all in your head." Addressing both sides tends to work better than focusing on just one.
 
-<!-- unsplash: man having blood pressure checked at doctor office -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1739285388427-d6f85d12a8fc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwaGF2aW5nJTIwYmxvb2QlMjBwcmVzc3VyZSUyMGNoZWNrZWQlMjBhdCUyMGRvY3RvciUyMG9mZmljZXxlbnwxfDB8fHwxNzkxOTIzNjI3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1739285388427-d6f85d12a8fc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwaGF2aW5nJTIwYmxvb2QlMjBwcmVzc3VyZSUyMGNoZWNrZWQlMjBhdCUyMGRvY3RvciUyMG9mZmljZXxlbnwxfDB8fHwxNzkxOTIzNjI3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1739285388427-d6f85d12a8fc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwaGF2aW5nJTIwYmxvb2QlMjBwcmVzc3VyZSUyMGNoZWNrZWQlMjBhdCUyMGRvY3RvciUyMG9mZmljZXxlbnwxfDB8fHwxNzkxOTIzNjI3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1739285388427-d6f85d12a8fc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwaGF2aW5nJTIwYmxvb2QlMjBwcmVzc3VyZSUyMGNoZWNrZWQlMjBhdCUyMGRvY3RvciUyMG9mZmljZXxlbnwxfDB8fHwxNzkxOTIzNjI3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Two men sitting at a desk talking to each other" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@ninthgrid_?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ninthgrid</a> on <a href="https://unsplash.com/photos/two-men-sitting-at-a-desk-talking-to-each-other-BsboLMESZg8?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Your ED risk checklist
 

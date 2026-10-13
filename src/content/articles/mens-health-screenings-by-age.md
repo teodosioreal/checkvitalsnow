@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "man talking with doctor during checkup"
+cover:
+  url: "https://images.unsplash.com/photo-1507537362848-9c7e70b7b5c1?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwdGFsa2luZyUyMHdpdGglMjBkb2N0b3IlMjBkdXJpbmclMjBjaGVja3VwfGVufDF8MHx8fDE3OTE5MjM2NDN8MA&ixlib=rb-4.1.0"
+  alt: "Two men talking"
+  author: "LinkedIn Sales Solutions"
+  authorUrl: "https://unsplash.com/@linkedinsalesnavigator?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/two-men-talking-W3Jl3jREpDY?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Blood pressure checks start at 18 for every adult, according to the U.S. Preventive Services Task Force (USPSTF)."
   - "Colorectal cancer screening is recommended for adults ages 45 to 75, with several test options besides colonoscopy."
@@ -116,7 +122,10 @@ An abdominal aortic aneurysm (AAA) is a bulge in the body's main artery, in the 
 
 Vaccine advice changes with age, health conditions, and new guidance, so it's easiest to review your record with your doctor or pharmacist each year. The CDC keeps an adult immunization schedule that your care team uses.
 
-<!-- unsplash: nurse taking blood pressure of middle-aged man -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758691462413-b07dee2933fe?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjB0YWtpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwb2YlMjBtaWRkbGUtYWdlZCUyMG1hbnxlbnwxfDB8fHwxNzkxOTIzNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758691462413-b07dee2933fe?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjB0YWtpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwb2YlMjBtaWRkbGUtYWdlZCUyMG1hbnxlbnwxfDB8fHwxNzkxOTIzNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758691462413-b07dee2933fe?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjB0YWtpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwb2YlMjBtaWRkbGUtYWdlZCUyMG1hbnxlbnwxfDB8fHwxNzkxOTIzNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758691462413-b07dee2933fe?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjB0YWtpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwb2YlMjBtaWRkbGUtYWdlZCUyMG1hbnxlbnwxfDB8fHwxNzkxOTIzNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Doctor takes elderly patient's blood pressure" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/doctor-takes-elderly-patients-blood-pressure-96Eiu2AdZG0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Which men's screenings to start with, by situation
 

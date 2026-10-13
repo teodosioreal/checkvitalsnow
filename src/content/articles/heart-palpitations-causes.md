@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-11-01
 dateModified: 2026-11-01
 imageQuery: "woman resting hand on chest sitting on couch"
+cover:
+  url: "https://images.unsplash.com/photo-1749390002163-0d151e3550d8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZXN0aW5nJTIwaGFuZCUyMG9uJTIwY2hlc3QlMjBzaXR0aW5nJTIwb24lMjBjb3VjaHxlbnwxfDB8fHwxNzkxOTIzNjI5fDA&ixlib=rb-4.1.0"
+  alt: "A woman relaxes on a brown couch"
+  author: "Polina Kuzovkova"
+  authorUrl: "https://unsplash.com/@p_kuzovkova?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-relaxes-on-a-brown-couch-Iukdi0VvNEE?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Palpitations are the feeling that your heart is pounding, racing, fluttering, or skipping a beat. They are common and often harmless."
   - "Everyday triggers include caffeine, nicotine, stress, anxiety, exercise, fever, some medicines, and hormone changes during pregnancy, periods, or menopause."
@@ -100,7 +106,10 @@ Sometimes the trigger is inside the body rather than in your cup. Conditions tha
 
 If an irregular, fluttering rhythm sounds familiar, our guide to [AFib symptoms](/heart-health/afib-symptoms/) explains that condition and why it matters for stroke risk.
 
-<!-- unsplash: woman writing in notebook at kitchen table with cup of tea -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758522487495-e56edf04c3cc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBub3RlYm9vayUyMGF0JTIwa2l0Y2hlbiUyMHRhYmxlJTIwd2l0aCUyMGN1cCUyMG9mJTIwdGVhfGVufDF8MHx8fDE3OTE5MjM2MzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758522487495-e56edf04c3cc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBub3RlYm9vayUyMGF0JTIwa2l0Y2hlbiUyMHRhYmxlJTIwd2l0aCUyMGN1cCUyMG9mJTIwdGVhfGVufDF8MHx8fDE3OTE5MjM2MzB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758522487495-e56edf04c3cc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBub3RlYm9vayUyMGF0JTIwa2l0Y2hlbiUyMHRhYmxlJTIwd2l0aCUyMGN1cCUyMG9mJTIwdGVhfGVufDF8MHx8fDE3OTE5MjM2MzB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758522487495-e56edf04c3cc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cml0aW5nJTIwaW4lMjBub3RlYm9vayUyMGF0JTIwa2l0Y2hlbiUyMHRhYmxlJTIwd2l0aCUyMGN1cCUyMG9mJTIwdGVhfGVufDF8MHx8fDE3OTE5MjM2MzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman holding book at kitchen table with snacks" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/woman-holding-book-at-kitchen-table-with-snacks-0HgoajYLeS0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Your palpitation diary
 

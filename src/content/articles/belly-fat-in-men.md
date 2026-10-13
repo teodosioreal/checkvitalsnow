@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-30
 dateModified: 2026-10-30
 imageQuery: "man measuring waist with tape measure"
+cover:
+  url: "https://images.unsplash.com/photo-1675270444770-1a6d1f69aefc?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwbWVhc3VyaW5nJTIwd2Fpc3QlMjB3aXRoJTIwdGFwZSUyMG1lYXN1cmV8ZW58MXwwfHx8MTc5MTkyMzYyMXww&ixlib=rb-4.1.0"
+  alt: "A woman measuring her waist with a measuring tape"
+  author: "B Y G"
+  authorUrl: "https://unsplash.com/@beyzahzah?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-measuring-her-waist-with-a-measuring-tape-oThoRP1zGzE?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Belly fat in men often includes visceral fat, which sits deep around the organs and is linked to heart disease, type 2 diabetes, and high blood pressure."
   - "Waist size is a simple clue. The NHLBI notes that health risks go up for men with a waist over 40 inches, even at a normal weight."
@@ -88,7 +94,10 @@ Measure once now, then once every two to four weeks at the same time of day, ide
 
 Day-to-day numbers bounce around with meals and fluid. Look at the trend over a couple of months, not the change from one week to the next.
 
-<!-- unsplash: man walking briskly in a park in the morning -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1787080116801-c832d6e0e486?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBpbiUyMGElMjBwYXJrJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE5MjM2MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1787080116801-c832d6e0e486?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBpbiUyMGElMjBwYXJrJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE5MjM2MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1787080116801-c832d6e0e486?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBpbiUyMGElMjBwYXJrJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE5MjM2MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1787080116801-c832d6e0e486?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBpbiUyMGElMjBwYXJrJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE5MjM2MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="People walking through a park with mist rising from the ground in low sun" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@fez_wee?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ksenia Obukhova</a> on <a href="https://unsplash.com/photos/people-in-park-with-ground-mist-EQdojREegGY?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Why crunches alone will not flatten a belly
 

@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-26
 dateModified: 2026-10-26
 imageQuery: "bedside alarm clock at night with glass of water"
+cover:
+  url: "https://images.unsplash.com/photo-1754606581512-222f5ea9d8c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkc2lkZSUyMGFsYXJtJTIwY2xvY2slMjBhdCUyMG5pZ2h0JTIwd2l0aCUyMGdsYXNzJTIwb2YlMjB3YXRlcnxlbnwxfDB8fHwxNzkxOTIzNjQ0fDA&ixlib=rb-4.1.0"
+  alt: "Nightstand with a lamp, clock, and chargers"
+  author: "Allen Y"
+  authorUrl: "https://unsplash.com/@yanahd?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/nightstand-with-a-lamp-clock-and-chargers-2kKThodpTvw?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Waking up at night to pee is called nocturia. It becomes more common with age, but it is not something you have to simply accept."
   - "The prostate is only one possible cause. Evening fluids, alcohol and caffeine, sleep apnea, diabetes, fluid that pools in the legs during the day, and some medicines can all play a part."

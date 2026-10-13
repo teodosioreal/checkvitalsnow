@@ -93,7 +93,10 @@ Poor sleep belongs on this list too. Sleep problems and sleep apnea can leave yo
 
 Hearing deserves a mention as well. If you didn't clearly hear something, you can't remember it, and missed conversations can look like memory slips. If that sounds familiar, check the [signs of hearing loss](/brain-and-balance/signs-of-hearing-loss/).
 
-<!-- unsplash: adult daughter talking with elderly mother on sofa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YWR1bHQlMjBkYXVnaHRlciUyMHRhbGtpbmclMjB3aXRoJTIwZWxkZXJseSUyMG1vdGhlciUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkxOTIzNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YWR1bHQlMjBkYXVnaHRlciUyMHRhbGtpbmclMjB3aXRoJTIwZWxkZXJseSUyMG1vdGhlciUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkxOTIzNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YWR1bHQlMjBkYXVnaHRlciUyMHRhbGtpbmclMjB3aXRoJTIwZWxkZXJseSUyMG1vdGhlciUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkxOTIzNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YWR1bHQlMjBkYXVnaHRlciUyMHRhbGtpbmclMjB3aXRoJTIwZWxkZXJseSUyMG1vdGhlciUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkxOTIzNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Two elderly women sitting and talking" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@agecymru?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Age Cymru</a> on <a href="https://unsplash.com/photos/two-elderly-women-sitting-and-talking-6RZXBjjAtbU?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## When to see a doctor about memory loss: a decision table
 

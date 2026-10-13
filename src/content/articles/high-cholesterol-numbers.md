@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-28
 dateModified: 2026-10-28
 imageQuery: "nurse drawing blood from patient arm in clinic"
+cover:
+  url: "https://images.unsplash.com/photo-1787338718244-3619e3551099?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjBkcmF3aW5nJTIwYmxvb2QlMjBmcm9tJTIwcGF0aWVudCUyMGFybSUyMGluJTIwY2xpbmljfGVufDF8MHx8fDE3OTE5MjM2MzN8MA&ixlib=rb-4.1.0"
+  alt: "A person in purple gloves inserting a needle into a patient's arm"
+  author: "Navy Medicine"
+  authorUrl: "https://unsplash.com/@navymedicine?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-inserting-needle-into-arm-Ipe4GcdkQfA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "High cholesterol usually has no symptoms. A blood test called a lipid panel is the only way to know your numbers."
   - "LDL is often called bad cholesterol because it can build up in artery walls. HDL is called good cholesterol because it helps carry cholesterol away to the liver."
@@ -91,7 +97,10 @@ The CDC says **most healthy adults should get their cholesterol checked every 4 
 
 The test itself is a simple blood draw called a lipid panel. Some panels are done without fasting, and some ask you to fast first. Ask your doctor's office which one you're getting.
 
-<!-- unsplash: person reading lab results on a laptop at home -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1768483538267-fce52de424d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGxhYiUyMHJlc3VsdHMlMjBvbiUyMGElMjBsYXB0b3AlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1768483538267-fce52de424d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGxhYiUyMHJlc3VsdHMlMjBvbiUyMGElMjBsYXB0b3AlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1768483538267-fce52de424d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGxhYiUyMHJlc3VsdHMlMjBvbiUyMGElMjBsYXB0b3AlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1768483538267-fce52de424d5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGxhYiUyMHJlc3VsdHMlMjBvbiUyMGElMjBsYXB0b3AlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person working on a laptop at a desk" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@werealproduction?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Gabriel Weyand</a> on <a href="https://unsplash.com/photos/person-working-on-a-laptop-at-a-desk-pPpUCaudT5Q?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Your cholesterol lab report, decoded: a table to copy
 

@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-26
 dateModified: 2026-10-26
 imageQuery: "couple walking together in park in the morning"
+cover:
+  url: "https://images.unsplash.com/photo-1768898548611-2dd94e452538?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwd2Fsa2luZyUyMHRvZ2V0aGVyJTIwaW4lMjBwYXJrJTIwaW4lMjB0aGUlMjBtb3JuaW5nfGVufDF8MHx8fDE3OTE5MjM2MzV8MA&ixlib=rb-4.1.0"
+  alt: "Couple walking by a river at sunset"
+  author: "Anna Stampfli"
+  authorUrl: "https://unsplash.com/@annastampfli?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/couple-walking-by-a-river-at-sunset-W3NqqtlK8ic?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Health agencies recommend the same core habits for lowering blood pressure: a heart-healthy eating plan like DASH, less sodium, regular activity, limiting alcohol, a healthy weight, good sleep, and not smoking."
   - "Small changes stacked together may help more than one big change you can't keep up."
@@ -104,7 +110,10 @@ The saltshaker is rarely the main source. The AHA points out that most of the so
 
 Your taste buds adjust over a few weeks. Foods that tasted bland at first often start to taste normal.
 
-<!-- unsplash: fresh vegetables and whole grains on a kitchen counter -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1605522283494-4901a98d458e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJlc2glMjB2ZWdldGFibGVzJTIwYW5kJTIwd2hvbGUlMjBncmFpbnMlMjBvbiUyMGElMjBraXRjaGVuJTIwY291bnRlcnxlbnwxfDB8fHwxNzkxOTIzNjM2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1605522283494-4901a98d458e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJlc2glMjB2ZWdldGFibGVzJTIwYW5kJTIwd2hvbGUlMjBncmFpbnMlMjBvbiUyMGElMjBraXRjaGVuJTIwY291bnRlcnxlbnwxfDB8fHwxNzkxOTIzNjM2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1605522283494-4901a98d458e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJlc2glMjB2ZWdldGFibGVzJTIwYW5kJTIwd2hvbGUlMjBncmFpbnMlMjBvbiUyMGElMjBraXRjaGVuJTIwY291bnRlcnxlbnwxfDB8fHwxNzkxOTIzNjM2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1605522283494-4901a98d458e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZnJlc2glMjB2ZWdldGFibGVzJTIwYW5kJTIwd2hvbGUlMjBncmFpbnMlMjBvbiUyMGElMjBraXRjaGVuJTIwY291bnRlcnxlbnwxfDB8fHwxNzkxOTIzNjM2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Sliced vegetables on brown wooden chopping board" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@thlt_lcx?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">THLT LCX</a> on <a href="https://unsplash.com/photos/sliced-vegetables-on-brown-wooden-chopping-board-xoWNIXzULMs?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Moving more, without a gym membership
 

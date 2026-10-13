@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-29
 dateModified: 2026-10-29
 imageQuery: "paramedics with ambulance on city street"
+cover:
+  url: "https://images.unsplash.com/photo-1692735345453-bcb80bf6890d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFyYW1lZGljcyUyMHdpdGglMjBhbWJ1bGFuY2UlMjBvbiUyMGNpdHklMjBzdHJlZXR8ZW58MXwwfHx8MTc5MTkyMzYyOHww&ixlib=rb-4.1.0"
+  alt: "An ambulance is parked on the side of the road"
+  author: "Rafael Hoyos Weht"
+  authorUrl: "https://unsplash.com/@rhweht?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/an-ambulance-is-parked-on-the-side-of-the-road-V5Vxh7sKH4A?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "The most common heart attack warning sign is chest pain or discomfort: pressure, squeezing, fullness, or pain that lasts more than a few minutes or goes away and comes back."
   - "Other signs include discomfort in one or both arms, the back, neck, jaw, or stomach, shortness of breath, cold sweat, nausea, and lightheadedness."
@@ -99,7 +105,10 @@ When heart muscle loses blood flow, damage builds the longer it lasts. Treatment
 
 If someone becomes unresponsive and isn't breathing normally, they may be in **cardiac arrest**, which is different from a heart attack. Call 911, then start **Hands-Only CPR**: push hard and fast in the center of the chest. The dispatcher can coach you through it. If an AED (automated external defibrillator) is nearby, have someone bring it and follow its voice prompts.
 
-<!-- unsplash: person practicing CPR on training mannequin in class -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1572996489045-96ed977a73b4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcHJhY3RpY2luZyUyMENQUiUyMG9uJTIwdHJhaW5pbmclMjBtYW5uZXF1aW4lMjBpbiUyMGNsYXNzfGVufDF8MHx8fDE3OTE5MjM2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1572996489045-96ed977a73b4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcHJhY3RpY2luZyUyMENQUiUyMG9uJTIwdHJhaW5pbmclMjBtYW5uZXF1aW4lMjBpbiUyMGNsYXNzfGVufDF8MHx8fDE3OTE5MjM2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1572996489045-96ed977a73b4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcHJhY3RpY2luZyUyMENQUiUyMG9uJTIwdHJhaW5pbmclMjBtYW5uZXF1aW4lMjBpbiUyMGNsYXNzfGVufDF8MHx8fDE3OTE5MjM2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1572996489045-96ed977a73b4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcHJhY3RpY2luZyUyMENQUiUyMG9uJTIwdHJhaW5pbmclMjBtYW5uZXF1aW4lMjBpbiUyMGNsYXNzfGVufDF8MHx8fDE3OTE5MjM2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="CPR dummy" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@tcooper86?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Tim Cooper</a> on <a href="https://unsplash.com/photos/cpr-dummy-24zAUw5c2R4?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Heart attack or something else? Don't sort it out alone
 

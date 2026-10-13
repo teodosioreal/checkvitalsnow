@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-25
 dateModified: 2026-10-25
 imageQuery: "middle aged man drinking coffee in kitchen morning"
+cover:
+  url: "https://images.unsplash.com/photo-1758522489194-f82a77f3ab48?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWlkZGxlJTIwYWdlZCUyMG1hbiUyMGRyaW5raW5nJTIwY29mZmVlJTIwaW4lMjBraXRjaGVuJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxOTIzNjM4fDA&ixlib=rb-4.1.0"
+  alt: "Man dancing in kitchen holding coffee and phone"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-dancing-in-kitchen-holding-coffee-and-phone-8JyMhuR0seg?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Common low testosterone symptoms include low sex drive, erection problems, low energy, loss of muscle, more body fat, and mood changes. Many of these also come from poor sleep, stress, weight gain, or other conditions."
   - "Testosterone drops gradually with age, but a slow decline is not the same as low testosterone that needs treatment."
@@ -87,7 +93,10 @@ This isn't a diagnosis. It's a way to organize what you've noticed so the appoin
 
 **If you marked "clearly yes" on the first two lines,** testosterone is worth checking. **If the snoring or medicine lines stand out,** tell your doctor, because those can be causes on their own.
 
-<!-- unsplash: man getting blood drawn at medical lab -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758206523917-ebcf4a571e60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZ2V0dGluZyUyMGJsb29kJTIwZHJhd24lMjBhdCUyMG1lZGljYWwlMjBsYWJ8ZW58MXwwfHx8MTc5MTkyMzYzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758206523917-ebcf4a571e60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZ2V0dGluZyUyMGJsb29kJTIwZHJhd24lMjBhdCUyMG1lZGljYWwlMjBsYWJ8ZW58MXwwfHx8MTc5MTkyMzYzOXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758206523917-ebcf4a571e60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZ2V0dGluZyUyMGJsb29kJTIwZHJhd24lMjBhdCUyMG1lZGljYWwlMjBsYWJ8ZW58MXwwfHx8MTc5MTkyMzYzOXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758206523917-ebcf4a571e60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZ2V0dGluZyUyMGJsb29kJTIwZHJhd24lMjBhdCUyMG1lZGljYWwlMjBsYWJ8ZW58MXwwfHx8MTc5MTkyMzYzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person in gloves carefully transfers liquid into a vial" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@navymedicine?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Navy Medicine</a> on <a href="https://unsplash.com/photos/a-person-in-gloves-carefully-transfers-liquid-into-a-vial-Su90ymZmqDo?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How a testosterone blood test works
 

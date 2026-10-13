@@ -83,7 +83,10 @@ That's why treatment usually aims at two things: controlling the heart rate or r
 
 Learn the stroke warning signs so you'd spot them in yourself or someone close to you. Our guide to [signs of a stroke](/heart-health/stroke-signs/) includes a wallet card you can copy.
 
-<!-- unsplash: doctor talking with older woman patient in clinic office -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758691462878-6edc3d3da1be?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFsa2luZyUyMHdpdGglMjBvbGRlciUyMHdvbWFuJTIwcGF0aWVudCUyMGluJTIwY2xpbmljJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTE5MjM2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758691462878-6edc3d3da1be?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFsa2luZyUyMHdpdGglMjBvbGRlciUyMHdvbWFuJTIwcGF0aWVudCUyMGluJTIwY2xpbmljJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTE5MjM2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758691462878-6edc3d3da1be?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFsa2luZyUyMHdpdGglMjBvbGRlciUyMHdvbWFuJTIwcGF0aWVudCUyMGluJTIwY2xpbmljJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTE5MjM2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758691462878-6edc3d3da1be?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdGFsa2luZyUyMHdpdGglMjBvbGRlciUyMHdvbWFuJTIwcGF0aWVudCUyMGluJTIwY2xpbmljJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTE5MjM2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Doctor consults with patient in medical office" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/doctor-consults-with-patient-in-medical-office-iyeUwItlIPk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What raises the chance of AFib
 

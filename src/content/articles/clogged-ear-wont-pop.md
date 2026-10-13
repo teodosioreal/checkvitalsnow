@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-10-30
 dateModified: 2026-10-30
 imageQuery: "woman touching ear on airplane window seat"
+cover:
+  url: "https://images.unsplash.com/photo-1619892352483-08a540e5515e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0b3VjaGluZyUyMGVhciUyMG9uJTIwYWlycGxhbmUlMjB3aW5kb3clMjBzZWF0fGVufDF8MHx8fDE3OTE5MjM2MjR8MA&ixlib=rb-4.1.0"
+  alt: "White and blue car door"
+  author: "Michelle Spollen"
+  authorUrl: "https://unsplash.com/@micki?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/white-and-blue-car-door-RYQmwCPExXc?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "A clogged ear that won't pop is usually caused by earwax, a Eustachian tube that isn't opening well after a cold, allergies, or a flight, or fluid behind the eardrum."
   - "Swallowing, yawning, and chewing gum may help open the Eustachian tube. Earwax often responds to softening drops, if your eardrum is healthy."
