@@ -13,13 +13,7 @@ secondaryKeywords:
   - "chronic fatigue after covid"
 datePublished: 2026-10-19
 dateModified: 2026-10-19
-imageQuery: "person resting on couch with blanket afternoon"
-cover:
-  url: "https://images.unsplash.com/photo-1681853103649-4be3245c9248?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwY291Y2glMjB3aXRoJTIwYmxhbmtldCUyMGFmdGVybm9vbnxlbnwxfDB8fHwxNzkxODU5NTU0fDA&ixlib=rb-4.1.0"
-  alt: "A cat is curled up on a couch by a window"
-  author: "Giorgio Trovato"
-  authorUrl: "https://unsplash.com/@giorgiotrovato?utm_source=checkvitalsnow&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-cat-is-curled-up-on-a-couch-by-a-window-n84YctCLicU?utm_source=checkvitalsnow&utm_medium=referral"
+imageQuery: "tired woman resting head on hand at desk"
 keyTakeaways:
   - "Everyday tiredness improves with rest. Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a serious, long-term illness where rest doesn't restore energy."
   - "The hallmark of ME/CFS is post-exertional malaise: symptoms get worse after physical or mental effort, often a day or more later."

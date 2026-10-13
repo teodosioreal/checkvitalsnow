@@ -79,10 +79,7 @@ The American Academy of Orthopaedic Surgeons notes that cubital tunnel syndrome 
 
 If your neck also hurts, our guide on [neck pain on one side](/pain-and-nerves/neck-pain-on-one-side/) explains the signs of a pinched nerve there.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1706777274313-4dc6d8f0a894?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d3Jpc3QlMjBicmFjZSUyMHNwbGludCUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5MTg1ODg5MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A man and a woman sitting on a table with a tablet" loading="lazy" decoding="async">
-<figcaption>Photo by <a href="https://unsplash.com/@tomspentys?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Tom Claes</a> on <a href="https://unsplash.com/photos/a-man-and-a-woman-sitting-on-a-table-with-a-tablet-WCSZRDsif4g?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman holding her wrist in pain -->
 
 ## Who tends to get carpal tunnel
 

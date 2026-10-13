@@ -13,13 +13,7 @@ secondaryKeywords:
   - "anti-inflammatory meal plan"
 datePublished: 2026-10-23
 dateModified: 2026-10-23
-imageQuery: "colorful vegetables salmon and olive oil on table"
-cover:
-  url: "https://images.unsplash.com/photo-1630875413974-ec783f55a948?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y29sb3JmdWwlMjB2ZWdldGFibGVzJTIwc2FsbW9uJTIwYW5kJTIwb2xpdmUlMjBvaWwlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTE4NTk1NDl8MA&ixlib=rb-4.1.0"
-  alt: "Yellow labeled bottle beside red apple and yellow lemon fruit"
-  author: "James Kern"
-  authorUrl: "https://unsplash.com/@jamesrkern?utm_source=checkvitalsnow&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/yellow-labeled-bottle-beside-red-apple-and-yellow-lemon-fruit-SIcM9gb8VvU?utm_source=checkvitalsnow&utm_medium=referral"
+imageQuery: "salmon salad with vegetables on plate"
 keyTakeaways:
   - "There's no single food that switches off inflammation, but an overall eating pattern rich in vegetables, fruits, whole grains, beans, nuts, olive oil, and fish is linked with lower inflammation and better health."
   - "Refined carbs, sugary drinks, fried foods, processed meats, and heavy drinking are commonly linked with more inflammation."
