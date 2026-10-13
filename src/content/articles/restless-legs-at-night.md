@@ -109,7 +109,7 @@ Bring the log to your doctor. It shows how much RLS affects your sleep, which he
 
 Magnesium is often suggested online for restless legs and cramps. Research on magnesium for RLS is limited and hasn't shown a clear benefit. The NIH Office of Dietary Supplements notes that high doses of magnesium from supplements can cause diarrhea and stomach cramps, and that people with kidney problems are at higher risk of side effects. Ask your doctor before trying it.
 
-## Which situation is yours
+## Restless legs in different seasons of life
 
 ### If you're pregnant
 
