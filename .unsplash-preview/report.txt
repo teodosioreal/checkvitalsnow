@@ -29,3 +29,6 @@ why-do-i-leak-urine-when-i-sneeze | cover | american woman sneezing into tissue 
 why-do-i-leak-urine-when-i-sneeze | inline 1 | woman laughing with friends outdoors | https://unsplash.com/photos/people-laughing-and-talking-outside-during-daytime-nF8xhLMmg0c | people laughing and talking outside during daytime
 why-do-i-leak-urine-when-i-sneeze | inline 2 | woman doing pilates on mat at home | https://unsplash.com/photos/woman-stretching-on-yoga-mat-indoors-vcIsLI9doQM | Woman stretching on yoga mat indoors
 bone-health-after-menopause | cover | older woman hiking trail | https://unsplash.com/photos/woman-walks-on-sunlit-path-in-lush-green-forest-fNhPZquN96I | Woman walks on sunlit path in lush green forest
+enlarged-prostate-back-to-normal | cover | older man talking with doctor | https://unsplash.com/photos/doctor-consults-with-an-elderly-patient-on-a-couch-7M5YI0RM3uA | Doctor consults with an elderly patient on a couch
+enlarged-prostate-back-to-normal | inline 1 | man walking outdoors in park morning | https://unsplash.com/photos/man-walking-on-empty-road-ZRKBchjknbk | man walking on empty road
+enlarged-prostate-back-to-normal | inline 2 | glass of water on bedside table at night | https://unsplash.com/photos/a-bedside-lamp-illuminates-a-nightstand-next-to-a-bed-PjJAE7iX4zA | A bedside lamp illuminates a nightstand next to a bed

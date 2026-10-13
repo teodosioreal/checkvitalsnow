@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-10-13
 dateModified: 2026-10-13
 imageQuery: "older man talking with doctor"
+cover:
+  url: "https://images.unsplash.com/photo-1758691462477-976f771224d8?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjB0YWxraW5nJTIwd2l0aCUyMGRvY3RvcnxlbnwxfDB8fHwxNzkxODUwNjA3fDA&ixlib=rb-4.1.0"
+  alt: "Doctor consults with an elderly patient on a couch"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/doctor-consults-with-an-elderly-patient-on-a-couch-7M5YI0RM3uA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "An enlarged prostate, called benign prostatic hyperplasia (BPH), is very common as men get older. It is not cancer."
   - "It usually does not shrink back on its own. Some prescription medicines can shrink it slowly over months, others relax the muscles around it, and procedures can open the blocked path."
@@ -79,7 +85,10 @@ One more thing surprises many men: **a bigger prostate doesn't always mean worse
 
 Every medicine on this list can have side effects. Alpha blockers, for example, can make some men dizzy when they stand up. Your doctor can explain the trade-offs for your situation.
 
-<!-- unsplash: man walking outdoors in park morning -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1520206444322-d2df0dd4e78e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMG91dGRvb3JzJTIwaW4lMjBwYXJrJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxODUwNjA4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1520206444322-d2df0dd4e78e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMG91dGRvb3JzJTIwaW4lMjBwYXJrJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxODUwNjA4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1520206444322-d2df0dd4e78e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMG91dGRvb3JzJTIwaW4lMjBwYXJrJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxODUwNjA4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1520206444322-d2df0dd4e78e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMG91dGRvb3JzJTIwaW4lMjBwYXJrJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzkxODUwNjA4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man walking on empty road" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@franciscoegonzalez?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Francisco Gonzalez</a> on <a href="https://unsplash.com/photos/man-walking-on-empty-road-ZRKBchjknbk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Is an enlarged prostate dangerous?
 
@@ -150,7 +159,10 @@ Search for "how to shrink an enlarged prostate" and you'll find long lists of na
 
 The real risk with home remedies isn't usually the remedy itself. It's the months spent waiting for something to work while symptoms, and sometimes complications, quietly get worse. If you want to try something, tell your doctor first.
 
-<!-- unsplash: glass of water on bedside table at night -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1770668891698-faed64274d4e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGUlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4NTA2MDl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1770668891698-faed64274d4e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGUlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4NTA2MDl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1770668891698-faed64274d4e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGUlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4NTA2MDl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1770668891698-faed64274d4e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGUlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTE4NTA2MDl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A bedside lamp illuminates a nightstand next to a bed" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@lucaakalu?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Lu</a> on <a href="https://unsplash.com/photos/a-bedside-lamp-illuminates-a-nightstand-next-to-a-bed-PjJAE7iX4zA?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Questions to take to your urologist
 
