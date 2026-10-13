@@ -1,10 +1,10 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedArticles } from '../lib/articles';
 
 interface Props {
   ids: string[];
 }
-const all = await getCollection('articles');
+const all = await getPublishedArticles();
 const items = Astro.props.ids
   .map((id) => all.find((a) => a.id === id))
   .filter((a): a is (typeof all)[number] => Boolean(a));

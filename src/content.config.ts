@@ -9,7 +9,7 @@ const articles = defineCollection({
       title: z.string().max(60),
       description: z.string().max(155),
       h1: z.string(),
-      category: z.enum(['womens-health', 'mens-health']),
+      category: z.enum(['womens-health', 'mens-health', 'pain-and-nerves', 'brain-and-balance']),
       primaryKeyword: z.string(),
       secondaryKeywords: z.array(z.string()).default([]),
       datePublished: z.coerce.date(),

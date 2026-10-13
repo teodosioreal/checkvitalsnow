@@ -1,0 +1,41 @@
+name: Publicar artigos agendados
+
+# Todo dia às 08:00 de Brasília (11:00 UTC). O GitHub pode atrasar alguns minutos.
+on:
+  schedule:
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+      - name: Ver o que está agendado para hoje
+        id: due
+        run: |
+          node scripts/publish-today.mjs > due.txt
+          cat due.txt
+          echo "count=$(grep -c . due.txt || true)" >> "$GITHUB_OUTPUT"
+      - name: Disparar a publicação
+        if: steps.due.outputs.count != '0' || github.event_name == 'workflow_dispatch'
+        env:
+          DEPLOY_HOOK: ${{ secrets.CF_PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl -fsS -X POST "$DEPLOY_HOOK" && echo "Deploy hook chamado."
+          else
+            # Sem deploy hook: um commit pequeno faz o Cloudflare Pages reconstruir o site.
+            date -u +%FT%TZ > .last-scheduled-publish
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .last-scheduled-publish
+            git commit -m "chore: scheduled publish $(date -u +%F)"
+            git push
+          fi

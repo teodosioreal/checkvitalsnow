@@ -1,5 +1,6 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
+import { getPublishedArticles } from '../../lib/articles';
 import { Image } from 'astro:assets';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import KeyTakeaways from '../../components/KeyTakeaways.astro';
@@ -11,7 +12,7 @@ import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
 export async function getStaticPaths() {
-  const articles = await getCollection('articles');
+  const articles = await getPublishedArticles();
   return articles.map((entry) => ({ params: { category: entry.data.category, slug: entry.id }, props: { entry } }));
 }
 
@@ -19,13 +20,14 @@ const { entry } = Astro.props;
 const { Content, headings } = await render(entry);
 const data = entry.data;
 // "Read next": the article picked in frontmatter, else the first related one, else another in the same category.
-const all = await getCollection('articles');
+// Stay in the reader's niche: fall back to the same category, never to an unrelated one.
+const all = await getPublishedArticles();
 const others = all.filter((a) => a.id !== entry.id);
+const sameCategory = others.filter((a) => a.data.category === data.category);
 const next =
   others.find((a) => a.id === data.next) ??
-  others.find((a) => a.id === data.related[0]) ??
-  others.find((a) => a.data.category === data.category) ??
-  others[0];
+  sameCategory.find((a) => data.related.includes(a.id)) ??
+  sameCategory.sort((a, b) => b.data.datePublished.getTime() - a.data.datePublished.getTime())[0];
 const relatedIds = data.related.filter((id) => id !== next?.id);
 const category = categories[data.category];
 const url = new URL(Astro.url.pathname, site.url).href;

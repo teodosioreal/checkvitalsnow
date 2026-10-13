@@ -1,16 +1,20 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedArticles } from '../../lib/articles';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { site, categories } from '../../data/site';
 
-export function getStaticPaths() {
-  return Object.keys(categories).map((category) => ({ params: { category } }));
+export async function getStaticPaths() {
+  const published = await getPublishedArticles();
+  // Only categories with at least one live article get a page.
+  return Object.keys(categories)
+    .filter((category) => published.some((a) => a.data.category === category))
+    .map((category) => ({ params: { category } }));
 }
 
 const slug = Astro.params.category as keyof typeof categories;
 const category = categories[slug];
-const articles = (await getCollection('articles', ({ data }) => data.category === slug)).sort(
+const articles = (await getPublishedArticles()).filter(({ data }) => data.category === slug).sort(
   (a, b) => b.data.datePublished.getTime() - a.data.datePublished.getTime() || a.data.h1.localeCompare(b.data.h1),
 );
 

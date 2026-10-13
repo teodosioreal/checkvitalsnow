@@ -15,6 +15,22 @@ export const categories = {
     description:
       'Bladder leakage, hormone changes, constant tiredness, stress, and bone health: practical guides for women from perimenopause to life after menopause.',
   },
+  'pain-and-nerves': {
+    name: 'Pain & Nerve Health',
+    title: 'Pain and Nerve Health Guides | CheckVitalsNow',
+    metaDescription:
+      'Plain-language guides on sciatica, back and neck pain, numb hands, burning feet, restless legs, and stiffness, with steps you can try at home.',
+    description:
+      'Sciatica, back and neck pain, numb or tingling hands, burning feet, restless legs, and stiff joints: what is behind the pain, what you can try at home, and the signs that need a doctor.',
+  },
+  'brain-and-balance': {
+    name: 'Brain, Balance & Hearing',
+    title: 'Brain Fog, Dizziness and Tinnitus Guides | CheckVitalsNow',
+    metaDescription:
+      'Clear guides on brain fog, constant fatigue, dizziness, vertigo, and ringing in the ears: common causes, what can help, and when to see a doctor.',
+    description:
+      'Brain fog, constant fatigue, dizziness, vertigo, and ringing in the ears: common causes, practical steps, and the warning signs to take seriously.',
+  },
   'mens-health': {
     name: "Men's Health",
     title: "Men's Health Guides | CheckVitalsNow",
@@ -28,13 +44,6 @@ export const categories = {
 export const author = {
   name: 'CheckVitalsNow Editorial Team',
 };
-
-export const nav: { label: string; href: string }[] = [
-  { label: "Women's Health", href: '/womens-health/' },
-  { label: "Men's Health", href: '/mens-health/' },
-  { label: 'About', href: '/about/' },
-  { label: 'How We Write', href: '/editorial-policy/' },
-];
 
 export const footerLinks: { label: string; href: string }[] = [
   { label: 'About Us', href: '/about/' },

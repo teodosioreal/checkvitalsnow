@@ -1,5 +1,15 @@
 ---
-import { site, nav } from '../data/site';
+import { site, categories } from '../data/site';
+import { getPublishedArticles } from '../lib/articles';
+
+// Show only sections that already have live articles.
+const published = await getPublishedArticles();
+const nav = [
+  ...Object.entries(categories)
+    .filter(([slug]) => published.some((a) => a.data.category === slug))
+    .map(([slug, c]) => ({ label: c.name, href: `/${slug}/` })),
+  { label: 'About', href: '/about/' },
+];
 ---
 
 <header class="border-b border-line bg-paper">

@@ -1,14 +1,48 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import { getPublishedArticles } from '../lib/articles';
 import { site, disclaimers, standards, promises } from '../data/site';
 import ArticleCard from '../components/ArticleCard.astro';
 
-const all = await getCollection('articles');
+const all = await getPublishedArticles();
 const byId = (id: string) => all.find((a) => a.id === id);
 
 // Homepage shelves, grouped the way readers usually look for help.
 const topics = [
+  {
+    id: 'pain-and-nerves',
+    title: 'Pain and nerve health',
+    intro: 'Sciatica, back and neck pain, numb hands, and burning feet: what is behind the pain and what you can try today.',
+    ids: [
+      'sciatica-pain-relief-at-home',
+      'sciatica-when-sitting',
+      'lower-back-pain-causes',
+      'sleeping-with-lower-back-pain',
+      'neck-pain-on-one-side',
+      'tech-neck-posture',
+      'hands-numb-at-night',
+      'carpal-tunnel-exercises',
+      'burning-feet-at-night',
+      'diabetic-neuropathy-foot-care',
+      'restless-legs-at-night',
+      'night-leg-cramps',
+      'morning-joint-stiffness',
+      'anti-inflammatory-eating',
+    ],
+  },
+  {
+    id: 'brain-and-balance',
+    title: 'Brain, balance, and hearing',
+    intro: 'Brain fog, constant fatigue, dizziness, and ringing ears: common causes and the signs to take seriously.',
+    ids: [
+      'brain-fog-causes',
+      'chronic-fatigue-or-just-tired',
+      'sudden-dizziness-causes',
+      'dizzy-when-standing-up',
+      'ringing-in-ears-causes',
+      'living-with-tinnitus',
+    ],
+  },
   {
     id: 'energy-and-stress',
     title: 'Energy and stress',
@@ -39,7 +73,10 @@ const topics = [
     intro: 'What changes in your 40s and 50s, what is normal, and when to get checked.',
     ids: ['perimenopause-symptoms', 'signs-of-hormonal-imbalance-in-women', 'bone-health-after-menopause'],
   },
-].map((t) => ({ ...t, articles: t.ids.map(byId).filter((a): a is (typeof all)[number] => Boolean(a)) }));
+]
+  .map((t) => ({ ...t, articles: t.ids.map(byId).filter((a): a is (typeof all)[number] => Boolean(a)) }))
+  // Hide shelves until their first article is live.
+  .filter((t) => t.articles.length > 0);
 
 // "Start here" picks: one guide from each topic.
 const featured = ['why-do-i-leak-urine-when-i-sneeze', 'perimenopause-symptoms', 'why-am-i-always-tired']
