@@ -42,8 +42,8 @@ sources:
     url: "https://www.mayoclinic.org/diseases-conditions/back-pain/symptoms-causes/syc-20369906"
   - title: "Back Pain, National Institute of Arthritis and Musculoskeletal and Skin Diseases"
     url: "https://www.niams.nih.gov/health-topics/back-pain"
-  - title: "How Much Sleep Do I Need?, CDC"
-    url: "https://www.cdc.gov/sleep/about/index.html"
+  - title: "How Much Sleep Is Enough?, National Heart, Lung, and Blood Institute"
+    url: "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
 next: burning-feet-at-night
 related:
   - lower-back-pain-causes
@@ -113,7 +113,7 @@ Then set up your pillows before you get comfortable. It is much harder to rearra
 
 ## Sleep and pain feed each other
 
-Poor sleep can make pain feel worse the next day, and pain makes it harder to sleep. The CDC recommends at least seven hours of sleep a night for adults. Keeping a regular bedtime and wake-up time, even on weekends, can help you get there while your back recovers.
+Poor sleep can make pain feel worse the next day, and pain makes it harder to sleep. The National Heart, Lung, and Blood Institute recommends 7 to 9 hours of sleep a night for adults. Keeping a regular bedtime and wake-up time, even on weekends, can help you get there while your back recovers.
 
 ## Night pain that needs a doctor
 

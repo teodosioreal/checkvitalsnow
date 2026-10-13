@@ -38,8 +38,8 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism"
   - title: "Vitamin B12 Fact Sheet for Consumers, NIH Office of Dietary Supplements"
     url: "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
-  - title: "About Sleep, CDC"
-    url: "https://www.cdc.gov/sleep/about/index.html"
+  - title: "How Much Sleep Is Enough?, National Heart, Lung, and Blood Institute"
+    url: "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"
   - title: "Menopause symptoms and relief, Office on Women's Health"
     url: "https://womenshealth.gov/menopause/menopause-symptoms-and-relief"
 next: chronic-fatigue-or-just-tired
@@ -71,7 +71,7 @@ These are the most common, and the easiest to change:
 
 | Cause | How it can cause fog | Clue |
 | --- | --- | --- |
-| Short or poor sleep | The CDC recommends at least 7 hours for adults. Less than that, regularly, affects attention and memory. | Worse after short nights, better after a weekend of rest |
+| Short or poor sleep | The National Heart, Lung, and Blood Institute recommends 7 to 9 hours for adults. Regularly getting less can affect attention and memory. | Worse after short nights, better after a weekend of rest |
 | Ongoing stress | Constant alarm mode makes it hard to focus and often disrupts sleep | Worse during busy, stressful stretches |
 | Depression or anxiety | NIMH lists trouble concentrating, remembering, or making decisions among the symptoms of depression | Low mood, loss of interest, constant worry |
 | Medicines | Some antihistamines, sleep aids, pain medicines, and others can dull thinking | Started or got worse after a new medicine |

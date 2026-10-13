@@ -44,8 +44,6 @@ sources:
     url: "https://medlineplus.gov/ency/article/007425.htm"
   - title: "Back Pain, National Institute of Arthritis and Musculoskeletal and Skin Diseases"
     url: "https://www.niams.nih.gov/health-topics/back-pain"
-  - title: "Back Pain, National Institute of Neurological Disorders and Stroke"
-    url: "https://www.ninds.nih.gov/health-information/disorders/back-pain"
 next: sleeping-with-lower-back-pain
 related:
   - sleeping-with-lower-back-pain

@@ -38,12 +38,10 @@ faq:
 sources:
   - title: "Carpal tunnel syndrome: Symptoms and causes, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603"
-  - title: "Carpal Tunnel Syndrome, National Institute of Neurological Disorders and Stroke"
-    url: "https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome"
   - title: "Carpal Tunnel Syndrome, OrthoInfo (AAOS)"
     url: "https://orthoinfo.aaos.org/en/diseases--conditions/carpal-tunnel-syndrome/"
   - title: "Ulnar Nerve Entrapment at the Elbow (Cubital Tunnel Syndrome), OrthoInfo (AAOS)"
-    url: "https://orthoinfo.aaos.org/en/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow-cubital-tunnel-syndrome/"
+    url: "https://www.orthoinfo.org/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow"
   - title: "Carpal Tunnel Syndrome, MedlinePlus"
     url: "https://medlineplus.gov/carpaltunnelsyndrome.html"
 next: carpal-tunnel-exercises
@@ -61,7 +59,7 @@ It's 2 a.m. and your hand is asleep, but you're not. The fingers feel thick and 
 
 The carpal tunnel is a narrow passage on the palm side of your wrist, made of bones and a tough band of tissue. The median nerve runs through it, along with the tendons that bend your fingers. When that space gets crowded, for example from swelling, the nerve gets squeezed.
 
-The National Institute of Neurological Disorders and Stroke (NINDS) describes the classic symptoms as burning, tingling, or itching numbness in the palm and the thumb, index, and middle fingers. Mayo Clinic notes that symptoms often wake people at night, and that many people "shake out" their hands to relieve them.
+Mayo Clinic describes the classic symptoms as tingling and numbness in the thumb, index, middle, and ring fingers, but not the little finger. Mayo Clinic notes that symptoms often wake people at night, and that many people "shake out" their hands to relieve them.
 
 ### Why it's worse at night
 

@@ -38,8 +38,6 @@ faq:
 sources:
   - title: "Carpal tunnel syndrome: Diagnosis and treatment, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/diagnosis-treatment/drc-20355609"
-  - title: "Carpal Tunnel Syndrome, National Institute of Neurological Disorders and Stroke"
-    url: "https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome"
   - title: "Carpal Tunnel Syndrome, OrthoInfo (AAOS)"
     url: "https://orthoinfo.aaos.org/en/diseases--conditions/carpal-tunnel-syndrome/"
   - title: "Computer Workstations eTool: Keyboards, OSHA"
@@ -57,7 +55,7 @@ Shaking your hands out at 3 a.m. gets old fast. So does dropping your coffee cup
 
 ## How the treatments line up
 
-Most people move through these steps in order, stopping when symptoms settle. Mayo Clinic and NINDS describe the main options:
+Most people move through these steps in order, stopping when symptoms settle. Mayo Clinic and the American Academy of Orthopaedic Surgeons describe the main options:
 
 | Step | What it is | Who it's for |
 | --- | --- | --- |

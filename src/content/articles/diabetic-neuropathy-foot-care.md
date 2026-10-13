@@ -42,8 +42,6 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems"
   - title: "Diabetic neuropathy: Symptoms and causes, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/diabetic-neuropathy/symptoms-causes/syc-20371580"
-  - title: "Diabetes and Your Feet, CDC"
-    url: "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-feet.html"
   - title: "Diabetes and Dietary Supplements, NCCIH"
     url: "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know"
 next: restless-legs-at-night
@@ -101,7 +99,7 @@ If you are low in vitamin B12, which can happen with long-term use of metformin,
 
 ## Your 2-minute daily foot check
 
-Numb feet can't warn you about a pebble in your shoe or a blister that's turning into a sore. NIDDK and the CDC recommend checking your feet every day. Make it part of a routine you already have, such as right after your evening shower.
+Numb feet can't warn you about a pebble in your shoe or a blister that's turning into a sore. NIDDK recommends checking your feet every day. Make it part of a routine you already have, such as right after your evening shower.
 
 | Step | What to look for | Tip |
 | --- | --- | --- |

@@ -44,8 +44,8 @@ sources:
     url: "https://www.mayoclinic.org/diseases-conditions/sciatica/diagnosis-treatment/drc-20377441"
   - title: "Sciatica, MedlinePlus Medical Encyclopedia"
     url: "https://medlineplus.gov/ency/article/000686.htm"
-  - title: "Back Pain, National Institute of Neurological Disorders and Stroke"
-    url: "https://www.ninds.nih.gov/health-information/disorders/back-pain"
+  - title: "Back Pain, National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    url: "https://www.niams.nih.gov/health-topics/back-pain"
   - title: "Herniated Disk in the Lower Back, OrthoInfo (AAOS)"
     url: "https://orthoinfo.aaos.org/en/diseases--conditions/herniated-disk-in-the-lower-back/"
 next: sciatica-when-sitting
