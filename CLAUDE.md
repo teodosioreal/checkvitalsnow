@@ -111,7 +111,13 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 
 **`next` (obrigatório na prática):** id do artigo mais relevante para quem acabou de ler este. Aparece no bloco "Read next" no fim do artigo (componente `NextArticle.astro`). Se faltar, o template usa o primeiro de `related` e depois outro da mesma categoria. Ao criar um artigo novo, defina o `next` dele **e** avalie se ele deve virar o `next` de algum artigo existente.
 
-A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema, no `nav` e numa prateleira da home. As páginas `/[category]/` são geradas automaticamente. Categorias atuais: `womens-health`, `mens-health`.
+A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema e numa prateleira da home. O menu (`Header.astro`) e as páginas `/[category]/` são gerados automaticamente e só mostram categorias com artigo já publicado. Categorias atuais: `womens-health`, `mens-health`, `pain-and-nerves`, `brain-and-balance`.
+
+**Funil por nicho:** `next` e `related` apontam sempre para artigos do **mesmo nicho/categoria** (uma leitora de menopausa não deve cair num artigo de próstata). O fallback do template também fica na mesma categoria. Cada categoria forma um ciclo fechado de "Read next".
+
+**Agendamento:** artigo com `datePublished` no futuro fica escondido (página, listas, sitemap) até um build nessa data (`src/lib/articles.ts`). Links internos para artigos ainda agendados viram texto simples após o build (`integrations/unlink-scheduled.mjs`). O workflow `publish-scheduled.yml` roda todo dia às 08:00 de Brasília (11:00 UTC) e dispara um novo deploy (usa o secret opcional `CF_PAGES_DEPLOY_HOOK`; sem ele, faz um commit em `.last-scheduled-publish`). Para ver o site como estará num dia futuro: `PREVIEW_DATE=2026-10-23T12:00:00Z npm run build`.
+
+**Fontes:** o workflow `check-sources.yml` (script `scripts/check-sources.mjs`) testa todos os links de `sources` e marca OK, BLOCKED, MOVED ou BROKEN no resumo do job. Rode após publicar artigos.
 
 ### 5.3 Dados do responsável (`src/data/owner.mjs`)
 
