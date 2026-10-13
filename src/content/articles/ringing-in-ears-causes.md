@@ -65,7 +65,7 @@ The National Institute on Deafness and Other Communication Disorders (NIDCD) est
 
 It can be in one ear or both, constant or on and off, soft or loud.
 
-## Common causes, and the clues that point to each
+## What sets off the ringing, and how to tell
 
 | Possible cause | Clues | What may help find it |
 | --- | --- | --- |

@@ -117,7 +117,7 @@ Rate your tinnitus distress from 0 to 10 at the end of each week, not just the l
 
 See your doctor if your tinnitus changes: it gets louder, moves to one ear, starts pulsing with your heartbeat, or comes with dizziness or hearing loss. **Get help right away** for sudden hearing loss in one ear, or if tinnitus is affecting your mood to the point of hopelessness. In the U.S., call or text 988 to reach the Suicide & Crisis Lifeline.
 
-## Your first step tonight
+## Tonight: one change for quieter nights
 
 Put a fan or sound machine by your bed tonight and set it just below the ringing. Tomorrow, write down your distress score from 0 to 10. Do this for a week, then add the next step from the four-week plan.
 
