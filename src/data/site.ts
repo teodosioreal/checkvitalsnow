@@ -31,13 +31,21 @@ export const categories = {
     description:
       'Brain fog, constant fatigue, dizziness, vertigo, and ringing in the ears: common causes, practical steps, and the warning signs to take seriously.',
   },
+  'heart-health': {
+    name: 'Heart Health',
+    title: 'Heart Health and Blood Pressure Guides | CheckVitalsNow',
+    metaDescription:
+      'Plain-language guides on blood pressure, cholesterol, palpitations, AFib, and heart attack and stroke signs, with steps you can take today.',
+    description:
+      'Blood pressure, cholesterol, heart rate, palpitations, and the warning signs of heart attack and stroke: what your numbers mean, daily habits that can help, and when to get care.',
+  },
   'mens-health': {
     name: "Men's Health",
     title: "Men's Health Guides | CheckVitalsNow",
     metaDescription:
-      'Clear, medically sourced guides on prostate health, urinary symptoms, and other everyday health questions for men.',
+      'Clear, medically sourced guides on prostate health, PSA tests, low testosterone, erectile dysfunction, and checkups for men.',
     description:
-      'Prostate changes, urinary symptoms, and the health questions men tend to put off: plain-language guides on what is normal, what can help, and when to see a doctor.',
+      'Prostate changes, testosterone, sexual health, sleep, and the checkups men tend to put off: plain-language guides on what is normal, what can help, and when to see a doctor.',
   },
 } as const;
 

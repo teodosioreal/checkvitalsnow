@@ -49,11 +49,11 @@ sources:
     url: "https://cancer.ca/en/cancer-information/cancer-types/prostate/what-is-prostate-cancer/benign-prostatic-hyperplasia"
   - title: "Saw Palmetto, NCCIH Clinical Digest"
     url: "https://www.nccih.nih.gov/health/providers/digest/saw-palmetto"
-next: bladder-irritants-foods-and-drinks
+next: prostatitis-vs-enlarged-prostate
 related:
-  - bladder-irritants-foods-and-drinks
-  - frequent-urination-in-women
-  - how-to-lower-cortisol-naturally
+  - peeing-at-night-men
+  - psa-test-results
+  - mens-health-screenings-by-age
 ---
 
 It's 3 a.m., and you're up for the second time. You stand there waiting for a stream that takes its time to start, then trickles, then stops before you feel finished. Back in bed, you wonder if this is just what getting older looks like, and whether it will ever go back to the way it was.
@@ -193,4 +193,4 @@ And again: being unable to urinate at all is an emergency.
 
 Fill in the quick check above tonight, then keep a simple bathroom diary for three days. Note when you go, roughly how much, what you drank, and how many times you woke up. With those two pages in hand, a ten-minute appointment becomes a real conversation about your options, and you'll know far more about what your body is telling you.
 
-If stress and poor sleep are tangled up with those late-night trips, our guide to [handling stress and cortisol](/womens-health/how-to-lower-cortisol-naturally/) has a seven-day plan that can help you sleep better.
+If those late-night trips are the main problem, our guide on [why men wake up at night to pee](/mens-health/peeing-at-night-men/) looks at causes beyond the prostate. And if you also have pelvic pain or burning, read [prostatitis vs. an enlarged prostate](/mens-health/prostatitis-vs-enlarged-prostate/) next.

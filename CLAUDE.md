@@ -111,7 +111,7 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 
 **`next` (obrigatório na prática):** id do artigo mais relevante para quem acabou de ler este. Aparece no bloco "Read next" no fim do artigo (componente `NextArticle.astro`). Se faltar, o template usa o primeiro de `related` e depois outro da mesma categoria. Ao criar um artigo novo, defina o `next` dele **e** avalie se ele deve virar o `next` de algum artigo existente.
 
-A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema e numa prateleira da home. O menu (`Header.astro`) e as páginas `/[category]/` são gerados automaticamente e só mostram categorias com artigo já publicado. Categorias atuais: `womens-health`, `mens-health`, `pain-and-nerves`, `brain-and-balance`.
+A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-for-women/`). Para criar uma nova categoria: adicionar em `categories` (`site.ts`, com `name`, `title`, `metaDescription`, `description`), no `z.enum` do schema e numa prateleira da home. O menu (`Header.astro`) e as páginas `/[category]/` são gerados automaticamente e só mostram categorias com artigo já publicado. Categorias atuais (5, meta de 10+ artigos cada): `womens-health`, `mens-health`, `pain-and-nerves`, `brain-and-balance`, `heart-health`.
 
 **Funil por nicho:** `next` e `related` apontam sempre para artigos do **mesmo nicho/categoria** (uma leitora de menopausa não deve cair num artigo de próstata). O fallback do template também fica na mesma categoria. Cada categoria forma um ciclo fechado de "Read next".
 

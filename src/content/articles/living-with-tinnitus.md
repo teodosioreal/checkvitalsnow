@@ -46,10 +46,10 @@ sources:
     url: "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss"
   - title: "Tinnitus, MedlinePlus"
     url: "https://medlineplus.gov/tinnitus.html"
-next: brain-fog-causes
+next: signs-of-hearing-loss
 related:
   - ringing-in-ears-causes
-  - sudden-dizziness-causes
+  - signs-of-hearing-loss
   - brain-fog-causes
 ---
 
@@ -130,4 +130,4 @@ See your doctor if your tinnitus changes: it gets louder, moves to one ear, star
 
 Put a fan or sound machine by your bed tonight and set it just below the ringing. Tomorrow, write down your distress score from 0 to 10. Do this for a week, then add the next step from the four-week plan.
 
-If you haven't pinned down what's behind your ringing yet, start with our guide on [why your ears ring](/brain-and-balance/ringing-in-ears-causes/). And if trouble focusing has crept in alongside poor sleep, our guide on [what causes brain fog](/brain-and-balance/brain-fog-causes/) may help.
+Ringing often travels with some hearing loss, so our guide to [the early signs of hearing loss](/brain-and-balance/signs-of-hearing-loss/) is a good next read. If you haven't pinned down what's behind your ringing yet, start with our guide on [why your ears ring](/brain-and-balance/ringing-in-ears-causes/). And if trouble focusing has crept in alongside poor sleep, our guide on [what causes brain fog](/brain-and-balance/brain-fog-causes/) may help.
