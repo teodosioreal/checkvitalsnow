@@ -1,6 +1,6 @@
 ---
 title: "How to Sleep With Lower Back Pain: Best Positions"
-description: "Lower back pain keeping you up? Learn the sleep positions and pillow tricks that take strain off your spine, how to get out of bed safely, and when to get help."
+description: "Lower back pain keeping you up? The sleep positions and pillow tricks that ease strain on your spine, how to get out of bed safely, and when to get help."
 h1: "How to Sleep With Lower Back Pain: Positions, Pillows, and Getting Out of Bed"
 category: pain-and-nerves
 primaryKeyword: "how to sleep with lower back pain"
