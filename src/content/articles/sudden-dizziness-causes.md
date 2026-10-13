@@ -1,6 +1,6 @@
 ---
 title: "What Causes Sudden Dizziness? Vertigo and When to Worry"
-description: "Room spinning or feeling faint? The common causes of sudden dizziness, how to tell vertigo from lightheadedness, what to do in the moment, and warning signs."
+description: "Room spinning or feeling faint? Common causes of sudden dizziness, vertigo vs. lightheadedness, what to do in the moment, and warning signs."
 h1: "What Causes Sudden Dizziness? Vertigo, Lightheadedness, and When to Worry"
 category: brain-and-balance
 primaryKeyword: "what causes sudden dizziness"
