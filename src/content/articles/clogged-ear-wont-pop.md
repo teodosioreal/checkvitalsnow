@@ -37,8 +37,6 @@ faq:
   - q: "Can a clogged ear be something serious?"
     a: "Usually it isn't. But sudden muffled hearing in one ear, especially with ringing or dizziness and no cold or flight to explain it, can be sudden hearing loss and needs prompt care."
 sources:
-  - title: "Earwax, MedlinePlus"
-    url: "https://medlineplus.gov/earwax.html"
   - title: "Earwax blockage: Symptoms and causes, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/earwax-blockage/symptoms-causes/syc-20353004"
   - title: "Airplane ear: Symptoms and causes, Mayo Clinic"
@@ -97,9 +95,9 @@ These help the Eustachian tube open on its own:
 
 ### For earwax
 
-MedlinePlus explains that earwax is normal and protective, and ears usually clean themselves. When wax does build up:
+Mayo Clinic explains that earwax is normal and protective, and ears usually clean themselves. When wax does build up:
 
-- **Softening drops** may help loosen it over several days. MedlinePlus mentions options such as mineral oil, baby oil, glycerin, or over-the-counter wax drops.
+- **Softening drops** may help loosen it over several days. Mayo Clinic mentions options such as mineral oil, baby oil, glycerin, or over-the-counter wax drops.
 - **Don't use drops or water rinses** if you have, or might have, a hole in your eardrum, ear tubes, or past ear surgery, or if your ear hurts or is draining. Ask a doctor first.
 - **A clinician can remove it** with tools, suction, or gentle rinsing if home steps don't help. This is quick and usually comfortable.
 

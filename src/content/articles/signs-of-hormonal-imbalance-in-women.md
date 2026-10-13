@@ -36,8 +36,6 @@ faq:
 sources:
   - title: "Hormonal Imbalance: Causes, Symptoms & Treatment, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/diseases/22673-hormonal-imbalance"
-  - title: "What to Know About Hormone Imbalances in Women, Cleveland Clinic Newsroom"
-    url: "https://newsroom.clevelandclinic.org/2022/05/31/what-to-know-about-hormone-imbalances-in-women"
   - title: "What Is Perimenopause?, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/diseases/21608-perimenopause"
   - title: "Cortisol: What It Is, Function, Symptoms & Levels, Cleveland Clinic"
