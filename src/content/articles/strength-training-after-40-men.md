@@ -71,7 +71,7 @@ The CDC's guidelines for adults include two parts:
 
 The CDC counts lifting weights, working with resistance bands, bodyweight exercises like push-ups and sit-ups, and heavy gardening such as digging and shoveling as muscle-strengthening activity. A set should feel hard to finish with good form by the last few reps.
 
-How many reps? Mayo Clinic notes that for most people, a single set of 12 to 15 repetitions with a weight that tires your muscles by the end can be effective. That's good news if your schedule is tight.
+How many reps? Mayo Clinic notes that for most people, a single set of 12 to 15 repetitions with a weight that tires your muscles by the end can be effective. That helps if your schedule is tight.
 
 ## A 3-day beginner strength plan for men over 40
 

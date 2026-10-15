@@ -47,7 +47,7 @@ related:
 
 Add it up: the drive or train ride to work, eight hours at a desk, dinner at the table, a couple of episodes on the couch. For many adults, most waking hours happen in a chair, and that's simply how a lot of modern jobs and evenings are built.
 
-So what does that do to your health? **Research has linked sitting too much with higher blood pressure, high blood sugar, extra fat around the waist, and unhealthy cholesterol levels, and the CDC and the American Heart Association advise adults to move more and sit less throughout the day.** The fix doesn't require quitting your desk job. It comes down to breaking up long stretches of sitting and adding movement where you can.
+So what does that do to your health? **Research has linked sitting too much with higher blood pressure, high blood sugar, extra fat around the waist, and unhealthy cholesterol levels, and the CDC and the American Heart Association advise adults to move more and sit less throughout the day.** You don't have to quit your desk job. The answer comes down to breaking up long stretches of sitting and adding movement where you can.
 
 Headlines sometimes claim that sitting is "the new smoking." That overstates what's known. The research shows real links, mostly from observational studies, and it points to a practical answer: get up more often.
 
