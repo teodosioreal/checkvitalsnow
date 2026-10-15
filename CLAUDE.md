@@ -76,7 +76,8 @@ Nunca use: "miracle", "cure", "guaranteed results", "doctors hate this", "100% s
 - **@astrojs/sitemap** com filtro de páginas `noindex` (`src/data/noindex.mjs`); `public/robots.txt`.
 - **Imagens:** `astro:assets` para imagens locais; capas e fotos no corpo do texto podem vir do Unsplash pelo workflow manual `.github/workflows/unsplash-covers.yml` (script `scripts/unsplash-covers.mjs`, precisa do secret `UNSPLASH_ACCESS_KEY`). Frontmatter `imageQuery` define a busca da capa; `<!-- unsplash: busca -->` no corpo vira uma foto.
 - **Deploy:** GitHub → Cloudflare Pages (`public/_redirects` usa o formato do Cloudflare). O branch padrão do repositório hoje é `claude/health-reviews-site-usa-6cntr1` — confirme com o usuário de qual branch o site publica antes de dizer que algo "foi ao ar".
-- **Zero JavaScript no cliente por padrão.** FAQ e índice usam `<details>` nativo.
+- **Zero JavaScript no cliente por padrão.** FAQ e índice usam `<details>` nativo. Exceção: comentários.
+- **Comentários moderados:** `src/components/Comments.astro` (fim de cada artigo) + Cloudflare Pages Functions em `functions/api/` (lógica em `server/comments.js`) + banco D1 (binding `DB`) + Cloudflare Turnstile. Todo comentário entra como pendente e só aparece depois de aprovado em `/moderate/` (senha = secret `ADMIN_TOKEN`). Bloqueia links, e-mail, telefone, HTML, palavras de spam, bots (Turnstile, campo-armadilha, tempo mínimo) e excesso de envios por IP (hash). Chave pública do Turnstile em `comments.turnstileSiteKey` (`site.ts`); secrets `TURNSTILE_SECRET` e `ADMIN_TOKEN` no Cloudflare Pages. Teste local da lógica: script com `node:sqlite` simulando o D1.
 
 ### 5.1 Estrutura de pastas
 

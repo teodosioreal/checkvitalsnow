@@ -10,6 +10,7 @@ import RelatedArticles from '../../components/RelatedArticles.astro';
 import NextArticle from '../../components/NextArticle.astro';
 import AlsoRead from '../../components/AlsoRead.astro';
 import ArticleNav from '../../components/ArticleNav.astro';
+import Comments from '../../components/Comments.astro';
 import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
@@ -150,6 +151,7 @@ if (data.faq.length) {
       categoryName={category.name}
       count={series.length}
     />
+    <Comments path={`/${data.category}/${entry.id}/`} />
     <section class="mt-12" aria-labelledby="sources-title">
       <h2 id="sources-title" class="mb-3 text-2xl font-bold">Sources</h2>
       <ol class="list-decimal space-y-1 pl-5 text-sm">

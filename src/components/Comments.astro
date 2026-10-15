@@ -1,0 +1,138 @@
+---
+import { comments } from '../data/site';
+
+interface Props {
+  path: string;
+}
+const { path } = Astro.props;
+const siteKey = comments.turnstileSiteKey;
+---
+
+<section class="mt-12 border-t border-line pt-8" aria-labelledby="comments-title" data-comments data-path={path} data-sitekey={siteKey ?? ''}>
+  <h2 id="comments-title" class="text-2xl font-bold">Questions and comments</h2>
+  <p class="mt-2 text-base text-muted">
+    Share what helped you or ask a question about this guide. Every comment is reviewed before it appears. We can't give
+    personal medical advice, and links, email addresses, and phone numbers are not allowed.
+  </p>
+
+  <ol class="mt-6 space-y-4" data-comment-list aria-live="polite"></ol>
+  <p class="mt-4 hidden text-base text-muted" data-comment-empty>No comments yet. Be the first to share what helped you.</p>
+
+  {
+    siteKey ? (
+      <form class="mt-8 space-y-4 rounded-xl border border-line bg-soft p-5" data-comment-form novalidate>
+        <div>
+          <label for="comment-name" class="block font-semibold">Your first name</label>
+          <input id="comment-name" name="name" required minlength="2" maxlength="60" autocomplete="given-name" class="mt-1 w-full rounded-lg border border-line bg-paper px-3 py-2" />
+        </div>
+        <div>
+          <label for="comment-body" class="block font-semibold">Your comment</label>
+          <textarea id="comment-body" name="body" required minlength="10" maxlength="1500" rows="5" class="mt-1 w-full rounded-lg border border-line bg-paper px-3 py-2" />
+          <p class="mt-1 text-sm text-muted">Please don't share personal health details you wouldn't want public.</p>
+        </div>
+        <div class="hidden" aria-hidden="true">
+          <label for="comment-website">Leave this field empty</label>
+          <input id="comment-website" name="website" tabindex="-1" autocomplete="off" />
+        </div>
+        <div data-turnstile></div>
+        <button type="submit" class="rounded-lg bg-brand-700 px-5 py-3 font-semibold text-white hover:bg-brand-900 disabled:opacity-60">
+          Post comment
+        </button>
+        <p class="text-base" data-comment-status role="status"></p>
+      </form>
+    ) : (
+      <p class="mt-8 rounded-xl border border-line bg-soft p-5 text-base">Comments will open soon.</p>
+    )
+  }
+</section>
+
+<script is:inline>
+  (() => {
+    const box = document.querySelector('[data-comments]');
+    if (!box) return;
+    const path = box.dataset.path;
+    const list = box.querySelector('[data-comment-list]');
+    const empty = box.querySelector('[data-comment-empty]');
+    const fmt = (s) => new Date(s.replace(' ', 'T') + 'Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+    // Load approved comments. Everything is inserted as plain text, never as HTML.
+    fetch('/api/comments?path=' + encodeURIComponent(path))
+      .then((r) => (r.ok ? r.json() : { comments: [] }))
+      .then(({ comments }) => {
+        for (const c of comments) {
+          const li = document.createElement('li');
+          li.className = 'rounded-xl border border-line p-5';
+          const head = document.createElement('p');
+          head.className = 'text-sm text-muted';
+          const who = document.createElement('strong');
+          who.className = 'text-ink';
+          who.textContent = c.name;
+          head.append(who, ' · ' + fmt(c.created_at));
+          const body = document.createElement('p');
+          body.className = 'mt-2 whitespace-pre-line text-base';
+          body.textContent = c.body;
+          li.append(head, body);
+          list.append(li);
+        }
+        if (!comments.length) empty.classList.remove('hidden');
+      })
+      .catch(() => empty.classList.remove('hidden'));
+
+    const form = box.querySelector('[data-comment-form]');
+    if (!form) return;
+    const status = form.querySelector('[data-comment-status]');
+    const opened = Date.now();
+    let token = '';
+
+    // Load the bot check only when the reader gets near the form.
+    const loadTurnstile = () => {
+      window.cvnTurnstile = () =>
+        window.turnstile.render(form.querySelector('[data-turnstile]'), {
+          sitekey: box.dataset.sitekey,
+          callback: (t) => (token = t),
+          'expired-callback': () => (token = ''),
+        });
+      const s = document.createElement('script');
+      s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?onload=cvnTurnstile&render=explicit';
+      s.async = true;
+      document.head.append(s);
+    };
+    new IntersectionObserver((entries, obs) => {
+      if (entries.some((e) => e.isIntersecting)) {
+        obs.disconnect();
+        loadTurnstile();
+      }
+    }, { rootMargin: '400px' }).observe(form);
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const button = form.querySelector('button');
+      const data = Object.fromEntries(new FormData(form));
+      if (!token) {
+        status.textContent = 'Please complete the check above before posting.';
+        return;
+      }
+      button.disabled = true;
+      status.textContent = 'Sending…';
+      try {
+        const res = await fetch('/api/comments', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ ...data, path, token, elapsed: (Date.now() - opened) / 1000 }),
+        });
+        const out = await res.json().catch(() => ({}));
+        if (res.ok) {
+          form.reset();
+          status.textContent = out.message;
+        } else {
+          status.textContent = out.error || 'Something went wrong. Please try again.';
+        }
+      } catch {
+        status.textContent = 'Something went wrong. Please try again.';
+      }
+      token = '';
+      window.turnstile?.reset();
+      button.disabled = false;
+    });
+  })();
+</script>

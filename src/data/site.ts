@@ -98,3 +98,11 @@ export const disclaimers = {
   medical:
     'This content is for general information only and is not a substitute for professional medical advice, diagnosis, or treatment. Always ask your doctor or another qualified health professional about any questions you have about your health.',
 };
+
+/**
+ * Reader comments (functions/api/comments.js). Every comment is held for moderation at /moderate/.
+ * turnstileSiteKey is the public Cloudflare Turnstile site key; until it is set, the form stays closed.
+ */
+export const comments = {
+  turnstileSiteKey: null as string | null,
+};
