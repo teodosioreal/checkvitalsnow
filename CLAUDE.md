@@ -118,6 +118,8 @@ A URL do artigo é `/<category>/<slug>/` (ex.: `/womens-health/kegel-exercises-f
 
 **Agendamento:** artigo com `datePublished` no futuro fica escondido (página, listas, sitemap) até um build nessa data (`src/lib/articles.ts`). Links internos para artigos ainda agendados viram texto simples após o build (`integrations/unlink-scheduled.mjs`). O workflow `publish-scheduled.yml` roda todo dia às 08:00 de Brasília (11:00 UTC) e dispara um novo deploy (usa o secret opcional `CF_PAGES_DEPLOY_HOOK`; sem ele, faz um commit em `.last-scheduled-publish`). Para ver o site como estará num dia futuro: `PREVIEW_DATE=2026-10-23T12:00:00Z npm run build`.
 
+**Rascunho:** `draft: true` no frontmatter segura o artigo fora do site (não é gerado, listado nem linkado) independentemente da data. Hoje em espera até a aprovação do AdSense, por serem temas clínicos mais sensíveis: erectile-dysfunction-causes, testicular-self-exam, psa-test-results, stroke-signs, afib-symptoms, heart-attack-warning-signs. Para publicar depois, remova a linha `draft: true` e ajuste a data.
+
 **Fontes:** o workflow `check-sources.yml` (script `scripts/check-sources.mjs`) testa todos os links de `sources` e marca OK, BLOCKED, MOVED ou BROKEN no resumo do job. Rode após publicar artigos.
 
 ### 5.3 Dados do responsável (`src/data/owner.mjs`)
