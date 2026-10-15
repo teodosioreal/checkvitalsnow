@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "middle aged man lifting dumbbells at home"
+cover:
+  url: "https://images.unsplash.com/photo-1758523668638-5fa8495c5fa7?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWlkZGxlJTIwYWdlZCUyMG1hbiUyMGxpZnRpbmclMjBkdW1iYmVsbHMlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MjA5NTIwMHww&ixlib=rb-4.1.0"
+  alt: "Man singing into a remote control on a bed"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-singing-into-a-remote-control-on-a-bed--FjlfMFPBXo?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Muscle mass tends to decline with age, and strength training is one of the most direct ways to help keep it."
   - "The CDC advises adults to do muscle-strengthening activity on at least two days a week, working all the major muscle groups."
@@ -103,7 +109,10 @@ A notebook or phone note keeps you honest and shows progress you might not feel 
 | Example: Mon, Nov 2 | Day A | One-arm row | 15 lb | 15 x 1 | Right. Last 3 reps were hard |
 | | | | | | |
 
-<!-- unsplash: man doing push ups on kitchen counter at home -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758523418373-4e0fa5266d2d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBwdXNoJTIwdXBzJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkyMDk1MjAxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758523418373-4e0fa5266d2d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBwdXNoJTIwdXBzJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkyMDk1MjAxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758523418373-4e0fa5266d2d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBwdXNoJTIwdXBzJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkyMDk1MjAxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758523418373-4e0fa5266d2d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBwdXNoJTIwdXBzJTIwb24lMjBraXRjaGVuJTIwY291bnRlciUyMGF0JTIwaG9tZXxlbnwxfDB8fHwxNzkyMDk1MjAxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man dancing in a modern kitchen" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/man-dancing-in-a-modern-kitchen-ubTIGBra_-Y?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Form and recovery rules for lifting after 40
 

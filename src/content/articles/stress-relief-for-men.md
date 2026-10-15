@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-11-01
 dateModified: 2026-11-01
 imageQuery: "man walking alone on forest trail"
+cover:
+  url: "https://images.unsplash.com/photo-1758438919146-f3f59a6d2544?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd2Fsa2luZyUyMGFsb25lJTIwb24lMjBmb3Jlc3QlMjB0cmFpbHxlbnwxfDB8fHwxNzkyMDk1MjAxfDA&ixlib=rb-4.1.0"
+  alt: "Person walking through a misty forest with sunbeams"
+  author: "Zetong Li"
+  authorUrl: "https://unsplash.com/@zetong?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-walking-through-a-misty-forest-with-sunbeams-tShk_bW2PtU?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Stress in men often shows up as poor sleep, irritability, tight shoulders or jaw, headaches, or drinking more, rather than as feeling 'stressed.'"
   - "Regular movement, steady sleep, slow breathing, and talking with someone you trust are simple habits that can help your body and mind handle stress."
@@ -106,7 +112,10 @@ NIMH suggests setting goals and priorities: deciding what must get done now and 
 
 Staying hydrated through a long day also matters more than it seems. Thirst can feel like fatigue or a headache, and our guide on [how much water a man needs](/mens-health/how-much-water-men-need/) has a simple tracker.
 
-<!-- unsplash: man doing breathing exercise sitting on porch -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1594731940619-0ccf9cf48592?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBicmVhdGhpbmclMjBleGVyY2lzZSUyMHNpdHRpbmclMjBvbiUyMHBvcmNofGVufDF8MHx8fDE3OTIwOTUyMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1594731940619-0ccf9cf48592?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBicmVhdGhpbmclMjBleGVyY2lzZSUyMHNpdHRpbmclMjBvbiUyMHBvcmNofGVufDF8MHx8fDE3OTIwOTUyMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1594731940619-0ccf9cf48592?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBicmVhdGhpbmclMjBleGVyY2lzZSUyMHNpdHRpbmclMjBvbiUyMHBvcmNofGVufDF8MHx8fDE3OTIwOTUyMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1594731940619-0ccf9cf48592?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZG9pbmclMjBicmVhdGhpbmclMjBleGVyY2lzZSUyMHNpdHRpbmclMjBvbiUyMHBvcmNofGVufDF8MHx8fDE3OTIwOTUyMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man in white crew neck t-shirt and blue denim jeans sitting on brown wooden armchair" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@laurenmacneish?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Lauren MacNeish</a> on <a href="https://unsplash.com/photos/man-in-white-crew-neck-t-shirt-and-blue-denim-jeans-sitting-on-brown-wooden-armchair-yyhXGP8AwRw?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A 7-day stress reset plan for men
 

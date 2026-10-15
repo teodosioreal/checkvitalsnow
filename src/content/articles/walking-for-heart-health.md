@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-29
 dateModified: 2026-10-29
 imageQuery: "older woman walking briskly on a park path in sneakers"
+cover:
+  url: "https://images.unsplash.com/photo-1758899076209-c1d2c590bc94?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjB3b21hbiUyMHdhbGtpbmclMjBicmlza2x5JTIwb24lMjBhJTIwcGFyayUyMHBhdGglMjBpbiUyMHNuZWFrZXJzfGVufDF8MHx8fDE3OTIwOTUyMDN8MA&ixlib=rb-4.1.0"
+  alt: "Woman walking down a park path surrounded by trees"
+  author: "mdreza jalali"
+  authorUrl: "https://unsplash.com/@mdrezajalali?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-walking-down-a-park-path-surrounded-by-trees-GHhTHJn9UrA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "The CDC and the American Heart Association recommend at least 150 minutes of moderate-intensity activity a week for adults, and brisk walking counts."
   - "You don't have to do it all at once. Short walks spread through the week add up."
@@ -118,7 +124,10 @@ If a week feels too hard, repeat it before moving on. There's no prize for finis
 | Sat | | | |
 | Sun | | | |
 
-<!-- unsplash: pair of walking sneakers on a sidewalk -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1697086317645-11bd9e74e2cf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFpciUyMG9mJTIwd2Fsa2luZyUyMHNuZWFrZXJzJTIwb24lMjBhJTIwc2lkZXdhbGt8ZW58MXwwfHx8MTc5MjA5NTIwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1697086317645-11bd9e74e2cf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFpciUyMG9mJTIwd2Fsa2luZyUyMHNuZWFrZXJzJTIwb24lMjBhJTIwc2lkZXdhbGt8ZW58MXwwfHx8MTc5MjA5NTIwNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1697086317645-11bd9e74e2cf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFpciUyMG9mJTIwd2Fsa2luZyUyMHNuZWFrZXJzJTIwb24lMjBhJTIwc2lkZXdhbGt8ZW58MXwwfHx8MTc5MjA5NTIwNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1697086317645-11bd9e74e2cf?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFpciUyMG9mJTIwd2Fsa2luZyUyMHNuZWFrZXJzJTIwb24lMjBhJTIwc2lkZXdhbGt8ZW58MXwwfHx8MTc5MjA5NTIwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person's feet wearing brown and white tennis shoes" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@valeriiamiller?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Valeriia Miller</a> on <a href="https://unsplash.com/photos/a-persons-feet-wearing-brown-and-white-tennis-shoes-_D5aCBa1ygo?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Walking for heart health in your situation
 

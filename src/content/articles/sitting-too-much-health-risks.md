@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "woman standing up from office desk to stretch"
+cover:
+  url: "https://images.unsplash.com/photo-1758598306778-b99be86d7709?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdGFuZGluZyUyMHVwJTIwZnJvbSUyMG9mZmljZSUyMGRlc2slMjB0byUyMHN0cmV0Y2h8ZW58MXwwfHx8MTc5MjA5NTE5N3ww&ixlib=rb-4.1.0"
+  alt: "Woman in suit dancing on desk with headphones on"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-suit-dancing-on-desk-with-headphones-on-h7AXNW2-LSY?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Research has linked long periods of sitting with health concerns such as higher blood pressure, high blood sugar, extra fat around the waist, and unhealthy cholesterol levels."
   - "The CDC and the American Heart Association advise adults to move more and sit less, in addition to regular exercise."
@@ -89,7 +95,10 @@ Mayo Clinic suggests taking a break from sitting every 30 minutes. Here's one wa
 
 You don't have to do every row. Pick two or three that fit your day and build from there.
 
-<!-- unsplash: coworkers having a walking meeting outdoors -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758599543116-4fdb887911a5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y293b3JrZXJzJTIwaGF2aW5nJTIwYSUyMHdhbGtpbmclMjBtZWV0aW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MjA5NTE5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758599543116-4fdb887911a5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y293b3JrZXJzJTIwaGF2aW5nJTIwYSUyMHdhbGtpbmclMjBtZWV0aW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MjA5NTE5OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758599543116-4fdb887911a5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y293b3JrZXJzJTIwaGF2aW5nJTIwYSUyMHdhbGtpbmclMjBtZWV0aW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MjA5NTE5OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758599543116-4fdb887911a5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y293b3JrZXJzJTIwaGF2aW5nJTIwYSUyMHdhbGtpbmclMjBtZWV0aW5nJTIwb3V0ZG9vcnN8ZW58MXwwfHx8MTc5MjA5NTE5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Three business people walking outside an office building" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/three-business-people-walking-outside-an-office-building-71tQekZUJvM?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Desk and TV-time swaps that add movement
 

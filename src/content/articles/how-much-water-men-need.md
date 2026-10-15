@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-28
 dateModified: 2026-10-28
 imageQuery: "man drinking glass of water in kitchen"
+cover:
+  url: "https://images.unsplash.com/photo-1758522489023-d95ecf789fe0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZHJpbmtpbmclMjBnbGFzcyUyMG9mJTIwd2F0ZXIlMjBpbiUyMGtpdGNoZW58ZW58MXwwfHx8MTc5MjA5NTE5NXww&ixlib=rb-4.1.0"
+  alt: "Man smiling while holding coffee and phone in kitchen"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-smiling-while-holding-coffee-and-phone-in-kitchen-w6CqGUuD_q8?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "There's no single water rule for every man. Your needs change with heat, activity, health, and diet."
   - "Mayo Clinic reports a general total fluid guideline for men of about 15.5 cups (3.7 liters) a day, counting all drinks and the water in food."
@@ -103,7 +109,10 @@ You can't see inside your body, but your bathroom visits give clues. Mayo Clinic
 
 Some vitamins, foods, and medicines can change urine color on their own, so look at the pattern over a few days, not just one trip.
 
-<!-- unsplash: refillable water bottle on office desk -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1639795880909-68957e98e001?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cmVmaWxsYWJsZSUyMHdhdGVyJTIwYm90dGxlJTIwb24lMjBvZmZpY2UlMjBkZXNrfGVufDF8MHx8fDE3OTIwOTUxOTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1639795880909-68957e98e001?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cmVmaWxsYWJsZSUyMHdhdGVyJTIwYm90dGxlJTIwb24lMjBvZmZpY2UlMjBkZXNrfGVufDF8MHx8fDE3OTIwOTUxOTZ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1639795880909-68957e98e001?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cmVmaWxsYWJsZSUyMHdhdGVyJTIwYm90dGxlJTIwb24lMjBvZmZpY2UlMjBkZXNrfGVufDF8MHx8fDE3OTIwOTUxOTZ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1639795880909-68957e98e001?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cmVmaWxsYWJsZSUyMHdhdGVyJTIwYm90dGxlJTIwb24lMjBvZmZpY2UlMjBkZXNrfGVufDF8MHx8fDE3OTIwOTUxOTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A desk with a computer, keyboard and a plant" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@nublson?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Nubelson Fernandes</a> on <a href="https://unsplash.com/photos/a-desk-with-a-computer-keyboard-and-a-plant-A3GnKm-iLug?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A daily hydration tracker for men
 

@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-11-02
 dateModified: 2026-11-02
 imageQuery: "person sleeping peacefully in a dark bedroom"
+cover:
+  url: "https://images.unsplash.com/photo-1552858725-2758b5fb1286?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBhJTIwZGFyayUyMGJlZHJvb218ZW58MXwwfHx8MTc5MjA5NTE5OHww&ixlib=rb-4.1.0"
+  alt: "Table lamp turned-on near bed"
+  author: "Jp Valery"
+  authorUrl: "https://unsplash.com/@jpvalery?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/table-lamp-turned-on-near-bed-DE9MM2voqKc?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "The NHLBI recommends 7 to 9 hours of sleep a night for adults, and the American Heart Association counts healthy sleep as one of its Life's Essential 8 for heart health."
   - "Ongoing lack of sleep is linked with a higher risk of high blood pressure, heart disease, and stroke."
@@ -101,7 +107,10 @@ Mayo Clinic and the NHLBI recommend a similar set of sleep habits. None of them 
 - **Have a wind-down routine.** A warm shower, reading, or quiet music signals that the day is done.
 - **Get out of bed if you can't sleep.** If you're lying awake, Mayo Clinic suggests leaving the bedroom to do something relaxing, then going back when you feel tired.
 
-<!-- unsplash: bedside table with book and lamp in a calm bedroom -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1532344214108-1b6d425db572?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkc2lkZSUyMHRhYmxlJTIwd2l0aCUyMGJvb2slMjBhbmQlMjBsYW1wJTIwaW4lMjBhJTIwY2FsbSUyMGJlZHJvb218ZW58MXwwfHx8MTc5MjA5NTE5OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1532344214108-1b6d425db572?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkc2lkZSUyMHRhYmxlJTIwd2l0aCUyMGJvb2slMjBhbmQlMjBsYW1wJTIwaW4lMjBhJTIwY2FsbSUyMGJlZHJvb218ZW58MXwwfHx8MTc5MjA5NTE5OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1532344214108-1b6d425db572?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkc2lkZSUyMHRhYmxlJTIwd2l0aCUyMGJvb2slMjBhbmQlMjBsYW1wJTIwaW4lMjBhJTIwY2FsbSUyMGJlZHJvb218ZW58MXwwfHx8MTc5MjA5NTE5OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1532344214108-1b6d425db572?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YmVkc2lkZSUyMHRhYmxlJTIwd2l0aCUyMGJvb2slMjBhbmQlMjBsYW1wJTIwaW4lMjBhJTIwY2FsbSUyMGJlZHJvb218ZW58MXwwfHx8MTc5MjA5NTE5OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Table lamp on white wooden nightstand beside bed" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@holly_buildalifeyoulove?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Holly Stratton</a> on <a href="https://unsplash.com/photos/table-lamp-on-white-wooden-nightstand-beside-bed-PhwbTwdZ3f4?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Sleep and heart health by profile
 
