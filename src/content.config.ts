@@ -31,6 +31,8 @@ const articles = defineCollection({
       sources: z.array(z.object({ title: z.string(), url: z.url() })).min(1),
       related: z.array(z.string()).default([]),
       next: z.string().optional(),
+    // Held back: never built, listed, or linked until this is removed.
+    draft: z.boolean().optional(),
     }),
 });
 

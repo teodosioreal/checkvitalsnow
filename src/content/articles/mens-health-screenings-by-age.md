@@ -50,7 +50,7 @@ sources:
     url: "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening"
   - title: "Hepatitis C Virus Infection in Adolescents and Adults: Screening, U.S. Preventive Services Task Force"
     url: "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hepatitis-c-screening"
-next: testicular-self-exam
+next: enlarged-prostate-back-to-normal
 related:
   - testicular-self-exam
   - psa-test-results

@@ -11,6 +11,7 @@ secondaryKeywords:
   - "what does a normal testicle feel like"
   - "testicular torsion"
   - "varicocele vs hydrocele"
+draft: true
 datePublished: 2026-11-01
 dateModified: 2026-11-01
 imageQuery: "young man after shower in bathroom with towel"

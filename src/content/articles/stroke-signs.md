@@ -12,6 +12,7 @@ secondaryKeywords:
   - "transient ischemic attack"
   - "stroke warning signs in women"
   - "stroke risk factors"
+draft: true
 datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "older couple sitting together at kitchen table"

@@ -11,6 +11,7 @@ secondaryKeywords:
   - "what to do during a heart attack"
   - "silent heart attack"
   - "heart attack vs cardiac arrest"
+draft: true
 datePublished: 2026-10-29
 dateModified: 2026-10-29
 imageQuery: "paramedics with ambulance on city street"

@@ -46,7 +46,7 @@ sources:
     url: "https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes"
   - title: "Enlarged Prostate (Benign Prostatic Hyperplasia), NIDDK"
     url: "https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia"
-next: psa-test-results
+next: low-testosterone-symptoms
 related:
   - enlarged-prostate-back-to-normal
   - sleep-apnea-in-men

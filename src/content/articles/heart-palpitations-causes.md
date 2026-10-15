@@ -45,7 +45,7 @@ sources:
     url: "https://medlineplus.gov/arrhythmia.html"
   - title: "Heart Palpitations, Cleveland Clinic"
     url: "https://my.clevelandclinic.org/health/symptoms/17084-heart-palpitations"
-next: afib-symptoms
+next: resting-heart-rate
 related:
   - afib-symptoms
   - resting-heart-rate

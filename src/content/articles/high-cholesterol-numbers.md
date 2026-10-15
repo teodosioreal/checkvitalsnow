@@ -46,7 +46,7 @@ sources:
     url: "https://www.cdc.gov/cholesterol/about/index.html"
   - title: "Getting Your Cholesterol Checked, CDC"
     url: "https://www.cdc.gov/cholesterol/testing/index.html"
-next: heart-attack-warning-signs
+next: walking-for-heart-health
 related:
   - how-to-lower-blood-pressure
   - heart-attack-warning-signs

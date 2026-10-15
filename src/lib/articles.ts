@@ -5,8 +5,9 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 // PREVIEW_DATE (e.g. 2026-10-23) lets you build the site as it will look on a future day.
 const buildDate = () => (process.env.PREVIEW_DATE ? new Date(process.env.PREVIEW_DATE) : new Date());
 
+// Drafts (draft: true) are held back regardless of date.
 export const isPublished = (entry: CollectionEntry<'articles'>, now = buildDate()) =>
-  entry.data.datePublished.getTime() <= now.getTime();
+  !entry.data.draft && entry.data.datePublished.getTime() <= now.getTime();
 
 export async function getPublishedArticles() {
   return (await getCollection('articles')).filter((entry) => isPublished(entry));

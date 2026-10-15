@@ -14,6 +14,10 @@ export const categories = {
       'Practical, medically sourced guides on bladder leakage, hormones, fatigue, stress, and bone health for women.',
     description:
       'Bladder leakage, hormone changes, constant tiredness, stress, and bone health: practical guides for women from perimenopause to life after menopause.',
+    about: [
+      "Many of the questions in this section are ones women put off asking: small leaks when you laugh, waking up at night to pee, hot flashes that arrive years before your last period, or a tiredness that sleep doesn't fix. They are common, and most have clear first steps.",
+      "Each guide explains what is happening in the body in plain language, gives you a practical tool to use at home, such as a bladder diary or a symptom checklist, and lists the signs that mean it is time to see a doctor.",
+    ],
   },
   'pain-and-nerves': {
     name: 'Pain & Nerve Health',
@@ -22,6 +26,10 @@ export const categories = {
       'Plain-language guides on sciatica, back and neck pain, numb hands, burning feet, restless legs, and stiffness, with steps you can try at home.',
     description:
       'Sciatica, back and neck pain, numb or tingling hands, burning feet, restless legs, and stiff joints: what is behind the pain, what you can try at home, and the signs that need a doctor.',
+    about: [
+      "Back pain, a stiff neck, numb hands at night, or burning feet can make ordinary days harder. These guides help you understand where the pain may be coming from and what you can safely try at home first.",
+      "You will find simple routines, posture and sleep changes, and trackers to bring to your appointment. Every guide also names the warning signs, such as weakness or loss of bladder control, that need medical care right away.",
+    ],
   },
   'brain-and-balance': {
     name: 'Brain, Balance & Hearing',
@@ -30,22 +38,34 @@ export const categories = {
       'Clear guides on brain fog, constant fatigue, dizziness, vertigo, and ringing in the ears: common causes, what can help, and when to see a doctor.',
     description:
       'Brain fog, constant fatigue, dizziness, vertigo, and ringing in the ears: common causes, practical steps, and the warning signs to take seriously.',
+    about: [
+      "Brain fog, dizziness, ringing in the ears, and changes in hearing or memory can be unsettling, especially when they come on without a clear reason. Many causes are common and manageable once you know what to look for.",
+      "These guides help you describe what you are feeling, sort everyday causes from the ones that need a doctor, and take practical steps for sleep, focus, and balance in the meantime.",
+    ],
   },
   'heart-health': {
     name: 'Heart Health',
     title: 'Heart Health and Blood Pressure Guides | CheckVitalsNow',
     metaDescription:
-      'Plain-language guides on blood pressure, cholesterol, palpitations, AFib, and heart attack and stroke signs, with steps you can take today.',
+      'Plain-language guides on blood pressure, cholesterol, heart rate, palpitations, walking, and sleep, with steps you can take today.',
     description:
-      'Blood pressure, cholesterol, heart rate, palpitations, and the warning signs of heart attack and stroke: what your numbers mean, daily habits that can help, and when to get care.',
+      'Blood pressure, cholesterol, heart rate, and palpitations: what your numbers mean, daily habits that can help, and when to get care.',
+    about: [
+      "Heart health is built in daily habits: how much you move, how you sleep, what you eat, and whether you know your numbers. This section explains blood pressure, cholesterol, and heart rate in plain language.",
+      "You will find logs to track your readings, simple plans for walking and sitting less, and clear guidance on which symptoms can wait for a regular visit and which need care right away.",
+    ],
   },
   'mens-health': {
     name: "Men's Health",
     title: "Men's Health Guides | CheckVitalsNow",
     metaDescription:
-      'Clear, medically sourced guides on prostate health, PSA tests, low testosterone, erectile dysfunction, and checkups for men.',
+      'Clear, medically sourced guides for men on prostate health, testosterone, sleep, weight, strength, stress, and checkups by age.',
     description:
-      'Prostate changes, testosterone, sexual health, sleep, and the checkups men tend to put off: plain-language guides on what is normal, what can help, and when to see a doctor.',
+      'Prostate changes, testosterone, sleep, strength, stress, and the checkups men tend to put off: plain-language guides on what is normal, what can help, and when to see a doctor.',
+    about: [
+      "Men often wait longer than they should to bring up health questions. This section covers the everyday ones: prostate and urinary changes, energy and testosterone, sleep, weight, strength, stress, and the checkups that matter at each age.",
+      "Each guide gives you a clear explanation, a practical tool such as a bladder diary, a training plan, or a screening checklist, and the signs that mean it is time to see a doctor.",
+    ],
   },
 } as const;
 

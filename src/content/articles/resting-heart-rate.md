@@ -44,7 +44,7 @@ sources:
     url: "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
   - title: "Arrhythmias, National Heart, Lung, and Blood Institute"
     url: "https://www.nhlbi.nih.gov/health/arrhythmias"
-next: swollen-ankles-and-feet
+next: sleep-and-heart-health
 related:
   - afib-symptoms
   - heart-palpitations-causes

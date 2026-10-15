@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
 
 /**
- * After the build, links to articles that are not live yet (future datePublished) are turned
+ * After the build, links to articles that are not live yet (future datePublished or draft: true) are turned
  * into plain text in every page, so scheduled posts can link ahead without creating 404s.
  * The link comes back by itself in the first build on or after the target's date.
  */
@@ -17,7 +17,9 @@ export default function unlinkScheduled() {
         const scheduled = readdirSync(articles)
           .filter((f) => f.endsWith('.md'))
           .filter((f) => {
-            const date = readFileSync(new URL(f, articles), 'utf8').match(/^datePublished:\s*(\S+)/m)?.[1];
+            const text = readFileSync(new URL(f, articles), 'utf8');
+            if (/^draft:\s*true/m.test(text)) return true;
+            const date = text.match(/^datePublished:\s*(\S+)/m)?.[1];
             return date && new Date(date).getTime() > now;
           })
           .map((f) => f.replace(/\.md$/, ''));

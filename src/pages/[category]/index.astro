@@ -48,4 +48,17 @@ const jsonLd = [
       }
     </ul>
   </section>
+  <section class="border-t border-line bg-soft">
+    <div class="container-page py-12">
+      <h2 class="text-2xl font-bold">About our {category.name} guides</h2>
+      <div class="prose-width mt-4 space-y-4 text-base">
+        {category.about.map((p) => <p>{p}</p>)}
+        <p>
+          Every guide is built on primary medical sources, such as the National Institutes of Health, the CDC, and
+          MedlinePlus, which are linked at the end of each page. Read <a href="/editorial-policy/">how we research and
+          write</a> and our <a href="/medical-disclaimer/">medical disclaimer</a>.
+        </p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>

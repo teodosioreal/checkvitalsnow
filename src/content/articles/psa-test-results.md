@@ -11,6 +11,7 @@ secondaryKeywords:
   - "prostate cancer screening"
   - "elevated PSA not cancer"
   - "should I get a PSA test"
+draft: true
 datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "doctor reviewing lab results with male patient"

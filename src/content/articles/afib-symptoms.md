@@ -11,6 +11,7 @@ secondaryKeywords:
   - "AFib and stroke risk"
   - "smartwatch irregular rhythm alert"
   - "silent AFib"
+draft: true
 datePublished: 2026-11-02
 dateModified: 2026-11-02
 imageQuery: "older man checking pulse on wrist at home"

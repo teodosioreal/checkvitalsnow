@@ -44,7 +44,7 @@ sources:
     url: "https://medlineplus.gov/sleepapnea.html"
   - title: "Obstructive sleep apnea: Symptoms and causes, Mayo Clinic"
     url: "https://www.mayoclinic.org/diseases-conditions/obstructive-sleep-apnea/symptoms-causes/syc-20352090"
-next: mens-health-screenings-by-age
+next: how-much-water-men-need
 related:
   - belly-fat-in-men
   - mens-health-screenings-by-age

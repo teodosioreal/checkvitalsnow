@@ -44,7 +44,7 @@ sources:
     url: "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
   - title: "Weight Control, MedlinePlus"
     url: "https://medlineplus.gov/weightcontrol.html"
-next: sleep-apnea-in-men
+next: strength-training-after-40-men
 related:
   - sleep-apnea-in-men
   - low-testosterone-symptoms
