@@ -1,0 +1,17 @@
+name: Checar o site no ar (indexação)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+      - name: Checar URLs do sitemap como o Google
+        run: node scripts/site-health.mjs
+      - name: Resumo
+        run: cat site-health.md >> "$GITHUB_STEP_SUMMARY"
