@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-11-03
 dateModified: 2026-11-03
 imageQuery: "woman taking her pulse at wrist sitting on bed"
+cover:
+  url: "https://images.unsplash.com/photo-1655943614450-7e7c50f48aed?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWtpbmclMjBoZXIlMjBwdWxzZSUyMGF0JTIwd3Jpc3QlMjBzaXR0aW5nJTIwb24lMjBiZWR8ZW58MXwwfHx8MTc5MjA3NDgzNnww&ixlib=rb-4.1.0"
+  alt: "A woman in a white dress"
+  author: "Shashi Chaturvedula"
+  authorUrl: "https://unsplash.com/@thephotographermom?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-in-a-white-dress-lhhkbrfByAc?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "For most adults, a normal resting heart rate is 60 to 100 beats per minute, as stated by MedlinePlus and the American Heart Association."
   - "Well-trained athletes can have a lower resting rate, sometimes in the 40s or 50s, without any problem."
@@ -74,7 +80,10 @@ You don't need any equipment beyond a clock or phone timer. The American Heart A
 
 If you use a fitness tracker or watch, compare its number with a manual count once or twice so you know how closely they match.
 
-<!-- unsplash: person checking fitness tracker on wrist after morning walk -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758525747610-a89423707238?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2hlY2tpbmclMjBmaXRuZXNzJTIwdHJhY2tlciUyMG9uJTIwd3Jpc3QlMjBhZnRlciUyMG1vcm5pbmclMjB3YWxrfGVufDF8MHx8fDE3OTIwNzQ4Mzd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758525747610-a89423707238?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2hlY2tpbmclMjBmaXRuZXNzJTIwdHJhY2tlciUyMG9uJTIwd3Jpc3QlMjBhZnRlciUyMG1vcm5pbmclMjB3YWxrfGVufDF8MHx8fDE3OTIwNzQ4Mzd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758525747610-a89423707238?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2hlY2tpbmclMjBmaXRuZXNzJTIwdHJhY2tlciUyMG9uJTIwd3Jpc3QlMjBhZnRlciUyMG1vcm5pbmclMjB3YWxrfGVufDF8MHx8fDE3OTIwNzQ4Mzd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758525747610-a89423707238?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2hlY2tpbmclMjBmaXRuZXNzJTIwdHJhY2tlciUyMG9uJTIwd3Jpc3QlMjBhZnRlciUyMG1vcm5pbmclMjB3YWxrfGVufDF8MHx8fDE3OTIwNzQ4Mzd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person using a smartwatch outdoors" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/a-person-using-a-smartwatch-outdoors-VO1EyoKe2Ck?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What pushes your heart rate up or down
 

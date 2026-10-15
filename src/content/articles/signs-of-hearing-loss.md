@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "older man cupping hand behind ear listening"
+cover:
+  url: "https://images.unsplash.com/photo-1667581285756-164ed4fb40de?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBjdXBwaW5nJTIwaGFuZCUyMGJlaGluZCUyMGVhciUyMGxpc3RlbmluZ3xlbnwxfDB8fHwxNzkyMDc0ODM4fDA&ixlib=rb-4.1.0"
+  alt: "A man with his hand on his face"
+  author: "Anthony Camerlo"
+  authorUrl: "https://unsplash.com/@anthonycamerlo?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-with-his-hand-on-his-face--tY8YmROeIM?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Hearing loss usually creeps in slowly, so other people often notice it first. Common clues are asking people to repeat themselves, turning the TV up, and struggling to follow talk in noisy places."
   - "Age-related hearing loss is very common. NIDCD reports that about one in three people in the U.S. between ages 65 and 74 has hearing loss."
@@ -118,7 +124,10 @@ The tricky part: it's easy to mistake for a stuffed ear from allergies, a cold, 
 
 Not sure if it's just a simple blockage? Our guide to a [clogged ear that won't pop](/brain-and-balance/clogged-ear-wont-pop/) helps you tell the difference.
 
-<!-- unsplash: audiologist hearing test headphones in clinic -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1781652458706-9576a77fa01a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YXVkaW9sb2dpc3QlMjBoZWFyaW5nJTIwdGVzdCUyMGhlYWRwaG9uZXMlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1781652458706-9576a77fa01a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YXVkaW9sb2dpc3QlMjBoZWFyaW5nJTIwdGVzdCUyMGhlYWRwaG9uZXMlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODM5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1781652458706-9576a77fa01a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YXVkaW9sb2dpc3QlMjBoZWFyaW5nJTIwdGVzdCUyMGhlYWRwaG9uZXMlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODM5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1781652458706-9576a77fa01a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8YXVkaW9sb2dpc3QlMjBoZWFyaW5nJTIwdGVzdCUyMGhlYWRwaG9uZXMlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="An audiologist helps a woman with a hearing test" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@mark0polo?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Mark Paton</a> on <a href="https://unsplash.com/photos/an-audiologist-helps-a-woman-with-a-hearing-test-Lp1jUhbmxxI?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How a hearing test works, step by step
 

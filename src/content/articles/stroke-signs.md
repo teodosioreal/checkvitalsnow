@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "older couple sitting together at kitchen table"
+cover:
+  url: "https://images.unsplash.com/photo-1791318554953-3b0cf0bb2992?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBjb3VwbGUlMjBzaXR0aW5nJTIwdG9nZXRoZXIlMjBhdCUyMGtpdGNoZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc0ODQyfDA&ixlib=rb-4.1.0"
+  alt: "A family of four gathered around a wooden dining table in a bright room"
+  author: "Jelly Marketing"
+  authorUrl: "https://unsplash.com/@jellymarketing?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/family-gathered-around-wooden-dining-table-Hsqpg-3yY0g?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "The main signs of a stroke come on suddenly: face drooping, arm or leg weakness, trouble speaking, vision problems, loss of balance, confusion, or a severe headache with no known cause."
   - "F.A.S.T. stands for Face drooping, Arm weakness, Speech difficulty, and Time to call 911. BE FAST adds Balance and Eyes."
@@ -85,7 +91,10 @@ A few practical points while you wait for help:
 - **Write down the person's medicines** if you can, or grab the bottles. Blood thinners are especially important to mention.
 - **Stay with them** and keep them comfortable, lying on one side if they are drowsy or vomiting.
 
-<!-- unsplash: paramedics helping older man into ambulance -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1780570348982-258a920d619b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFyYW1lZGljcyUyMGhlbHBpbmclMjBvbGRlciUyMG1hbiUyMGludG8lMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MjA3NDg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1780570348982-258a920d619b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFyYW1lZGljcyUyMGhlbHBpbmclMjBvbGRlciUyMG1hbiUyMGludG8lMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MjA3NDg0M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1780570348982-258a920d619b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFyYW1lZGljcyUyMGhlbHBpbmclMjBvbGRlciUyMG1hbiUyMGludG8lMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MjA3NDg0M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1780570348982-258a920d619b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGFyYW1lZGljcyUyMGhlbHBpbmclMjBvbGRlciUyMG1hbiUyMGludG8lMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MjA3NDg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Emergency medical worker beside ambulance, helicopter in background" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@jakeynarky?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Jacob Narkiewicz</a> on <a href="https://unsplash.com/photos/emergency-medical-worker-beside-ambulance-helicopter-in-background-VysFGVsTIBY?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## A "mini-stroke" is not a small problem
 

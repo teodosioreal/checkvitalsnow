@@ -104,3 +104,23 @@ memory-lapses-or-dementia | inline 1 | adult daughter talking with elderly mothe
 mens-health-screenings-by-age | cover | man talking with doctor during checkup | https://unsplash.com/photos/two-men-talking-W3Jl3jREpDY | two men talking
 mens-health-screenings-by-age | inline 1 | nurse taking blood pressure of middle-aged man | https://unsplash.com/photos/doctor-takes-elderly-patients-blood-pressure-96Eiu2AdZG0 | Doctor takes elderly patient's blood pressure
 peeing-at-night-men | cover | bedside alarm clock at night with glass of water | https://unsplash.com/photos/nightstand-with-a-lamp-clock-and-chargers-2kKThodpTvw | Nightstand with a lamp, clock, and chargers
+blood-pressure-readings-chart | inline | person sitting at table with blood pressure cuff on upper arm | NO RESULT
+clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
+peeing-at-night-men | inline 1 | man writing in notebook at kitchen table | https://unsplash.com/photos/man-reading-document-at-kitchen-table-with-coffee-4XBvbznJFno | Man reading document at kitchen table with coffee
+prostatitis-vs-enlarged-prostate | cover | man sitting on edge of bed holding lower back | https://unsplash.com/photos/a-man-sitting-on-top-of-a-bed-in-a-room-SVN3EhLHgsA | a man sitting on top of a bed in a room
+prostatitis-vs-enlarged-prostate | inline 1 | man talking with doctor in clinic office | https://unsplash.com/photos/a-man-sitting-at-a-desk-talking-to-another-man-XzHAcQoxngk | A man sitting at a desk talking to another man
+psa-test-results | cover | doctor reviewing lab results with male patient | https://unsplash.com/photos/medical-professionals-reviewing-brain-scan-5VkNa1LrS8A | Two medical professionals in white coats reviewing a brain scan on computer monitors
+psa-test-results | inline 1 | older man reading paperwork at kitchen table | https://unsplash.com/photos/man-reading-a-document-in-a-kitchen-8BuTwOlhLr0 | Man reading a document in a kitchen
+resting-heart-rate | cover | woman taking her pulse at wrist sitting on bed | https://unsplash.com/photos/a-woman-in-a-white-dress-lhhkbrfByAc | a woman in a white dress
+resting-heart-rate | inline 1 | person checking fitness tracker on wrist after morning walk | https://unsplash.com/photos/a-person-using-a-smartwatch-outdoors-VO1EyoKe2Ck | A person using a smartwatch outdoors
+signs-of-hearing-loss | cover | older man cupping hand behind ear listening | https://unsplash.com/photos/a-man-with-his-hand-on-his-face--tY8YmROeIM | a man with his hand on his face
+signs-of-hearing-loss | inline 1 | audiologist hearing test headphones in clinic | https://unsplash.com/photos/an-audiologist-helps-a-woman-with-a-hearing-test-Lp1jUhbmxxI | An audiologist helps a woman with a hearing test
+sleep-apnea-in-men | cover | man asleep in bed at night snoring | https://unsplash.com/photos/man-lying-on-bed-mjjM5DFEGaY | man lying on bed
+sleep-apnea-in-men | inline 1 | couple sleeping in bed at night | https://unsplash.com/photos/couple-sleeping-peacefully-in-bed-together-RuYpllIgXfg | Couple sleeping peacefully in bed together
+stroke-signs | cover | older couple sitting together at kitchen table | https://unsplash.com/photos/family-gathered-around-wooden-dining-table-Hsqpg-3yY0g | A family of four gathered around a wooden dining table in a bright room
+stroke-signs | inline 1 | paramedics helping older man into ambulance | https://unsplash.com/photos/emergency-medical-worker-beside-ambulance-helicopter-in-background-VysFGVsTIBY | Emergency medical worker beside ambulance, helicopter in background
+swollen-ankles-and-feet | cover | woman resting with feet up on sofa | https://unsplash.com/photos/a-woman-lying-on-a-sofa-with-legs-in-air-OAjLIjuuwX0 | A woman lying on a sofa with legs in air
+swollen-ankles-and-feet | inline 1 | person walking along beach at sunset with bare feet | https://unsplash.com/photos/person-in-black-pants-standing-on-beach-during-daytime-fWenUNuV6co | person in black pants standing on beach during daytime
+testicular-self-exam | cover | young man after shower in bathroom with towel | https://unsplash.com/photos/man-washing-shoulders-in-tiled-shower-KgAlOEhg5Ms | A man with dark hair washing his shoulders in a tiled shower
+testicular-self-exam | inline 1 | young man talking with male doctor in clinic | https://unsplash.com/photos/man-talking-to-doctor-with-mri-scan-on-laptop-Et63sp-Kvng | Man talking to doctor with mri scan on laptop
+vertigo-when-rolling-over | inline 1 | physical therapist guiding patient on exam table | https://unsplash.com/photos/a-man-getting-his-leg-examined-by-a-doctor-pbUWW-CBoqY | a man getting his leg examined by a doctor

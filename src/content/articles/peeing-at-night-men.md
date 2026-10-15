@@ -96,7 +96,10 @@ In obstructive sleep apnea, the airway repeatedly narrows or closes during sleep
 
 High blood sugar pulls extra water into the urine. NIDDK lists increased urination, including at night, along with increased thirst, as common symptoms of diabetes. A simple blood test can check.
 
-<!-- unsplash: man writing in notebook at kitchen table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758523418784-efd368723c42?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd3JpdGluZyUyMGluJTIwbm90ZWJvb2slMjBhdCUyMGtpdGNoZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc0ODMwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758523418784-efd368723c42?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd3JpdGluZyUyMGluJTIwbm90ZWJvb2slMjBhdCUyMGtpdGNoZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc0ODMwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758523418784-efd368723c42?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd3JpdGluZyUyMGluJTIwbm90ZWJvb2slMjBhdCUyMGtpdGNoZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc0ODMwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758523418784-efd368723c42?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwd3JpdGluZyUyMGluJTIwbm90ZWJvb2slMjBhdCUyMGtpdGNoZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc0ODMwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man reading document at kitchen table with coffee" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/man-reading-document-at-kitchen-table-with-coffee-4XBvbznJFno?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Your three-night bladder diary
 

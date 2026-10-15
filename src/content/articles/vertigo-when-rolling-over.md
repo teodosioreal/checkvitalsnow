@@ -103,7 +103,10 @@ Here's what to expect:
 
 The test can bring on a spell, which is unpleasant but brief. It's also what makes the diagnosis clear.
 
-<!-- unsplash: physical therapist guiding patient on exam table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBndWlkaW5nJTIwcGF0aWVudCUyMG9uJTIwZXhhbSUyMHRhYmxlfGVufDF8MHx8fDE3OTIwNzQ4NDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBndWlkaW5nJTIwcGF0aWVudCUyMG9uJTIwZXhhbSUyMHRhYmxlfGVufDF8MHx8fDE3OTIwNzQ4NDh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBndWlkaW5nJTIwcGF0aWVudCUyMG9uJTIwZXhhbSUyMHRhYmxlfGVufDF8MHx8fDE3OTIwNzQ4NDh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGh5c2ljYWwlMjB0aGVyYXBpc3QlMjBndWlkaW5nJTIwcGF0aWVudCUyMG9uJTIwZXhhbSUyMHRhYmxlfGVufDF8MHx8fDE3OTIwNzQ4NDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A man getting his leg examined by a doctor" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@relievemassage?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">yury kirillov</a> on <a href="https://unsplash.com/photos/a-man-getting-his-leg-examined-by-a-doctor-pbUWW-CBoqY?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How BPPV is treated: repositioning maneuvers
 

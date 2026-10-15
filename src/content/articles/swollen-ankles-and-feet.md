@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-11-04
 dateModified: 2026-11-04
 imageQuery: "woman resting with feet up on sofa"
+cover:
+  url: "https://images.unsplash.com/photo-1758273706271-50c453b7323b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZXN0aW5nJTIwd2l0aCUyMGZlZXQlMjB1cCUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzkyMDc0ODQ0fDA&ixlib=rb-4.1.0"
+  alt: "A woman lying on a sofa with legs in air"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-lying-on-a-sofa-with-legs-in-air-OAjLIjuuwX0?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Swelling in the feet, ankles, and lower legs (edema) is common and often comes from standing or sitting for long periods, hot weather, salty food, or pregnancy."
   - "Some medicines, including certain blood pressure drugs, steroids, and hormones, can cause ankle swelling."
@@ -89,7 +95,10 @@ MedlinePlus and Mayo Clinic note that some medicines can cause swelling in the l
 
 If your ankles started swelling after a new prescription, **don't stop the medicine on your own.** Call your doctor or pharmacist. There may be a different option or a simple adjustment.
 
-<!-- unsplash: person walking along beach at sunset with bare feet -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1622587334166-70f7b9802c23?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2Fsa2luZyUyMGFsb25nJTIwYmVhY2glMjBhdCUyMHN1bnNldCUyMHdpdGglMjBiYXJlJTIwZmVldHxlbnwxfDB8fHwxNzkyMDc0ODQ1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1622587334166-70f7b9802c23?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2Fsa2luZyUyMGFsb25nJTIwYmVhY2glMjBhdCUyMHN1bnNldCUyMHdpdGglMjBiYXJlJTIwZmVldHxlbnwxfDB8fHwxNzkyMDc0ODQ1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1622587334166-70f7b9802c23?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2Fsa2luZyUyMGFsb25nJTIwYmVhY2glMjBhdCUyMHN1bnNldCUyMHdpdGglMjBiYXJlJTIwZmVldHxlbnwxfDB8fHwxNzkyMDc0ODQ1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1622587334166-70f7b9802c23?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2Fsa2luZyUyMGFsb25nJTIwYmVhY2glMjBhdCUyMHN1bnNldCUyMHdpdGglMjBiYXJlJTIwZmVldHxlbnwxfDB8fHwxNzkyMDc0ODQ1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Person in black pants standing on beach during daytime" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@meltotheissa?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Melissa Farnsworth</a> on <a href="https://unsplash.com/photos/person-in-black-pants-standing-on-beach-during-daytime-fWenUNuV6co?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## When swollen ankles point to the heart, kidneys, liver, or veins
 

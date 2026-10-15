@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-29
 dateModified: 2026-10-29
 imageQuery: "man asleep in bed at night snoring"
+cover:
+  url: "https://images.unsplash.com/flagged/photo-1555697752-da25a4b1025b?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwYXNsZWVwJTIwaW4lMjBiZWQlMjBhdCUyMG5pZ2h0JTIwc25vcmluZ3xlbnwxfDB8fHwxNzkyMDc0ODQwfDA&ixlib=rb-4.1.0"
+  alt: "Man lying on bed"
+  author: "Tânia Mousinho"
+  authorUrl: "https://unsplash.com/@shotsbytania?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-lying-on-bed-mjjM5DFEGaY?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "The most common sleep apnea symptoms in men are loud snoring, pauses in breathing followed by gasping or choking, and feeling sleepy during the day even after a full night in bed."
   - "Many men learn about the problem from a partner or roommate, because the breathing pauses happen while you are asleep."
@@ -102,7 +108,10 @@ If you sleep alone, a phone voice-recording app left running for the first hour 
 
 Clinicians often use short screening questionnaires to decide who needs a sleep study. One widely used type asks about snoring, tiredness, whether anyone has seen you stop breathing, blood pressure, body weight, age, neck size, and sex. Each "yes" raises the likelihood of sleep apnea. You don't need to score yourself. If your checklist shows several of these, that's reason enough to book a visit.
 
-<!-- unsplash: couple sleeping in bed at night -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758524941065-7d1182f5497f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGF0JTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA3NDg0MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758524941065-7d1182f5497f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGF0JTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA3NDg0MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758524941065-7d1182f5497f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGF0JTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA3NDg0MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758524941065-7d1182f5497f?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGF0JTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA3NDg0MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Couple sleeping peacefully in bed together" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/couple-sleeping-peacefully-in-bed-together-RuYpllIgXfg?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## How sleep studies for apnea work
 

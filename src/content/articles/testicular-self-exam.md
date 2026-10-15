@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-11-01
 dateModified: 2026-11-01
 imageQuery: "young man after shower in bathroom with towel"
+cover:
+  url: "https://images.unsplash.com/photo-1787724778241-edb4f6fa7708?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8eW91bmclMjBtYW4lMjBhZnRlciUyMHNob3dlciUyMGluJTIwYmF0aHJvb20lMjB3aXRoJTIwdG93ZWx8ZW58MXwwfHx8MTc5MjA3NDg0Nnww&ixlib=rb-4.1.0"
+  alt: "A man with dark hair washing his shoulders in a tiled shower"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-washing-shoulders-in-tiled-shower-KgAlOEhg5Ms?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "A testicular self-exam takes a few minutes and is easiest after a warm shower, when the skin of the scrotum is relaxed."
   - "Testicular cancer is uncommon, but the National Cancer Institute notes it is the most common cancer in men ages 15 to 35, and it can usually be cured."
@@ -93,7 +99,10 @@ A short note on your phone helps you track what you find, especially if you noti
 | Example: Jun 2 | Smooth, normal | Small firm spot on lower front | Yes, first time noticed | Called doctor, appointment Jun 6 |
 | | | | | |
 
-<!-- unsplash: young man talking with male doctor in clinic -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758691463165-ca9b5bc2b28a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8eW91bmclMjBtYW4lMjB0YWxraW5nJTIwd2l0aCUyMG1hbGUlMjBkb2N0b3IlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODQ2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758691463165-ca9b5bc2b28a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8eW91bmclMjBtYW4lMjB0YWxraW5nJTIwd2l0aCUyMG1hbGUlMjBkb2N0b3IlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODQ2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758691463165-ca9b5bc2b28a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8eW91bmclMjBtYW4lMjB0YWxraW5nJTIwd2l0aCUyMG1hbGUlMjBkb2N0b3IlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODQ2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758691463165-ca9b5bc2b28a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8eW91bmclMjBtYW4lMjB0YWxraW5nJTIwd2l0aCUyMG1hbGUlMjBkb2N0b3IlMjBpbiUyMGNsaW5pY3xlbnwxfDB8fHwxNzkyMDc0ODQ2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man talking to doctor with mri scan on laptop" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/man-talking-to-doctor-with-mri-scan-on-laptop-Et63sp-Kvng?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lump on a testicle: possible causes and next steps
 

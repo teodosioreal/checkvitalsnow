@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-24
 dateModified: 2026-10-24
 imageQuery: "man sitting on edge of bed holding lower back"
+cover:
+  url: "https://images.unsplash.com/photo-1637095149475-1b5b1e1b3571?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwaG9sZGluZyUyMGxvd2VyJTIwYmFja3xlbnwxfDB8fHwxNzkyMDc0ODMwfDA&ixlib=rb-4.1.0"
+  alt: "A man sitting on top of a bed in a room"
+  author: "Alvaro Palacios"
+  authorUrl: "https://unsplash.com/@xapalacioscx?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-sitting-on-top-of-a-bed-in-a-room-SVN3EhLHgsA?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Prostatitis is inflammation or infection of the prostate. An enlarged prostate (BPH) is non-cancerous growth. They can cause similar urinary symptoms, but pain and fever point more toward prostatitis."
   - "NIDDK describes four types of prostatitis. The most common is chronic prostatitis/chronic pelvic pain syndrome, which often has no infection behind it."
@@ -101,7 +107,10 @@ Many men with chronic prostatitis spend months describing their pain as "down th
 
 Pain in these places isn't always the prostate. Hernias, kidney stones, and muscle strain can feel similar, so the location is a clue, not an answer.
 
-<!-- unsplash: man talking with doctor in clinic office -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1739285452629-2672b13fa42d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwdGFsa2luZyUyMHdpdGglMjBkb2N0b3IlMjBpbiUyMGNsaW5pYyUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc0ODMxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1739285452629-2672b13fa42d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwdGFsa2luZyUyMHdpdGglMjBkb2N0b3IlMjBpbiUyMGNsaW5pYyUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc0ODMxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1739285452629-2672b13fa42d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwdGFsa2luZyUyMHdpdGglMjBkb2N0b3IlMjBpbiUyMGNsaW5pYyUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc0ODMxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1739285452629-2672b13fa42d?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwdGFsa2luZyUyMHdpdGglMjBkb2N0b3IlMjBpbiUyMGNsaW5pYyUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc0ODMxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A man sitting at a desk talking to another man" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@ninthgrid_?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Ninthgrid</a> on <a href="https://unsplash.com/photos/a-man-sitting-at-a-desk-talking-to-another-man-XzHAcQoxngk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Prostatitis symptom log to bring to your appointment
 

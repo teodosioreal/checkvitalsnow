@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "doctor reviewing lab results with male patient"
+cover:
+  url: "https://images.unsplash.com/photo-1666214277657-e60f05c40b04?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwcmV2aWV3aW5nJTIwbGFiJTIwcmVzdWx0cyUyMHdpdGglMjBtYWxlJTIwcGF0aWVudHxlbnwxfDB8fHwxNzkyMDc0ODMzfDA&ixlib=rb-4.1.0"
+  alt: "Two medical professionals in white coats reviewing a brain scan on computer monitors"
+  author: "Accuray"
+  authorUrl: "https://unsplash.com/@accuray?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/medical-professionals-reviewing-brain-scan-5VkNa1LrS8A?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "PSA is a protein made by the prostate. A blood test measures how much is in your blood."
   - "The National Cancer Institute says there is no specific normal or abnormal PSA level. Some men with low PSA have prostate cancer, and many men with higher PSA do not."
@@ -82,7 +88,10 @@ NCI lists several things that can raise PSA. Others can push it down. Knowing th
 
 Labs and doctors sometimes give instructions about what to avoid in the day or two before a PSA test, such as ejaculation or long, vigorous exercise like cycling. Instructions vary, so ask your doctor or the lab what applies to you rather than guessing.
 
-<!-- unsplash: older man reading paperwork at kitchen table -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758523418853-472edc00ab63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjByZWFkaW5nJTIwcGFwZXJ3b3JrJTIwYXQlMjBraXRjaGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjA3NDgzNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758523418853-472edc00ab63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjByZWFkaW5nJTIwcGFwZXJ3b3JrJTIwYXQlMjBraXRjaGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjA3NDgzNXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758523418853-472edc00ab63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjByZWFkaW5nJTIwcGFwZXJ3b3JrJTIwYXQlMjBraXRjaGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjA3NDgzNXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758523418853-472edc00ab63?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjByZWFkaW5nJTIwcGFwZXJ3b3JrJTIwYXQlMjBraXRjaGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjA3NDgzNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man reading a document in a kitchen" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/man-reading-a-document-in-a-kitchen-8BuTwOlhLr0?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Who should consider PSA screening: the USPSTF view
 
