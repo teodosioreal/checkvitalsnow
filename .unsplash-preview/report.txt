@@ -138,3 +138,5 @@ stress-relief-for-men | cover | man walking alone on forest trail | https://unsp
 stress-relief-for-men | inline 1 | man doing breathing exercise sitting on porch | https://unsplash.com/photos/man-in-white-crew-neck-t-shirt-and-blue-denim-jeans-sitting-on-brown-wooden-armchair-yyhXGP8AwRw | man in white crew neck t-shirt and blue denim jeans sitting on brown wooden armchair
 walking-for-heart-health | cover | older woman walking briskly on a park path in sneakers | https://unsplash.com/photos/woman-walking-down-a-park-path-surrounded-by-trees-GHhTHJn9UrA | Woman walking down a park path surrounded by trees
 walking-for-heart-health | inline 1 | pair of walking sneakers on a sidewalk | https://unsplash.com/photos/a-persons-feet-wearing-brown-and-white-tennis-shoes-_D5aCBa1ygo | a person's feet wearing brown and white tennis shoes
+blood-pressure-readings-chart | inline | person sitting at table with blood pressure cuff on upper arm | NO RESULT
+clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
