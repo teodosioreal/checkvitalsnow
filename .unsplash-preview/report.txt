@@ -140,3 +140,5 @@ walking-for-heart-health | cover | older woman walking briskly on a park path in
 walking-for-heart-health | inline 1 | pair of walking sneakers on a sidewalk | https://unsplash.com/photos/a-persons-feet-wearing-brown-and-white-tennis-shoes-_D5aCBa1ygo | a person's feet wearing brown and white tennis shoes
 blood-pressure-readings-chart | inline | person sitting at table with blood pressure cuff on upper arm | NO RESULT
 clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
+blood-pressure-readings-chart | inline | person sitting at table with blood pressure cuff on upper arm | NO RESULT
+clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
