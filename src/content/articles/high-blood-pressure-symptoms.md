@@ -101,10 +101,7 @@ These can be signs of damage to organs happening right now. Don't wait to see if
 
 Some of these signs overlap with a heart attack and a stroke. It helps to know those well too: see our guides to [heart attack warning signs](/heart-health/heart-attack-warning-signs/) and [stroke signs](/heart-health/stroke-signs/).
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1758612897350-3a00876f2a35?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBtZWFzdXJpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwd2l0aCUyMGFybSUyMGN1ZmYlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758612897350-3a00876f2a35?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBtZWFzdXJpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwd2l0aCUyMGFybSUyMGN1ZmYlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758612897350-3a00876f2a35?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBtZWFzdXJpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwd2l0aCUyMGFybSUyMGN1ZmYlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758612897350-3a00876f2a35?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBtZWFzdXJpbmclMjBibG9vZCUyMHByZXNzdXJlJTIwd2l0aCUyMGFybSUyMGN1ZmYlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5MTkyMzYzMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Elderly man playing video games on couch" loading="lazy" decoding="async">
-<figcaption>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/elderly-man-playing-video-games-on-couch-imESXtOSpN8?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: blood pressure measurement -->
 
 ## Who is most at risk for high blood pressure
 

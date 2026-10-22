@@ -14,7 +14,7 @@ secondaryKeywords:
   - "how to talk to a parent about memory loss"
 datePublished: 2026-11-03
 dateModified: 2026-11-03
-imageQuery: "older woman writing in notebook at kitchen table"
+imageQuery: "senior woman reading book"
 keyTakeaways:
   - "Some forgetfulness is a normal part of aging, like briefly forgetting a name or misplacing your glasses now and then. Dementia is different: memory and thinking problems get in the way of everyday life."
   - "The National Institute on Aging contrasts occasional slips, such as missing one monthly payment, with ongoing trouble, such as being unable to manage monthly bills."

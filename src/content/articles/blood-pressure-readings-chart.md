@@ -13,13 +13,7 @@ secondaryKeywords:
   - "how to take blood pressure at home"
 datePublished: 2026-10-25
 dateModified: 2026-10-25
-imageQuery: "digital blood pressure monitor on wooden table"
-cover:
-  url: "https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGJsb29kJTIwcHJlc3N1cmUlMjBtb25pdG9yJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzkxOTIzNjIzfDA&ixlib=rb-4.1.0"
-  alt: "A wooden table with a knife and fork on it"
-  author: "Brina Blum"
-  authorUrl: "https://unsplash.com/@brina_blum?utm_source=checkvitalsnow&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U?utm_source=checkvitalsnow&utm_medium=referral"
+imageQuery: "blood pressure monitor"
 keyTakeaways:
   - "A blood pressure reading has two numbers: systolic (top), the pressure when your heart beats, and diastolic (bottom), the pressure between beats."
   - "The American Heart Association lists normal blood pressure as less than 120 systolic and less than 80 diastolic."
@@ -94,7 +88,7 @@ This table is a general starting point, not a diagnosis. Your doctor will weigh 
 
 Lifestyle changes that health agencies recommend are covered in our guide on [how to lower blood pressure](/heart-health/how-to-lower-blood-pressure/).
 
-<!-- unsplash: person sitting at table with blood pressure cuff on upper arm -->
+<!-- unsplash: nurse checking blood pressure -->
 
 ## Why one blood pressure reading isn't a diagnosis
 

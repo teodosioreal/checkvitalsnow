@@ -13,13 +13,7 @@ secondaryKeywords:
   - "water intake in hot weather"
 datePublished: 2026-10-28
 dateModified: 2026-10-28
-imageQuery: "man drinking glass of water in kitchen"
-cover:
-  url: "https://images.unsplash.com/photo-1758522489023-d95ecf789fe0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwZHJpbmtpbmclMjBnbGFzcyUyMG9mJTIwd2F0ZXIlMjBpbiUyMGtpdGNoZW58ZW58MXwwfHx8MTc5MjA5NTE5NXww&ixlib=rb-4.1.0"
-  alt: "Man smiling while holding coffee and phone in kitchen"
-  author: "Vitaly Gariev"
-  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/man-smiling-while-holding-coffee-and-phone-in-kitchen-w6CqGUuD_q8?utm_source=checkvitalsnow&utm_medium=referral"
+imageQuery: "glass of water"
 keyTakeaways:
   - "There's no single water rule for every man. Your needs change with heat, activity, health, and diet."
   - "Mayo Clinic reports a general total fluid guideline for men of about 15.5 cups (3.7 liters) a day, counting all drinks and the water in food."

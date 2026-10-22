@@ -101,7 +101,7 @@ Mayo Clinic explains that earwax is normal and protective, and ears usually clea
 - **Don't use drops or water rinses** if you have, or might have, a hole in your eardrum, ear tubes, or past ear surgery, or if your ear hurts or is draining. Ask a doctor first.
 - **A clinician can remove it** with tools, suction, or gentle rinsing if home steps don't help. This is quick and usually comfortable.
 
-<!-- unsplash: person holding cotton swabs bathroom counter -->
+<!-- unsplash: woman touching ear -->
 
 ## What to stop doing to a clogged ear
 

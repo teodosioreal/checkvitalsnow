@@ -14,7 +14,7 @@ secondaryKeywords:
   - "does BPPV come back"
 datePublished: 2026-11-02
 dateModified: 2026-11-02
-imageQuery: "man sitting on edge of bed in morning light"
+imageQuery: "man sitting on bed holding head"
 keyTakeaways:
   - "Short spinning spells when you roll over in bed, lie down, sit up, or look up are a classic sign of benign paroxysmal positional vertigo (BPPV), one of the most common causes of vertigo."
   - "BPPV happens when tiny calcium crystals in the inner ear drift into one of the balance canals. Moving your head makes them shift, and your brain reads that as spinning."
