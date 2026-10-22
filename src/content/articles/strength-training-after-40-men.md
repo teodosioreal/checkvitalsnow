@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "man lifting dumbbell"
+cover:
+  url: "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bWFuJTIwbGlmdGluZyUyMGR1bWJiZWxsfGVufDF8MHx8fDE3OTI2OTUwNDR8MA&ixlib=rb-4.1.0"
+  alt: "Topless man in black shorts carrying black dumbbell"
+  author: "Anastase Maragos"
+  authorUrl: "https://unsplash.com/@visualsbyroyalz?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Muscle mass tends to decline with age, and strength training is one of the most direct ways to help keep it."
   - "The CDC advises adults to do muscle-strengthening activity on at least two days a week, working all the major muscle groups."
@@ -103,7 +109,10 @@ A notebook or phone note keeps you honest and shows progress you might not feel 
 | Example: Mon, Nov 2 | Day A | One-arm row | 15 lb | 15 x 1 | Right. Last 3 reps were hard |
 | | | | | | |
 
-<!-- unsplash: push up exercise -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cHVzaCUyMHVwJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MjY5NTA0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cHVzaCUyMHVwJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MjY5NTA0NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cHVzaCUyMHVwJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MjY5NTA0NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1598971457999-ca4ef48a9a71?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8cHVzaCUyMHVwJTIwZXhlcmNpc2V8ZW58MXwwfHx8MTc5MjY5NTA0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Man in red tank top and black shorts doing push up on the street" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@gcowie?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Gordon Cowie</a> on <a href="https://unsplash.com/photos/man-in-red-tank-top-and-black-shorts-doing-push-up-on-the-street-ISg1JhN_vFk?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Form and recovery rules for lifting after 40
 

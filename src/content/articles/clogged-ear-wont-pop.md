@@ -101,7 +101,10 @@ Mayo Clinic explains that earwax is normal and protective, and ears usually clea
 - **Don't use drops or water rinses** if you have, or might have, a hole in your eardrum, ear tubes, or past ear surgery, or if your ear hurts or is draining. Ask a doctor first.
 - **A clinician can remove it** with tools, suction, or gentle rinsing if home steps don't help. This is quick and usually comfortable.
 
-<!-- unsplash: woman touching ear -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1576631392656-21461cc9e5a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0b3VjaGluZyUyMGVhcnxlbnwxfDB8fHwxNzkyNjk1MDM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1576631392656-21461cc9e5a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0b3VjaGluZyUyMGVhcnxlbnwxfDB8fHwxNzkyNjk1MDM5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1576631392656-21461cc9e5a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0b3VjaGluZyUyMGVhcnxlbnwxfDB8fHwxNzkyNjk1MDM5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1576631392656-21461cc9e5a4?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0b3VjaGluZyUyMGVhcnxlbnwxfDB8fHwxNzkyNjk1MDM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Woman in white sweater" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@lgnwvr?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">LOGAN WEAVER | @LGNWVR</a> on <a href="https://unsplash.com/photos/woman-in-white-sweater-VPJV9saXjF4?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## What to stop doing to a clogged ear
 

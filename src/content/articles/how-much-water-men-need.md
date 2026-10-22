@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-28
 dateModified: 2026-10-28
 imageQuery: "glass of water"
+cover:
+  url: "https://images.unsplash.com/photo-1624948465027-6f9b51067557?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyfGVufDF8MHx8fDE3OTI2OTUwNDF8MA&ixlib=rb-4.1.0"
+  alt: "Person holding clear drinking glass"
+  author: "engin akyurt"
+  authorUrl: "https://unsplash.com/@enginakyurt?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-holding-clear-drinking-glass-PCpoG06fcUI?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "There's no single water rule for every man. Your needs change with heat, activity, health, and diet."
   - "Mayo Clinic reports a general total fluid guideline for men of about 15.5 cups (3.7 liters) a day, counting all drinks and the water in food."

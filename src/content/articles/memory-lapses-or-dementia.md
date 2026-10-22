@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-11-03
 dateModified: 2026-11-03
 imageQuery: "senior woman reading book"
+cover:
+  url: "https://images.unsplash.com/photo-1758691031958-29541f3207a5?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjByZWFkaW5nJTIwYm9va3xlbnwxfDB8fHwxNzkyNjk1MDQxfDA&ixlib=rb-4.1.0"
+  alt: "Elderly woman reading a book on a couch"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/elderly-woman-reading-a-book-on-a-couch-zuLrqcc4Hu0?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Some forgetfulness is a normal part of aging, like briefly forgetting a name or misplacing your glasses now and then. Dementia is different: memory and thinking problems get in the way of everyday life."
   - "The National Institute on Aging contrasts occasional slips, such as missing one monthly payment, with ongoing trouble, such as being unable to manage monthly bills."

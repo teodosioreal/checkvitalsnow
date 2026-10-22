@@ -15,6 +15,12 @@ secondaryKeywords:
 datePublished: 2026-11-02
 dateModified: 2026-11-02
 imageQuery: "man sitting on bed holding head"
+cover:
+  url: "https://images.unsplash.com/photo-1637447055569-ef5d5a9a015a?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8Mnx8bWFuJTIwc2l0dGluZyUyMG9uJTIwYmVkJTIwaG9sZGluZyUyMGhlYWR8ZW58MXwwfHx8MTc5MjY5NTA0Nnww&ixlib=rb-4.1.0"
+  alt: "A man sitting on top of a bed next to a dresser"
+  author: "@felirbe"
+  authorUrl: "https://unsplash.com/@felirbe?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-sitting-on-top-of-a-bed-next-to-a-dresser-r9RD31BGVro?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Short spinning spells when you roll over in bed, lie down, sit up, or look up are a classic sign of benign paroxysmal positional vertigo (BPPV), one of the most common causes of vertigo."
   - "BPPV happens when tiny calcium crystals in the inner ear drift into one of the balance canals. Moving your head makes them shift, and your brain reads that as spinning."

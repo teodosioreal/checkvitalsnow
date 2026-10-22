@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "office worker stretching at desk"
+cover:
+  url: "https://images.unsplash.com/photo-1758611971431-c876c0a21346?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8b2ZmaWNlJTIwd29ya2VyJTIwc3RyZXRjaGluZyUyMGF0JTIwZGVza3xlbnwxfDB8fHwxNzkyNjk1MDQyfDA&ixlib=rb-4.1.0"
+  alt: "Man celebrating success while working on laptop at home"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-celebrating-success-while-working-on-laptop-at-home-07mA-tEIJ6A?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "Research has linked long periods of sitting with health concerns such as higher blood pressure, high blood sugar, extra fat around the waist, and unhealthy cholesterol levels."
   - "The CDC and the American Heart Association advise adults to move more and sit less, in addition to regular exercise."

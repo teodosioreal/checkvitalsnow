@@ -14,6 +14,12 @@ secondaryKeywords:
 datePublished: 2026-10-25
 dateModified: 2026-10-25
 imageQuery: "blood pressure monitor"
+cover:
+  url: "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBwcmVzc3VyZSUyMG1vbml0b3J8ZW58MXwwfHx8MTc5MjY5NTAzNnww&ixlib=rb-4.1.0"
+  alt: "A person using a digital blood pressure monitor with a grey cuff on their arm"
+  author: "Mockup Graphics"
+  authorUrl: "https://unsplash.com/@mockupgraphics?utm_source=checkvitalsnow&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/blood-pressure-monitor-with-grey-cuff-i1iqQRLULlg?utm_source=checkvitalsnow&utm_medium=referral"
 keyTakeaways:
   - "A blood pressure reading has two numbers: systolic (top), the pressure when your heart beats, and diastolic (bottom), the pressure between beats."
   - "The American Heart Association lists normal blood pressure as less than 120 systolic and less than 80 diastolic."
@@ -88,7 +94,10 @@ This table is a general starting point, not a diagnosis. Your doctor will weigh 
 
 Lifestyle changes that health agencies recommend are covered in our guide on [how to lower blood pressure](/heart-health/how-to-lower-blood-pressure/).
 
-<!-- unsplash: nurse checking blood pressure -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1725870953863-4ad4db0acfc2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjBjaGVja2luZyUyMGJsb29kJTIwcHJlc3N1cmV8ZW58MXwwfHx8MTc5MjY5NTAzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1725870953863-4ad4db0acfc2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjBjaGVja2luZyUyMGJsb29kJTIwcHJlc3N1cmV8ZW58MXwwfHx8MTc5MjY5NTAzN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1725870953863-4ad4db0acfc2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjBjaGVja2luZyUyMGJsb29kJTIwcHJlc3N1cmV8ZW58MXwwfHx8MTc5MjY5NTAzN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1725870953863-4ad4db0acfc2?ixid=M3wxMTAwMjQzfDB8MXxzZWFyY2h8MXx8bnVyc2UlMjBjaGVja2luZyUyMGJsb29kJTIwcHJlc3N1cmV8ZW58MXwwfHx8MTc5MjY5NTAzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="A person with a blood pressure device in their hand" loading="lazy" decoding="async">
+<figcaption>Photo by <a href="https://unsplash.com/@justmejuliee?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Julia Taubitz</a> on <a href="https://unsplash.com/photos/a-person-with-a-blood-pressure-device-in-their-hand-vN5s_G5SPkY?utm_source=checkvitalsnow&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Why one blood pressure reading isn't a diagnosis
 

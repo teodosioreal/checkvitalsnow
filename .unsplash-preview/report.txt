@@ -142,3 +142,13 @@ blood-pressure-readings-chart | inline | person sitting at table with blood pres
 clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
 blood-pressure-readings-chart | inline | person sitting at table with blood pressure cuff on upper arm | NO RESULT
 clogged-ear-wont-pop | inline | person holding cotton swabs bathroom counter | NO RESULT
+blood-pressure-readings-chart | cover | blood pressure monitor | https://unsplash.com/photos/blood-pressure-monitor-with-grey-cuff-i1iqQRLULlg | A person using a digital blood pressure monitor with a grey cuff on their arm
+blood-pressure-readings-chart | inline 1 | nurse checking blood pressure | https://unsplash.com/photos/a-person-with-a-blood-pressure-device-in-their-hand-vN5s_G5SPkY | A person with a blood pressure device in their hand
+clogged-ear-wont-pop | inline 1 | woman touching ear | https://unsplash.com/photos/woman-in-white-sweater-VPJV9saXjF4 | woman in white sweater
+high-blood-pressure-symptoms | inline 1 | blood pressure measurement | https://unsplash.com/photos/a-person-with-a-blood-pressure-meter-on-a-table-J0benOYAPbw | a person with a blood pressure meter on a table
+how-much-water-men-need | cover | glass of water | https://unsplash.com/photos/person-holding-clear-drinking-glass-PCpoG06fcUI | person holding clear drinking glass
+memory-lapses-or-dementia | cover | senior woman reading book | https://unsplash.com/photos/elderly-woman-reading-a-book-on-a-couch-zuLrqcc4Hu0 | Elderly woman reading a book on a couch
+sitting-too-much-health-risks | cover | office worker stretching at desk | https://unsplash.com/photos/man-celebrating-success-while-working-on-laptop-at-home-07mA-tEIJ6A | Man celebrating success while working on laptop at home
+strength-training-after-40-men | cover | man lifting dumbbell | https://unsplash.com/photos/topless-man-in-black-shorts-carrying-black-dumbbell-7kEpUPB8vNk | topless man in black shorts carrying black dumbbell
+strength-training-after-40-men | inline 1 | push up exercise | https://unsplash.com/photos/man-in-red-tank-top-and-black-shorts-doing-push-up-on-the-street-ISg1JhN_vFk | man in red tank top and black shorts doing push up on the street
+vertigo-when-rolling-over | cover | man sitting on bed holding head | https://unsplash.com/photos/a-man-sitting-on-top-of-a-bed-next-to-a-dresser-r9RD31BGVro | a man sitting on top of a bed next to a dresser
