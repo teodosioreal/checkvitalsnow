@@ -22,6 +22,17 @@ async function hostCheck(url) {
 log('## Hosts and duplicates');
 for (const u of [SITE + '/', 'https://www.checkvitalsnow.com/', 'http://checkvitalsnow.com/', 'https://checkvitalsnow.pages.dev/']) await hostCheck(u);
 
+log('\n## Server headers (home)');
+{
+  const r = await get(SITE + '/', 'manual');
+  for (const h of ['server', 'x-powered-by', 'platform', 'panel', 'x-hcdn-request-id', 'x-hcdn-cache-status', 'cf-ray', 'x-litespeed-cache', 'via'])
+    if (r.headers.get(h)) log(`- ${h}: ${r.headers.get(h)}`);
+}
+log('\n## Old URL redirects (public/_redirects)');
+for (const p of ['/sitemap.xml', '/femipro-review-scam-or-legit-femipro-full-review/', '/go/test']) await hostCheck(SITE + p);
+log('\n## Comments API');
+await hostCheck(SITE + '/api/comments?path=/womens-health/kegel-exercises-for-women/');
+
 log('\n## robots.txt');
 log('```\n' + (await (await get(SITE + '/robots.txt')).text()).trim() + '\n```');
 
