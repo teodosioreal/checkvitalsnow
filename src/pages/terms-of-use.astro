@@ -1,6 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import { site } from '../data/site';
+import { site, comments } from '../data/site';
 import { owner } from '../data/owner.mjs';
 ---
 
@@ -41,6 +41,9 @@ import { owner } from '../data/owner.mjs';
     organizations mentioned on the site belong to their respective owners.
   </p>
 
+  {
+    comments.turnstileSiteKey && (
+      <>
   <h2>Comments</h2>
   <p>
     You can comment on our guides. Every comment is reviewed before it appears, and we may edit out personal details or
@@ -48,6 +51,10 @@ import { owner } from '../data/owner.mjs';
     hateful, harassing, or misleading. Comments from readers are their own views, not medical advice and not the views
     of {site.name}. By posting, you give us permission to show your comment on the site.
   </p>
+
+      </>
+    )
+  }
 
   <h2>Acceptable use</h2>
   <p>

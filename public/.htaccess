@@ -1,0 +1,17 @@
+# Hostinger (LiteSpeed/Apache) rules. Same redirects as public/_redirects (Cloudflare format, kept for reference).
+RewriteEngine On
+
+# One address for the whole site: www → no www, always https.
+RewriteCond %{HTTP_HOST} ^www\.checkvitalsnow\.com$ [NC]
+RewriteRule ^(.*)$ https://checkvitalsnow.com/$1 [R=301,L]
+
+# Old WordPress sitemap URLs
+RewriteRule ^(sitemap|sitemap_index|wp-sitemap|page-sitemap|post-sitemap)\.xml$ /sitemap-index.xml [R=301,L]
+
+# Product reviews and lists removed (site is now informational only)
+RewriteRule ^femipro-review-scam-or-legit-femipro-full-review/?$ /womens-health/ [R=301,L]
+RewriteRule ^best/bladder-supplements-for-women/?$ /womens-health/ [R=301,L]
+RewriteRule ^nervecalm-scam-or-legit-nervecalm-full-review(-canada)?/?$ / [R=301,L]
+RewriteRule ^arialief-review-arialief-scam-or-legit-arialief-full-review/?$ / [R=301,L]
+RewriteRule ^kerafen-scam-or-legit-kerafen-full-review/?$ / [R=301,L]
+RewriteRule ^go/ / [R=302,L]

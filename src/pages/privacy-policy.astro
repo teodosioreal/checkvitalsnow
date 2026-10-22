@@ -1,6 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import { site } from '../data/site';
+import { site, comments } from '../data/site';
 import { owner } from '../data/owner.mjs';
 ---
 
@@ -16,7 +16,7 @@ import { owner } from '../data/owner.mjs';
 
   <h2>The short version</h2>
   <ul>
-    <li>We do not ask you to create an account. If you leave a comment, we store only the name and comment you type.</li>
+    <li>We do not ask you to create an account{comments.turnstileSiteKey ? '. If you leave a comment, we store only the name and comment you type.' : ', and the site has no sign-up forms.'}</li>
     <li>We use Google AdSense to show ads. Google and its partners may use cookies to show ads based on your visits to this and other websites.</li>
     <li>You can turn off personalized ads at any time (see "Advertising" below).</li>
     <li>Websites we link to have their own privacy policies.</li>
@@ -29,6 +29,9 @@ import { owner } from '../data/owner.mjs';
     you visit, such as your IP address, browser type, the page you requested, and the date and time. This is needed to
     deliver pages, keep the site secure, and prevent abuse. We do not use this data to identify you.
   </p>
+  {
+    comments.turnstileSiteKey && (
+      <>
   <h3>Comments</h3>
   <p>
     If you post a comment on a guide, we store the first name and comment you enter, the page, and the date. Comments
@@ -41,6 +44,9 @@ import { owner } from '../data/owner.mjs';
     technical data from your browser for this check, as described in
     <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener" target="_blank">Cloudflare's privacy policy</a>.
   </p>
+      </>
+    )
+  }
   <h3>Messages you send us</h3>
   <p>
     If you email us, we receive your email address and whatever you choose to write. We use it only to reply to you and
@@ -89,7 +95,7 @@ import { owner } from '../data/owner.mjs';
   <ul>
     <li>To deliver and secure the website</li>
     <li>To answer messages and correct errors</li>
-    <li>To review, publish, and protect comments from spam and abuse</li>
+    {comments.turnstileSiteKey && <li>To review, publish, and protect comments from spam and abuse</li>}
     <li>To comply with legal obligations</li>
   </ul>
 
