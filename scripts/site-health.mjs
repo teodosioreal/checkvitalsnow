@@ -19,7 +19,20 @@ async function hostCheck(url) {
   }
 }
 
-log('## Hosts and duplicates');
+log('## Browser vs Googlebot user agent');
+const BROWSER = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
+for (const p of ['/', '/robots.txt', '/womens-health/']) {
+  for (const [label, ua] of [['browser', BROWSER], ['googlebot', UA]]) {
+    try {
+      const r = await fetch(SITE + p, { headers: { 'user-agent': ua }, redirect: 'manual' });
+      log(`- ${p} as ${label} → ${r.status}`);
+    } catch (e) {
+      log(`- ${p} as ${label} → error ${e.message}`);
+    }
+  }
+}
+
+log('\n## Hosts and duplicates');
 for (const u of [SITE + '/', 'https://www.checkvitalsnow.com/', 'http://checkvitalsnow.com/', 'https://checkvitalsnow.pages.dev/']) await hostCheck(u);
 
 log('\n## Server headers (home)');
