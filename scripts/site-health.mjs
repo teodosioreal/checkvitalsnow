@@ -8,7 +8,8 @@ const UA = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.h
 const lines = [];
 const log = (s) => (console.log(s), lines.push(s));
 
-const get = (url, redirect = 'follow') => fetch(url, { headers: { 'user-agent': UA }, redirect });
+// Hostinger's CDN refuses a Googlebot user agent from non-Google IPs (anti-spoofing), so page checks use a browser UA.
+const get = (url, redirect = 'follow') => fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36' }, redirect });
 
 async function hostCheck(url) {
   try {
